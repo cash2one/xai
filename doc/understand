@@ -1,0 +1,18 @@
+how to understand a sent
+
+sent = 'a long, curved fruit with a yellow skin and soft, sweet, white flesh inside: '
+
+words = word_token(sent)
+
+build a python program
+import all_word.py
+
+_and(words)
+_with(words)
+_long(words)
+long fruit, mean fruit has properties long, shape
+_curved(words)
+
+***
+
+
