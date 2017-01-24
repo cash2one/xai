@@ -1,5 +1,5 @@
 ###pyliterature
-xai1 is a AI program. xai1 can search and read article, get data and write new code by itself.
+xai is a AI program. xai can search and read article, get data and write new code by itself.
 
 
 
@@ -18,7 +18,7 @@ xai1 is a AI program. xai1 can search and read article, get data and write new c
 ####Examples
 
 ```python
->>> from xai1 import ai1
+>>> from xai import ai1
 >>> AI = ai1('Xing', 'male')
 >>> AI.start()
 >>> AI.life.learn.word(filename = 'word/cambtionary.dat')
