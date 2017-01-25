@@ -6,9 +6,9 @@ class _JOURNALISM():
 		self.name = "JOURNALISM"
 		self.jsondata = {}
 
+		self.specie = 'nouns'
 		self.parents = []
 		self.childen = []
 
 	def run(self, obj1 = [], obj2 = []):
-		jsondata = None
-		return jsondata
+		return self.jsondata

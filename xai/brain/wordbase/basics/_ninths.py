@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._ninth import _NINTH
-
 #calss header
-class _NINTHS(_NINTH, ):
+class _NINTHS():
 	def __init__(self,): 
 		self.name = "NINTHS"
-		self.basic = "ninth"
 		self.jsondata = {}
+
+		self.basic = ['ninth']

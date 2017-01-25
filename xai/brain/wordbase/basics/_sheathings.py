@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._sheathing import _SHEATHING
-
 #calss header
-class _SHEATHINGS(_SHEATHING, ):
+class _SHEATHINGS():
 	def __init__(self,): 
 		self.name = "SHEATHINGS"
-		self.basic = "sheathing"
 		self.jsondata = {}
+
+		self.basic = ['sheathing']

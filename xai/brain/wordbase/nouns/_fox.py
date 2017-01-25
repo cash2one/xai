@@ -6,9 +6,9 @@ class _FOX():
 		self.name = "FOX"
 		self.jsondata = {}
 
+		self.specie = 'nouns'
 		self.parents = []
 		self.childen = []
 
 	def run(self, obj1 = [], obj2 = []):
-		jsondata = None
-		return jsondata
+		return self.jsondata

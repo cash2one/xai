@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._buss import _BUSS
-
 #calss header
-class _BUSSING(_BUSS, ):
+class _BUSSING():
 	def __init__(self,): 
 		self.name = "BUSSING"
-		self.basic = "buss"
 		self.jsondata = {}
+
+		self.basic = ['buss']

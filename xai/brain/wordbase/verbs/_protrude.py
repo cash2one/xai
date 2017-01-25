@@ -6,9 +6,9 @@ class _PROTRUDE():
 		self.name = "PROTRUDE"
 		self.jsondata = {}
 
+		self.specie = 'verbs'
 		self.parents = []
 		self.childen = []
 
 	def run(self, obj1 = [], obj2 = []):
-		jsondata = None
-		return jsondata
+		return self.jsondata

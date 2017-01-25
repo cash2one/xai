@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._thickening import _THICKENING
-
 #calss header
-class _THICKENINGS(_THICKENING, ):
+class _THICKENINGS():
 	def __init__(self,): 
 		self.name = "THICKENINGS"
-		self.basic = "thickening"
 		self.jsondata = {}
+
+		self.basic = ['thickening']

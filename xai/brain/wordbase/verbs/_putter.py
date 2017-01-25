@@ -6,9 +6,9 @@ class _PUTTER():
 		self.name = "PUTTER"
 		self.jsondata = {}
 
+		self.specie = 'verbs'
 		self.parents = []
 		self.childen = []
 
 	def run(self, obj1 = [], obj2 = []):
-		jsondata = None
-		return jsondata
+		return self.jsondata

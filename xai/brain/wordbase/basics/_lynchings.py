@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._lynching import _LYNCHING
-
 #calss header
-class _LYNCHINGS(_LYNCHING, ):
+class _LYNCHINGS():
 	def __init__(self,): 
 		self.name = "LYNCHINGS"
-		self.basic = "lynching"
 		self.jsondata = {}
+
+		self.basic = ['lynching']

@@ -17537,6 +17537,7 @@
     "mailboxes": "_mailboxes",
     "mailed": "_mailed",
     "mailing": "_mailing",
+    "mailings": "_mailings",
     "mailman": "_mailman",
     "mailmen": "_mailmen",
     "mails": "_mails",

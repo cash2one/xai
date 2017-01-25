@@ -6,6 +6,9 @@ class _HEEL():
 		self.name = "HEEL"
 		self.jsondata = {}
 
+		self.specie = 'exclamations'
 		self.parents = []
 		self.childen = []
 
+	def run(self, obj1 = [], obj2 = []):
+		return self.jsondata

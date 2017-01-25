@@ -6,9 +6,9 @@ class _ABSENT():
 		self.name = "ABSENT"
 		self.jsondata = {}
 
+		self.specie = 'prepositions'
 		self.parents = []
 		self.childen = []
 
 	def run(self, obj1 = [], obj2 = []):
-		jsondata = None
-		return jsondata
+		return self.jsondata

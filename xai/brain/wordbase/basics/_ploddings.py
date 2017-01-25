@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._plodding import _PLODDING
-
 #calss header
-class _PLODDINGS(_PLODDING, ):
+class _PLODDINGS():
 	def __init__(self,): 
 		self.name = "PLODDINGS"
-		self.basic = "plodding"
 		self.jsondata = {}
+
+		self.basic = ['plodding']

@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._freelancer import _FREELANCER
-
 #calss header
-class _FREELANCERS(_FREELANCER, ):
+class _FREELANCERS():
 	def __init__(self,): 
 		self.name = "FREELANCERS"
-		self.basic = "freelancer"
 		self.jsondata = {}
+
+		self.basic = ['freelancer']

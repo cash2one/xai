@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._glimmering import _GLIMMERING
-
 #calss header
-class _GLIMMERINGS(_GLIMMERING, ):
+class _GLIMMERINGS():
 	def __init__(self,): 
 		self.name = "GLIMMERINGS"
-		self.basic = "glimmering"
 		self.jsondata = {}
+
+		self.basic = ['glimmering']

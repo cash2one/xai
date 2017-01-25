@@ -1,0 +1,16 @@
+
+banana is a long fruit with a yellow skin and white inside
+
+*with a yellow skin and white inside
+banana  has childen skin, inside
+self.skin = Skin()
+self.inside = Inside()
+
+*yellow skin
+self.skin.properties.append(yellow)
+self.inside.inside.append(white)
+
+
+*banana is a long fruit with a yellow skin and white inside
+self.parents.append(fruit)
+self.properties.append(long)

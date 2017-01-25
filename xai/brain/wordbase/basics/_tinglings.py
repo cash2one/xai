@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._tingling import _TINGLING
-
 #calss header
-class _TINGLINGS(_TINGLING, ):
+class _TINGLINGS():
 	def __init__(self,): 
 		self.name = "TINGLINGS"
-		self.basic = "tingling"
 		self.jsondata = {}
+
+		self.basic = ['tingling']

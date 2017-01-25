@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._leaving import _LEAVING
-
 #calss header
-class _LEAVINGS(_LEAVING, ):
+class _LEAVINGS():
 	def __init__(self,): 
 		self.name = "LEAVINGS"
-		self.basic = "leaving"
 		self.jsondata = {}
+
+		self.basic = ['leaving']

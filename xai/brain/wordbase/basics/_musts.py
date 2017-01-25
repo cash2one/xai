@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._must import _MUST
-
 #calss header
-class _MUSTS(_MUST, ):
+class _MUSTS():
 	def __init__(self,): 
 		self.name = "MUSTS"
-		self.basic = "must"
 		self.jsondata = {}
+
+		self.basic = ['must']

@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._tamer import _TAMER
-
 #calss header
-class _TAMERS(_TAMER, ):
+class _TAMERS():
 	def __init__(self,): 
 		self.name = "TAMERS"
-		self.basic = "tamer"
 		self.jsondata = {}
+
+		self.basic = ['tamer']

@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._misreading import _MISREADING
-
 #calss header
-class _MISREADINGS(_MISREADING, ):
+class _MISREADINGS():
 	def __init__(self,): 
 		self.name = "MISREADINGS"
-		self.basic = "misreading"
 		self.jsondata = {}
+
+		self.basic = ['misreading']

@@ -183,7 +183,9 @@ from xai.brain.wordbase.{0}._{1} import _{2}
 #calss header
 class _{3}(_{2}, ):
 \tdef __init__(self,): 
+\t\t_{2}.__init__(self)
 \t\tself.name = "{3}"
+\t\tself.specie = '{0}'
 \t\tself.basic = "{1}"
 \t\tself.jsondata = {{}}
 '''.format(specie, wordbasic, wordbasic.upper(), word.upper())
@@ -203,6 +205,8 @@ class _{3}(_{2}, ):
         '''
         species = []
         for specie in self.wordbase:
+            if specie == 'basics':
+                continue
             if word in self.wordbase[specie]:
                 species.append(specie)
         return species
@@ -274,12 +278,12 @@ class _{0}():
         '''
         # self.build_class()
         class_body = '''
+\t\tself.specie = 'verbs'
 \t\tself.parents = []
 \t\tself.childen = []
 
 \tdef run(self, obj1 = [], obj2 = []):
-\t\tjsondata = None
-\t\treturn jsondata
+\t\treturn self.jsondata
 '''
         self.build_class(class_body)
 
@@ -289,12 +293,12 @@ class _{0}():
         '''
         '''
         class_body = '''
+\t\tself.specie = 'nouns'
 \t\tself.parents = []
 \t\tself.childen = []
 
 \tdef run(self, obj1 = [], obj2 = []):
-\t\tjsondata = None
-\t\treturn jsondata
+\t\treturn self.jsondata
 '''
         self.build_class(class_body)
     #
@@ -302,12 +306,12 @@ class _{0}():
         '''
         '''
         class_body = '''
+\t\tself.specie = 'prepositions'
 \t\tself.parents = []
 \t\tself.childen = []
 
 \tdef run(self, obj1 = [], obj2 = []):
-\t\tjsondata = None
-\t\treturn jsondata
+\t\treturn self.jsondata
 '''
         self.build_class(class_body)
     #
@@ -315,13 +319,14 @@ class _{0}():
         '''
         '''
         class_body = '''
+\t\tself.specie = 'adjectives'
 \t\tself.parents = []
 \t\tself.childen = []
 
 \tdef run(self, obj1, obj2):
-\t\tjsondata[obj2] = {}
-\t\tjsondata[obj2]['properties'] = self.name.lower()
-\t\treturn jsondata
+\t\tself.jsondata[obj2] = {}
+\t\tself.jsondata[obj2]['properties'] = self.name.lower()
+\t\treturn self.jsondata
 '''
         self.build_class(class_body)
 
@@ -331,13 +336,14 @@ class _{0}():
         '''
         '''
         class_body = '''
+\t\tself.specie = 'adverbs'
 \t\tself.parents = []
 \t\tself.childen = []
 
 \tdef run(self, obj1, obj2):
-\t\tjsondata[obj2] = {}
-\t\tjsondata[obj2]['properties'] = self.name.lower()
-\t\treturn jsondata
+\t\tself.jsondata[obj2] = {}
+\t\tself.jsondata[obj2]['properties'] = self.name.lower()
+\t\treturn self.jsondata
 '''
         self.build_class(class_body)
     #
@@ -345,12 +351,12 @@ class _{0}():
         '''
         '''
         class_body = '''
+\t\tself.specie = 'conjunctions'
 \t\tself.parents = []
 \t\tself.childen = []
 
 \tdef run(self, obj1 = [], obj2 = []):
-\t\tjsondata = None
-\t\treturn jsondata
+\t\treturn self.jsondata
 '''
         self.build_class(class_body)
     #
@@ -358,12 +364,12 @@ class _{0}():
         '''
         '''
         class_body = '''
+\t\tself.specie = 'pronouns'
 \t\tself.parents = []
 \t\tself.childen = []
 
 \tdef run(self, obj1 = [], obj2 = []):
-\t\tjsondata = None
-\t\treturn jsondata
+\t\treturn self.jsondata
 '''
         self.build_class(class_body)
     #
@@ -371,12 +377,12 @@ class _{0}():
         '''
         '''
         class_body = '''
+\t\tself.specie = 'numbers'
 \t\tself.parents = []
 \t\tself.childen = []
 
 \tdef run(self, obj1 = [], obj2 = []):
-\t\tjsondata = None
-\t\treturn jsondata
+\t\treturn self.jsondata
 '''
         self.build_class(class_body)
     #
@@ -394,11 +400,20 @@ class _{0}():
         '''
         # print(self.definitions)
         class_body = '''
+\t\tself.specie = 'exclamations'
 \t\tself.parents = []
 \t\tself.childen = []
 
-'''.format(self.definitions)
+\tdef run(self, obj1 = [], obj2 = []):
+\t\treturn self.jsondata
+'''
         self.build_class(class_body)
+    #
+    def modify_class(self, ):
+        '''
+        '''
+
+        pass
 
 
 
@@ -418,7 +433,7 @@ if __name__ == "__main__":
     file = File()
     mymemory = Memory()
     #==========================================================
-    # build word class
+    # # build word class
     # filename = file.pwd + '/xai/words/jsonword/cambtionary.dat'
     # jsonword = eye.read_json(filename)
     # # print(jsonword)

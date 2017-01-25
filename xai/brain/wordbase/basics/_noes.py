@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._no import _NO
-
 #calss header
-class _NOES(_NO, ):
+class _NOES():
 	def __init__(self,): 
 		self.name = "NOES"
-		self.basic = "no"
 		self.jsondata = {}
+
+		self.basic = ['no']

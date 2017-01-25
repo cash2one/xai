@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._hijacking import _HIJACKING
-
 #calss header
-class _HIJACKINGS(_HIJACKING, ):
+class _HIJACKINGS():
 	def __init__(self,): 
 		self.name = "HIJACKINGS"
-		self.basic = "hijacking"
 		self.jsondata = {}
+
+		self.basic = ['hijacking']

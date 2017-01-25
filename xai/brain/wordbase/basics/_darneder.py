@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._darned import _DARNED
-
 #calss header
-class _DARNEDER(_DARNED, ):
+class _DARNEDER():
 	def __init__(self,): 
 		self.name = "DARNEDER"
-		self.basic = "darned"
 		self.jsondata = {}
+
+		self.basic = ['darned']

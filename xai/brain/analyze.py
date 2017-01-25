@@ -36,10 +36,10 @@ class Analyze():
                 self.exist = self.find_memory()
                 for defition in defitions:
                     defition = self.keyword + ' is ' + defition
-                    print(defition)
+                    # print(defition)
                     self.find_class(defition)
                     self.sent_analyze(defition)
-                    print(self.relation_analyze)
+                    # print(self.relation_analyze)
 
                     classdata = self.relation_analyze(defition)
 
@@ -226,14 +226,21 @@ class Sent():
     def run_class(self, ):
         '''
         '''
+        # adje
         for word in self.words:
-            print(self.word_class[word])
+            # print(self.word_class[word])
             index = self.words.index(word)
             obj1 = self.words[0:index]
             obj2 = self.words[index + 1:]
             for wordclass in self.word_class[word]:
                 wordinstance = wordclass()
-                jsondata = wordinstance.run(obj1, obj2)
+                print(wordinstance)
+                if wordinstance.specie == 'adjectives':
+                    jsondata = wordinstance.run(obj1, obj2)
+                    # self.words
+        # prep
+        # for word in self.words:
+
     #
     def find_verbs(self, sent):
         '''

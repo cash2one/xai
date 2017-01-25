@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._seventieth import _SEVENTIETH
-
 #calss header
-class _SEVENTIETHS(_SEVENTIETH, ):
+class _SEVENTIETHS():
 	def __init__(self,): 
 		self.name = "SEVENTIETHS"
-		self.basic = "seventieth"
 		self.jsondata = {}
+
+		self.basic = ['seventieth']

@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._thrashing import _THRASHING
-
 #calss header
-class _THRASHINGS(_THRASHING, ):
+class _THRASHINGS():
 	def __init__(self,): 
 		self.name = "THRASHINGS"
-		self.basic = "thrashing"
 		self.jsondata = {}
+
+		self.basic = ['thrashing']

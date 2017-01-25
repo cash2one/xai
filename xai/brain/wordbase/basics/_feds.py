@@ -1,10 +1,9 @@
 
 
-from xai.brain.wordbase.basics._fed import _FED
-
 #calss header
-class _FEDS(_FED, ):
+class _FEDS():
 	def __init__(self,): 
 		self.name = "FEDS"
-		self.basic = "fed"
 		self.jsondata = {}
+
+		self.basic = ['fed']
