@@ -1,0 +1,10 @@
+
+
+from xai.brain.wordbase.nouns._gadget import _GADGET
+
+#calss header
+class _GADGETS(_GADGET, ):
+	def __init__(self,): 
+		self.name = "GADGETS"
+		self.basic = "gadget"
+		self.jsondata = {}

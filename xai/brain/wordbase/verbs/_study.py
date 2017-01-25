@@ -6,5 +6,9 @@ class _STUDY():
 		self.name = "STUDY"
 		self.jsondata = {}
 
-	def run(self,):
+		self.parents = []
+		self.childen = []
+
+	def run(self, obj1 = [], obj2 = []):
+		jsondata = None
 		return jsondata

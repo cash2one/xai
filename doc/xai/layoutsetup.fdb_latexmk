@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1485357470 "layoutsetup.tex" "layoutsetup.pdf" "layoutsetup" 1485357470
+  "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
+  "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1484040103 3873412 02938c6dcab8ad92d26d6769fea8f565 ""
+  "/usr/local/texlive/2016/texmf.cnf" 1484040074 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "layoutsetup.aux" 1485357470 8 a94a2480d3289e625eea47cd1b285758 ""
+  "layoutsetup.tex" 1484901068 1737 e1bb028ab523869763ad26644758afcc ""
+  (generated)
+  "layoutsetup.pdf"
+  "layoutsetup.log"

@@ -6,7 +6,10 @@ class _APART():
 		self.name = "APART"
 		self.jsondata = {}
 
-	def run(self, obj):
-		jsondata[obj] = {}
-		jsondata[obj]['properties'] = self.name.lower()
+		self.parents = []
+		self.childen = []
+
+	def run(self, obj1, obj2):
+		jsondata[obj2] = {}
+		jsondata[obj2]['properties'] = self.name.lower()
 		return jsondata

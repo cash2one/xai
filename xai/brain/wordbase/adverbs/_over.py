@@ -6,7 +6,10 @@ class _OVER():
 		self.name = "OVER"
 		self.jsondata = {}
 
-	def run(self, verb):
-		jsondata[verb] = {}
-		jsondata[verb]['properties'] = self.name.lower()
+		self.parents = []
+		self.childen = []
+
+	def run(self, obj1, obj2):
+		jsondata[obj2] = {}
+		jsondata[obj2]['properties'] = self.name.lower()
 		return jsondata

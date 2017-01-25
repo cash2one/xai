@@ -6,5 +6,9 @@ class _ACROSS():
 		self.name = "ACROSS"
 		self.jsondata = {}
 
-	def run(self,):
+		self.parents = []
+		self.childen = []
+
+	def run(self, obj1 = [], obj2 = []):
+		jsondata = None
 		return jsondata

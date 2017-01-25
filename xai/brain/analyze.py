@@ -1,20 +1,29 @@
+from xai.python.file import File
 import os
 import nltk
 nltk.data.path.append("/afs/psi.ch/user/w/wang_x3/xing/apps/nltk_data")
-from xai1.brain.memory import Memory
+from xai.brain.memory import Memory
+
 
 class Analyze():
     '''
+    read sent,
+    find class for each word
+    jsondata = run each class
+    analyze jsondata
+    save memory
     '''
     def __init__(self, ):
+        '''
+        '''
         self.keyword = None
         self.specie = None
         self.exit = False
         self.parents = []
         self.childen = []
+        self.sent = Sent()
 
         self.memory = Memory()
-        pass
 
     def analyze_word(self, jsonword):
         '''
@@ -26,16 +35,16 @@ class Analyze():
                 self.specie, self.relation_analyze = self.check_specie(specie)
                 self.exist = self.find_memory()
                 for defition in defitions:
-                    # print(defition)
-                    # self.parents, self.childen= self.sent_analyze(defition)
-                    # print(self.parents, self.childen)
-                    # classdata = 
+                    defition = self.keyword + ' is ' + defition
+                    print(defition)
+                    self.find_class(defition)
                     self.sent_analyze(defition)
                     print(self.relation_analyze)
+
                     classdata = self.relation_analyze(defition)
 
         return classdata
-
+    #
     def check_specie(self, specie):
         '''
         '''
@@ -47,19 +56,19 @@ class Analyze():
             relation_analyze = self.relation_noun
         elif 'adj' in specie:
             specie = 'adjectives'
-            relation_analyze = self.relation_adj
+            relation_analyze = self.relation_adje
         elif 'adv' in specie:
             specie = 'adverbs'
-            relation_analyze = self.relation_adv
+            relation_analyze = self.relation_adve
         elif 'pre' in specie:
             specie = 'prepositions'
-            relation_analyze = self.relation_pre
+            relation_analyze = self.relation_prep
         elif 'suffix' in specie:
             specie = 'conjunctions'
-            relation_analyze = self.relation_suffix
+            relation_analyze = self.relation_conj
         elif 'pro' in specie:
             specie = 'pronouns'
-            relation_analyze = self.relation_pro
+            relation_analyze = self.relation_pron
         else:
             print('>>>>>> error')
         #
@@ -73,7 +82,7 @@ class Analyze():
             exist = False
         return exist
     #===============================================================================
-    def sent_analyze(self, defition):
+    def find_class(self, defition):
         '''
         find conjunctions: and, or
         find preposition: with
@@ -81,12 +90,28 @@ class Analyze():
         result = ""
         # print(defition)
         sent = nltk.word_tokenize(defition)
-        conj = self.find_conjunctions(sent)
-        prep = self.find_prepositions(sent)
-        print(conj)
-        print(prep)
+        verbs = self.find_verbs(sent)
+        conjs = self.find_conjunctions(sent)
+        preps = self.find_prepositions(sent)
+        print(verbs)
+        print(conjs)
+        print(preps)
 
-        return sent
+        return verbs, conjs, preps
+    #
+    def run_class(self, ):
+        '''
+        '''
+        pass
+    #
+    def find_verbs(self, sent):
+        '''
+        '''
+        verb = []
+        for word in sent:
+            if word in self.memory.word.wordbase['verbs']:
+                verb.append(word)
+        return verb
     #
     def find_conjunctions(self, sent):
         '''
@@ -118,13 +143,13 @@ class Analyze():
     def relation_verb(self, defition):
         pass
     #
-    def relation_adj(self, defition):
+    def relation_adje(self, defition):
         pass
     #
-    def relation_adv(self, defition):
+    def relation_adve(self, defition):
         pass
     #
-    def relation_pre(self, defition):
+    def relation_prep(self, defition):
         sent = self.sent_analyze(defition)
         childen = []
         parents = []
@@ -143,13 +168,112 @@ class Analyze():
             return properties, parents
         pass
     #
-    def relation_pro(self, defition):
+    def relation_pron(self, defition):
+        '''
+        '''
         pass
     #
-    def relation_suffix(self, defition):
+    def relation_conj(self, defition):
+        '''
+        '''
         pass
     #
 
+class Sent():
+    '''
+    '''
+    def __init__(self, sent = ''):
+        '''
+        '''
+        self.file = File()
+        self.memory = Memory()
+        self.sent = sent
+        self.words = []
+        self.word_class = {}
+        self.word_species = {}
+        pass
+    #
+    def analyze(self, sent):
+        '''
+        '''
+        self.sent = sent
+        self.find_class()
+        self.run_class()
+
+        pass
+    #
+    def find_class(self, ):
+        '''
+        find conjunctions: and, or
+        find preposition: with
+        '''
+        import importlib
+        result = ""
+        # print(defition)
+        import re
+        self.words = re.split('; |, |\*|\n| ', self.sent)
+        for word in self.words:
+            self.word_class[word] = []
+            self.word_species[word] = self.memory.word.find_word(word)
+            for specie in self.word_species[word]:
+                modulefine = 'xai.brain.wordbase.{0}._{1}'.format(specie, word)
+                # print(modulefine)
+                wordmodule = importlib.import_module(modulefine)
+                wordclass = getattr(wordmodule, '_{0}'.format(word.upper()))
+                # print(wordclass)
+                self.word_class[word].append(wordclass)
+    #
+    def run_class(self, ):
+        '''
+        '''
+        for word in self.words:
+            print(self.word_class[word])
+            index = self.words.index(word)
+            obj1 = self.words[0:index]
+            obj2 = self.words[index + 1:]
+            for wordclass in self.word_class[word]:
+                wordinstance = wordclass()
+                jsondata = wordinstance.run(obj1, obj2)
+    #
+    def find_verbs(self, sent):
+        '''
+        '''
+        verb = []
+        for word in sent:
+            if word in self.memory.word.wordbase['verbs']:
+                verb.append(word)
+        return verb
+    #
+    def find_conjunctions(self, sent):
+        '''
+        '''
+        conj = []
+        for word in sent:
+            if word in self.memory.word.wordbase['conjunctions']:
+                conj.append(word)
+        return conj
+    #
+    def find_prepositions(self, sent):
+        '''
+        '''
+        prep = []
+        for word in sent:
+            if word in self.memory.word.wordbase['prepositions']:
+                prep.append(word)
+        return prep
+        pass
+
+
 # Run main function by default
 if __name__ == "__main__":
+    from xai.body.eye import Eye
+    eye = Eye()
     myanalyze = Analyze()
+    file = File()
+    #==================================================================
+    # sent
+    filename = file.pwd + '/xai/sents/test.dat'
+    sents = eye.read_sent(filename)
+    print(sents, '\n')
+    for sent in sents:
+        myanalyze.sent.analyze(sent)

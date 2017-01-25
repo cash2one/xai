@@ -1,0 +1,7 @@
+
+1. build word class
+read dictionary in linux system.
+check the word in cambridge dictionary, get it's specie, like verb, noun, prep
+
+2. build properties
+read definitions from the dictionary

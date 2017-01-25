@@ -1,0 +1,14 @@
+
+
+#calss header
+class _BALLPARK():
+	def __init__(self,): 
+		self.name = "BALLPARK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []
+
+	def run(self, obj1 = [], obj2 = []):
+		jsondata = None
+		return jsondata

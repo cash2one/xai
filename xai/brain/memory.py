@@ -1,5 +1,6 @@
 import nltk
 from xai.python.file import File
+import os
 
 class Memory():
     '''
@@ -101,7 +102,11 @@ class Word():
                          'prepositions':None,
                          'pronouns':None,
                          'verbs':None,
-                         'numbers':None,}
+                         'numbers':None,
+                         'exclamations':None,
+                         'basics':None,}
+        self.otherform = {}
+        #
         self.load_wordbase()
         pass
     #
@@ -111,9 +116,12 @@ class Word():
         import json
         for specie in self.wordbase:
             filename = self.file.pwd + '/xai/brain/wordbase/{0}/{0}.dat'.format(specie)
-            with open(filename) as file:
-                self.wordbase[specie] = json.load(file)
-            file.close()
+            if not os.path.exists(filename):
+                self.wordbase[specie] = {}
+            else:
+                with open(filename) as file:
+                    self.wordbase[specie] = json.load(file)
+                file.close()
     #
     def save_wordbase(self,):
         '''
@@ -125,16 +133,79 @@ class Word():
             with open(filename, 'w') as file:
                 file.write(jsonword)
             file.close()
+            if specie == 'basics':
+                filename = self.file.pwd + '/xai/brain/wordbase/{0}/{0}_1.dat'.format(specie)
+                jsonword = json.dumps(self.otherform, indent=4, sort_keys=True, separators=(',', ': '))
+                with open(filename, 'w') as file:
+                    file.write(jsonword)
+                file.close()
     #
     def build_word(self,jsonword):
         '''
         '''
         for word, species in jsonword.items():
             self.word = word
+            # print(species)
             for specie in species:
                 self.check_specie(specie)
+                self.definitions = species[specie]
+                # print(specie)
+                # print(self.definitions)
                 self.builder()
+                if specie == 'basic':
+                    self.otherform[self.word]  = self.definitions
         self.save_wordbase()
+    #
+    def build_word_basic(self, ):
+        '''
+        '''
+        # read otherform
+        import json
+        specie = 'basics'
+        filename = self.file.pwd + '/xai/brain/wordbase/{0}/{0}_1.dat'.format(specie)
+        if not os.path.exists(filename):
+            self.otherform = {}
+        else:
+            with open(filename) as file:
+                self.otherform = json.load(file)
+            file.close()
+        i = 0
+        for word in self.otherform:
+            i += 1
+            self.word = word
+            wordbasic = self.otherform[word]
+            species = self.find_word(wordbasic)
+            for specie in species:
+                self.specie = specie
+                class_body = '''\n
+from xai.brain.wordbase.{0}._{1} import _{2}
+
+#calss header
+class _{3}(_{2}, ):
+\tdef __init__(self,): 
+\t\tself.name = "{3}"
+\t\tself.basic = "{1}"
+\t\tself.jsondata = {{}}
+'''.format(specie, wordbasic, wordbasic.upper(), word.upper())
+                filename = self.file.pwd + '/xai/brain/wordbase/{0}/_{1}.py'.format(self.specie, self.word)
+                print(i, word, filename)
+                with open(filename, 'w') as file:
+                    file.write(class_body)
+                new_class = {}
+                new_class[self.word] = '_{0}'.format(self.word)
+                self.wordbase[self.specie].update(new_class)
+                #
+                self.save_wordbase()
+
+    #
+    def find_word(self, word):
+        '''
+        '''
+        species = []
+        for specie in self.wordbase:
+            if word in self.wordbase[specie]:
+                species.append(specie)
+        return species
     #
     def modify_word(self, jsondata):
         '''
@@ -164,32 +235,37 @@ class _{0}():
     def check_specie(self, specie):
         '''
         '''
-        print(self.word, specie)
+        # print(self.word, specie)
         if 'verb' in specie[0:4]:
             self.specie = 'verbs'
             self.builder = self.builder_verb
         elif 'noun' in specie[0:4]:
             self.specie = 'nouns'
             self.builder = self.builder_noun
-        elif 'adj' in specie[0:4]:
+        elif 'adje' in specie[0:4]:
             self.specie = 'adjectives'
-            self.builder = self.builder_adj
-        elif 'adv' in specie[0:4]:
+            self.builder = self.builder_adje
+        elif 'adve' in specie[0:4]:
             self.specie = 'adverbs'
-            print(self.word)
-            self.builder = self.builder_adv
-        elif 'pre' in specie[0:4]:
+            self.builder = self.builder_adve
+        elif 'prep' in specie[0:4]:
             self.specie = 'prepositions'
-            self.builder = self.builder_pre
-        elif 'suffix' in specie[0:4] or 'conj' in specie[0:4]:
+            self.builder = self.builder_prep
+        elif 'suff' in specie[0:4] or 'conj' in specie[0:4]:
             self.specie = 'conjunctions'
-            self.builder = self.builder_con
-        elif 'pro' in specie[0:4]:
+            self.builder = self.builder_conj
+        elif 'pron' in specie[0:4]:
             self.specie = 'pronouns'
-            self.builder = self.builder_pro
-        elif 'num' in specie[0:4]:
+            self.builder = self.builder_pron
+        elif 'numb' in specie[0:4]:
             self.specie = 'numbers'
-            self.builder = self.builder_num
+            self.builder = self.builder_numb
+        elif 'basi' in specie[0:4]:
+            self.specie = 'basics'
+            self.builder = self.builder_basi
+        elif 'excl' in specie[0:4]:
+            self.specie = 'exclamations'
+            self.builder = self.builder_excl
         else:
             print('>>>>>> {0} specie "{1}" error'.format(self.word, specie))
     #
@@ -198,7 +274,11 @@ class _{0}():
         '''
         # self.build_class()
         class_body = '''
-\tdef run(self,):
+\t\tself.parents = []
+\t\tself.childen = []
+
+\tdef run(self, obj1 = [], obj2 = []):
+\t\tjsondata = None
 \t\treturn jsondata
 '''
         self.build_class(class_body)
@@ -211,67 +291,113 @@ class _{0}():
         class_body = '''
 \t\tself.parents = []
 \t\tself.childen = []
-'''
-        self.build_class(class_body)
-    #
-    def builder_pre(self,):
-        '''
-        '''
-        class_body = '''
-\tdef run(self,):
+
+\tdef run(self, obj1 = [], obj2 = []):
+\t\tjsondata = None
 \t\treturn jsondata
 '''
         self.build_class(class_body)
     #
-    def builder_adj(self,):
+    def builder_prep(self,):
         '''
         '''
         class_body = '''
-\tdef run(self, obj):
-\t\tjsondata[obj] = {}
-\t\tjsondata[obj]['properties'] = self.name.lower()
+\t\tself.parents = []
+\t\tself.childen = []
+
+\tdef run(self, obj1 = [], obj2 = []):
+\t\tjsondata = None
+\t\treturn jsondata
+'''
+        self.build_class(class_body)
+    #
+    def builder_adje(self,):
+        '''
+        '''
+        class_body = '''
+\t\tself.parents = []
+\t\tself.childen = []
+
+\tdef run(self, obj1, obj2):
+\t\tjsondata[obj2] = {}
+\t\tjsondata[obj2]['properties'] = self.name.lower()
 \t\treturn jsondata
 '''
         self.build_class(class_body)
 
         pass
     #
-    def builder_adv(self,):
+    def builder_adve(self,):
         '''
         '''
         class_body = '''
-\tdef run(self, verb):
-\t\tjsondata[verb] = {}
-\t\tjsondata[verb]['properties'] = self.name.lower()
+\t\tself.parents = []
+\t\tself.childen = []
+
+\tdef run(self, obj1, obj2):
+\t\tjsondata[obj2] = {}
+\t\tjsondata[obj2]['properties'] = self.name.lower()
 \t\treturn jsondata
 '''
         self.build_class(class_body)
     #
-    def builder_con(self,):
+    def builder_conj(self,):
         '''
         '''
         class_body = '''
-\tdef run(self,):
+\t\tself.parents = []
+\t\tself.childen = []
+
+\tdef run(self, obj1 = [], obj2 = []):
+\t\tjsondata = None
 \t\treturn jsondata
 '''
         self.build_class(class_body)
     #
-    def builder_pro(self,):
+    def builder_pron(self,):
         '''
         '''
         class_body = '''
-\tdef run(self,):
+\t\tself.parents = []
+\t\tself.childen = []
+
+\tdef run(self, obj1 = [], obj2 = []):
+\t\tjsondata = None
 \t\treturn jsondata
 '''
         self.build_class(class_body)
     #
-    def builder_num(self,):
+    def builder_numb(self,):
         '''
         '''
         class_body = '''
-\tdef run(self,):
+\t\tself.parents = []
+\t\tself.childen = []
+
+\tdef run(self, obj1 = [], obj2 = []):
+\t\tjsondata = None
 \t\treturn jsondata
 '''
+        self.build_class(class_body)
+    #
+    def builder_basi(self,):
+        '''
+        '''
+        # print(self.definitions)
+        class_body = '''
+\t\tself.basic = ['{0}']
+'''.format(self.definitions)
+        self.build_class(class_body)
+    #
+    def builder_excl(self,):
+        '''
+        '''
+        # print(self.definitions)
+        class_body = '''
+\t\tself.parents = []
+\t\tself.childen = []
+
+'''.format(self.definitions)
         self.build_class(class_body)
 
 
@@ -291,7 +417,17 @@ if __name__ == "__main__":
     eye = Eye()
     file = File()
     mymemory = Memory()
-    filename = file.pwd + '/xai/examples/word/wordbase.dat'
-    jsonword = eye.read_json(filename)
-    # print(jsonword)
-    mymemory.word.build_word(jsonword)
+    #==========================================================
+    # build word class
+    # filename = file.pwd + '/xai/words/jsonword/cambtionary.dat'
+    # jsonword = eye.read_json(filename)
+    # # print(jsonword)
+    # mymemory.word.build_word(jsonword)
+    # build word in basic
+    mymemory.word.build_word_basic()
+    #==========================================================
+    # build word in basic
+    # filename = file.pwd + '/xai/examples/word/cambtionary.dat'
+    # jsonword = eye.read_json(filename)
+    # # print(jsonword)
+    # mymemory.word.modify_word(jsonword)

@@ -1,0 +1,10 @@
+
+
+from xai.brain.wordbase.nouns._phantasm import _PHANTASM
+
+#calss header
+class _PHANTASMS(_PHANTASM, ):
+	def __init__(self,): 
+		self.name = "PHANTASMS"
+		self.basic = "phantasm"
+		self.jsondata = {}

@@ -22,6 +22,14 @@ class Training():
         # print(jsondata)
         classdata = self.analyze.analyze_word(jsondata)
         self.memory.save_memory(classdata)
+    #
+    def sent(self, filename='sent/sent.dat', style='json'):
+        # filename = 'words/test.dat'
+        # filename = '/usr/share/dict/linux.words'
+        jsondata = self.eye.read_json(filename)
+        # print(jsondata)
+        classdata = self.analyze.analyze_word(jsondata)
+        self.memory.save_memory(classdata)
 
     def article(self, ):
         pass

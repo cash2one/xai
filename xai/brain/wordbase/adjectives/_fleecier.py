@@ -1,0 +1,10 @@
+
+
+from xai.brain.wordbase.adjectives._fleecy import _FLEECY
+
+#calss header
+class _FLEECIER(_FLEECY, ):
+	def __init__(self,): 
+		self.name = "FLEECIER"
+		self.basic = "fleecy"
+		self.jsondata = {}

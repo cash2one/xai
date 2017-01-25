@@ -1,0 +1,14 @@
+
+
+#calss header
+class _ANTIQUE():
+	def __init__(self,): 
+		self.name = "ANTIQUE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []
+
+	def run(self, obj1 = [], obj2 = []):
+		jsondata = None
+		return jsondata

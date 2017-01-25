@@ -14,6 +14,10 @@ class AI():
         self.body = Body()
         self.life = Life()
         self.birthday = time.time()
+        self.memory = self.brain.memory
+
+        #
+        # self.memory.word.build_word()
 
 
     def start(self):
