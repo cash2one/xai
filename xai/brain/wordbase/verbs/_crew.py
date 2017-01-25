@@ -1,6 +1,10 @@
 
 
 #calss header
-class _crew():
-	def __init__(self): 
-		self.name = "crew" 
+class _CREW():
+	def __init__(self,): 
+		self.name = "CREW"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

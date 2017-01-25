@@ -1,6 +1,10 @@
 
 
 #calss header
-class _skin():
-	def __init__(self): 
-		self.name = "skin" 
+class _SKIN():
+	def __init__(self,): 
+		self.name = "SKIN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

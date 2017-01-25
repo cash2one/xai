@@ -1,6 +1,10 @@
 
 
 #calss header
-class _live():
-	def __init__(self): 
-		self.name = "live" 
+class _LIVE():
+	def __init__(self,): 
+		self.name = "LIVE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

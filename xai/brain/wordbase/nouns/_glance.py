@@ -1,6 +1,10 @@
 
 
 #calss header
-class _glance():
-	def __init__(self): 
-		self.name = "glance" 
+class _GLANCE():
+	def __init__(self,): 
+		self.name = "GLANCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _happen():
-	def __init__(self): 
-		self.name = "happen" 
+class _HAPPEN():
+	def __init__(self,): 
+		self.name = "HAPPEN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

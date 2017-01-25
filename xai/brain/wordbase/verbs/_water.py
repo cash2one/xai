@@ -1,6 +1,10 @@
 
 
 #calss header
-class _water():
-	def __init__(self): 
-		self.name = "water" 
+class _WATER():
+	def __init__(self,): 
+		self.name = "WATER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

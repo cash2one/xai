@@ -1,6 +1,10 @@
 
 
 #calss header
-class _finally():
-	def __init__(self): 
-		self.name = "finally" 
+class _FINALLY():
+	def __init__(self,): 
+		self.name = "FINALLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

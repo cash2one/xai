@@ -1,6 +1,10 @@
 
 
 #calss header
-class _open():
-	def __init__(self): 
-		self.name = "open" 
+class _OPEN():
+	def __init__(self,): 
+		self.name = "OPEN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

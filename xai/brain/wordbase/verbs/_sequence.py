@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sequence():
-	def __init__(self): 
-		self.name = "sequence" 
+class _SEQUENCE():
+	def __init__(self,): 
+		self.name = "SEQUENCE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

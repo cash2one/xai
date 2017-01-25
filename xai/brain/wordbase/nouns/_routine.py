@@ -1,6 +1,10 @@
 
 
 #calss header
-class _routine():
-	def __init__(self): 
-		self.name = "routine" 
+class _ROUTINE():
+	def __init__(self,): 
+		self.name = "ROUTINE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _next():
-	def __init__(self): 
-		self.name = "next" 
+class _NEXT():
+	def __init__(self,): 
+		self.name = "NEXT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

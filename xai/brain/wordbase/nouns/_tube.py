@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tube():
-	def __init__(self): 
-		self.name = "tube" 
+class _TUBE():
+	def __init__(self,): 
+		self.name = "TUBE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _totally():
-	def __init__(self): 
-		self.name = "totally" 
+class _TOTALLY():
+	def __init__(self,): 
+		self.name = "TOTALLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

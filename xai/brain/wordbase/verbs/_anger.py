@@ -1,6 +1,10 @@
 
 
 #calss header
-class _anger():
-	def __init__(self): 
-		self.name = "anger" 
+class _ANGER():
+	def __init__(self,): 
+		self.name = "ANGER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

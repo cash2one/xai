@@ -1,6 +1,10 @@
 
 
 #calss header
-class _champion():
-	def __init__(self): 
-		self.name = "champion" 
+class _CHAMPION():
+	def __init__(self,): 
+		self.name = "CHAMPION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

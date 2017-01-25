@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bond():
-	def __init__(self): 
-		self.name = "bond" 
+class _BOND():
+	def __init__(self,): 
+		self.name = "BOND"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

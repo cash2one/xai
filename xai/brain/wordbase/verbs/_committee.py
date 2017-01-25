@@ -1,6 +1,10 @@
 
 
 #calss header
-class _committee():
-	def __init__(self): 
-		self.name = "committee" 
+class _COMMITTEE():
+	def __init__(self,): 
+		self.name = "COMMITTEE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

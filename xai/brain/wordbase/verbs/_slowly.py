@@ -1,6 +1,10 @@
 
 
 #calss header
-class _slowly():
-	def __init__(self): 
-		self.name = "slowly" 
+class _SLOWLY():
+	def __init__(self,): 
+		self.name = "SLOWLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

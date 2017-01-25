@@ -1,6 +1,10 @@
 
 
 #calss header
-class _theme():
-	def __init__(self): 
-		self.name = "theme" 
+class _THEME():
+	def __init__(self,): 
+		self.name = "THEME"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

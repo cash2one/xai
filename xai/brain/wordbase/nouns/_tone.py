@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tone():
-	def __init__(self): 
-		self.name = "tone" 
+class _TONE():
+	def __init__(self,): 
+		self.name = "TONE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

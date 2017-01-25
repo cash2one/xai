@@ -1,6 +1,10 @@
 
 
 #calss header
-class _scheme():
-	def __init__(self): 
-		self.name = "scheme" 
+class _SCHEME():
+	def __init__(self,): 
+		self.name = "SCHEME"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

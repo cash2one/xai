@@ -1,6 +1,10 @@
 
 
 #calss header
-class _meter():
-	def __init__(self): 
-		self.name = "meter" 
+class _METER():
+	def __init__(self,): 
+		self.name = "METER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

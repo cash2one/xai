@@ -1,6 +1,10 @@
 
 
 #calss header
-class _heaven():
-	def __init__(self): 
-		self.name = "heaven" 
+class _HEAVEN():
+	def __init__(self,): 
+		self.name = "HEAVEN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

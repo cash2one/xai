@@ -1,6 +1,10 @@
 
 
 #calss header
-class _intelligence():
-	def __init__(self): 
-		self.name = "intelligence" 
+class _INTELLIGENCE():
+	def __init__(self,): 
+		self.name = "INTELLIGENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

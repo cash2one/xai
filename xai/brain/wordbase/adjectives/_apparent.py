@@ -1,6 +1,12 @@
 
 
 #calss header
-class _apparent():
-	def __init__(self): 
-		self.name = "apparent" 
+class _APPARENT():
+	def __init__(self,): 
+		self.name = "APPARENT"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

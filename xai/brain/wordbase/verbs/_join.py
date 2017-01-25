@@ -1,6 +1,10 @@
 
 
 #calss header
-class _join():
-	def __init__(self): 
-		self.name = "join" 
+class _JOIN():
+	def __init__(self,): 
+		self.name = "JOIN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

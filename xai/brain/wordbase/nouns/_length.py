@@ -1,6 +1,10 @@
 
 
 #calss header
-class _length():
-	def __init__(self): 
-		self.name = "length" 
+class _LENGTH():
+	def __init__(self,): 
+		self.name = "LENGTH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _freeze():
-	def __init__(self): 
-		self.name = "freeze" 
+class _FREEZE():
+	def __init__(self,): 
+		self.name = "FREEZE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

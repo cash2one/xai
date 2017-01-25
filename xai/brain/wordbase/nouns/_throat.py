@@ -1,6 +1,10 @@
 
 
 #calss header
-class _throat():
-	def __init__(self): 
-		self.name = "throat" 
+class _THROAT():
+	def __init__(self,): 
+		self.name = "THROAT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

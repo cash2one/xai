@@ -1,6 +1,10 @@
 
 
 #calss header
-class _abuse():
-	def __init__(self): 
-		self.name = "abuse" 
+class _ABUSE():
+	def __init__(self,): 
+		self.name = "ABUSE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,12 @@
 
 
 #calss header
-class _clinical():
-	def __init__(self): 
-		self.name = "clinical" 
+class _CLINICAL():
+	def __init__(self,): 
+		self.name = "CLINICAL"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

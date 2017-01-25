@@ -1,6 +1,12 @@
 
 
 #calss header
-class _united():
-	def __init__(self): 
-		self.name = "united" 
+class _UNITED():
+	def __init__(self,): 
+		self.name = "UNITED"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

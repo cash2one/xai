@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bike():
-	def __init__(self): 
-		self.name = "bike" 
+class _BIKE():
+	def __init__(self,): 
+		self.name = "BIKE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

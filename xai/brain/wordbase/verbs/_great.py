@@ -1,6 +1,10 @@
 
 
 #calss header
-class _great():
-	def __init__(self): 
-		self.name = "great" 
+class _GREAT():
+	def __init__(self,): 
+		self.name = "GREAT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

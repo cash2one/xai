@@ -1,6 +1,10 @@
 
 
 #calss header
-class _context():
-	def __init__(self): 
-		self.name = "context" 
+class _CONTEXT():
+	def __init__(self,): 
+		self.name = "CONTEXT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cluster():
-	def __init__(self): 
-		self.name = "cluster" 
+class _CLUSTER():
+	def __init__(self,): 
+		self.name = "CLUSTER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

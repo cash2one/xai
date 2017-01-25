@@ -1,6 +1,10 @@
 
 
 #calss header
-class _route():
-	def __init__(self): 
-		self.name = "route" 
+class _ROUTE():
+	def __init__(self,): 
+		self.name = "ROUTE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

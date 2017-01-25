@@ -1,6 +1,10 @@
 
 
 #calss header
-class _passage():
-	def __init__(self): 
-		self.name = "passage" 
+class _PASSAGE():
+	def __init__(self,): 
+		self.name = "PASSAGE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

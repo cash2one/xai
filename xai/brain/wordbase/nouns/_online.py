@@ -1,6 +1,7 @@
 
 
 #calss header
-class _online():
-	def __init__(self): 
-		self.name = "online" 
+class _ONLINE():
+	def __init__(self,): 
+		self.name = "ONLINE"
+		self.jsondata = {}

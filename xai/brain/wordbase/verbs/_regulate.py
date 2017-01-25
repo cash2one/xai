@@ -1,6 +1,10 @@
 
 
 #calss header
-class _regulate():
-	def __init__(self): 
-		self.name = "regulate" 
+class _REGULATE():
+	def __init__(self,): 
+		self.name = "REGULATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _invite():
-	def __init__(self): 
-		self.name = "invite" 
+class _INVITE():
+	def __init__(self,): 
+		self.name = "INVITE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

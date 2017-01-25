@@ -1,6 +1,10 @@
 
 
 #calss header
-class _react():
-	def __init__(self): 
-		self.name = "react" 
+class _REACT():
+	def __init__(self,): 
+		self.name = "REACT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _far():
-	def __init__(self): 
-		self.name = "far" 
+class _FAR():
+	def __init__(self,): 
+		self.name = "FAR"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

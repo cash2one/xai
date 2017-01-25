@@ -1,6 +1,10 @@
 
 
 #calss header
-class _chain():
-	def __init__(self): 
-		self.name = "chain" 
+class _CHAIN():
+	def __init__(self,): 
+		self.name = "CHAIN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

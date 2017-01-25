@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ratio():
-	def __init__(self): 
-		self.name = "ratio" 
+class _RATIO():
+	def __init__(self,): 
+		self.name = "RATIO"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

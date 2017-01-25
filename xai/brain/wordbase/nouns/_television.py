@@ -1,6 +1,10 @@
 
 
 #calss header
-class _television():
-	def __init__(self): 
-		self.name = "television" 
+class _TELEVISION():
+	def __init__(self,): 
+		self.name = "TELEVISION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

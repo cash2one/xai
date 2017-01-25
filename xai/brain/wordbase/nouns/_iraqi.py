@@ -1,6 +1,10 @@
 
 
 #calss header
-class _iraqi():
-	def __init__(self): 
-		self.name = "iraqi" 
+class _IRAQI():
+	def __init__(self,): 
+		self.name = "IRAQI"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

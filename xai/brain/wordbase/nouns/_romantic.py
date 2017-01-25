@@ -1,6 +1,10 @@
 
 
 #calss header
-class _romantic():
-	def __init__(self): 
-		self.name = "romantic" 
+class _ROMANTIC():
+	def __init__(self,): 
+		self.name = "ROMANTIC"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

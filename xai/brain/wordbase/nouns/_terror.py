@@ -1,6 +1,10 @@
 
 
 #calss header
-class _terror():
-	def __init__(self): 
-		self.name = "terror" 
+class _TERROR():
+	def __init__(self,): 
+		self.name = "TERROR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

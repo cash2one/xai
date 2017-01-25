@@ -1,6 +1,10 @@
 
 
 #calss header
-class _origin():
-	def __init__(self): 
-		self.name = "origin" 
+class _ORIGIN():
+	def __init__(self,): 
+		self.name = "ORIGIN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

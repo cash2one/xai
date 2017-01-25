@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cabin():
-	def __init__(self): 
-		self.name = "cabin" 
+class _CABIN():
+	def __init__(self,): 
+		self.name = "CABIN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

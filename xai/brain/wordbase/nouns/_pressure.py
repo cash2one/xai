@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pressure():
-	def __init__(self): 
-		self.name = "pressure" 
+class _PRESSURE():
+	def __init__(self,): 
+		self.name = "PRESSURE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

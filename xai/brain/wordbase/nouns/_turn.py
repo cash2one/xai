@@ -1,6 +1,10 @@
 
 
 #calss header
-class _turn():
-	def __init__(self): 
-		self.name = "turn" 
+class _TURN():
+	def __init__(self,): 
+		self.name = "TURN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

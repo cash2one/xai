@@ -1,6 +1,10 @@
 
 
 #calss header
-class _internet():
-	def __init__(self): 
-		self.name = "internet" 
+class _INTERNET():
+	def __init__(self,): 
+		self.name = "INTERNET"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

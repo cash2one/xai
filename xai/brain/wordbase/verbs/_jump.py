@@ -1,6 +1,10 @@
 
 
 #calss header
-class _jump():
-	def __init__(self): 
-		self.name = "jump" 
+class _JUMP():
+	def __init__(self,): 
+		self.name = "JUMP"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

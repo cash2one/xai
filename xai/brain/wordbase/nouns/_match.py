@@ -1,6 +1,10 @@
 
 
 #calss header
-class _match():
-	def __init__(self): 
-		self.name = "match" 
+class _MATCH():
+	def __init__(self,): 
+		self.name = "MATCH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

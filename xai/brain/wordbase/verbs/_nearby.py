@@ -1,6 +1,10 @@
 
 
 #calss header
-class _nearby():
-	def __init__(self): 
-		self.name = "nearby" 
+class _NEARBY():
+	def __init__(self,): 
+		self.name = "NEARBY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

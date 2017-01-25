@@ -1,6 +1,10 @@
 
 
 #calss header
-class _confront():
-	def __init__(self): 
-		self.name = "confront" 
+class _CONFRONT():
+	def __init__(self,): 
+		self.name = "CONFRONT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

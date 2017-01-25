@@ -1,6 +1,10 @@
 
 
 #calss header
-class _request():
-	def __init__(self): 
-		self.name = "request" 
+class _REQUEST():
+	def __init__(self,): 
+		self.name = "REQUEST"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

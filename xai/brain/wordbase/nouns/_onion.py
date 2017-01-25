@@ -1,6 +1,10 @@
 
 
 #calss header
-class _onion():
-	def __init__(self): 
-		self.name = "onion" 
+class _ONION():
+	def __init__(self,): 
+		self.name = "ONION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

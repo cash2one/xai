@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wild():
-	def __init__(self): 
-		self.name = "wild" 
+class _WILD():
+	def __init__(self,): 
+		self.name = "WILD"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _while():
-	def __init__(self): 
-		self.name = "while" 
+class _WHILE():
+	def __init__(self,): 
+		self.name = "WHILE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

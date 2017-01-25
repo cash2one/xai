@@ -1,6 +1,10 @@
 
 
 #calss header
-class _composition():
-	def __init__(self): 
-		self.name = "composition" 
+class _COMPOSITION():
+	def __init__(self,): 
+		self.name = "COMPOSITION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

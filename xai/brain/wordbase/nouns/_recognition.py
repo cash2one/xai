@@ -1,6 +1,10 @@
 
 
 #calss header
-class _recognition():
-	def __init__(self): 
-		self.name = "recognition" 
+class _RECOGNITION():
+	def __init__(self,): 
+		self.name = "RECOGNITION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

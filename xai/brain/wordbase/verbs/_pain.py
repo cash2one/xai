@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pain():
-	def __init__(self): 
-		self.name = "pain" 
+class _PAIN():
+	def __init__(self,): 
+		self.name = "PAIN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

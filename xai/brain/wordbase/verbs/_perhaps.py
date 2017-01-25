@@ -1,6 +1,10 @@
 
 
 #calss header
-class _perhaps():
-	def __init__(self): 
-		self.name = "perhaps" 
+class _PERHAPS():
+	def __init__(self,): 
+		self.name = "PERHAPS"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

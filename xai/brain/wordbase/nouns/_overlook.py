@@ -1,6 +1,10 @@
 
 
 #calss header
-class _overlook():
-	def __init__(self): 
-		self.name = "overlook" 
+class _OVERLOOK():
+	def __init__(self,): 
+		self.name = "OVERLOOK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

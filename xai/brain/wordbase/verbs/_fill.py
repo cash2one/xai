@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fill():
-	def __init__(self): 
-		self.name = "fill" 
+class _FILL():
+	def __init__(self,): 
+		self.name = "FILL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _jail():
-	def __init__(self): 
-		self.name = "jail" 
+class _JAIL():
+	def __init__(self,): 
+		self.name = "JAIL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

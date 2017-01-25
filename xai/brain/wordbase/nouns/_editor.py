@@ -1,6 +1,10 @@
 
 
 #calss header
-class _editor():
-	def __init__(self): 
-		self.name = "editor" 
+class _EDITOR():
+	def __init__(self,): 
+		self.name = "EDITOR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

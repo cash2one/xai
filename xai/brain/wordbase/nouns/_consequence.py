@@ -1,6 +1,10 @@
 
 
 #calss header
-class _consequence():
-	def __init__(self): 
-		self.name = "consequence" 
+class _CONSEQUENCE():
+	def __init__(self,): 
+		self.name = "CONSEQUENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

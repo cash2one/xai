@@ -1,6 +1,10 @@
 
 
 #calss header
-class _eliminate():
-	def __init__(self): 
-		self.name = "eliminate" 
+class _ELIMINATE():
+	def __init__(self,): 
+		self.name = "ELIMINATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

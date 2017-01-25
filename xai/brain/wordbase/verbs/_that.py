@@ -1,6 +1,10 @@
 
 
 #calss header
-class _that():
-	def __init__(self): 
-		self.name = "that" 
+class _THAT():
+	def __init__(self,): 
+		self.name = "THAT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

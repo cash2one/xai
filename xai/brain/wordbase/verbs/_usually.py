@@ -1,6 +1,10 @@
 
 
 #calss header
-class _usually():
-	def __init__(self): 
-		self.name = "usually" 
+class _USUALLY():
+	def __init__(self,): 
+		self.name = "USUALLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

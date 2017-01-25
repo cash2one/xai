@@ -9,11 +9,10 @@ class AI():
     def __init__(self, name, gender):
         self.name = name
         self.gender = gender
-
+        #
         self.brain = Brain()
         self.body = Body()
         self.life = Life()
-
         self.birthday = time.time()
 
 
@@ -45,5 +44,5 @@ class AI():
 if __name__ == "__main__":
     XAI = AI('Xing', 'male')
     XAI.start()
-    XAI.life.learn.word(filename = 'examples/word/cambtionary.dat')
+    XAI.life.training.word(filename = 'examples/word/cambtionary.dat')
 

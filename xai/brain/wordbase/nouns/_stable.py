@@ -1,6 +1,10 @@
 
 
 #calss header
-class _stable():
-	def __init__(self): 
-		self.name = "stable" 
+class _STABLE():
+	def __init__(self,): 
+		self.name = "STABLE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

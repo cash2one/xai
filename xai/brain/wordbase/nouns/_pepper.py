@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pepper():
-	def __init__(self): 
-		self.name = "pepper" 
+class _PEPPER():
+	def __init__(self,): 
+		self.name = "PEPPER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _relate():
-	def __init__(self): 
-		self.name = "relate" 
+class _RELATE():
+	def __init__(self,): 
+		self.name = "RELATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

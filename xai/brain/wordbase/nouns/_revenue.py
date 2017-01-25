@@ -1,6 +1,10 @@
 
 
 #calss header
-class _revenue():
-	def __init__(self): 
-		self.name = "revenue" 
+class _REVENUE():
+	def __init__(self,): 
+		self.name = "REVENUE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

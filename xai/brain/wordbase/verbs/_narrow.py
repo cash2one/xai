@@ -1,6 +1,10 @@
 
 
 #calss header
-class _narrow():
-	def __init__(self): 
-		self.name = "narrow" 
+class _NARROW():
+	def __init__(self,): 
+		self.name = "NARROW"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

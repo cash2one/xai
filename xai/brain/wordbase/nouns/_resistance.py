@@ -1,6 +1,10 @@
 
 
 #calss header
-class _resistance():
-	def __init__(self): 
-		self.name = "resistance" 
+class _RESISTANCE():
+	def __init__(self,): 
+		self.name = "RESISTANCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _relation():
-	def __init__(self): 
-		self.name = "relation" 
+class _RELATION():
+	def __init__(self,): 
+		self.name = "RELATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

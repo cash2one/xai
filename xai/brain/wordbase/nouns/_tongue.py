@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tongue():
-	def __init__(self): 
-		self.name = "tongue" 
+class _TONGUE():
+	def __init__(self,): 
+		self.name = "TONGUE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

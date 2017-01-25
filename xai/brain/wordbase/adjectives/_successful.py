@@ -1,6 +1,12 @@
 
 
 #calss header
-class _successful():
-	def __init__(self): 
-		self.name = "successful" 
+class _SUCCESSFUL():
+	def __init__(self,): 
+		self.name = "SUCCESSFUL"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

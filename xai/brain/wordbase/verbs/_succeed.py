@@ -1,6 +1,10 @@
 
 
 #calss header
-class _succeed():
-	def __init__(self): 
-		self.name = "succeed" 
+class _SUCCEED():
+	def __init__(self,): 
+		self.name = "SUCCEED"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

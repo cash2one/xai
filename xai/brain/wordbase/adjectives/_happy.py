@@ -1,6 +1,12 @@
 
 
 #calss header
-class _happy():
-	def __init__(self): 
-		self.name = "happy" 
+class _HAPPY():
+	def __init__(self,): 
+		self.name = "HAPPY"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

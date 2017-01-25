@@ -1,6 +1,10 @@
 
 
 #calss header
-class _implication():
-	def __init__(self): 
-		self.name = "implication" 
+class _IMPLICATION():
+	def __init__(self,): 
+		self.name = "IMPLICATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

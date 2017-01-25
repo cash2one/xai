@@ -1,6 +1,10 @@
 
 
 #calss header
-class _quote():
-	def __init__(self): 
-		self.name = "quote" 
+class _QUOTE():
+	def __init__(self,): 
+		self.name = "QUOTE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

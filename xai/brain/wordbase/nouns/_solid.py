@@ -1,6 +1,10 @@
 
 
 #calss header
-class _solid():
-	def __init__(self): 
-		self.name = "solid" 
+class _SOLID():
+	def __init__(self,): 
+		self.name = "SOLID"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

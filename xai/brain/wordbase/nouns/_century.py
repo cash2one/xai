@@ -1,6 +1,10 @@
 
 
 #calss header
-class _century():
-	def __init__(self): 
-		self.name = "century" 
+class _CENTURY():
+	def __init__(self,): 
+		self.name = "CENTURY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

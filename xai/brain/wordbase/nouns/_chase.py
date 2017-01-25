@@ -1,6 +1,10 @@
 
 
 #calss header
-class _chase():
-	def __init__(self): 
-		self.name = "chase" 
+class _CHASE():
+	def __init__(self,): 
+		self.name = "CHASE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

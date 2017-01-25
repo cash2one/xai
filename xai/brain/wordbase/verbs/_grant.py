@@ -1,6 +1,10 @@
 
 
 #calss header
-class _grant():
-	def __init__(self): 
-		self.name = "grant" 
+class _GRANT():
+	def __init__(self,): 
+		self.name = "GRANT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ally():
-	def __init__(self): 
-		self.name = "ally" 
+class _ALLY():
+	def __init__(self,): 
+		self.name = "ALLY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

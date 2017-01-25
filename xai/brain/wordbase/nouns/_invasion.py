@@ -1,6 +1,10 @@
 
 
 #calss header
-class _invasion():
-	def __init__(self): 
-		self.name = "invasion" 
+class _INVASION():
+	def __init__(self,): 
+		self.name = "INVASION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

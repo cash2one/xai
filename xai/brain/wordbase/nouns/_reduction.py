@@ -1,6 +1,10 @@
 
 
 #calss header
-class _reduction():
-	def __init__(self): 
-		self.name = "reduction" 
+class _REDUCTION():
+	def __init__(self,): 
+		self.name = "REDUCTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

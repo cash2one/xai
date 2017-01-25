@@ -1,6 +1,10 @@
 
 
 #calss header
-class _producer():
-	def __init__(self): 
-		self.name = "producer" 
+class _PRODUCER():
+	def __init__(self,): 
+		self.name = "PRODUCER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

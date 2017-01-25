@@ -1,6 +1,10 @@
 
 
 #calss header
-class _highway():
-	def __init__(self): 
-		self.name = "highway" 
+class _HIGHWAY():
+	def __init__(self,): 
+		self.name = "HIGHWAY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,12 @@
 
 
 #calss header
-class _physical():
-	def __init__(self): 
-		self.name = "physical" 
+class _PHYSICAL():
+	def __init__(self,): 
+		self.name = "PHYSICAL"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

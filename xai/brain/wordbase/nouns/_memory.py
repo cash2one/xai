@@ -1,6 +1,10 @@
 
 
 #calss header
-class _memory():
-	def __init__(self): 
-		self.name = "memory" 
+class _MEMORY():
+	def __init__(self,): 
+		self.name = "MEMORY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

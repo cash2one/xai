@@ -1,6 +1,10 @@
 
 
 #calss header
-class _atmosphere():
-	def __init__(self): 
-		self.name = "atmosphere" 
+class _ATMOSPHERE():
+	def __init__(self,): 
+		self.name = "ATMOSPHERE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

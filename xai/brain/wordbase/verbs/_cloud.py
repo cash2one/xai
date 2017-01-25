@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cloud():
-	def __init__(self): 
-		self.name = "cloud" 
+class _CLOUD():
+	def __init__(self,): 
+		self.name = "CLOUD"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

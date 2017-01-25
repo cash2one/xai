@@ -1,6 +1,10 @@
 
 
 #calss header
-class _constant():
-	def __init__(self): 
-		self.name = "constant" 
+class _CONSTANT():
+	def __init__(self,): 
+		self.name = "CONSTANT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pitch():
-	def __init__(self): 
-		self.name = "pitch" 
+class _PITCH():
+	def __init__(self,): 
+		self.name = "PITCH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

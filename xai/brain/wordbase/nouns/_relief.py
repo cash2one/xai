@@ -1,6 +1,10 @@
 
 
 #calss header
-class _relief():
-	def __init__(self): 
-		self.name = "relief" 
+class _RELIEF():
+	def __init__(self,): 
+		self.name = "RELIEF"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

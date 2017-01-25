@@ -1,6 +1,10 @@
 
 
 #calss header
-class _layer():
-	def __init__(self): 
-		self.name = "layer" 
+class _LAYER():
+	def __init__(self,): 
+		self.name = "LAYER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

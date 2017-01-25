@@ -1,6 +1,10 @@
 
 
 #calss header
-class _foot():
-	def __init__(self): 
-		self.name = "foot" 
+class _FOOT():
+	def __init__(self,): 
+		self.name = "FOOT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

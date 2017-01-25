@@ -1,6 +1,10 @@
 
 
 #calss header
-class _poetry():
-	def __init__(self): 
-		self.name = "poetry" 
+class _POETRY():
+	def __init__(self,): 
+		self.name = "POETRY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

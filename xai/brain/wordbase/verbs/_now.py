@@ -1,6 +1,10 @@
 
 
 #calss header
-class _now():
-	def __init__(self): 
-		self.name = "now" 
+class _NOW():
+	def __init__(self,): 
+		self.name = "NOW"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

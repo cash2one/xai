@@ -1,6 +1,10 @@
 
 
 #calss header
-class _select():
-	def __init__(self): 
-		self.name = "select" 
+class _SELECT():
+	def __init__(self,): 
+		self.name = "SELECT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

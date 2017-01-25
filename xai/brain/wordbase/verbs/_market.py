@@ -1,6 +1,10 @@
 
 
 #calss header
-class _market():
-	def __init__(self): 
-		self.name = "market" 
+class _MARKET():
+	def __init__(self,): 
+		self.name = "MARKET"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

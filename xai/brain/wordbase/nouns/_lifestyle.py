@@ -1,6 +1,10 @@
 
 
 #calss header
-class _lifestyle():
-	def __init__(self): 
-		self.name = "lifestyle" 
+class _LIFESTYLE():
+	def __init__(self,): 
+		self.name = "LIFESTYLE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

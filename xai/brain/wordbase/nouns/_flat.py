@@ -1,6 +1,10 @@
 
 
 #calss header
-class _flat():
-	def __init__(self): 
-		self.name = "flat" 
+class _FLAT():
+	def __init__(self,): 
+		self.name = "FLAT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

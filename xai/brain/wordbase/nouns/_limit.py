@@ -1,6 +1,10 @@
 
 
 #calss header
-class _limit():
-	def __init__(self): 
-		self.name = "limit" 
+class _LIMIT():
+	def __init__(self,): 
+		self.name = "LIMIT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

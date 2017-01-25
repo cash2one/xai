@@ -1,6 +1,10 @@
 
 
 #calss header
-class _factory():
-	def __init__(self): 
-		self.name = "factory" 
+class _FACTORY():
+	def __init__(self,): 
+		self.name = "FACTORY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

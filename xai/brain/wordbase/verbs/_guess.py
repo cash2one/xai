@@ -1,6 +1,10 @@
 
 
 #calss header
-class _guess():
-	def __init__(self): 
-		self.name = "guess" 
+class _GUESS():
+	def __init__(self,): 
+		self.name = "GUESS"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

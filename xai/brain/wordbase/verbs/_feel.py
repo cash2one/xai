@@ -1,6 +1,10 @@
 
 
 #calss header
-class _feel():
-	def __init__(self): 
-		self.name = "feel" 
+class _FEEL():
+	def __init__(self,): 
+		self.name = "FEEL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _location():
-	def __init__(self): 
-		self.name = "location" 
+class _LOCATION():
+	def __init__(self,): 
+		self.name = "LOCATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

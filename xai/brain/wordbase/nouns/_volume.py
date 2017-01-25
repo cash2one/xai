@@ -1,6 +1,10 @@
 
 
 #calss header
-class _volume():
-	def __init__(self): 
-		self.name = "volume" 
+class _VOLUME():
+	def __init__(self,): 
+		self.name = "VOLUME"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

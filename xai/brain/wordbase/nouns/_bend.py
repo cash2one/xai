@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bend():
-	def __init__(self): 
-		self.name = "bend" 
+class _BEND():
+	def __init__(self,): 
+		self.name = "BEND"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tradition():
-	def __init__(self): 
-		self.name = "tradition" 
+class _TRADITION():
+	def __init__(self,): 
+		self.name = "TRADITION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

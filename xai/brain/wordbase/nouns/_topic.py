@@ -1,6 +1,10 @@
 
 
 #calss header
-class _topic():
-	def __init__(self): 
-		self.name = "topic" 
+class _TOPIC():
+	def __init__(self,): 
+		self.name = "TOPIC"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

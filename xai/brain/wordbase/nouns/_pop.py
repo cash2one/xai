@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pop():
-	def __init__(self): 
-		self.name = "pop" 
+class _POP():
+	def __init__(self,): 
+		self.name = "POP"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

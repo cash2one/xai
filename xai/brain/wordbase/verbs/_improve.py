@@ -1,6 +1,10 @@
 
 
 #calss header
-class _improve():
-	def __init__(self): 
-		self.name = "improve" 
+class _IMPROVE():
+	def __init__(self,): 
+		self.name = "IMPROVE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

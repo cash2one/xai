@@ -1,6 +1,10 @@
 
 
 #calss header
-class _guideline():
-	def __init__(self): 
-		self.name = "guideline" 
+class _GUIDELINE():
+	def __init__(self,): 
+		self.name = "GUIDELINE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

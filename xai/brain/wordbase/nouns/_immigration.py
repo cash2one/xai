@@ -1,6 +1,10 @@
 
 
 #calss header
-class _immigration():
-	def __init__(self): 
-		self.name = "immigration" 
+class _IMMIGRATION():
+	def __init__(self,): 
+		self.name = "IMMIGRATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

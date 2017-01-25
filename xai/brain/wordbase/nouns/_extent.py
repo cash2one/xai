@@ -1,6 +1,10 @@
 
 
 #calss header
-class _extent():
-	def __init__(self): 
-		self.name = "extent" 
+class _EXTENT():
+	def __init__(self,): 
+		self.name = "EXTENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

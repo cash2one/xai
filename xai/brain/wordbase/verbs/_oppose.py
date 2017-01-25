@@ -1,6 +1,10 @@
 
 
 #calss header
-class _oppose():
-	def __init__(self): 
-		self.name = "oppose" 
+class _OPPOSE():
+	def __init__(self,): 
+		self.name = "OPPOSE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

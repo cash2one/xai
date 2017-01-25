@@ -1,6 +1,10 @@
 
 
 #calss header
-class _encourage():
-	def __init__(self): 
-		self.name = "encourage" 
+class _ENCOURAGE():
+	def __init__(self,): 
+		self.name = "ENCOURAGE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

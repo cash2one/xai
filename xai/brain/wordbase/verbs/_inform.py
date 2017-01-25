@@ -1,6 +1,10 @@
 
 
 #calss header
-class _inform():
-	def __init__(self): 
-		self.name = "inform" 
+class _INFORM():
+	def __init__(self,): 
+		self.name = "INFORM"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

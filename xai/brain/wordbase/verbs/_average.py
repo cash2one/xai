@@ -1,6 +1,10 @@
 
 
 #calss header
-class _average():
-	def __init__(self): 
-		self.name = "average" 
+class _AVERAGE():
+	def __init__(self,): 
+		self.name = "AVERAGE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

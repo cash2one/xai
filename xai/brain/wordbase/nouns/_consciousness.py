@@ -1,6 +1,10 @@
 
 
 #calss header
-class _consciousness():
-	def __init__(self): 
-		self.name = "consciousness" 
+class _CONSCIOUSNESS():
+	def __init__(self,): 
+		self.name = "CONSCIOUSNESS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

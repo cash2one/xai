@@ -1,6 +1,10 @@
 
 
 #calss header
-class _spiritual():
-	def __init__(self): 
-		self.name = "spiritual" 
+class _SPIRITUAL():
+	def __init__(self,): 
+		self.name = "SPIRITUAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

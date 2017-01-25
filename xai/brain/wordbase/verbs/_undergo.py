@@ -1,6 +1,10 @@
 
 
 #calss header
-class _undergo():
-	def __init__(self): 
-		self.name = "undergo" 
+class _UNDERGO():
+	def __init__(self,): 
+		self.name = "UNDERGO"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _relax():
-	def __init__(self): 
-		self.name = "relax" 
+class _RELAX():
+	def __init__(self,): 
+		self.name = "RELAX"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

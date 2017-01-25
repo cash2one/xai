@@ -1,6 +1,12 @@
 
 
 #calss header
-class _capital():
-	def __init__(self): 
-		self.name = "capital" 
+class _CAPITAL():
+	def __init__(self,): 
+		self.name = "CAPITAL"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

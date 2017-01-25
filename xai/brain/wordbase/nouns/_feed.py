@@ -1,6 +1,10 @@
 
 
 #calss header
-class _feed():
-	def __init__(self): 
-		self.name = "feed" 
+class _FEED():
+	def __init__(self,): 
+		self.name = "FEED"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

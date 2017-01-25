@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sector():
-	def __init__(self): 
-		self.name = "sector" 
+class _SECTOR():
+	def __init__(self,): 
+		self.name = "SECTOR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

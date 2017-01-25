@@ -1,6 +1,10 @@
 
 
 #calss header
-class _expand():
-	def __init__(self): 
-		self.name = "expand" 
+class _EXPAND():
+	def __init__(self,): 
+		self.name = "EXPAND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

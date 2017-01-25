@@ -1,6 +1,10 @@
 
 
 #calss header
-class _zone():
-	def __init__(self): 
-		self.name = "zone" 
+class _ZONE():
+	def __init__(self,): 
+		self.name = "ZONE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

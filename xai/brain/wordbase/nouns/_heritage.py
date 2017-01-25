@@ -1,6 +1,10 @@
 
 
 #calss header
-class _heritage():
-	def __init__(self): 
-		self.name = "heritage" 
+class _HERITAGE():
+	def __init__(self,): 
+		self.name = "HERITAGE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

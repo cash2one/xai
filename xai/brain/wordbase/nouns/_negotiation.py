@@ -1,6 +1,10 @@
 
 
 #calss header
-class _negotiation():
-	def __init__(self): 
-		self.name = "negotiation" 
+class _NEGOTIATION():
+	def __init__(self,): 
+		self.name = "NEGOTIATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

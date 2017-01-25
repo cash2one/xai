@@ -1,6 +1,10 @@
 
 
 #calss header
-class _hear():
-	def __init__(self): 
-		self.name = "hear" 
+class _HEAR():
+	def __init__(self,): 
+		self.name = "HEAR"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

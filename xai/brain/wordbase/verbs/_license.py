@@ -1,6 +1,10 @@
 
 
 #calss header
-class _license():
-	def __init__(self): 
-		self.name = "license" 
+class _LICENSE():
+	def __init__(self,): 
+		self.name = "LICENSE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

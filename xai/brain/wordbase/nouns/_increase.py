@@ -1,6 +1,10 @@
 
 
 #calss header
-class _increase():
-	def __init__(self): 
-		self.name = "increase" 
+class _INCREASE():
+	def __init__(self,): 
+		self.name = "INCREASE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

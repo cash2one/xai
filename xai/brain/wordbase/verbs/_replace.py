@@ -1,6 +1,10 @@
 
 
 #calss header
-class _replace():
-	def __init__(self): 
-		self.name = "replace" 
+class _REPLACE():
+	def __init__(self,): 
+		self.name = "REPLACE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

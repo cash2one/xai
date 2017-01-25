@@ -1,6 +1,10 @@
 
 
 #calss header
-class _history():
-	def __init__(self): 
-		self.name = "history" 
+class _HISTORY():
+	def __init__(self,): 
+		self.name = "HISTORY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

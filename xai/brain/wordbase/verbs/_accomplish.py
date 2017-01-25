@@ -1,6 +1,10 @@
 
 
 #calss header
-class _accomplish():
-	def __init__(self): 
-		self.name = "accomplish" 
+class _ACCOMPLISH():
+	def __init__(self,): 
+		self.name = "ACCOMPLISH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

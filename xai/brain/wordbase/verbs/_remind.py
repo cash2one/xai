@@ -1,6 +1,10 @@
 
 
 #calss header
-class _remind():
-	def __init__(self): 
-		self.name = "remind" 
+class _REMIND():
+	def __init__(self,): 
+		self.name = "REMIND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _primarily():
-	def __init__(self): 
-		self.name = "primarily" 
+class _PRIMARILY():
+	def __init__(self,): 
+		self.name = "PRIMARILY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

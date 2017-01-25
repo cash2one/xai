@@ -1,6 +1,10 @@
 
 
 #calss header
-class _thousand():
-	def __init__(self): 
-		self.name = "thousand" 
+class _THOUSAND():
+	def __init__(self,): 
+		self.name = "THOUSAND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,12 @@
 
 
 #calss header
-class _tight():
-	def __init__(self): 
-		self.name = "tight" 
+class _TIGHT():
+	def __init__(self,): 
+		self.name = "TIGHT"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

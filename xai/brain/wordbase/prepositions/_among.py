@@ -1,6 +1,10 @@
 
 
 #calss header
-class _among():
-	def __init__(self): 
-		self.name = "among" 
+class _AMONG():
+	def __init__(self,): 
+		self.name = "AMONG"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

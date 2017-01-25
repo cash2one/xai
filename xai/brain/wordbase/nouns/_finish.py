@@ -1,6 +1,10 @@
 
 
 #calss header
-class _finish():
-	def __init__(self): 
-		self.name = "finish" 
+class _FINISH():
+	def __init__(self,): 
+		self.name = "FINISH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

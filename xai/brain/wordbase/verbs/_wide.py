@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wide():
-	def __init__(self): 
-		self.name = "wide" 
+class _WIDE():
+	def __init__(self,): 
+		self.name = "WIDE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

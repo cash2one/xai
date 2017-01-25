@@ -1,6 +1,10 @@
 
 
 #calss header
-class _influence():
-	def __init__(self): 
-		self.name = "influence" 
+class _INFLUENCE():
+	def __init__(self,): 
+		self.name = "INFLUENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

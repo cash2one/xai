@@ -1,6 +1,10 @@
 
 
 #calss header
-class _transition():
-	def __init__(self): 
-		self.name = "transition" 
+class _TRANSITION():
+	def __init__(self,): 
+		self.name = "TRANSITION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

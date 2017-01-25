@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rail():
-	def __init__(self): 
-		self.name = "rail" 
+class _RAIL():
+	def __init__(self,): 
+		self.name = "RAIL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

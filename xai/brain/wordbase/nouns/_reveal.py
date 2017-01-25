@@ -1,6 +1,10 @@
 
 
 #calss header
-class _reveal():
-	def __init__(self): 
-		self.name = "reveal" 
+class _REVEAL():
+	def __init__(self,): 
+		self.name = "REVEAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

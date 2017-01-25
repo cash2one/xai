@@ -1,6 +1,7 @@
 
 
 #calss header
-class _certain():
-	def __init__(self): 
-		self.name = "certain" 
+class _CERTAIN():
+	def __init__(self,): 
+		self.name = "CERTAIN"
+		self.jsondata = {}

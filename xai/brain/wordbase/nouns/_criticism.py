@@ -1,6 +1,10 @@
 
 
 #calss header
-class _criticism():
-	def __init__(self): 
-		self.name = "criticism" 
+class _CRITICISM():
+	def __init__(self,): 
+		self.name = "CRITICISM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

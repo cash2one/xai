@@ -1,6 +1,10 @@
 
 
 #calss header
-class _might():
-	def __init__(self): 
-		self.name = "might" 
+class _MIGHT():
+	def __init__(self,): 
+		self.name = "MIGHT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

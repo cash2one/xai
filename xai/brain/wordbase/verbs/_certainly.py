@@ -1,6 +1,10 @@
 
 
 #calss header
-class _certainly():
-	def __init__(self): 
-		self.name = "certainly" 
+class _CERTAINLY():
+	def __init__(self,): 
+		self.name = "CERTAINLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

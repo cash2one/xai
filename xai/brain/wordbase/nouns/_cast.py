@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cast():
-	def __init__(self): 
-		self.name = "cast" 
+class _CAST():
+	def __init__(self,): 
+		self.name = "CAST"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

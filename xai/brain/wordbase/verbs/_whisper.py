@@ -1,6 +1,10 @@
 
 
 #calss header
-class _whisper():
-	def __init__(self): 
-		self.name = "whisper" 
+class _WHISPER():
+	def __init__(self,): 
+		self.name = "WHISPER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

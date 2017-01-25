@@ -1,6 +1,10 @@
 
 
 #calss header
-class _impact():
-	def __init__(self): 
-		self.name = "impact" 
+class _IMPACT():
+	def __init__(self,): 
+		self.name = "IMPACT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

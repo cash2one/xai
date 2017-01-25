@@ -1,6 +1,10 @@
 
 
 #calss header
-class _allow():
-	def __init__(self): 
-		self.name = "allow" 
+class _ALLOW():
+	def __init__(self,): 
+		self.name = "ALLOW"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

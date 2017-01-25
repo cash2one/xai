@@ -1,6 +1,10 @@
 
 
 #calss header
-class _field():
-	def __init__(self): 
-		self.name = "field" 
+class _FIELD():
+	def __init__(self,): 
+		self.name = "FIELD"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

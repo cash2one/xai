@@ -1,6 +1,10 @@
 
 
 #calss header
-class _distribute():
-	def __init__(self): 
-		self.name = "distribute" 
+class _DISTRIBUTE():
+	def __init__(self,): 
+		self.name = "DISTRIBUTE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

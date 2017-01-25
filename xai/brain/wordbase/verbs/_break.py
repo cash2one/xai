@@ -1,6 +1,10 @@
 
 
 #calss header
-class _break():
-	def __init__(self): 
-		self.name = "break" 
+class _BREAK():
+	def __init__(self,): 
+		self.name = "BREAK"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

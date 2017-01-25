@@ -1,6 +1,10 @@
 
 
 #calss header
-class _transfer():
-	def __init__(self): 
-		self.name = "transfer" 
+class _TRANSFER():
+	def __init__(self,): 
+		self.name = "TRANSFER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

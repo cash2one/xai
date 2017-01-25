@@ -1,6 +1,10 @@
 
 
 #calss header
-class _total():
-	def __init__(self): 
-		self.name = "total" 
+class _TOTAL():
+	def __init__(self,): 
+		self.name = "TOTAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

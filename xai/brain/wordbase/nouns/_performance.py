@@ -1,6 +1,10 @@
 
 
 #calss header
-class _performance():
-	def __init__(self): 
-		self.name = "performance" 
+class _PERFORMANCE():
+	def __init__(self,): 
+		self.name = "PERFORMANCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

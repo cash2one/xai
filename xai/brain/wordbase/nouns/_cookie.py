@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cookie():
-	def __init__(self): 
-		self.name = "cookie" 
+class _COOKIE():
+	def __init__(self,): 
+		self.name = "COOKIE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

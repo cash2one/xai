@@ -1,6 +1,10 @@
 
 
 #calss header
-class _front():
-	def __init__(self): 
-		self.name = "front" 
+class _FRONT():
+	def __init__(self,): 
+		self.name = "FRONT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

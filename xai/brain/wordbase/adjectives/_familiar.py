@@ -1,6 +1,12 @@
 
 
 #calss header
-class _familiar():
-	def __init__(self): 
-		self.name = "familiar" 
+class _FAMILIAR():
+	def __init__(self,): 
+		self.name = "FAMILIAR"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

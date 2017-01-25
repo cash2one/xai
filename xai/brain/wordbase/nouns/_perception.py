@@ -1,6 +1,10 @@
 
 
 #calss header
-class _perception():
-	def __init__(self): 
-		self.name = "perception" 
+class _PERCEPTION():
+	def __init__(self,): 
+		self.name = "PERCEPTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _smile():
-	def __init__(self): 
-		self.name = "smile" 
+class _SMILE():
+	def __init__(self,): 
+		self.name = "SMILE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

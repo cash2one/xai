@@ -1,6 +1,10 @@
 
 
 #calss header
-class _circle():
-	def __init__(self): 
-		self.name = "circle" 
+class _CIRCLE():
+	def __init__(self,): 
+		self.name = "CIRCLE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

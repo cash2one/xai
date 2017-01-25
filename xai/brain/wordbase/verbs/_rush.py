@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rush():
-	def __init__(self): 
-		self.name = "rush" 
+class _RUSH():
+	def __init__(self,): 
+		self.name = "RUSH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

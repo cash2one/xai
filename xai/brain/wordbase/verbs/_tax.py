@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tax():
-	def __init__(self): 
-		self.name = "tax" 
+class _TAX():
+	def __init__(self,): 
+		self.name = "TAX"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

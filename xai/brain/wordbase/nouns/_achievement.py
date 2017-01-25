@@ -1,6 +1,10 @@
 
 
 #calss header
-class _achievement():
-	def __init__(self): 
-		self.name = "achievement" 
+class _ACHIEVEMENT():
+	def __init__(self,): 
+		self.name = "ACHIEVEMENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _left():
-	def __init__(self): 
-		self.name = "left" 
+class _LEFT():
+	def __init__(self,): 
+		self.name = "LEFT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

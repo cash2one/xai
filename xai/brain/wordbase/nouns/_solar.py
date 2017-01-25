@@ -1,6 +1,7 @@
 
 
 #calss header
-class _solar():
-	def __init__(self): 
-		self.name = "solar" 
+class _SOLAR():
+	def __init__(self,): 
+		self.name = "SOLAR"
+		self.jsondata = {}

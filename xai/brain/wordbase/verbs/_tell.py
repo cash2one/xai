@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tell():
-	def __init__(self): 
-		self.name = "tell" 
+class _TELL():
+	def __init__(self,): 
+		self.name = "TELL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _phenomenon():
-	def __init__(self): 
-		self.name = "phenomenon" 
+class _PHENOMENON():
+	def __init__(self,): 
+		self.name = "PHENOMENON"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

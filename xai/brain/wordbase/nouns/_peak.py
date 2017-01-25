@@ -1,6 +1,10 @@
 
 
 #calss header
-class _peak():
-	def __init__(self): 
-		self.name = "peak" 
+class _PEAK():
+	def __init__(self,): 
+		self.name = "PEAK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

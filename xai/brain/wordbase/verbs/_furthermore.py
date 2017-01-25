@@ -1,6 +1,10 @@
 
 
 #calss header
-class _furthermore():
-	def __init__(self): 
-		self.name = "furthermore" 
+class _FURTHERMORE():
+	def __init__(self,): 
+		self.name = "FURTHERMORE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

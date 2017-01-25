@@ -1,6 +1,10 @@
 
 
 #calss header
-class _battery():
-	def __init__(self): 
-		self.name = "battery" 
+class _BATTERY():
+	def __init__(self,): 
+		self.name = "BATTERY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

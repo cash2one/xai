@@ -1,6 +1,10 @@
 
 
 #calss header
-class _perform():
-	def __init__(self): 
-		self.name = "perform" 
+class _PERFORM():
+	def __init__(self,): 
+		self.name = "PERFORM"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

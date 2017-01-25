@@ -1,6 +1,10 @@
 
 
 #calss header
-class _found():
-	def __init__(self): 
-		self.name = "found" 
+class _FOUND():
+	def __init__(self,): 
+		self.name = "FOUND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

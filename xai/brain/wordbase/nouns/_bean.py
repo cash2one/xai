@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bean():
-	def __init__(self): 
-		self.name = "bean" 
+class _BEAN():
+	def __init__(self,): 
+		self.name = "BEAN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _point():
-	def __init__(self): 
-		self.name = "point" 
+class _POINT():
+	def __init__(self,): 
+		self.name = "POINT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

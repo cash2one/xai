@@ -1,6 +1,10 @@
 
 
 #calss header
-class _boom():
-	def __init__(self): 
-		self.name = "boom" 
+class _BOOM():
+	def __init__(self,): 
+		self.name = "BOOM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

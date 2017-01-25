@@ -1,6 +1,10 @@
 
 
 #calss header
-class _approximately():
-	def __init__(self): 
-		self.name = "approximately" 
+class _APPROXIMATELY():
+	def __init__(self,): 
+		self.name = "APPROXIMATELY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

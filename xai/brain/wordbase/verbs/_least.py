@@ -1,6 +1,10 @@
 
 
 #calss header
-class _least():
-	def __init__(self): 
-		self.name = "least" 
+class _LEAST():
+	def __init__(self,): 
+		self.name = "LEAST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

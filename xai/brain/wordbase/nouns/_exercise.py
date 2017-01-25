@@ -1,6 +1,10 @@
 
 
 #calss header
-class _exercise():
-	def __init__(self): 
-		self.name = "exercise" 
+class _EXERCISE():
+	def __init__(self,): 
+		self.name = "EXERCISE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

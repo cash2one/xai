@@ -1,6 +1,10 @@
 
 
 #calss header
-class _peak():
-	def __init__(self): 
-		self.name = "peak" 
+class _PEAK():
+	def __init__(self,): 
+		self.name = "PEAK"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

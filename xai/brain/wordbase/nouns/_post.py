@@ -1,6 +1,10 @@
 
 
 #calss header
-class _post():
-	def __init__(self): 
-		self.name = "post" 
+class _POST():
+	def __init__(self,): 
+		self.name = "POST"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

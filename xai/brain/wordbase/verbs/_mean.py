@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mean():
-	def __init__(self): 
-		self.name = "mean" 
+class _MEAN():
+	def __init__(self,): 
+		self.name = "MEAN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

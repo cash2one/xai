@@ -1,6 +1,10 @@
 
 
 #calss header
-class _county():
-	def __init__(self): 
-		self.name = "county" 
+class _COUNTY():
+	def __init__(self,): 
+		self.name = "COUNTY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

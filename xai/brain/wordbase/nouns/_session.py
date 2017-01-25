@@ -1,6 +1,10 @@
 
 
 #calss header
-class _session():
-	def __init__(self): 
-		self.name = "session" 
+class _SESSION():
+	def __init__(self,): 
+		self.name = "SESSION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

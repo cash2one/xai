@@ -1,6 +1,10 @@
 
 
 #calss header
-class _nerve():
-	def __init__(self): 
-		self.name = "nerve" 
+class _NERVE():
+	def __init__(self,): 
+		self.name = "NERVE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

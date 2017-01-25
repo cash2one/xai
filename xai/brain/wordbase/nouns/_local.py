@@ -1,6 +1,10 @@
 
 
 #calss header
-class _local():
-	def __init__(self): 
-		self.name = "local" 
+class _LOCAL():
+	def __init__(self,): 
+		self.name = "LOCAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

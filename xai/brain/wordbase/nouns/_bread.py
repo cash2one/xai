@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bread():
-	def __init__(self): 
-		self.name = "bread" 
+class _BREAD():
+	def __init__(self,): 
+		self.name = "BREAD"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

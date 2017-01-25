@@ -1,6 +1,10 @@
 
 
 #calss header
-class _impossible():
-	def __init__(self): 
-		self.name = "impossible" 
+class _IMPOSSIBLE():
+	def __init__(self,): 
+		self.name = "IMPOSSIBLE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

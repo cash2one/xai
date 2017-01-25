@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fuel():
-	def __init__(self): 
-		self.name = "fuel" 
+class _FUEL():
+	def __init__(self,): 
+		self.name = "FUEL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

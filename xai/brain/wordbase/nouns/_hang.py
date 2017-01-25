@@ -1,6 +1,10 @@
 
 
 #calss header
-class _hang():
-	def __init__(self): 
-		self.name = "hang" 
+class _HANG():
+	def __init__(self,): 
+		self.name = "HANG"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

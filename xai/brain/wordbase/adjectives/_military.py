@@ -1,6 +1,12 @@
 
 
 #calss header
-class _military():
-	def __init__(self): 
-		self.name = "military" 
+class _MILITARY():
+	def __init__(self,): 
+		self.name = "MILITARY"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

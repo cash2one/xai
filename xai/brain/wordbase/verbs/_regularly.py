@@ -1,6 +1,10 @@
 
 
 #calss header
-class _regularly():
-	def __init__(self): 
-		self.name = "regularly" 
+class _REGULARLY():
+	def __init__(self,): 
+		self.name = "REGULARLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

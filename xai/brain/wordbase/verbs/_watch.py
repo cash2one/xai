@@ -1,6 +1,10 @@
 
 
 #calss header
-class _watch():
-	def __init__(self): 
-		self.name = "watch" 
+class _WATCH():
+	def __init__(self,): 
+		self.name = "WATCH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

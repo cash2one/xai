@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sand():
-	def __init__(self): 
-		self.name = "sand" 
+class _SAND():
+	def __init__(self,): 
+		self.name = "SAND"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

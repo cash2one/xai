@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bet():
-	def __init__(self): 
-		self.name = "bet" 
+class _BET():
+	def __init__(self,): 
+		self.name = "BET"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

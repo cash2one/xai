@@ -1,6 +1,10 @@
 
 
 #calss header
-class _obtain():
-	def __init__(self): 
-		self.name = "obtain" 
+class _OBTAIN():
+	def __init__(self,): 
+		self.name = "OBTAIN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

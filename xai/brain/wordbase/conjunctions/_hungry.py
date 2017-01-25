@@ -1,6 +1,10 @@
 
 
 #calss header
-class _hungry():
-	def __init__(self): 
-		self.name = "hungry" 
+class _HUNGRY():
+	def __init__(self,): 
+		self.name = "HUNGRY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

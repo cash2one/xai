@@ -1,6 +1,10 @@
 
 
 #calss header
-class _role():
-	def __init__(self): 
-		self.name = "role" 
+class _ROLE():
+	def __init__(self,): 
+		self.name = "ROLE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

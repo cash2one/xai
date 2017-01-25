@@ -1,6 +1,10 @@
 
 
 #calss header
-class _border():
-	def __init__(self): 
-		self.name = "border" 
+class _BORDER():
+	def __init__(self,): 
+		self.name = "BORDER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

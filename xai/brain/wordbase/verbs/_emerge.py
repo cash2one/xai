@@ -1,6 +1,10 @@
 
 
 #calss header
-class _emerge():
-	def __init__(self): 
-		self.name = "emerge" 
+class _EMERGE():
+	def __init__(self,): 
+		self.name = "EMERGE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

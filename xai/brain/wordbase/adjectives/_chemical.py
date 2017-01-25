@@ -1,6 +1,12 @@
 
 
 #calss header
-class _chemical():
-	def __init__(self): 
-		self.name = "chemical" 
+class _CHEMICAL():
+	def __init__(self,): 
+		self.name = "CHEMICAL"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _scene():
-	def __init__(self): 
-		self.name = "scene" 
+class _SCENE():
+	def __init__(self,): 
+		self.name = "SCENE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

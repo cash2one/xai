@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mood():
-	def __init__(self): 
-		self.name = "mood" 
+class _MOOD():
+	def __init__(self,): 
+		self.name = "MOOD"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

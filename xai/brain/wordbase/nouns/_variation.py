@@ -1,6 +1,10 @@
 
 
 #calss header
-class _variation():
-	def __init__(self): 
-		self.name = "variation" 
+class _VARIATION():
+	def __init__(self,): 
+		self.name = "VARIATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

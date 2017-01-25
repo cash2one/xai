@@ -1,6 +1,10 @@
 
 
 #calss header
-class _all():
-	def __init__(self): 
-		self.name = "all" 
+class _ALL():
+	def __init__(self,): 
+		self.name = "ALL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

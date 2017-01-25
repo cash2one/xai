@@ -1,6 +1,10 @@
 
 
 #calss header
-class _odds():
-	def __init__(self): 
-		self.name = "odds" 
+class _ODDS():
+	def __init__(self,): 
+		self.name = "ODDS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

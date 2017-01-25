@@ -1,6 +1,10 @@
 
 
 #calss header
-class _natural():
-	def __init__(self): 
-		self.name = "natural" 
+class _NATURAL():
+	def __init__(self,): 
+		self.name = "NATURAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _auto():
-	def __init__(self): 
-		self.name = "auto" 
+class _AUTO():
+	def __init__(self,): 
+		self.name = "AUTO"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

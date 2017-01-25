@@ -1,6 +1,10 @@
 
 
 #calss header
-class _catch():
-	def __init__(self): 
-		self.name = "catch" 
+class _CATCH():
+	def __init__(self,): 
+		self.name = "CATCH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

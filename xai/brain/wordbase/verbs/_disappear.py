@@ -1,6 +1,10 @@
 
 
 #calss header
-class _disappear():
-	def __init__(self): 
-		self.name = "disappear" 
+class _DISAPPEAR():
+	def __init__(self,): 
+		self.name = "DISAPPEAR"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

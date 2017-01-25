@@ -1,6 +1,10 @@
 
 
 #calss header
-class _desert():
-	def __init__(self): 
-		self.name = "desert" 
+class _DESERT():
+	def __init__(self,): 
+		self.name = "DESERT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pack():
-	def __init__(self): 
-		self.name = "pack" 
+class _PACK():
+	def __init__(self,): 
+		self.name = "PACK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

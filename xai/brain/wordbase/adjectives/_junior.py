@@ -1,6 +1,12 @@
 
 
 #calss header
-class _junior():
-	def __init__(self): 
-		self.name = "junior" 
+class _JUNIOR():
+	def __init__(self,): 
+		self.name = "JUNIOR"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

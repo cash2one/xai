@@ -26,7 +26,7 @@ class Analyze():
                 self.specie, self.relation_analyze = self.check_specie(specie)
                 self.exist = self.find_memory()
                 for defition in defitions:
-                    print(defition)
+                    # print(defition)
                     # self.parents, self.childen= self.sent_analyze(defition)
                     # print(self.parents, self.childen)
                     # classdata = 
@@ -81,10 +81,11 @@ class Analyze():
         result = ""
         # print(defition)
         sent = nltk.word_tokenize(defition)
-        self.find_conjunctions(sent)
-        self.find_prepositions(sent)
+        conj = self.find_conjunctions(sent)
+        prep = self.find_prepositions(sent)
+        print(conj)
+        print(prep)
 
-        sent = nltk.pos_tag(sent)
         return sent
     #
     def find_conjunctions(self, sent):
@@ -95,38 +96,24 @@ class Analyze():
             if word in self.memory.word.wordbase['conjunctions']:
                 conj.append(word)
         return conj
-        pass
     #
     def find_prepositions(self, sent):
         '''
         '''
-        conj = []
+        prep = []
         for word in sent:
             if word in self.memory.word.wordbase['prepositions']:
-                conj.append(word)
-        return conj
+                prep.append(word)
+        return prep
         pass
     #
-    def relation_noun(self, defition):
+    def relation_noun(self, defitions):
         '''
         '''
-        sent = self.sent_analyze(defition)
-        childen = []
-        parents = []
-        properties = []
-        grammar = "NP: {<VBZ>*<DT>?<JJ>*<NN>}"
-        cp = nltk.RegexpParser(grammar)
-        result = cp.parse(sent)
-        print(result)
-        for subtree in result.subtrees(filter=lambda t: t.label() == 'NP'):
-            for word in subtree:
-                print(word[0])
-                if('JJ' in word[1]):
-                    properties.append(word[0])
-                if('NN' in word[1]):
-                    parents.append(word[0])
-            return properties, parents
-        return [],[]
+
+        sent = self.sent_analyze(defitions)
+
+        pass
     #
     def relation_verb(self, defition):
         pass

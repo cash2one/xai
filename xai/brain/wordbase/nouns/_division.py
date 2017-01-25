@@ -1,6 +1,10 @@
 
 
 #calss header
-class _division():
-	def __init__(self): 
-		self.name = "division" 
+class _DIVISION():
+	def __init__(self,): 
+		self.name = "DIVISION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

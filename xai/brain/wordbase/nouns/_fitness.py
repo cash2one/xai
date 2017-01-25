@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fitness():
-	def __init__(self): 
-		self.name = "fitness" 
+class _FITNESS():
+	def __init__(self,): 
+		self.name = "FITNESS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

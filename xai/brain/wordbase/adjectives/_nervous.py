@@ -1,6 +1,12 @@
 
 
 #calss header
-class _nervous():
-	def __init__(self): 
-		self.name = "nervous" 
+class _NERVOUS():
+	def __init__(self,): 
+		self.name = "NERVOUS"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _existence():
-	def __init__(self): 
-		self.name = "existence" 
+class _EXISTENCE():
+	def __init__(self,): 
+		self.name = "EXISTENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mirror():
-	def __init__(self): 
-		self.name = "mirror" 
+class _MIRROR():
+	def __init__(self,): 
+		self.name = "MIRROR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

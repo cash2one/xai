@@ -1,6 +1,10 @@
 
 
 #calss header
-class _slice():
-	def __init__(self): 
-		self.name = "slice" 
+class _SLICE():
+	def __init__(self,): 
+		self.name = "SLICE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wake():
-	def __init__(self): 
-		self.name = "wake" 
+class _WAKE():
+	def __init__(self,): 
+		self.name = "WAKE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ever():
-	def __init__(self): 
-		self.name = "ever" 
+class _EVER():
+	def __init__(self,): 
+		self.name = "EVER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

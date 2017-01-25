@@ -1,6 +1,10 @@
 
 
 #calss header
-class _abroad():
-	def __init__(self): 
-		self.name = "abroad" 
+class _ABROAD():
+	def __init__(self,): 
+		self.name = "ABROAD"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

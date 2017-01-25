@@ -1,6 +1,10 @@
 
 
 #calss header
-class _access():
-	def __init__(self): 
-		self.name = "access" 
+class _ACCESS():
+	def __init__(self,): 
+		self.name = "ACCESS"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

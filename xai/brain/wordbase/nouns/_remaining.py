@@ -1,6 +1,7 @@
 
 
 #calss header
-class _remaining():
-	def __init__(self): 
-		self.name = "remaining" 
+class _REMAINING():
+	def __init__(self,): 
+		self.name = "REMAINING"
+		self.jsondata = {}

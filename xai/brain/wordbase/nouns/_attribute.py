@@ -1,6 +1,10 @@
 
 
 #calss header
-class _attribute():
-	def __init__(self): 
-		self.name = "attribute" 
+class _ATTRIBUTE():
+	def __init__(self,): 
+		self.name = "ATTRIBUTE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _generation():
-	def __init__(self): 
-		self.name = "generation" 
+class _GENERATION():
+	def __init__(self,): 
+		self.name = "GENERATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

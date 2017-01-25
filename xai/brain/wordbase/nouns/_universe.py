@@ -1,6 +1,10 @@
 
 
 #calss header
-class _universe():
-	def __init__(self): 
-		self.name = "universe" 
+class _UNIVERSE():
+	def __init__(self,): 
+		self.name = "UNIVERSE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

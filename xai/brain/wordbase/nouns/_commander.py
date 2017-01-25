@@ -1,6 +1,10 @@
 
 
 #calss header
-class _commander():
-	def __init__(self): 
-		self.name = "commander" 
+class _COMMANDER():
+	def __init__(self,): 
+		self.name = "COMMANDER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _past():
-	def __init__(self): 
-		self.name = "past" 
+class _PAST():
+	def __init__(self,): 
+		self.name = "PAST"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

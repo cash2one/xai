@@ -1,6 +1,10 @@
 
 
 #calss header
-class _congress():
-	def __init__(self): 
-		self.name = "congress" 
+class _CONGRESS():
+	def __init__(self,): 
+		self.name = "CONGRESS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

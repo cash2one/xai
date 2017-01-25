@@ -1,6 +1,10 @@
 
 
 #calss header
-class _steal():
-	def __init__(self): 
-		self.name = "steal" 
+class _STEAL():
+	def __init__(self,): 
+		self.name = "STEAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

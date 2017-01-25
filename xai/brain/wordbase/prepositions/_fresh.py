@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fresh():
-	def __init__(self): 
-		self.name = "fresh" 
+class _FRESH():
+	def __init__(self,): 
+		self.name = "FRESH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

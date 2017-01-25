@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shake():
-	def __init__(self): 
-		self.name = "shake" 
+class _SHAKE():
+	def __init__(self,): 
+		self.name = "SHAKE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

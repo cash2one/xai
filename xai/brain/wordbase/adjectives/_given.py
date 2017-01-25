@@ -1,6 +1,12 @@
 
 
 #calss header
-class _given():
-	def __init__(self): 
-		self.name = "given" 
+class _GIVEN():
+	def __init__(self,): 
+		self.name = "GIVEN"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

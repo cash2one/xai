@@ -1,6 +1,10 @@
 
 
 #calss header
-class _moral():
-	def __init__(self): 
-		self.name = "moral" 
+class _MORAL():
+	def __init__(self,): 
+		self.name = "MORAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

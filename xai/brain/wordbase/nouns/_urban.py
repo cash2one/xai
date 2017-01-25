@@ -1,6 +1,7 @@
 
 
 #calss header
-class _urban():
-	def __init__(self): 
-		self.name = "urban" 
+class _URBAN():
+	def __init__(self,): 
+		self.name = "URBAN"
+		self.jsondata = {}

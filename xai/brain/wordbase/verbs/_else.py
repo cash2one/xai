@@ -1,6 +1,10 @@
 
 
 #calss header
-class _else():
-	def __init__(self): 
-		self.name = "else" 
+class _ELSE():
+	def __init__(self,): 
+		self.name = "ELSE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

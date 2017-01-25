@@ -1,6 +1,10 @@
 
 
 #calss header
-class _studio():
-	def __init__(self): 
-		self.name = "studio" 
+class _STUDIO():
+	def __init__(self,): 
+		self.name = "STUDIO"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

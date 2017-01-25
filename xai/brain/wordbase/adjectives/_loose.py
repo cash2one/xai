@@ -1,6 +1,12 @@
 
 
 #calss header
-class _loose():
-	def __init__(self): 
-		self.name = "loose" 
+class _LOOSE():
+	def __init__(self,): 
+		self.name = "LOOSE"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

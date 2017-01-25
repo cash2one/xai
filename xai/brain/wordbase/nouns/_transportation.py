@@ -1,6 +1,10 @@
 
 
 #calss header
-class _transportation():
-	def __init__(self): 
-		self.name = "transportation" 
+class _TRANSPORTATION():
+	def __init__(self,): 
+		self.name = "TRANSPORTATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

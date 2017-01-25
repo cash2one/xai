@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sanction():
-	def __init__(self): 
-		self.name = "sanction" 
+class _SANCTION():
+	def __init__(self,): 
+		self.name = "SANCTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

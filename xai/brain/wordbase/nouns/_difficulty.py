@@ -1,6 +1,10 @@
 
 
 #calss header
-class _difficulty():
-	def __init__(self): 
-		self.name = "difficulty" 
+class _DIFFICULTY():
+	def __init__(self,): 
+		self.name = "DIFFICULTY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

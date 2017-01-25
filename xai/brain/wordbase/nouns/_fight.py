@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fight():
-	def __init__(self): 
-		self.name = "fight" 
+class _FIGHT():
+	def __init__(self,): 
+		self.name = "FIGHT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

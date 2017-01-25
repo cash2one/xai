@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bomb():
-	def __init__(self): 
-		self.name = "bomb" 
+class _BOMB():
+	def __init__(self,): 
+		self.name = "BOMB"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

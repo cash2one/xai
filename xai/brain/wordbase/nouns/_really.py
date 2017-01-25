@@ -1,6 +1,10 @@
 
 
 #calss header
-class _really():
-	def __init__(self): 
-		self.name = "really" 
+class _REALLY():
+	def __init__(self,): 
+		self.name = "REALLY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _technique():
-	def __init__(self): 
-		self.name = "technique" 
+class _TECHNIQUE():
+	def __init__(self,): 
+		self.name = "TECHNIQUE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

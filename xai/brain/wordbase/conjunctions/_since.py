@@ -1,6 +1,10 @@
 
 
 #calss header
-class _since():
-	def __init__(self): 
-		self.name = "since" 
+class _SINCE():
+	def __init__(self,): 
+		self.name = "SINCE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

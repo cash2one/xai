@@ -1,6 +1,10 @@
 
 
 #calss header
-class _observer():
-	def __init__(self): 
-		self.name = "observer" 
+class _OBSERVER():
+	def __init__(self,): 
+		self.name = "OBSERVER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

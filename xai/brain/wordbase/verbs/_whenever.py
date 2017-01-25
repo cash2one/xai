@@ -1,6 +1,10 @@
 
 
 #calss header
-class _whenever():
-	def __init__(self): 
-		self.name = "whenever" 
+class _WHENEVER():
+	def __init__(self,): 
+		self.name = "WHENEVER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shadow():
-	def __init__(self): 
-		self.name = "shadow" 
+class _SHADOW():
+	def __init__(self,): 
+		self.name = "SHADOW"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

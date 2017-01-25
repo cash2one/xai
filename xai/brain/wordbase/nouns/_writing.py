@@ -1,6 +1,10 @@
 
 
 #calss header
-class _writing():
-	def __init__(self): 
-		self.name = "writing" 
+class _WRITING():
+	def __init__(self,): 
+		self.name = "WRITING"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

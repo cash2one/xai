@@ -1,6 +1,10 @@
 
 
 #calss header
-class _forever():
-	def __init__(self): 
-		self.name = "forever" 
+class _FOREVER():
+	def __init__(self,): 
+		self.name = "FOREVER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

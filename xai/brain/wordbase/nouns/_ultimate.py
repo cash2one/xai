@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ultimate():
-	def __init__(self): 
-		self.name = "ultimate" 
+class _ULTIMATE():
+	def __init__(self,): 
+		self.name = "ULTIMATE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

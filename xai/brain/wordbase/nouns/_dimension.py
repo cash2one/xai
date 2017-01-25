@@ -1,6 +1,10 @@
 
 
 #calss header
-class _dimension():
-	def __init__(self): 
-		self.name = "dimension" 
+class _DIMENSION():
+	def __init__(self,): 
+		self.name = "DIMENSION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

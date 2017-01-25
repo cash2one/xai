@@ -1,6 +1,10 @@
 
 
 #calss header
-class _nowhere():
-	def __init__(self): 
-		self.name = "nowhere" 
+class _NOWHERE():
+	def __init__(self,): 
+		self.name = "NOWHERE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

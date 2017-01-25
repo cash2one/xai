@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mount():
-	def __init__(self): 
-		self.name = "mount" 
+class _MOUNT():
+	def __init__(self,): 
+		self.name = "MOUNT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

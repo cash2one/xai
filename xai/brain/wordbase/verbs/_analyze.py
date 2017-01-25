@@ -1,6 +1,10 @@
 
 
 #calss header
-class _analyze():
-	def __init__(self): 
-		self.name = "analyze" 
+class _ANALYZE():
+	def __init__(self,): 
+		self.name = "ANALYZE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

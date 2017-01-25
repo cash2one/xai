@@ -1,6 +1,10 @@
 
 
 #calss header
-class _orientation():
-	def __init__(self): 
-		self.name = "orientation" 
+class _ORIENTATION():
+	def __init__(self,): 
+		self.name = "ORIENTATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

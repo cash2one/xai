@@ -1,6 +1,10 @@
 
 
 #calss header
-class _hunter():
-	def __init__(self): 
-		self.name = "hunter" 
+class _HUNTER():
+	def __init__(self,): 
+		self.name = "HUNTER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

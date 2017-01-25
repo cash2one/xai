@@ -1,6 +1,10 @@
 
 
 #calss header
-class _coast():
-	def __init__(self): 
-		self.name = "coast" 
+class _COAST():
+	def __init__(self,): 
+		self.name = "COAST"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

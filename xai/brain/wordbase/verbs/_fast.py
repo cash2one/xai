@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fast():
-	def __init__(self): 
-		self.name = "fast" 
+class _FAST():
+	def __init__(self,): 
+		self.name = "FAST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

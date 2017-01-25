@@ -1,6 +1,10 @@
 
 
 #calss header
-class _peer():
-	def __init__(self): 
-		self.name = "peer" 
+class _PEER():
+	def __init__(self,): 
+		self.name = "PEER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

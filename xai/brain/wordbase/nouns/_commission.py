@@ -1,6 +1,10 @@
 
 
 #calss header
-class _commission():
-	def __init__(self): 
-		self.name = "commission" 
+class _COMMISSION():
+	def __init__(self,): 
+		self.name = "COMMISSION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

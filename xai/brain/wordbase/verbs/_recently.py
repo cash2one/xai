@@ -1,6 +1,10 @@
 
 
 #calss header
-class _recently():
-	def __init__(self): 
-		self.name = "recently" 
+class _RECENTLY():
+	def __init__(self,): 
+		self.name = "RECENTLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

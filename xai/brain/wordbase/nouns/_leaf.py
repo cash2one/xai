@@ -1,6 +1,10 @@
 
 
 #calss header
-class _leaf():
-	def __init__(self): 
-		self.name = "leaf" 
+class _LEAF():
+	def __init__(self,): 
+		self.name = "LEAF"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

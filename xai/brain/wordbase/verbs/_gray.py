@@ -1,6 +1,10 @@
 
 
 #calss header
-class _gray():
-	def __init__(self): 
-		self.name = "gray" 
+class _GRAY():
+	def __init__(self,): 
+		self.name = "GRAY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

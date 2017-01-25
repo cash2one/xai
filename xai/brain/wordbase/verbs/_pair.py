@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pair():
-	def __init__(self): 
-		self.name = "pair" 
+class _PAIR():
+	def __init__(self,): 
+		self.name = "PAIR"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

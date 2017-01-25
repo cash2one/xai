@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sound():
-	def __init__(self): 
-		self.name = "sound" 
+class _SOUND():
+	def __init__(self,): 
+		self.name = "SOUND"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

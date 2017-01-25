@@ -1,6 +1,10 @@
 
 
 #calss header
-class _core():
-	def __init__(self): 
-		self.name = "core" 
+class _CORE():
+	def __init__(self,): 
+		self.name = "CORE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

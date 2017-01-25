@@ -1,6 +1,10 @@
 
 
 #calss header
-class _library():
-	def __init__(self): 
-		self.name = "library" 
+class _LIBRARY():
+	def __init__(self,): 
+		self.name = "LIBRARY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

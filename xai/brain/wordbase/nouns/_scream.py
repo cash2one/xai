@@ -1,6 +1,10 @@
 
 
 #calss header
-class _scream():
-	def __init__(self): 
-		self.name = "scream" 
+class _SCREAM():
+	def __init__(self,): 
+		self.name = "SCREAM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

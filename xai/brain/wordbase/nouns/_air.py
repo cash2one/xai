@@ -1,6 +1,10 @@
 
 
 #calss header
-class _air():
-	def __init__(self): 
-		self.name = "air" 
+class _AIR():
+	def __init__(self,): 
+		self.name = "AIR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

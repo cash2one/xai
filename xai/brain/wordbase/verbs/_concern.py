@@ -1,6 +1,10 @@
 
 
 #calss header
-class _concern():
-	def __init__(self): 
-		self.name = "concern" 
+class _CONCERN():
+	def __init__(self,): 
+		self.name = "CONCERN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

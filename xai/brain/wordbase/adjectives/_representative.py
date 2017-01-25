@@ -1,6 +1,12 @@
 
 
 #calss header
-class _representative():
-	def __init__(self): 
-		self.name = "representative" 
+class _REPRESENTATIVE():
+	def __init__(self,): 
+		self.name = "REPRESENTATIVE"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

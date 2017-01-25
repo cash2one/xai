@@ -1,6 +1,10 @@
 
 
 #calss header
-class _exactly():
-	def __init__(self): 
-		self.name = "exactly" 
+class _EXACTLY():
+	def __init__(self,): 
+		self.name = "EXACTLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

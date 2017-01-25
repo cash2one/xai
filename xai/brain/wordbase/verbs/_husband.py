@@ -1,6 +1,10 @@
 
 
 #calss header
-class _husband():
-	def __init__(self): 
-		self.name = "husband" 
+class _HUSBAND():
+	def __init__(self,): 
+		self.name = "HUSBAND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

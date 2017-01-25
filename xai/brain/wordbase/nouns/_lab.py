@@ -1,6 +1,10 @@
 
 
 #calss header
-class _lab():
-	def __init__(self): 
-		self.name = "lab" 
+class _LAB():
+	def __init__(self,): 
+		self.name = "LAB"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

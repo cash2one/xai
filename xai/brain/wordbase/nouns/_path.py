@@ -1,6 +1,10 @@
 
 
 #calss header
-class _path():
-	def __init__(self): 
-		self.name = "path" 
+class _PATH():
+	def __init__(self,): 
+		self.name = "PATH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

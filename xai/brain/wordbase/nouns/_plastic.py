@@ -1,6 +1,10 @@
 
 
 #calss header
-class _plastic():
-	def __init__(self): 
-		self.name = "plastic" 
+class _PLASTIC():
+	def __init__(self,): 
+		self.name = "PLASTIC"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

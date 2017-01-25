@@ -1,6 +1,10 @@
 
 
 #calss header
-class _dispute():
-	def __init__(self): 
-		self.name = "dispute" 
+class _DISPUTE():
+	def __init__(self,): 
+		self.name = "DISPUTE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

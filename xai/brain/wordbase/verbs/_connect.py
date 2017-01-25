@@ -1,6 +1,10 @@
 
 
 #calss header
-class _connect():
-	def __init__(self): 
-		self.name = "connect" 
+class _CONNECT():
+	def __init__(self,): 
+		self.name = "CONNECT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _trust():
-	def __init__(self): 
-		self.name = "trust" 
+class _TRUST():
+	def __init__(self,): 
+		self.name = "TRUST"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

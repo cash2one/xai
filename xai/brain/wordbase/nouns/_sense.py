@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sense():
-	def __init__(self): 
-		self.name = "sense" 
+class _SENSE():
+	def __init__(self,): 
+		self.name = "SENSE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

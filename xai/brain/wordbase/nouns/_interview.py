@@ -1,6 +1,10 @@
 
 
 #calss header
-class _interview():
-	def __init__(self): 
-		self.name = "interview" 
+class _INTERVIEW():
+	def __init__(self,): 
+		self.name = "INTERVIEW"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

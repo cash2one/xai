@@ -1,6 +1,10 @@
 
 
 #calss header
-class _lift():
-	def __init__(self): 
-		self.name = "lift" 
+class _LIFT():
+	def __init__(self,): 
+		self.name = "LIFT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

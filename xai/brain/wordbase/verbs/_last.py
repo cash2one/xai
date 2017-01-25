@@ -1,6 +1,10 @@
 
 
 #calss header
-class _last():
-	def __init__(self): 
-		self.name = "last" 
+class _LAST():
+	def __init__(self,): 
+		self.name = "LAST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

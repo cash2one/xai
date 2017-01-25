@@ -1,6 +1,10 @@
 
 
 #calss header
-class _perfectly():
-	def __init__(self): 
-		self.name = "perfectly" 
+class _PERFECTLY():
+	def __init__(self,): 
+		self.name = "PERFECTLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

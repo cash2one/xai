@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rock():
-	def __init__(self): 
-		self.name = "rock" 
+class _ROCK():
+	def __init__(self,): 
+		self.name = "ROCK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

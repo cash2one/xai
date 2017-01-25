@@ -1,6 +1,7 @@
 
 
 #calss header
-class _near():
-	def __init__(self): 
-		self.name = "near" 
+class _NEAR():
+	def __init__(self,): 
+		self.name = "NEAR"
+		self.jsondata = {}

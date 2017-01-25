@@ -1,6 +1,10 @@
 
 
 #calss header
-class _leather():
-	def __init__(self): 
-		self.name = "leather" 
+class _LEATHER():
+	def __init__(self,): 
+		self.name = "LEATHER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

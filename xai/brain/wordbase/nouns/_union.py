@@ -1,6 +1,10 @@
 
 
 #calss header
-class _union():
-	def __init__(self): 
-		self.name = "union" 
+class _UNION():
+	def __init__(self,): 
+		self.name = "UNION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

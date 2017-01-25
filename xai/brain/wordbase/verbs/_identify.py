@@ -1,6 +1,10 @@
 
 
 #calss header
-class _identify():
-	def __init__(self): 
-		self.name = "identify" 
+class _IDENTIFY():
+	def __init__(self,): 
+		self.name = "IDENTIFY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

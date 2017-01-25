@@ -1,6 +1,10 @@
 
 
 #calss header
-class _area():
-	def __init__(self): 
-		self.name = "area" 
+class _AREA():
+	def __init__(self,): 
+		self.name = "AREA"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

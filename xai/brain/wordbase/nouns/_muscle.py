@@ -1,6 +1,10 @@
 
 
 #calss header
-class _muscle():
-	def __init__(self): 
-		self.name = "muscle" 
+class _MUSCLE():
+	def __init__(self,): 
+		self.name = "MUSCLE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

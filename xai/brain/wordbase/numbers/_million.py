@@ -1,6 +1,10 @@
 
 
 #calss header
-class _million():
-	def __init__(self): 
-		self.name = "million" 
+class _MILLION():
+	def __init__(self,): 
+		self.name = "MILLION"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

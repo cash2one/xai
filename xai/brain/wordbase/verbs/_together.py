@@ -1,6 +1,10 @@
 
 
 #calss header
-class _together():
-	def __init__(self): 
-		self.name = "together" 
+class _TOGETHER():
+	def __init__(self,): 
+		self.name = "TOGETHER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

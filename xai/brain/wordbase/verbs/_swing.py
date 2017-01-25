@@ -1,6 +1,10 @@
 
 
 #calss header
-class _swing():
-	def __init__(self): 
-		self.name = "swing" 
+class _SWING():
+	def __init__(self,): 
+		self.name = "SWING"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

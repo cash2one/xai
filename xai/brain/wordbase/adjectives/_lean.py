@@ -1,6 +1,12 @@
 
 
 #calss header
-class _lean():
-	def __init__(self): 
-		self.name = "lean" 
+class _LEAN():
+	def __init__(self,): 
+		self.name = "LEAN"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

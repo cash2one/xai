@@ -1,6 +1,10 @@
 
 
 #calss header
-class _seize():
-	def __init__(self): 
-		self.name = "seize" 
+class _SEIZE():
+	def __init__(self,): 
+		self.name = "SEIZE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

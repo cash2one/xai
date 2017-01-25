@@ -1,6 +1,12 @@
 
 
 #calss header
-class _level():
-	def __init__(self): 
-		self.name = "level" 
+class _LEVEL():
+	def __init__(self,): 
+		self.name = "LEVEL"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

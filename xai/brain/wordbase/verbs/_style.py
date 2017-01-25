@@ -1,6 +1,10 @@
 
 
 #calss header
-class _style():
-	def __init__(self): 
-		self.name = "style" 
+class _STYLE():
+	def __init__(self,): 
+		self.name = "STYLE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

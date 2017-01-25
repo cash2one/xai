@@ -1,6 +1,10 @@
 
 
 #calss header
-class _relatively():
-	def __init__(self): 
-		self.name = "relatively" 
+class _RELATIVELY():
+	def __init__(self,): 
+		self.name = "RELATIVELY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

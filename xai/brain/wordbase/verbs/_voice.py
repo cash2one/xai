@@ -1,6 +1,10 @@
 
 
 #calss header
-class _voice():
-	def __init__(self): 
-		self.name = "voice" 
+class _VOICE():
+	def __init__(self,): 
+		self.name = "VOICE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,12 @@
 
 
 #calss header
-class _absolute():
-	def __init__(self): 
-		self.name = "absolute" 
+class _ABSOLUTE():
+	def __init__(self,): 
+		self.name = "ABSOLUTE"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

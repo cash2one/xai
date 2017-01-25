@@ -1,6 +1,10 @@
 
 
 #calss header
-class _community():
-	def __init__(self): 
-		self.name = "community" 
+class _COMMUNITY():
+	def __init__(self,): 
+		self.name = "COMMUNITY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,12 @@
 
 
 #calss header
-class _active():
-	def __init__(self): 
-		self.name = "active" 
+class _ACTIVE():
+	def __init__(self,): 
+		self.name = "ACTIVE"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _majority():
-	def __init__(self): 
-		self.name = "majority" 
+class _MAJORITY():
+	def __init__(self,): 
+		self.name = "MAJORITY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

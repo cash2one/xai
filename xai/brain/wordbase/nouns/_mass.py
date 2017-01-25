@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mass():
-	def __init__(self): 
-		self.name = "mass" 
+class _MASS():
+	def __init__(self,): 
+		self.name = "MASS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

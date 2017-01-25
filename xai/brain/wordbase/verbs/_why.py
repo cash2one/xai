@@ -1,6 +1,10 @@
 
 
 #calss header
-class _why():
-	def __init__(self): 
-		self.name = "why" 
+class _WHY():
+	def __init__(self,): 
+		self.name = "WHY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

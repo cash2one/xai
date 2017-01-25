@@ -1,6 +1,10 @@
 
 
 #calss header
-class _participate():
-	def __init__(self): 
-		self.name = "participate" 
+class _PARTICIPATE():
+	def __init__(self,): 
+		self.name = "PARTICIPATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

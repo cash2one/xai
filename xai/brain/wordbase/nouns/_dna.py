@@ -1,6 +1,10 @@
 
 
 #calss header
-class _dna():
-	def __init__(self): 
-		self.name = "dna" 
+class _DNA():
+	def __init__(self,): 
+		self.name = "DNA"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

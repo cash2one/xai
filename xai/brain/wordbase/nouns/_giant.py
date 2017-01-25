@@ -1,6 +1,10 @@
 
 
 #calss header
-class _giant():
-	def __init__(self): 
-		self.name = "giant" 
+class _GIANT():
+	def __init__(self,): 
+		self.name = "GIANT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

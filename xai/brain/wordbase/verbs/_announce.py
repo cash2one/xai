@@ -1,6 +1,10 @@
 
 
 #calss header
-class _announce():
-	def __init__(self): 
-		self.name = "announce" 
+class _ANNOUNCE():
+	def __init__(self,): 
+		self.name = "ANNOUNCE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

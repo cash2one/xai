@@ -1,6 +1,10 @@
 
 
 #calss header
-class _document():
-	def __init__(self): 
-		self.name = "document" 
+class _DOCUMENT():
+	def __init__(self,): 
+		self.name = "DOCUMENT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

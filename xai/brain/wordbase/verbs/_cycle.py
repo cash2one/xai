@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cycle():
-	def __init__(self): 
-		self.name = "cycle" 
+class _CYCLE():
+	def __init__(self,): 
+		self.name = "CYCLE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

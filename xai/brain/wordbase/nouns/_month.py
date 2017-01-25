@@ -1,6 +1,10 @@
 
 
 #calss header
-class _month():
-	def __init__(self): 
-		self.name = "month" 
+class _MONTH():
+	def __init__(self,): 
+		self.name = "MONTH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _variable():
-	def __init__(self): 
-		self.name = "variable" 
+class _VARIABLE():
+	def __init__(self,): 
+		self.name = "VARIABLE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

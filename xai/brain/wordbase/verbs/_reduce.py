@@ -1,6 +1,10 @@
 
 
 #calss header
-class _reduce():
-	def __init__(self): 
-		self.name = "reduce" 
+class _REDUCE():
+	def __init__(self,): 
+		self.name = "REDUCE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

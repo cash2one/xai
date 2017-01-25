@@ -1,6 +1,10 @@
 
 
 #calss header
-class _territory():
-	def __init__(self): 
-		self.name = "territory" 
+class _TERRITORY():
+	def __init__(self,): 
+		self.name = "TERRITORY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

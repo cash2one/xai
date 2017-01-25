@@ -1,6 +1,10 @@
 
 
 #calss header
-class _observation():
-	def __init__(self): 
-		self.name = "observation" 
+class _OBSERVATION():
+	def __init__(self,): 
+		self.name = "OBSERVATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

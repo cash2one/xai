@@ -1,6 +1,10 @@
 
 
 #calss header
-class _impression():
-	def __init__(self): 
-		self.name = "impression" 
+class _IMPRESSION():
+	def __init__(self,): 
+		self.name = "IMPRESSION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

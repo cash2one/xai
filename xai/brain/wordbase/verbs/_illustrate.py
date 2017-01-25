@@ -1,6 +1,10 @@
 
 
 #calss header
-class _illustrate():
-	def __init__(self): 
-		self.name = "illustrate" 
+class _ILLUSTRATE():
+	def __init__(self,): 
+		self.name = "ILLUSTRATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

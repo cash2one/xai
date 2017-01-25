@@ -1,6 +1,12 @@
 
 
 #calss header
-class _suspect():
-	def __init__(self): 
-		self.name = "suspect" 
+class _SUSPECT():
+	def __init__(self,): 
+		self.name = "SUSPECT"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rich():
-	def __init__(self): 
-		self.name = "rich" 
+class _RICH():
+	def __init__(self,): 
+		self.name = "RICH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

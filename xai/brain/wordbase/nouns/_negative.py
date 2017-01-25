@@ -1,6 +1,10 @@
 
 
 #calss header
-class _negative():
-	def __init__(self): 
-		self.name = "negative" 
+class _NEGATIVE():
+	def __init__(self,): 
+		self.name = "NEGATIVE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

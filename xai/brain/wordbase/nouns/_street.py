@@ -1,6 +1,10 @@
 
 
 #calss header
-class _street():
-	def __init__(self): 
-		self.name = "street" 
+class _STREET():
+	def __init__(self,): 
+		self.name = "STREET"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

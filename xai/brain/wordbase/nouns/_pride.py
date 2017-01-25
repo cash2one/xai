@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pride():
-	def __init__(self): 
-		self.name = "pride" 
+class _PRIDE():
+	def __init__(self,): 
+		self.name = "PRIDE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

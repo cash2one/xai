@@ -1,6 +1,10 @@
 
 
 #calss header
-class _intensity():
-	def __init__(self): 
-		self.name = "intensity" 
+class _INTENSITY():
+	def __init__(self,): 
+		self.name = "INTENSITY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

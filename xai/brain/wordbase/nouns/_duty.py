@@ -1,6 +1,10 @@
 
 
 #calss header
-class _duty():
-	def __init__(self): 
-		self.name = "duty" 
+class _DUTY():
+	def __init__(self,): 
+		self.name = "DUTY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

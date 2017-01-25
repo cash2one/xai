@@ -1,6 +1,10 @@
 
 
 #calss header
-class _kick():
-	def __init__(self): 
-		self.name = "kick" 
+class _KICK():
+	def __init__(self,): 
+		self.name = "KICK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

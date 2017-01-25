@@ -1,6 +1,10 @@
 
 
 #calss header
-class _galaxy():
-	def __init__(self): 
-		self.name = "galaxy" 
+class _GALAXY():
+	def __init__(self,): 
+		self.name = "GALAXY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

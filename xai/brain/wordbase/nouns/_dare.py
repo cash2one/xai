@@ -1,6 +1,10 @@
 
 
 #calss header
-class _dare():
-	def __init__(self): 
-		self.name = "dare" 
+class _DARE():
+	def __init__(self,): 
+		self.name = "DARE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

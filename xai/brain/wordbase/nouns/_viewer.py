@@ -1,6 +1,10 @@
 
 
 #calss header
-class _viewer():
-	def __init__(self): 
-		self.name = "viewer" 
+class _VIEWER():
+	def __init__(self,): 
+		self.name = "VIEWER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

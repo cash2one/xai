@@ -1,6 +1,10 @@
 
 
 #calss header
-class _portray():
-	def __init__(self): 
-		self.name = "portray" 
+class _PORTRAY():
+	def __init__(self,): 
+		self.name = "PORTRAY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

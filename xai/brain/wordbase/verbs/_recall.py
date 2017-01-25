@@ -1,6 +1,10 @@
 
 
 #calss header
-class _recall():
-	def __init__(self): 
-		self.name = "recall" 
+class _RECALL():
+	def __init__(self,): 
+		self.name = "RECALL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

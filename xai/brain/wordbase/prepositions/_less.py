@@ -1,6 +1,10 @@
 
 
 #calss header
-class _less():
-	def __init__(self): 
-		self.name = "less" 
+class _LESS():
+	def __init__(self,): 
+		self.name = "LESS"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

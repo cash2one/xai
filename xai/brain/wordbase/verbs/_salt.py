@@ -1,6 +1,10 @@
 
 
 #calss header
-class _salt():
-	def __init__(self): 
-		self.name = "salt" 
+class _SALT():
+	def __init__(self,): 
+		self.name = "SALT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

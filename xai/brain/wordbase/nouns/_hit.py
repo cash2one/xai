@@ -1,6 +1,10 @@
 
 
 #calss header
-class _hit():
-	def __init__(self): 
-		self.name = "hit" 
+class _HIT():
+	def __init__(self,): 
+		self.name = "HIT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

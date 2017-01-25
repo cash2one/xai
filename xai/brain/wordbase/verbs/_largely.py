@@ -1,6 +1,10 @@
 
 
 #calss header
-class _largely():
-	def __init__(self): 
-		self.name = "largely" 
+class _LARGELY():
+	def __init__(self,): 
+		self.name = "LARGELY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rise():
-	def __init__(self): 
-		self.name = "rise" 
+class _RISE():
+	def __init__(self,): 
+		self.name = "RISE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

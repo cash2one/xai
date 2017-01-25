@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wet():
-	def __init__(self): 
-		self.name = "wet" 
+class _WET():
+	def __init__(self,): 
+		self.name = "WET"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

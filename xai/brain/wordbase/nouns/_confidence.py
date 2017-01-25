@@ -1,6 +1,10 @@
 
 
 #calss header
-class _confidence():
-	def __init__(self): 
-		self.name = "confidence" 
+class _CONFIDENCE():
+	def __init__(self,): 
+		self.name = "CONFIDENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

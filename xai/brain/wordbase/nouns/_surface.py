@@ -1,6 +1,10 @@
 
 
 #calss header
-class _surface():
-	def __init__(self): 
-		self.name = "surface" 
+class _SURFACE():
+	def __init__(self,): 
+		self.name = "SURFACE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

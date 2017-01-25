@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tend():
-	def __init__(self): 
-		self.name = "tend" 
+class _TEND():
+	def __init__(self,): 
+		self.name = "TEND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

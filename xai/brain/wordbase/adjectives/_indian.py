@@ -1,6 +1,12 @@
 
 
 #calss header
-class _indian():
-	def __init__(self): 
-		self.name = "indian" 
+class _INDIAN():
+	def __init__(self,): 
+		self.name = "INDIAN"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

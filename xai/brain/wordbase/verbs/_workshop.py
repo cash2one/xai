@@ -1,6 +1,10 @@
 
 
 #calss header
-class _workshop():
-	def __init__(self): 
-		self.name = "workshop" 
+class _WORKSHOP():
+	def __init__(self,): 
+		self.name = "WORKSHOP"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

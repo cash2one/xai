@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rest():
-	def __init__(self): 
-		self.name = "rest" 
+class _REST():
+	def __init__(self,): 
+		self.name = "REST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

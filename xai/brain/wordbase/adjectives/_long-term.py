@@ -1,6 +1,12 @@
 
 
 #calss header
-class _long-term():
-	def __init__(self): 
-		self.name = "long-term" 
+class _LONG-TERM():
+	def __init__(self,): 
+		self.name = "LONG-TERM"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

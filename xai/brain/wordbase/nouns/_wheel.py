@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wheel():
-	def __init__(self): 
-		self.name = "wheel" 
+class _WHEEL():
+	def __init__(self,): 
+		self.name = "WHEEL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

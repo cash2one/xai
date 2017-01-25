@@ -1,6 +1,12 @@
 
 
 #calss header
-class _wild():
-	def __init__(self): 
-		self.name = "wild" 
+class _WILD():
+	def __init__(self,): 
+		self.name = "WILD"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

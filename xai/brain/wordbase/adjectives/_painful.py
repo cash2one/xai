@@ -1,6 +1,12 @@
 
 
 #calss header
-class _painful():
-	def __init__(self): 
-		self.name = "painful" 
+class _PAINFUL():
+	def __init__(self,): 
+		self.name = "PAINFUL"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

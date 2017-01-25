@@ -1,6 +1,10 @@
 
 
 #calss header
-class _imply():
-	def __init__(self): 
-		self.name = "imply" 
+class _IMPLY():
+	def __init__(self,): 
+		self.name = "IMPLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

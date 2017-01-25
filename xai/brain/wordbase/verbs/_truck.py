@@ -1,6 +1,10 @@
 
 
 #calss header
-class _truck():
-	def __init__(self): 
-		self.name = "truck" 
+class _TRUCK():
+	def __init__(self,): 
+		self.name = "TRUCK"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

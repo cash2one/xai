@@ -1,6 +1,10 @@
 
 
 #calss header
-class _attend():
-	def __init__(self): 
-		self.name = "attend" 
+class _ATTEND():
+	def __init__(self,): 
+		self.name = "ATTEND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

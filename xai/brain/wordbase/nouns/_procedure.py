@@ -1,6 +1,10 @@
 
 
 #calss header
-class _procedure():
-	def __init__(self): 
-		self.name = "procedure" 
+class _PROCEDURE():
+	def __init__(self,): 
+		self.name = "PROCEDURE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

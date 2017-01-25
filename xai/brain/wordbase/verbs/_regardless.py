@@ -1,6 +1,10 @@
 
 
 #calss header
-class _regardless():
-	def __init__(self): 
-		self.name = "regardless" 
+class _REGARDLESS():
+	def __init__(self,): 
+		self.name = "REGARDLESS"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

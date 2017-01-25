@@ -1,6 +1,10 @@
 
 
 #calss header
-class _abortion():
-	def __init__(self): 
-		self.name = "abortion" 
+class _ABORTION():
+	def __init__(self,): 
+		self.name = "ABORTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

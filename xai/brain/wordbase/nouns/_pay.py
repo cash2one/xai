@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pay():
-	def __init__(self): 
-		self.name = "pay" 
+class _PAY():
+	def __init__(self,): 
+		self.name = "PAY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bell():
-	def __init__(self): 
-		self.name = "bell" 
+class _BELL():
+	def __init__(self,): 
+		self.name = "BELL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

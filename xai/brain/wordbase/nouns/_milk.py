@@ -1,6 +1,10 @@
 
 
 #calss header
-class _milk():
-	def __init__(self): 
-		self.name = "milk" 
+class _MILK():
+	def __init__(self,): 
+		self.name = "MILK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

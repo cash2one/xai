@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shock():
-	def __init__(self): 
-		self.name = "shock" 
+class _SHOCK():
+	def __init__(self,): 
+		self.name = "SHOCK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

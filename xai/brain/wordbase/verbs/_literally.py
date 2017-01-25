@@ -1,6 +1,10 @@
 
 
 #calss header
-class _literally():
-	def __init__(self): 
-		self.name = "literally" 
+class _LITERALLY():
+	def __init__(self,): 
+		self.name = "LITERALLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

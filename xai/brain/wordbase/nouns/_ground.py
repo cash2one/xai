@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ground():
-	def __init__(self): 
-		self.name = "ground" 
+class _GROUND():
+	def __init__(self,): 
+		self.name = "GROUND"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

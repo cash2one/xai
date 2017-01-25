@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bathroom():
-	def __init__(self): 
-		self.name = "bathroom" 
+class _BATHROOM():
+	def __init__(self,): 
+		self.name = "BATHROOM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

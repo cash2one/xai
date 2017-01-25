@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pretty():
-	def __init__(self): 
-		self.name = "pretty" 
+class _PRETTY():
+	def __init__(self,): 
+		self.name = "PRETTY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

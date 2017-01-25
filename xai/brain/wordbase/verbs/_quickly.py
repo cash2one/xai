@@ -1,6 +1,10 @@
 
 
 #calss header
-class _quickly():
-	def __init__(self): 
-		self.name = "quickly" 
+class _QUICKLY():
+	def __init__(self,): 
+		self.name = "QUICKLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

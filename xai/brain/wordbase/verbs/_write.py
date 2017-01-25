@@ -1,6 +1,10 @@
 
 
 #calss header
-class _write():
-	def __init__(self): 
-		self.name = "write" 
+class _WRITE():
+	def __init__(self,): 
+		self.name = "WRITE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

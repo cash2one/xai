@@ -1,6 +1,10 @@
 
 
 #calss header
-class _threaten():
-	def __init__(self): 
-		self.name = "threaten" 
+class _THREATEN():
+	def __init__(self,): 
+		self.name = "THREATEN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

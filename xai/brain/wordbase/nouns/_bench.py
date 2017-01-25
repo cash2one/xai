@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bench():
-	def __init__(self): 
-		self.name = "bench" 
+class _BENCH():
+	def __init__(self,): 
+		self.name = "BENCH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

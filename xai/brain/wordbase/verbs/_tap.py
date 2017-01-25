@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tap():
-	def __init__(self): 
-		self.name = "tap" 
+class _TAP():
+	def __init__(self,): 
+		self.name = "TAP"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

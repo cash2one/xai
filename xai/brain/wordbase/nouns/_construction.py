@@ -1,6 +1,10 @@
 
 
 #calss header
-class _construction():
-	def __init__(self): 
-		self.name = "construction" 
+class _CONSTRUCTION():
+	def __init__(self,): 
+		self.name = "CONSTRUCTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

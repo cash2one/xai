@@ -1,6 +1,10 @@
 
 
 #calss header
-class _reach():
-	def __init__(self): 
-		self.name = "reach" 
+class _REACH():
+	def __init__(self,): 
+		self.name = "REACH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

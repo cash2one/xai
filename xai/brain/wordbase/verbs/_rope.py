@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rope():
-	def __init__(self): 
-		self.name = "rope" 
+class _ROPE():
+	def __init__(self,): 
+		self.name = "ROPE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _speed():
-	def __init__(self): 
-		self.name = "speed" 
+class _SPEED():
+	def __init__(self,): 
+		self.name = "SPEED"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

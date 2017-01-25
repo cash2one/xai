@@ -1,6 +1,10 @@
 
 
 #calss header
-class _chance():
-	def __init__(self): 
-		self.name = "chance" 
+class _CHANCE():
+	def __init__(self,): 
+		self.name = "CHANCE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

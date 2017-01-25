@@ -1,6 +1,10 @@
 
 
 #calss header
-class _growth():
-	def __init__(self): 
-		self.name = "growth" 
+class _GROWTH():
+	def __init__(self,): 
+		self.name = "GROWTH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

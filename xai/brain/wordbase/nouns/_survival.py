@@ -1,6 +1,10 @@
 
 
 #calss header
-class _survival():
-	def __init__(self): 
-		self.name = "survival" 
+class _SURVIVAL():
+	def __init__(self,): 
+		self.name = "SURVIVAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

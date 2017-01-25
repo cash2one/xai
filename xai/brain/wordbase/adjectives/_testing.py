@@ -1,6 +1,12 @@
 
 
 #calss header
-class _testing():
-	def __init__(self): 
-		self.name = "testing" 
+class _TESTING():
+	def __init__(self,): 
+		self.name = "TESTING"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

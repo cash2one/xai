@@ -1,6 +1,10 @@
 
 
 #calss header
-class _possibility():
-	def __init__(self): 
-		self.name = "possibility" 
+class _POSSIBILITY():
+	def __init__(self,): 
+		self.name = "POSSIBILITY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

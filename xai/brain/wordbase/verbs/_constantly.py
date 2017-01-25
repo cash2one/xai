@@ -1,6 +1,10 @@
 
 
 #calss header
-class _constantly():
-	def __init__(self): 
-		self.name = "constantly" 
+class _CONSTANTLY():
+	def __init__(self,): 
+		self.name = "CONSTANTLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

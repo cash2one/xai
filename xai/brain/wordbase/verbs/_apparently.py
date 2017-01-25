@@ -1,6 +1,10 @@
 
 
 #calss header
-class _apparently():
-	def __init__(self): 
-		self.name = "apparently" 
+class _APPARENTLY():
+	def __init__(self,): 
+		self.name = "APPARENTLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

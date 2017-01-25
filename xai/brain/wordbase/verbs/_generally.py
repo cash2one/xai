@@ -1,6 +1,10 @@
 
 
 #calss header
-class _generally():
-	def __init__(self): 
-		self.name = "generally" 
+class _GENERALLY():
+	def __init__(self,): 
+		self.name = "GENERALLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

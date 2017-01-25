@@ -1,6 +1,10 @@
 
 
 #calss header
-class _movie():
-	def __init__(self): 
-		self.name = "movie" 
+class _MOVIE():
+	def __init__(self,): 
+		self.name = "MOVIE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

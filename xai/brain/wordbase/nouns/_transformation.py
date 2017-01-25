@@ -1,6 +1,10 @@
 
 
 #calss header
-class _transformation():
-	def __init__(self): 
-		self.name = "transformation" 
+class _TRANSFORMATION():
+	def __init__(self,): 
+		self.name = "TRANSFORMATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

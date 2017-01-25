@@ -1,6 +1,10 @@
 
 
 #calss header
-class _hope():
-	def __init__(self): 
-		self.name = "hope" 
+class _HOPE():
+	def __init__(self,): 
+		self.name = "HOPE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

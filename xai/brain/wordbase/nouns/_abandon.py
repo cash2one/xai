@@ -1,6 +1,10 @@
 
 
 #calss header
-class _abandon():
-	def __init__(self): 
-		self.name = "abandon" 
+class _ABANDON():
+	def __init__(self,): 
+		self.name = "ABANDON"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

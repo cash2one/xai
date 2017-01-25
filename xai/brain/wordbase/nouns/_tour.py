@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tour():
-	def __init__(self): 
-		self.name = "tour" 
+class _TOUR():
+	def __init__(self,): 
+		self.name = "TOUR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

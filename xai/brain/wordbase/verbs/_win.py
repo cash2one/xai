@@ -1,6 +1,10 @@
 
 
 #calss header
-class _win():
-	def __init__(self): 
-		self.name = "win" 
+class _WIN():
+	def __init__(self,): 
+		self.name = "WIN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

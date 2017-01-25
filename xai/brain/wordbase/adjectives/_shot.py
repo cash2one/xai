@@ -1,6 +1,12 @@
 
 
 #calss header
-class _shot():
-	def __init__(self): 
-		self.name = "shot" 
+class _SHOT():
+	def __init__(self,): 
+		self.name = "SHOT"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

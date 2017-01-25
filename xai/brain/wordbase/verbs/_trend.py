@@ -1,6 +1,10 @@
 
 
 #calss header
-class _trend():
-	def __init__(self): 
-		self.name = "trend" 
+class _TREND():
+	def __init__(self,): 
+		self.name = "TREND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

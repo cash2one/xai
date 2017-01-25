@@ -1,6 +1,10 @@
 
 
 #calss header
-class _golf():
-	def __init__(self): 
-		self.name = "golf" 
+class _GOLF():
+	def __init__(self,): 
+		self.name = "GOLF"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

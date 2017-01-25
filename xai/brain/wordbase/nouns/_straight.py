@@ -1,6 +1,10 @@
 
 
 #calss header
-class _straight():
-	def __init__(self): 
-		self.name = "straight" 
+class _STRAIGHT():
+	def __init__(self,): 
+		self.name = "STRAIGHT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

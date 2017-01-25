@@ -1,6 +1,10 @@
 
 
 #calss header
-class _violate():
-	def __init__(self): 
-		self.name = "violate" 
+class _VIOLATE():
+	def __init__(self,): 
+		self.name = "VIOLATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

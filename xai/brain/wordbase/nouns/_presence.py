@@ -1,6 +1,10 @@
 
 
 #calss header
-class _presence():
-	def __init__(self): 
-		self.name = "presence" 
+class _PRESENCE():
+	def __init__(self,): 
+		self.name = "PRESENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

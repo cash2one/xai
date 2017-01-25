@@ -1,6 +1,10 @@
 
 
 #calss header
-class _reading():
-	def __init__(self): 
-		self.name = "reading" 
+class _READING():
+	def __init__(self,): 
+		self.name = "READING"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

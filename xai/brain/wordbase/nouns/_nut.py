@@ -1,6 +1,10 @@
 
 
 #calss header
-class _nut():
-	def __init__(self): 
-		self.name = "nut" 
+class _NUT():
+	def __init__(self,): 
+		self.name = "NUT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

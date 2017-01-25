@@ -1,6 +1,10 @@
 
 
 #calss header
-class _season():
-	def __init__(self): 
-		self.name = "season" 
+class _SEASON():
+	def __init__(self,): 
+		self.name = "SEASON"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

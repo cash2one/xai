@@ -1,6 +1,10 @@
 
 
 #calss header
-class _produce():
-	def __init__(self): 
-		self.name = "produce" 
+class _PRODUCE():
+	def __init__(self,): 
+		self.name = "PRODUCE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

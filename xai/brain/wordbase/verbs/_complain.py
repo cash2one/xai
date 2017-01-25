@@ -1,6 +1,10 @@
 
 
 #calss header
-class _complain():
-	def __init__(self): 
-		self.name = "complain" 
+class _COMPLAIN():
+	def __init__(self,): 
+		self.name = "COMPLAIN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

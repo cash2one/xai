@@ -1,6 +1,10 @@
 
 
 #calss header
-class _physical():
-	def __init__(self): 
-		self.name = "physical" 
+class _PHYSICAL():
+	def __init__(self,): 
+		self.name = "PHYSICAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

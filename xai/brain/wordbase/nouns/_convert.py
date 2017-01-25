@@ -1,6 +1,10 @@
 
 
 #calss header
-class _convert():
-	def __init__(self): 
-		self.name = "convert" 
+class _CONVERT():
+	def __init__(self,): 
+		self.name = "CONVERT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

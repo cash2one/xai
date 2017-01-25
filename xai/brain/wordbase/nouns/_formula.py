@@ -1,6 +1,10 @@
 
 
 #calss header
-class _formula():
-	def __init__(self): 
-		self.name = "formula" 
+class _FORMULA():
+	def __init__(self,): 
+		self.name = "FORMULA"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

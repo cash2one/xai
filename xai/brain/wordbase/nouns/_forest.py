@@ -1,6 +1,10 @@
 
 
 #calss header
-class _forest():
-	def __init__(self): 
-		self.name = "forest" 
+class _FOREST():
+	def __init__(self,): 
+		self.name = "FOREST"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

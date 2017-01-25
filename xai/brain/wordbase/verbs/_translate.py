@@ -1,6 +1,10 @@
 
 
 #calss header
-class _translate():
-	def __init__(self): 
-		self.name = "translate" 
+class _TRANSLATE():
+	def __init__(self,): 
+		self.name = "TRANSLATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cabinet():
-	def __init__(self): 
-		self.name = "cabinet" 
+class _CABINET():
+	def __init__(self,): 
+		self.name = "CABINET"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

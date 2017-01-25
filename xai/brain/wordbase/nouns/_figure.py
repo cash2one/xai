@@ -1,6 +1,10 @@
 
 
 #calss header
-class _figure():
-	def __init__(self): 
-		self.name = "figure" 
+class _FIGURE():
+	def __init__(self,): 
+		self.name = "FIGURE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

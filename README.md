@@ -18,10 +18,10 @@ xai is a AI program. xai can search and read article, get data and write new cod
 ####Examples
 
 ```python
->>> from xai import ai1
->>> AI = ai1('Xing', 'male')
->>> AI.start()
->>> AI.life.learn.word(filename = 'word/cambtionary.dat')
+>>> from xai import AI
+>>> XAI = AI('Xing', 'male')
+>>> XAI.start()
+>>> XAI.life.learn.word(filename = 'word/cambtionary.dat')
 ```
 
 If you want to add features/improvement or report issues, feel free to send a pull request!

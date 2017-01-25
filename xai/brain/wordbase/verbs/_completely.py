@@ -1,6 +1,10 @@
 
 
 #calss header
-class _completely():
-	def __init__(self): 
-		self.name = "completely" 
+class _COMPLETELY():
+	def __init__(self,): 
+		self.name = "COMPLETELY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bottle():
-	def __init__(self): 
-		self.name = "bottle" 
+class _BOTTLE():
+	def __init__(self,): 
+		self.name = "BOTTLE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

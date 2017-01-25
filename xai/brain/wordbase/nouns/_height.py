@@ -1,6 +1,10 @@
 
 
 #calss header
-class _height():
-	def __init__(self): 
-		self.name = "height" 
+class _HEIGHT():
+	def __init__(self,): 
+		self.name = "HEIGHT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

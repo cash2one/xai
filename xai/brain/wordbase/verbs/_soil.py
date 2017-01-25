@@ -1,6 +1,10 @@
 
 
 #calss header
-class _soil():
-	def __init__(self): 
-		self.name = "soil" 
+class _SOIL():
+	def __init__(self,): 
+		self.name = "SOIL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _angle():
-	def __init__(self): 
-		self.name = "angle" 
+class _ANGLE():
+	def __init__(self,): 
+		self.name = "ANGLE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

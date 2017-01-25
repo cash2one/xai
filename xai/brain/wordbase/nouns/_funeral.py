@@ -1,6 +1,10 @@
 
 
 #calss header
-class _funeral():
-	def __init__(self): 
-		self.name = "funeral" 
+class _FUNERAL():
+	def __init__(self,): 
+		self.name = "FUNERAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

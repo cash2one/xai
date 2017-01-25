@@ -1,6 +1,10 @@
 
 
 #calss header
-class _quite():
-	def __init__(self): 
-		self.name = "quite" 
+class _QUITE():
+	def __init__(self,): 
+		self.name = "QUITE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

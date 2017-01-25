@@ -1,6 +1,10 @@
 
 
 #calss header
-class _attempt():
-	def __init__(self): 
-		self.name = "attempt" 
+class _ATTEMPT():
+	def __init__(self,): 
+		self.name = "ATTEMPT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _confusion():
-	def __init__(self): 
-		self.name = "confusion" 
+class _CONFUSION():
+	def __init__(self,): 
+		self.name = "CONFUSION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

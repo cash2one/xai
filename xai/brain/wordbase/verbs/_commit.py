@@ -1,6 +1,10 @@
 
 
 #calss header
-class _commit():
-	def __init__(self): 
-		self.name = "commit" 
+class _COMMIT():
+	def __init__(self,): 
+		self.name = "COMMIT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

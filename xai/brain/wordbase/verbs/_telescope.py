@@ -1,6 +1,10 @@
 
 
 #calss header
-class _telescope():
-	def __init__(self): 
-		self.name = "telescope" 
+class _TELESCOPE():
+	def __init__(self,): 
+		self.name = "TELESCOPE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

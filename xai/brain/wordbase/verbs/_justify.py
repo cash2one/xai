@@ -1,6 +1,10 @@
 
 
 #calss header
-class _justify():
-	def __init__(self): 
-		self.name = "justify" 
+class _JUSTIFY():
+	def __init__(self,): 
+		self.name = "JUSTIFY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _coverage():
-	def __init__(self): 
-		self.name = "coverage" 
+class _COVERAGE():
+	def __init__(self,): 
+		self.name = "COVERAGE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _stroke():
-	def __init__(self): 
-		self.name = "stroke" 
+class _STROKE():
+	def __init__(self,): 
+		self.name = "STROKE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

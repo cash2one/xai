@@ -1,6 +1,10 @@
 
 
 #calss header
-class _hip():
-	def __init__(self): 
-		self.name = "hip" 
+class _HIP():
+	def __init__(self,): 
+		self.name = "HIP"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

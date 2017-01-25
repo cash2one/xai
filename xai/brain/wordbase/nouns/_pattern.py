@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pattern():
-	def __init__(self): 
-		self.name = "pattern" 
+class _PATTERN():
+	def __init__(self,): 
+		self.name = "PATTERN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

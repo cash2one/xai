@@ -1,6 +1,10 @@
 
 
 #calss header
-class _energy():
-	def __init__(self): 
-		self.name = "energy" 
+class _ENERGY():
+	def __init__(self,): 
+		self.name = "ENERGY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

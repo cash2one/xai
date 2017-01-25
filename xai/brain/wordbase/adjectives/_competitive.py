@@ -1,6 +1,12 @@
 
 
 #calss header
-class _competitive():
-	def __init__(self): 
-		self.name = "competitive" 
+class _COMPETITIVE():
+	def __init__(self,): 
+		self.name = "COMPETITIVE"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

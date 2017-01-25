@@ -1,6 +1,10 @@
 
 
 #calss header
-class _determine():
-	def __init__(self): 
-		self.name = "determine" 
+class _DETERMINE():
+	def __init__(self,): 
+		self.name = "DETERMINE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

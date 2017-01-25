@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wait():
-	def __init__(self): 
-		self.name = "wait" 
+class _WAIT():
+	def __init__(self,): 
+		self.name = "WAIT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

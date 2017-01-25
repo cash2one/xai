@@ -1,6 +1,10 @@
 
 
 #calss header
-class _believe():
-	def __init__(self): 
-		self.name = "believe" 
+class _BELIEVE():
+	def __init__(self,): 
+		self.name = "BELIEVE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

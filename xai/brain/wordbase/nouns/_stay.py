@@ -1,6 +1,10 @@
 
 
 #calss header
-class _stay():
-	def __init__(self): 
-		self.name = "stay" 
+class _STAY():
+	def __init__(self,): 
+		self.name = "STAY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _journalist():
-	def __init__(self): 
-		self.name = "journalist" 
+class _JOURNALIST():
+	def __init__(self,): 
+		self.name = "JOURNALIST"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

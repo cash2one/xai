@@ -1,6 +1,10 @@
 
 
 #calss header
-class _authority():
-	def __init__(self): 
-		self.name = "authority" 
+class _AUTHORITY():
+	def __init__(self,): 
+		self.name = "AUTHORITY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

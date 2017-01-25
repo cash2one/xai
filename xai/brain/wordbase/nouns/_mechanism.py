@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mechanism():
-	def __init__(self): 
-		self.name = "mechanism" 
+class _MECHANISM():
+	def __init__(self,): 
+		self.name = "MECHANISM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

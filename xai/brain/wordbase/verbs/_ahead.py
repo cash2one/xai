@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ahead():
-	def __init__(self): 
-		self.name = "ahead" 
+class _AHEAD():
+	def __init__(self,): 
+		self.name = "AHEAD"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

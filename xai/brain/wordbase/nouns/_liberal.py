@@ -1,6 +1,10 @@
 
 
 #calss header
-class _liberal():
-	def __init__(self): 
-		self.name = "liberal" 
+class _LIBERAL():
+	def __init__(self,): 
+		self.name = "LIBERAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

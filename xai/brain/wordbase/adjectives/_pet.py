@@ -1,6 +1,12 @@
 
 
 #calss header
-class _pet():
-	def __init__(self): 
-		self.name = "pet" 
+class _PET():
+	def __init__(self,): 
+		self.name = "PET"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

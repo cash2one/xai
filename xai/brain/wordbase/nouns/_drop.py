@@ -1,6 +1,10 @@
 
 
 #calss header
-class _drop():
-	def __init__(self): 
-		self.name = "drop" 
+class _DROP():
+	def __init__(self,): 
+		self.name = "DROP"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

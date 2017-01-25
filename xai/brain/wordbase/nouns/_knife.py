@@ -1,6 +1,10 @@
 
 
 #calss header
-class _knife():
-	def __init__(self): 
-		self.name = "knife" 
+class _KNIFE():
+	def __init__(self,): 
+		self.name = "KNIFE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mention():
-	def __init__(self): 
-		self.name = "mention" 
+class _MENTION():
+	def __init__(self,): 
+		self.name = "MENTION"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

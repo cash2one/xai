@@ -1,6 +1,10 @@
 
 
 #calss header
-class _before():
-	def __init__(self): 
-		self.name = "before" 
+class _BEFORE():
+	def __init__(self,): 
+		self.name = "BEFORE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

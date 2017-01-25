@@ -1,6 +1,10 @@
 
 
 #calss header
-class _alter():
-	def __init__(self): 
-		self.name = "alter" 
+class _ALTER():
+	def __init__(self,): 
+		self.name = "ALTER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

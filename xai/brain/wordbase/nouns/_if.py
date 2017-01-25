@@ -1,6 +1,10 @@
 
 
 #calss header
-class _if():
-	def __init__(self): 
-		self.name = "if" 
+class _IF():
+	def __init__(self,): 
+		self.name = "IF"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

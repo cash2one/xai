@@ -1,6 +1,7 @@
 
 
 #calss header
-class _little():
-	def __init__(self): 
-		self.name = "little" 
+class _LITTLE():
+	def __init__(self,): 
+		self.name = "LITTLE"
+		self.jsondata = {}

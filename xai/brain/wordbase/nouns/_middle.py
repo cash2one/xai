@@ -1,6 +1,10 @@
 
 
 #calss header
-class _middle():
-	def __init__(self): 
-		self.name = "middle" 
+class _MIDDLE():
+	def __init__(self,): 
+		self.name = "MIDDLE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

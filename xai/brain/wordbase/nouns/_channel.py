@@ -1,6 +1,10 @@
 
 
 #calss header
-class _channel():
-	def __init__(self): 
-		self.name = "channel" 
+class _CHANNEL():
+	def __init__(self,): 
+		self.name = "CHANNEL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

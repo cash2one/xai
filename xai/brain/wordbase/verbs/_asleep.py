@@ -1,6 +1,10 @@
 
 
 #calss header
-class _asleep():
-	def __init__(self): 
-		self.name = "asleep" 
+class _ASLEEP():
+	def __init__(self,): 
+		self.name = "ASLEEP"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

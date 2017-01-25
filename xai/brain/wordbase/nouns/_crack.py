@@ -1,6 +1,10 @@
 
 
 #calss header
-class _crack():
-	def __init__(self): 
-		self.name = "crack" 
+class _CRACK():
+	def __init__(self,): 
+		self.name = "CRACK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

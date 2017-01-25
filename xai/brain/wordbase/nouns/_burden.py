@@ -1,6 +1,10 @@
 
 
 #calss header
-class _burden():
-	def __init__(self): 
-		self.name = "burden" 
+class _BURDEN():
+	def __init__(self,): 
+		self.name = "BURDEN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

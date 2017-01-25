@@ -1,6 +1,10 @@
 
 
 #calss header
-class _restriction():
-	def __init__(self): 
-		self.name = "restriction" 
+class _RESTRICTION():
+	def __init__(self,): 
+		self.name = "RESTRICTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _president():
-	def __init__(self): 
-		self.name = "president" 
+class _PRESIDENT():
+	def __init__(self,): 
+		self.name = "PRESIDENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

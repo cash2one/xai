@@ -1,6 +1,10 @@
 
 
 #calss header
-class _prompt():
-	def __init__(self): 
-		self.name = "prompt" 
+class _PROMPT():
+	def __init__(self,): 
+		self.name = "PROMPT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

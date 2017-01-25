@@ -1,6 +1,10 @@
 
 
 #calss header
-class _publicly():
-	def __init__(self): 
-		self.name = "publicly" 
+class _PUBLICLY():
+	def __init__(self,): 
+		self.name = "PUBLICLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

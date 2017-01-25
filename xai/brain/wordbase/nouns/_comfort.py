@@ -1,6 +1,10 @@
 
 
 #calss header
-class _comfort():
-	def __init__(self): 
-		self.name = "comfort" 
+class _COMFORT():
+	def __init__(self,): 
+		self.name = "COMFORT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

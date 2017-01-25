@@ -1,6 +1,10 @@
 
 
 #calss header
-class _publish():
-	def __init__(self): 
-		self.name = "publish" 
+class _PUBLISH():
+	def __init__(self,): 
+		self.name = "PUBLISH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

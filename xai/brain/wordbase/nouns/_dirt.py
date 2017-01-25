@@ -1,6 +1,10 @@
 
 
 #calss header
-class _dirt():
-	def __init__(self): 
-		self.name = "dirt" 
+class _DIRT():
+	def __init__(self,): 
+		self.name = "DIRT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

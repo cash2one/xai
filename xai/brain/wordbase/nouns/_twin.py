@@ -1,6 +1,10 @@
 
 
 #calss header
-class _twin():
-	def __init__(self): 
-		self.name = "twin" 
+class _TWIN():
+	def __init__(self,): 
+		self.name = "TWIN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

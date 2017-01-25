@@ -1,6 +1,10 @@
 
 
 #calss header
-class _explain():
-	def __init__(self): 
-		self.name = "explain" 
+class _EXPLAIN():
+	def __init__(self,): 
+		self.name = "EXPLAIN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

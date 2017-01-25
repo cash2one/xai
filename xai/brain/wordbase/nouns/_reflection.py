@@ -1,6 +1,10 @@
 
 
 #calss header
-class _reflection():
-	def __init__(self): 
-		self.name = "reflection" 
+class _REFLECTION():
+	def __init__(self,): 
+		self.name = "REFLECTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

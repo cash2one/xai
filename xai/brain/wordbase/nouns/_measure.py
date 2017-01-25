@@ -1,6 +1,10 @@
 
 
 #calss header
-class _measure():
-	def __init__(self): 
-		self.name = "measure" 
+class _MEASURE():
+	def __init__(self,): 
+		self.name = "MEASURE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

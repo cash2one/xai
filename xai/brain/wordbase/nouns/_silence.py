@@ -1,6 +1,10 @@
 
 
 #calss header
-class _silence():
-	def __init__(self): 
-		self.name = "silence" 
+class _SILENCE():
+	def __init__(self,): 
+		self.name = "SILENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

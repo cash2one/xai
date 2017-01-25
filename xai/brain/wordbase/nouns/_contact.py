@@ -1,6 +1,10 @@
 
 
 #calss header
-class _contact():
-	def __init__(self): 
-		self.name = "contact" 
+class _CONTACT():
+	def __init__(self,): 
+		self.name = "CONTACT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

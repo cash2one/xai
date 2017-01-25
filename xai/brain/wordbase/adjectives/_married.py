@@ -1,6 +1,12 @@
 
 
 #calss header
-class _married():
-	def __init__(self): 
-		self.name = "married" 
+class _MARRIED():
+	def __init__(self,): 
+		self.name = "MARRIED"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

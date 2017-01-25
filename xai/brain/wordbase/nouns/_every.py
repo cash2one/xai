@@ -1,6 +1,10 @@
 
 
 #calss header
-class _every():
-	def __init__(self): 
-		self.name = "every" 
+class _EVERY():
+	def __init__(self,): 
+		self.name = "EVERY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

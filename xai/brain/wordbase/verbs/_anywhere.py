@@ -1,6 +1,10 @@
 
 
 #calss header
-class _anywhere():
-	def __init__(self): 
-		self.name = "anywhere" 
+class _ANYWHERE():
+	def __init__(self,): 
+		self.name = "ANYWHERE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

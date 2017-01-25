@@ -1,6 +1,10 @@
 
 
 #calss header
-class _moment():
-	def __init__(self): 
-		self.name = "moment" 
+class _MOMENT():
+	def __init__(self,): 
+		self.name = "MOMENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

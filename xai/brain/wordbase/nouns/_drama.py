@@ -1,6 +1,10 @@
 
 
 #calss header
-class _drama():
-	def __init__(self): 
-		self.name = "drama" 
+class _DRAMA():
+	def __init__(self,): 
+		self.name = "DRAMA"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

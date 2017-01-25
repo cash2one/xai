@@ -1,6 +1,10 @@
 
 
 #calss header
-class _can():
-	def __init__(self): 
-		self.name = "can" 
+class _CAN():
+	def __init__(self,): 
+		self.name = "CAN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

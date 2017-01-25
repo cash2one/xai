@@ -1,6 +1,10 @@
 
 
 #calss header
-class _set():
-	def __init__(self): 
-		self.name = "set" 
+class _SET():
+	def __init__(self,): 
+		self.name = "SET"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

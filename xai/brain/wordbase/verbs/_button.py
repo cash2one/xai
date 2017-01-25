@@ -1,6 +1,10 @@
 
 
 #calss header
-class _button():
-	def __init__(self): 
-		self.name = "button" 
+class _BUTTON():
+	def __init__(self,): 
+		self.name = "BUTTON"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

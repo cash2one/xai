@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mask():
-	def __init__(self): 
-		self.name = "mask" 
+class _MASK():
+	def __init__(self,): 
+		self.name = "MASK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cable():
-	def __init__(self): 
-		self.name = "cable" 
+class _CABLE():
+	def __init__(self,): 
+		self.name = "CABLE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

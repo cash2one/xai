@@ -1,6 +1,7 @@
 
 
 #calss header
-class _own():
-	def __init__(self): 
-		self.name = "own" 
+class _OWN():
+	def __init__(self,): 
+		self.name = "OWN"
+		self.jsondata = {}

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fit():
-	def __init__(self): 
-		self.name = "fit" 
+class _FIT():
+	def __init__(self,): 
+		self.name = "FIT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

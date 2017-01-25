@@ -1,6 +1,10 @@
 
 
 #calss header
-class _by():
-	def __init__(self): 
-		self.name = "by" 
+class _BY():
+	def __init__(self,): 
+		self.name = "BY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _interpretation():
-	def __init__(self): 
-		self.name = "interpretation" 
+class _INTERPRETATION():
+	def __init__(self,): 
+		self.name = "INTERPRETATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

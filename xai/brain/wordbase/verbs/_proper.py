@@ -1,6 +1,10 @@
 
 
 #calss header
-class _proper():
-	def __init__(self): 
-		self.name = "proper" 
+class _PROPER():
+	def __init__(self,): 
+		self.name = "PROPER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

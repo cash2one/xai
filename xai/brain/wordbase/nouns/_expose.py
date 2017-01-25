@@ -1,6 +1,10 @@
 
 
 #calss header
-class _expose():
-	def __init__(self): 
-		self.name = "expose" 
+class _EXPOSE():
+	def __init__(self,): 
+		self.name = "EXPOSE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

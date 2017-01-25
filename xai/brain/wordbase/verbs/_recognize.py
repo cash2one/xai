@@ -1,6 +1,10 @@
 
 
 #calss header
-class _recognize():
-	def __init__(self): 
-		self.name = "recognize" 
+class _RECOGNIZE():
+	def __init__(self,): 
+		self.name = "RECOGNIZE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

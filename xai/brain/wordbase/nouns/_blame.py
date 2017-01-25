@@ -1,6 +1,10 @@
 
 
 #calss header
-class _blame():
-	def __init__(self): 
-		self.name = "blame" 
+class _BLAME():
+	def __init__(self,): 
+		self.name = "BLAME"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

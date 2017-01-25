@@ -1,6 +1,10 @@
 
 
 #calss header
-class _prime():
-	def __init__(self): 
-		self.name = "prime" 
+class _PRIME():
+	def __init__(self,): 
+		self.name = "PRIME"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

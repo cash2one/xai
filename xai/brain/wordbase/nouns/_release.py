@@ -1,6 +1,10 @@
 
 
 #calss header
-class _release():
-	def __init__(self): 
-		self.name = "release" 
+class _RELEASE():
+	def __init__(self,): 
+		self.name = "RELEASE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

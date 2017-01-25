@@ -1,6 +1,10 @@
 
 
 #calss header
-class _urge():
-	def __init__(self): 
-		self.name = "urge" 
+class _URGE():
+	def __init__(self,): 
+		self.name = "URGE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _maintenance():
-	def __init__(self): 
-		self.name = "maintenance" 
+class _MAINTENANCE():
+	def __init__(self,): 
+		self.name = "MAINTENANCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

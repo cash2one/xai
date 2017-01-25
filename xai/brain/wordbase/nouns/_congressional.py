@@ -1,6 +1,7 @@
 
 
 #calss header
-class _congressional():
-	def __init__(self): 
-		self.name = "congressional" 
+class _CONGRESSIONAL():
+	def __init__(self,): 
+		self.name = "CONGRESSIONAL"
+		self.jsondata = {}

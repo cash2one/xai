@@ -1,6 +1,10 @@
 
 
 #calss header
-class _virtue():
-	def __init__(self): 
-		self.name = "virtue" 
+class _VIRTUE():
+	def __init__(self,): 
+		self.name = "VIRTUE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

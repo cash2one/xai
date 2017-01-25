@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wish():
-	def __init__(self): 
-		self.name = "wish" 
+class _WISH():
+	def __init__(self,): 
+		self.name = "WISH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _aspect():
-	def __init__(self): 
-		self.name = "aspect" 
+class _ASPECT():
+	def __init__(self,): 
+		self.name = "ASPECT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

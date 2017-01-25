@@ -1,6 +1,10 @@
 
 
 #calss header
-class _symptom():
-	def __init__(self): 
-		self.name = "symptom" 
+class _SYMPTOM():
+	def __init__(self,): 
+		self.name = "SYMPTOM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

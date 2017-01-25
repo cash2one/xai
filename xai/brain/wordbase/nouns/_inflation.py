@@ -1,6 +1,10 @@
 
 
 #calss header
-class _inflation():
-	def __init__(self): 
-		self.name = "inflation" 
+class _INFLATION():
+	def __init__(self,): 
+		self.name = "INFLATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

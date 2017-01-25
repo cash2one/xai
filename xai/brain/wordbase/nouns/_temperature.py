@@ -1,6 +1,10 @@
 
 
 #calss header
-class _temperature():
-	def __init__(self): 
-		self.name = "temperature" 
+class _TEMPERATURE():
+	def __init__(self,): 
+		self.name = "TEMPERATURE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

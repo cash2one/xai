@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tank():
-	def __init__(self): 
-		self.name = "tank" 
+class _TANK():
+	def __init__(self,): 
+		self.name = "TANK"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

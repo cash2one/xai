@@ -1,6 +1,10 @@
 
 
 #calss header
-class _defend():
-	def __init__(self): 
-		self.name = "defend" 
+class _DEFEND():
+	def __init__(self,): 
+		self.name = "DEFEND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

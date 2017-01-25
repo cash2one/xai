@@ -1,6 +1,10 @@
 
 
 #calss header
-class _seem():
-	def __init__(self): 
-		self.name = "seem" 
+class _SEEM():
+	def __init__(self,): 
+		self.name = "SEEM"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

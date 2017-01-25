@@ -1,6 +1,7 @@
 
 
 #calss header
-class _actual():
-	def __init__(self): 
-		self.name = "actual" 
+class _ACTUAL():
+	def __init__(self,): 
+		self.name = "ACTUAL"
+		self.jsondata = {}

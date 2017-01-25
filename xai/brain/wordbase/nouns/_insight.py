@@ -1,6 +1,10 @@
 
 
 #calss header
-class _insight():
-	def __init__(self): 
-		self.name = "insight" 
+class _INSIGHT():
+	def __init__(self,): 
+		self.name = "INSIGHT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

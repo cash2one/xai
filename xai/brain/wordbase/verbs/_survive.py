@@ -1,6 +1,10 @@
 
 
 #calss header
-class _survive():
-	def __init__(self): 
-		self.name = "survive" 
+class _SURVIVE():
+	def __init__(self,): 
+		self.name = "SURVIVE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

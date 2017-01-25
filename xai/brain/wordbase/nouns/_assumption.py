@@ -1,6 +1,10 @@
 
 
 #calss header
-class _assumption():
-	def __init__(self): 
-		self.name = "assumption" 
+class _ASSUMPTION():
+	def __init__(self,): 
+		self.name = "ASSUMPTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

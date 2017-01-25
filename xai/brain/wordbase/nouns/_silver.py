@@ -1,6 +1,10 @@
 
 
 #calss header
-class _silver():
-	def __init__(self): 
-		self.name = "silver" 
+class _SILVER():
+	def __init__(self,): 
+		self.name = "SILVER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

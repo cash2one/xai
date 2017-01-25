@@ -1,6 +1,10 @@
 
 
 #calss header
-class _hill():
-	def __init__(self): 
-		self.name = "hill" 
+class _HILL():
+	def __init__(self,): 
+		self.name = "HILL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

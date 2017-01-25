@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cook():
-	def __init__(self): 
-		self.name = "cook" 
+class _COOK():
+	def __init__(self,): 
+		self.name = "COOK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _case():
-	def __init__(self): 
-		self.name = "case" 
+class _CASE():
+	def __init__(self,): 
+		self.name = "CASE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ban():
-	def __init__(self): 
-		self.name = "ban" 
+class _BAN():
+	def __init__(self,): 
+		self.name = "BAN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

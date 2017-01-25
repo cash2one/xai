@@ -1,6 +1,12 @@
 
 
 #calss header
-class _west():
-	def __init__(self): 
-		self.name = "west" 
+class _WEST():
+	def __init__(self,): 
+		self.name = "WEST"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

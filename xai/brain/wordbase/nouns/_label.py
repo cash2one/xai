@@ -1,6 +1,10 @@
 
 
 #calss header
-class _label():
-	def __init__(self): 
-		self.name = "label" 
+class _LABEL():
+	def __init__(self,): 
+		self.name = "LABEL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

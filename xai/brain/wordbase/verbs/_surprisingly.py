@@ -1,6 +1,10 @@
 
 
 #calss header
-class _surprisingly():
-	def __init__(self): 
-		self.name = "surprisingly" 
+class _SURPRISINGLY():
+	def __init__(self,): 
+		self.name = "SURPRISINGLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

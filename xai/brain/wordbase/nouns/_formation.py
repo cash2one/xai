@@ -1,6 +1,10 @@
 
 
 #calss header
-class _formation():
-	def __init__(self): 
-		self.name = "formation" 
+class _FORMATION():
+	def __init__(self,): 
+		self.name = "FORMATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _port():
-	def __init__(self): 
-		self.name = "port" 
+class _PORT():
+	def __init__(self,): 
+		self.name = "PORT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

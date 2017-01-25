@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sight():
-	def __init__(self): 
-		self.name = "sight" 
+class _SIGHT():
+	def __init__(self,): 
+		self.name = "SIGHT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

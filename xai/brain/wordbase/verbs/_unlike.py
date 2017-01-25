@@ -1,6 +1,10 @@
 
 
 #calss header
-class _unlike():
-	def __init__(self): 
-		self.name = "unlike" 
+class _UNLIKE():
+	def __init__(self,): 
+		self.name = "UNLIKE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

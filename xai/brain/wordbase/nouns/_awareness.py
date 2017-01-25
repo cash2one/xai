@@ -1,6 +1,10 @@
 
 
 #calss header
-class _awareness():
-	def __init__(self): 
-		self.name = "awareness" 
+class _AWARENESS():
+	def __init__(self,): 
+		self.name = "AWARENESS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

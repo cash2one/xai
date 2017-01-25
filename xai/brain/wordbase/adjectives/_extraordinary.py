@@ -1,6 +1,12 @@
 
 
 #calss header
-class _extraordinary():
-	def __init__(self): 
-		self.name = "extraordinary" 
+class _EXTRAORDINARY():
+	def __init__(self,): 
+		self.name = "EXTRAORDINARY"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

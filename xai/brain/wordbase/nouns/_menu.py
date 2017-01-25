@@ -1,6 +1,10 @@
 
 
 #calss header
-class _menu():
-	def __init__(self): 
-		self.name = "menu" 
+class _MENU():
+	def __init__(self,): 
+		self.name = "MENU"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

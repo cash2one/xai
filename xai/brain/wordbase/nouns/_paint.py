@@ -1,6 +1,10 @@
 
 
 #calss header
-class _paint():
-	def __init__(self): 
-		self.name = "paint" 
+class _PAINT():
+	def __init__(self,): 
+		self.name = "PAINT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

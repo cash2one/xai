@@ -1,6 +1,10 @@
 
 
 #calss header
-class _do():
-	def __init__(self): 
-		self.name = "do" 
+class _DO():
+	def __init__(self,): 
+		self.name = "DO"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

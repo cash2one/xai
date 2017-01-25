@@ -1,6 +1,10 @@
 
 
 #calss header
-class _function():
-	def __init__(self): 
-		self.name = "function" 
+class _FUNCTION():
+	def __init__(self,): 
+		self.name = "FUNCTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

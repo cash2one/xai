@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cake():
-	def __init__(self): 
-		self.name = "cake" 
+class _CAKE():
+	def __init__(self,): 
+		self.name = "CAKE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

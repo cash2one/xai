@@ -1,6 +1,10 @@
 
 
 #calss header
-class _scope():
-	def __init__(self): 
-		self.name = "scope" 
+class _SCOPE():
+	def __init__(self,): 
+		self.name = "SCOPE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

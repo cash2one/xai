@@ -1,6 +1,10 @@
 
 
 #calss header
-class _scale():
-	def __init__(self): 
-		self.name = "scale" 
+class _SCALE():
+	def __init__(self,): 
+		self.name = "SCALE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

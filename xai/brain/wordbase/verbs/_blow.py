@@ -1,6 +1,10 @@
 
 
 #calss header
-class _blow():
-	def __init__(self): 
-		self.name = "blow" 
+class _BLOW():
+	def __init__(self,): 
+		self.name = "BLOW"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

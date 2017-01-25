@@ -1,6 +1,10 @@
 
 
 #calss header
-class _become():
-	def __init__(self): 
-		self.name = "become" 
+class _BECOME():
+	def __init__(self,): 
+		self.name = "BECOME"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

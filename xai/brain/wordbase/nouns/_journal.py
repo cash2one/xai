@@ -1,6 +1,10 @@
 
 
 #calss header
-class _journal():
-	def __init__(self): 
-		self.name = "journal" 
+class _JOURNAL():
+	def __init__(self,): 
+		self.name = "JOURNAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

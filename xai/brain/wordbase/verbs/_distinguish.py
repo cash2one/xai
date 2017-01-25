@@ -1,6 +1,10 @@
 
 
 #calss header
-class _distinguish():
-	def __init__(self): 
-		self.name = "distinguish" 
+class _DISTINGUISH():
+	def __init__(self,): 
+		self.name = "DISTINGUISH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _discipline():
-	def __init__(self): 
-		self.name = "discipline" 
+class _DISCIPLINE():
+	def __init__(self,): 
+		self.name = "DISCIPLINE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

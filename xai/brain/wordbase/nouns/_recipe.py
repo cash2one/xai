@@ -1,6 +1,10 @@
 
 
 #calss header
-class _recipe():
-	def __init__(self): 
-		self.name = "recipe" 
+class _RECIPE():
+	def __init__(self,): 
+		self.name = "RECIPE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

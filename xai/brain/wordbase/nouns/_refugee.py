@@ -1,6 +1,10 @@
 
 
 #calss header
-class _refugee():
-	def __init__(self): 
-		self.name = "refugee" 
+class _REFUGEE():
+	def __init__(self,): 
+		self.name = "REFUGEE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

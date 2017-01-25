@@ -1,6 +1,10 @@
 
 
 #calss header
-class _deficit():
-	def __init__(self): 
-		self.name = "deficit" 
+class _DEFICIT():
+	def __init__(self,): 
+		self.name = "DEFICIT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _grave():
-	def __init__(self): 
-		self.name = "grave" 
+class _GRAVE():
+	def __init__(self,): 
+		self.name = "GRAVE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

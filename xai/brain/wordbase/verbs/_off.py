@@ -1,6 +1,10 @@
 
 
 #calss header
-class _off():
-	def __init__(self): 
-		self.name = "off" 
+class _OFF():
+	def __init__(self,): 
+		self.name = "OFF"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

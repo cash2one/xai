@@ -1,6 +1,10 @@
 
 
 #calss header
-class _counter():
-	def __init__(self): 
-		self.name = "counter" 
+class _COUNTER():
+	def __init__(self,): 
+		self.name = "COUNTER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

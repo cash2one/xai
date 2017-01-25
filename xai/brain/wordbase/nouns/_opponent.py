@@ -1,6 +1,10 @@
 
 
 #calss header
-class _opponent():
-	def __init__(self): 
-		self.name = "opponent" 
+class _OPPONENT():
+	def __init__(self,): 
+		self.name = "OPPONENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

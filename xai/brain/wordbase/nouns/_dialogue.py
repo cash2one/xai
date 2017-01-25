@@ -1,6 +1,10 @@
 
 
 #calss header
-class _dialogue():
-	def __init__(self): 
-		self.name = "dialogue" 
+class _DIALOGUE():
+	def __init__(self,): 
+		self.name = "DIALOGUE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shoulder():
-	def __init__(self): 
-		self.name = "shoulder" 
+class _SHOULDER():
+	def __init__(self,): 
+		self.name = "SHOULDER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

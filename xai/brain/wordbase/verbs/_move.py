@@ -1,6 +1,10 @@
 
 
 #calss header
-class _move():
-	def __init__(self): 
-		self.name = "move" 
+class _MOVE():
+	def __init__(self,): 
+		self.name = "MOVE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _true():
-	def __init__(self): 
-		self.name = "true" 
+class _TRUE():
+	def __init__(self,): 
+		self.name = "TRUE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

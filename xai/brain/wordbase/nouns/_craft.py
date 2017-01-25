@@ -1,6 +1,10 @@
 
 
 #calss header
-class _craft():
-	def __init__(self): 
-		self.name = "craft" 
+class _CRAFT():
+	def __init__(self,): 
+		self.name = "CRAFT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

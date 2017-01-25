@@ -1,6 +1,10 @@
 
 
 #calss header
-class _exchange():
-	def __init__(self): 
-		self.name = "exchange" 
+class _EXCHANGE():
+	def __init__(self,): 
+		self.name = "EXCHANGE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

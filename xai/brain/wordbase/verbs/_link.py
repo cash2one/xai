@@ -1,6 +1,10 @@
 
 
 #calss header
-class _link():
-	def __init__(self): 
-		self.name = "link" 
+class _LINK():
+	def __init__(self,): 
+		self.name = "LINK"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

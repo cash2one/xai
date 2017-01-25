@@ -1,6 +1,10 @@
 
 
 #calss header
-class _treatment():
-	def __init__(self): 
-		self.name = "treatment" 
+class _TREATMENT():
+	def __init__(self,): 
+		self.name = "TREATMENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

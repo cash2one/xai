@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pole():
-	def __init__(self): 
-		self.name = "pole" 
+class _POLE():
+	def __init__(self,): 
+		self.name = "POLE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

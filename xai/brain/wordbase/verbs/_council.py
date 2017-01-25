@@ -1,6 +1,10 @@
 
 
 #calss header
-class _council():
-	def __init__(self): 
-		self.name = "council" 
+class _COUNCIL():
+	def __init__(self,): 
+		self.name = "COUNCIL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

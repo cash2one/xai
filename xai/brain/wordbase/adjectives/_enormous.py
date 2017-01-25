@@ -1,6 +1,12 @@
 
 
 #calss header
-class _enormous():
-	def __init__(self): 
-		self.name = "enormous" 
+class _ENORMOUS():
+	def __init__(self,): 
+		self.name = "ENORMOUS"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

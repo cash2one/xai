@@ -1,6 +1,12 @@
 
 
 #calss header
-class _unlikely():
-	def __init__(self): 
-		self.name = "unlikely" 
+class _UNLIKELY():
+	def __init__(self,): 
+		self.name = "UNLIKELY"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sweet():
-	def __init__(self): 
-		self.name = "sweet" 
+class _SWEET():
+	def __init__(self,): 
+		self.name = "SWEET"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _spread():
-	def __init__(self): 
-		self.name = "spread" 
+class _SPREAD():
+	def __init__(self,): 
+		self.name = "SPREAD"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

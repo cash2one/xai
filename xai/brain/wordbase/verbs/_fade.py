@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fade():
-	def __init__(self): 
-		self.name = "fade" 
+class _FADE():
+	def __init__(self,): 
+		self.name = "FADE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

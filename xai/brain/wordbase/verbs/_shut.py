@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shut():
-	def __init__(self): 
-		self.name = "shut" 
+class _SHUT():
+	def __init__(self,): 
+		self.name = "SHUT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

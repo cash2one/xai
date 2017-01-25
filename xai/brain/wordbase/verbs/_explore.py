@@ -1,6 +1,10 @@
 
 
 #calss header
-class _explore():
-	def __init__(self): 
-		self.name = "explore" 
+class _EXPLORE():
+	def __init__(self,): 
+		self.name = "EXPLORE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

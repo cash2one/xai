@@ -1,6 +1,12 @@
 
 
 #calss header
-class _external():
-	def __init__(self): 
-		self.name = "external" 
+class _EXTERNAL():
+	def __init__(self,): 
+		self.name = "EXTERNAL"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _volunteer():
-	def __init__(self): 
-		self.name = "volunteer" 
+class _VOLUNTEER():
+	def __init__(self,): 
+		self.name = "VOLUNTEER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

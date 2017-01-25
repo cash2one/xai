@@ -1,6 +1,10 @@
 
 
 #calss header
-class _promote():
-	def __init__(self): 
-		self.name = "promote" 
+class _PROMOTE():
+	def __init__(self,): 
+		self.name = "PROMOTE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

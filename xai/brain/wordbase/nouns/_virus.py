@@ -1,6 +1,10 @@
 
 
 #calss header
-class _virus():
-	def __init__(self): 
-		self.name = "virus" 
+class _VIRUS():
+	def __init__(self,): 
+		self.name = "VIRUS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

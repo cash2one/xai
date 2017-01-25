@@ -1,6 +1,10 @@
 
 
 #calss header
-class _chamber():
-	def __init__(self): 
-		self.name = "chamber" 
+class _CHAMBER():
+	def __init__(self,): 
+		self.name = "CHAMBER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

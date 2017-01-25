@@ -1,6 +1,10 @@
 
 
 #calss header
-class _worth():
-	def __init__(self): 
-		self.name = "worth" 
+class _WORTH():
+	def __init__(self,): 
+		self.name = "WORTH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

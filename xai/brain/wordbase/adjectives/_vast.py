@@ -1,6 +1,12 @@
 
 
 #calss header
-class _vast():
-	def __init__(self): 
-		self.name = "vast" 
+class _VAST():
+	def __init__(self,): 
+		self.name = "VAST"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

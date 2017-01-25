@@ -1,6 +1,10 @@
 
 
 #calss header
-class _reference():
-	def __init__(self): 
-		self.name = "reference" 
+class _REFERENCE():
+	def __init__(self,): 
+		self.name = "REFERENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

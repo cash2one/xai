@@ -1,6 +1,10 @@
 
 
 #calss header
-class _appreciate():
-	def __init__(self): 
-		self.name = "appreciate" 
+class _APPRECIATE():
+	def __init__(self,): 
+		self.name = "APPRECIATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

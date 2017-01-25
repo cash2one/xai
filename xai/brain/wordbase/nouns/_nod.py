@@ -1,6 +1,10 @@
 
 
 #calss header
-class _nod():
-	def __init__(self): 
-		self.name = "nod" 
+class _NOD():
+	def __init__(self,): 
+		self.name = "NOD"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

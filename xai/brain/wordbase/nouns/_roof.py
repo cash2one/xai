@@ -1,6 +1,10 @@
 
 
 #calss header
-class _roof():
-	def __init__(self): 
-		self.name = "roof" 
+class _ROOF():
+	def __init__(self,): 
+		self.name = "ROOF"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

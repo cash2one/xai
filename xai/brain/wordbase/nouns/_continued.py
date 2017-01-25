@@ -1,6 +1,7 @@
 
 
 #calss header
-class _continued():
-	def __init__(self): 
-		self.name = "continued" 
+class _CONTINUED():
+	def __init__(self,): 
+		self.name = "CONTINUED"
+		self.jsondata = {}

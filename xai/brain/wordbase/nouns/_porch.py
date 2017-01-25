@@ -1,6 +1,10 @@
 
 
 #calss header
-class _porch():
-	def __init__(self): 
-		self.name = "porch" 
+class _PORCH():
+	def __init__(self,): 
+		self.name = "PORCH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

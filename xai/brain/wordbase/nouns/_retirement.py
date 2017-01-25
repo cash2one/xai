@@ -1,6 +1,10 @@
 
 
 #calss header
-class _retirement():
-	def __init__(self): 
-		self.name = "retirement" 
+class _RETIREMENT():
+	def __init__(self,): 
+		self.name = "RETIREMENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

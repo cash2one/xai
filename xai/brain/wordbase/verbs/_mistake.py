@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mistake():
-	def __init__(self): 
-		self.name = "mistake" 
+class _MISTAKE():
+	def __init__(self,): 
+		self.name = "MISTAKE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

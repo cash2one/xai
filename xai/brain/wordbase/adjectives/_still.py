@@ -1,6 +1,12 @@
 
 
 #calss header
-class _still():
-	def __init__(self): 
-		self.name = "still" 
+class _STILL():
+	def __init__(self,): 
+		self.name = "STILL"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

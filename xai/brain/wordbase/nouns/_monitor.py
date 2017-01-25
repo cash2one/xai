@@ -1,6 +1,10 @@
 
 
 #calss header
-class _monitor():
-	def __init__(self): 
-		self.name = "monitor" 
+class _MONITOR():
+	def __init__(self,): 
+		self.name = "MONITOR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

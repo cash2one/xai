@@ -1,6 +1,10 @@
 
 
 #calss header
-class _advance():
-	def __init__(self): 
-		self.name = "advance" 
+class _ADVANCE():
+	def __init__(self,): 
+		self.name = "ADVANCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

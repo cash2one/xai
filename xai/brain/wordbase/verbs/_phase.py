@@ -1,6 +1,10 @@
 
 
 #calss header
-class _phase():
-	def __init__(self): 
-		self.name = "phase" 
+class _PHASE():
+	def __init__(self,): 
+		self.name = "PHASE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

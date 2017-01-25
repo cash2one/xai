@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pursue():
-	def __init__(self): 
-		self.name = "pursue" 
+class _PURSUE():
+	def __init__(self,): 
+		self.name = "PURSUE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

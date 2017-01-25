@@ -1,6 +1,10 @@
 
 
 #calss header
-class _quarterback():
-	def __init__(self): 
-		self.name = "quarterback" 
+class _QUARTERBACK():
+	def __init__(self,): 
+		self.name = "QUARTERBACK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

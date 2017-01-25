@@ -1,6 +1,10 @@
 
 
 #calss header
-class _muslim():
-	def __init__(self): 
-		self.name = "muslim" 
+class _MUSLIM():
+	def __init__(self,): 
+		self.name = "MUSLIM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

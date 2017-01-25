@@ -1,6 +1,10 @@
 
 
 #calss header
-class _requirement():
-	def __init__(self): 
-		self.name = "requirement" 
+class _REQUIREMENT():
+	def __init__(self,): 
+		self.name = "REQUIREMENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

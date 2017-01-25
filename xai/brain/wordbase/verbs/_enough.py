@@ -1,6 +1,10 @@
 
 
 #calss header
-class _enough():
-	def __init__(self): 
-		self.name = "enough" 
+class _ENOUGH():
+	def __init__(self,): 
+		self.name = "ENOUGH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

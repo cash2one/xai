@@ -1,6 +1,10 @@
 
 
 #calss header
-class _communicate():
-	def __init__(self): 
-		self.name = "communicate" 
+class _COMMUNICATE():
+	def __init__(self,): 
+		self.name = "COMMUNICATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

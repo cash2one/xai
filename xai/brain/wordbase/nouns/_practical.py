@@ -1,6 +1,10 @@
 
 
 #calss header
-class _practical():
-	def __init__(self): 
-		self.name = "practical" 
+class _PRACTICAL():
+	def __init__(self,): 
+		self.name = "PRACTICAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

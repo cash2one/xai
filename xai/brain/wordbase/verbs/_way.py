@@ -1,6 +1,10 @@
 
 
 #calss header
-class _way():
-	def __init__(self): 
-		self.name = "way" 
+class _WAY():
+	def __init__(self,): 
+		self.name = "WAY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

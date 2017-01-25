@@ -1,6 +1,10 @@
 
 
 #calss header
-class _basket():
-	def __init__(self): 
-		self.name = "basket" 
+class _BASKET():
+	def __init__(self,): 
+		self.name = "BASKET"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

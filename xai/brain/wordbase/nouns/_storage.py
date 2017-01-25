@@ -1,6 +1,10 @@
 
 
 #calss header
-class _storage():
-	def __init__(self): 
-		self.name = "storage" 
+class _STORAGE():
+	def __init__(self,): 
+		self.name = "STORAGE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

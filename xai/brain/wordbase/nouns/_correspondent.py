@@ -1,6 +1,10 @@
 
 
 #calss header
-class _correspondent():
-	def __init__(self): 
-		self.name = "correspondent" 
+class _CORRESPONDENT():
+	def __init__(self,): 
+		self.name = "CORRESPONDENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

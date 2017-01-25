@@ -1,6 +1,10 @@
 
 
 #calss header
-class _meaning():
-	def __init__(self): 
-		self.name = "meaning" 
+class _MEANING():
+	def __init__(self,): 
+		self.name = "MEANING"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

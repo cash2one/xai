@@ -1,6 +1,10 @@
 
 
 #calss header
-class _regime():
-	def __init__(self): 
-		self.name = "regime" 
+class _REGIME():
+	def __init__(self,): 
+		self.name = "REGIME"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

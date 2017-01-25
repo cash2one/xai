@@ -1,6 +1,10 @@
 
 
 #calss header
-class _strike():
-	def __init__(self): 
-		self.name = "strike" 
+class _STRIKE():
+	def __init__(self,): 
+		self.name = "STRIKE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

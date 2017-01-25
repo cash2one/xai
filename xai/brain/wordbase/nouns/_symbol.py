@@ -1,6 +1,10 @@
 
 
 #calss header
-class _symbol():
-	def __init__(self): 
-		self.name = "symbol" 
+class _SYMBOL():
+	def __init__(self,): 
+		self.name = "SYMBOL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _forget():
-	def __init__(self): 
-		self.name = "forget" 
+class _FORGET():
+	def __init__(self,): 
+		self.name = "FORGET"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

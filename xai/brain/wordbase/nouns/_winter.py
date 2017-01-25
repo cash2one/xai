@@ -1,6 +1,10 @@
 
 
 #calss header
-class _winter():
-	def __init__(self): 
-		self.name = "winter" 
+class _WINTER():
+	def __init__(self,): 
+		self.name = "WINTER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

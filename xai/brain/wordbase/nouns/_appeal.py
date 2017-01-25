@@ -1,6 +1,10 @@
 
 
 #calss header
-class _appeal():
-	def __init__(self): 
-		self.name = "appeal" 
+class _APPEAL():
+	def __init__(self,): 
+		self.name = "APPEAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

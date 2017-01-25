@@ -1,6 +1,7 @@
 
 
 #calss header
-class _olympic():
-	def __init__(self): 
-		self.name = "olympic" 
+class _OLYMPIC():
+	def __init__(self,): 
+		self.name = "OLYMPIC"
+		self.jsondata = {}

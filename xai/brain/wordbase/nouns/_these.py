@@ -1,6 +1,7 @@
 
 
 #calss header
-class _these():
-	def __init__(self): 
-		self.name = "these" 
+class _THESE():
+	def __init__(self,): 
+		self.name = "THESE"
+		self.jsondata = {}

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ride():
-	def __init__(self): 
-		self.name = "ride" 
+class _RIDE():
+	def __init__(self,): 
+		self.name = "RIDE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

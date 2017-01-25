@@ -1,6 +1,10 @@
 
 
 #calss header
-class _contest():
-	def __init__(self): 
-		self.name = "contest" 
+class _CONTEST():
+	def __init__(self,): 
+		self.name = "CONTEST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

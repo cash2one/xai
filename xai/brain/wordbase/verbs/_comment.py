@@ -1,6 +1,10 @@
 
 
 #calss header
-class _comment():
-	def __init__(self): 
-		self.name = "comment" 
+class _COMMENT():
+	def __init__(self,): 
+		self.name = "COMMENT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

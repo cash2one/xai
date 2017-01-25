@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shape():
-	def __init__(self): 
-		self.name = "shape" 
+class _SHAPE():
+	def __init__(self,): 
+		self.name = "SHAPE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

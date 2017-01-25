@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fabric():
-	def __init__(self): 
-		self.name = "fabric" 
+class _FABRIC():
+	def __init__(self,): 
+		self.name = "FABRIC"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

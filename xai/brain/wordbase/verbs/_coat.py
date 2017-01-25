@@ -1,6 +1,10 @@
 
 
 #calss header
-class _coat():
-	def __init__(self): 
-		self.name = "coat" 
+class _COAT():
+	def __init__(self,): 
+		self.name = "COAT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

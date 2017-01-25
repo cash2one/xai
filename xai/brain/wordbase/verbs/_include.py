@@ -1,6 +1,10 @@
 
 
 #calss header
-class _include():
-	def __init__(self): 
-		self.name = "include" 
+class _INCLUDE():
+	def __init__(self,): 
+		self.name = "INCLUDE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

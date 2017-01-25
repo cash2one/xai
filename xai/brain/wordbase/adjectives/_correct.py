@@ -1,6 +1,12 @@
 
 
 #calss header
-class _correct():
-	def __init__(self): 
-		self.name = "correct" 
+class _CORRECT():
+	def __init__(self,): 
+		self.name = "CORRECT"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

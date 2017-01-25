@@ -1,6 +1,12 @@
 
 
 #calss header
-class _understanding():
-	def __init__(self): 
-		self.name = "understanding" 
+class _UNDERSTANDING():
+	def __init__(self,): 
+		self.name = "UNDERSTANDING"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

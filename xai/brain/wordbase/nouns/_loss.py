@@ -1,6 +1,10 @@
 
 
 #calss header
-class _loss():
-	def __init__(self): 
-		self.name = "loss" 
+class _LOSS():
+	def __init__(self,): 
+		self.name = "LOSS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

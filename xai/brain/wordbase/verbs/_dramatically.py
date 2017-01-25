@@ -1,6 +1,10 @@
 
 
 #calss header
-class _dramatically():
-	def __init__(self): 
-		self.name = "dramatically" 
+class _DRAMATICALLY():
+	def __init__(self,): 
+		self.name = "DRAMATICALLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

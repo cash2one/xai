@@ -1,6 +1,10 @@
 
 
 #calss header
-class _deep():
-	def __init__(self): 
-		self.name = "deep" 
+class _DEEP():
+	def __init__(self,): 
+		self.name = "DEEP"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

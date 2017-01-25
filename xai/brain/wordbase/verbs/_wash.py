@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wash():
-	def __init__(self): 
-		self.name = "wash" 
+class _WASH():
+	def __init__(self,): 
+		self.name = "WASH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

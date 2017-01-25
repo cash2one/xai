@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rough():
-	def __init__(self): 
-		self.name = "rough" 
+class _ROUGH():
+	def __init__(self,): 
+		self.name = "ROUGH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

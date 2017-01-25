@@ -1,6 +1,12 @@
 
 
 #calss header
-class _rich():
-	def __init__(self): 
-		self.name = "rich" 
+class _RICH():
+	def __init__(self,): 
+		self.name = "RICH"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

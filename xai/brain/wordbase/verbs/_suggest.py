@@ -1,6 +1,10 @@
 
 
 #calss header
-class _suggest():
-	def __init__(self): 
-		self.name = "suggest" 
+class _SUGGEST():
+	def __init__(self,): 
+		self.name = "SUGGEST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

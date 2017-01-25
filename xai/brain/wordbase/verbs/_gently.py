@@ -1,6 +1,10 @@
 
 
 #calss header
-class _gently():
-	def __init__(self): 
-		self.name = "gently" 
+class _GENTLY():
+	def __init__(self,): 
+		self.name = "GENTLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

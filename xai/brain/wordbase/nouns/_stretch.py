@@ -1,6 +1,10 @@
 
 
 #calss header
-class _stretch():
-	def __init__(self): 
-		self.name = "stretch" 
+class _STRETCH():
+	def __init__(self,): 
+		self.name = "STRETCH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

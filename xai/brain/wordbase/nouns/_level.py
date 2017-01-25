@@ -1,6 +1,10 @@
 
 
 #calss header
-class _level():
-	def __init__(self): 
-		self.name = "level" 
+class _LEVEL():
+	def __init__(self,): 
+		self.name = "LEVEL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _appear():
-	def __init__(self): 
-		self.name = "appear" 
+class _APPEAR():
+	def __init__(self,): 
+		self.name = "APPEAR"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

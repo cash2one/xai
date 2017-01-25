@@ -1,6 +1,10 @@
 
 
 #calss header
-class _stake():
-	def __init__(self): 
-		self.name = "stake" 
+class _STAKE():
+	def __init__(self,): 
+		self.name = "STAKE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

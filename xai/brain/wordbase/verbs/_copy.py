@@ -1,6 +1,10 @@
 
 
 #calss header
-class _copy():
-	def __init__(self): 
-		self.name = "copy" 
+class _COPY():
+	def __init__(self,): 
+		self.name = "COPY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

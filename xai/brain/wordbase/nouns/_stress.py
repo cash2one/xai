@@ -1,6 +1,10 @@
 
 
 #calss header
-class _stress():
-	def __init__(self): 
-		self.name = "stress" 
+class _STRESS():
+	def __init__(self,): 
+		self.name = "STRESS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

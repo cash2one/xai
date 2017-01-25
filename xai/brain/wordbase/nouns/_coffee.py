@@ -1,6 +1,10 @@
 
 
 #calss header
-class _coffee():
-	def __init__(self): 
-		self.name = "coffee" 
+class _COFFEE():
+	def __init__(self,): 
+		self.name = "COFFEE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

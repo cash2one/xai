@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mail():
-	def __init__(self): 
-		self.name = "mail" 
+class _MAIL():
+	def __init__(self,): 
+		self.name = "MAIL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _earth():
-	def __init__(self): 
-		self.name = "earth" 
+class _EARTH():
+	def __init__(self,): 
+		self.name = "EARTH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

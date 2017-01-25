@@ -1,6 +1,10 @@
 
 
 #calss header
-class _will():
-	def __init__(self): 
-		self.name = "will" 
+class _WILL():
+	def __init__(self,): 
+		self.name = "WILL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

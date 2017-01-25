@@ -1,6 +1,10 @@
 
 
 #calss header
-class _review():
-	def __init__(self): 
-		self.name = "review" 
+class _REVIEW():
+	def __init__(self,): 
+		self.name = "REVIEW"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

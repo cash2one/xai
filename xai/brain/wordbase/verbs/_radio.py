@@ -1,6 +1,10 @@
 
 
 #calss header
-class _radio():
-	def __init__(self): 
-		self.name = "radio" 
+class _RADIO():
+	def __init__(self,): 
+		self.name = "RADIO"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

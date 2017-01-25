@@ -1,6 +1,10 @@
 
 
 #calss header
-class _meanwhile():
-	def __init__(self): 
-		self.name = "meanwhile" 
+class _MEANWHILE():
+	def __init__(self,): 
+		self.name = "MEANWHILE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

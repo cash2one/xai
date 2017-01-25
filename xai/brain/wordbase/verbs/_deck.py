@@ -1,6 +1,10 @@
 
 
 #calss header
-class _deck():
-	def __init__(self): 
-		self.name = "deck" 
+class _DECK():
+	def __init__(self,): 
+		self.name = "DECK"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

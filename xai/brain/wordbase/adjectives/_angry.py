@@ -1,6 +1,12 @@
 
 
 #calss header
-class _angry():
-	def __init__(self): 
-		self.name = "angry" 
+class _ANGRY():
+	def __init__(self,): 
+		self.name = "ANGRY"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

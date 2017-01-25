@@ -1,6 +1,10 @@
 
 
 #calss header
-class _throw():
-	def __init__(self): 
-		self.name = "throw" 
+class _THROW():
+	def __init__(self,): 
+		self.name = "THROW"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tie():
-	def __init__(self): 
-		self.name = "tie" 
+class _TIE():
+	def __init__(self,): 
+		self.name = "TIE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

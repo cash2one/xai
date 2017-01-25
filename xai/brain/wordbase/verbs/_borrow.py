@@ -1,6 +1,10 @@
 
 
 #calss header
-class _borrow():
-	def __init__(self): 
-		self.name = "borrow" 
+class _BORROW():
+	def __init__(self,): 
+		self.name = "BORROW"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

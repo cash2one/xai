@@ -1,6 +1,10 @@
 
 
 #calss header
-class _whether():
-	def __init__(self): 
-		self.name = "whether" 
+class _WHETHER():
+	def __init__(self,): 
+		self.name = "WHETHER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

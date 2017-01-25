@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ear():
-	def __init__(self): 
-		self.name = "ear" 
+class _EAR():
+	def __init__(self,): 
+		self.name = "EAR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

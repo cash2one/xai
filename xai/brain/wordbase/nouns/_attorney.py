@@ -1,6 +1,10 @@
 
 
 #calss header
-class _attorney():
-	def __init__(self): 
-		self.name = "attorney" 
+class _ATTORNEY():
+	def __init__(self,): 
+		self.name = "ATTORNEY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

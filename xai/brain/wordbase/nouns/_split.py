@@ -1,6 +1,10 @@
 
 
 #calss header
-class _split():
-	def __init__(self): 
-		self.name = "split" 
+class _SPLIT():
+	def __init__(self,): 
+		self.name = "SPLIT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

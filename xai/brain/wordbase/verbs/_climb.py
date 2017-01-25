@@ -1,6 +1,10 @@
 
 
 #calss header
-class _climb():
-	def __init__(self): 
-		self.name = "climb" 
+class _CLIMB():
+	def __init__(self,): 
+		self.name = "CLIMB"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

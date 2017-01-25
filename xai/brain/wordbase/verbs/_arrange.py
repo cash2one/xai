@@ -1,6 +1,10 @@
 
 
 #calss header
-class _arrange():
-	def __init__(self): 
-		self.name = "arrange" 
+class _ARRANGE():
+	def __init__(self,): 
+		self.name = "ARRANGE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

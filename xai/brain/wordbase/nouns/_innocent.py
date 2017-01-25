@@ -1,6 +1,10 @@
 
 
 #calss header
-class _innocent():
-	def __init__(self): 
-		self.name = "innocent" 
+class _INNOCENT():
+	def __init__(self,): 
+		self.name = "INNOCENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

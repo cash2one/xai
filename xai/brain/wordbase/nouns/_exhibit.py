@@ -1,6 +1,10 @@
 
 
 #calss header
-class _exhibit():
-	def __init__(self): 
-		self.name = "exhibit" 
+class _EXHIBIT():
+	def __init__(self,): 
+		self.name = "EXHIBIT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _even():
-	def __init__(self): 
-		self.name = "even" 
+class _EVEN():
+	def __init__(self,): 
+		self.name = "EVEN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

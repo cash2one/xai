@@ -1,6 +1,10 @@
 
 
 #calss header
-class _proportion():
-	def __init__(self): 
-		self.name = "proportion" 
+class _PROPORTION():
+	def __init__(self,): 
+		self.name = "PROPORTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

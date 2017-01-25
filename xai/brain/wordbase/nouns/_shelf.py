@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shelf():
-	def __init__(self): 
-		self.name = "shelf" 
+class _SHELF():
+	def __init__(self,): 
+		self.name = "SHELF"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

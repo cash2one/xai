@@ -1,6 +1,10 @@
 
 
 #calss header
-class _significantly():
-	def __init__(self): 
-		self.name = "significantly" 
+class _SIGNIFICANTLY():
+	def __init__(self,): 
+		self.name = "SIGNIFICANTLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

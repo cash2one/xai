@@ -1,6 +1,10 @@
 
 
 #calss header
-class _intend():
-	def __init__(self): 
-		self.name = "intend" 
+class _INTEND():
+	def __init__(self,): 
+		self.name = "INTEND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

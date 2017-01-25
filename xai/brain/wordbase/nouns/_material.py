@@ -1,6 +1,10 @@
 
 
 #calss header
-class _material():
-	def __init__(self): 
-		self.name = "material" 
+class _MATERIAL():
+	def __init__(self,): 
+		self.name = "MATERIAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

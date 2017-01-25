@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sign():
-	def __init__(self): 
-		self.name = "sign" 
+class _SIGN():
+	def __init__(self,): 
+		self.name = "SIGN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

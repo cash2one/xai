@@ -1,6 +1,10 @@
 
 
 #calss header
-class _helicopter():
-	def __init__(self): 
-		self.name = "helicopter" 
+class _HELICOPTER():
+	def __init__(self,): 
+		self.name = "HELICOPTER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

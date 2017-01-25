@@ -1,6 +1,10 @@
 
 
 #calss header
-class _flight():
-	def __init__(self): 
-		self.name = "flight" 
+class _FLIGHT():
+	def __init__(self,): 
+		self.name = "FLIGHT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _previous():
-	def __init__(self): 
-		self.name = "previous" 
+class _PREVIOUS():
+	def __init__(self,): 
+		self.name = "PREVIOUS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

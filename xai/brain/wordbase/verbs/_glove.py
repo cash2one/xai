@@ -1,6 +1,10 @@
 
 
 #calss header
-class _glove():
-	def __init__(self): 
-		self.name = "glove" 
+class _GLOVE():
+	def __init__(self,): 
+		self.name = "GLOVE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

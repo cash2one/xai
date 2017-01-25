@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tooth():
-	def __init__(self): 
-		self.name = "tooth" 
+class _TOOTH():
+	def __init__(self,): 
+		self.name = "TOOTH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

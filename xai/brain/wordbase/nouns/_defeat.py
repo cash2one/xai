@@ -1,6 +1,10 @@
 
 
 #calss header
-class _defeat():
-	def __init__(self): 
-		self.name = "defeat" 
+class _DEFEAT():
+	def __init__(self,): 
+		self.name = "DEFEAT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

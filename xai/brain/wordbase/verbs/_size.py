@@ -1,6 +1,10 @@
 
 
 #calss header
-class _size():
-	def __init__(self): 
-		self.name = "size" 
+class _SIZE():
+	def __init__(self,): 
+		self.name = "SIZE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

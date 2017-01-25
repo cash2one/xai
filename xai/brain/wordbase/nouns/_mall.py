@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mall():
-	def __init__(self): 
-		self.name = "mall" 
+class _MALL():
+	def __init__(self,): 
+		self.name = "MALL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

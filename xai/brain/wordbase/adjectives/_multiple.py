@@ -1,6 +1,12 @@
 
 
 #calss header
-class _multiple():
-	def __init__(self): 
-		self.name = "multiple" 
+class _MULTIPLE():
+	def __init__(self,): 
+		self.name = "MULTIPLE"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

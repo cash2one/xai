@@ -1,6 +1,10 @@
 
 
 #calss header
-class _push():
-	def __init__(self): 
-		self.name = "push" 
+class _PUSH():
+	def __init__(self,): 
+		self.name = "PUSH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

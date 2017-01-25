@@ -1,6 +1,7 @@
 
 
 #calss header
-class _late():
-	def __init__(self): 
-		self.name = "late" 
+class _LATE():
+	def __init__(self,): 
+		self.name = "LATE"
+		self.jsondata = {}

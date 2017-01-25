@@ -1,6 +1,10 @@
 
 
 #calss header
-class _plane():
-	def __init__(self): 
-		self.name = "plane" 
+class _PLANE():
+	def __init__(self,): 
+		self.name = "PLANE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

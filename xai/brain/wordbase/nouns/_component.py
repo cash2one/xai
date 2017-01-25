@@ -1,6 +1,10 @@
 
 
 #calss header
-class _component():
-	def __init__(self): 
-		self.name = "component" 
+class _COMPONENT():
+	def __init__(self,): 
+		self.name = "COMPONENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

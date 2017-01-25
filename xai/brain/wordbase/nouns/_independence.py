@@ -1,6 +1,10 @@
 
 
 #calss header
-class _independence():
-	def __init__(self): 
-		self.name = "independence" 
+class _INDEPENDENCE():
+	def __init__(self,): 
+		self.name = "INDEPENDENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

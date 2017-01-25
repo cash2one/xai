@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mine():
-	def __init__(self): 
-		self.name = "mine" 
+class _MINE():
+	def __init__(self,): 
+		self.name = "MINE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

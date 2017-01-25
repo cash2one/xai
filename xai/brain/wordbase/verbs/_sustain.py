@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sustain():
-	def __init__(self): 
-		self.name = "sustain" 
+class _SUSTAIN():
+	def __init__(self,): 
+		self.name = "SUSTAIN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _album():
-	def __init__(self): 
-		self.name = "album" 
+class _ALBUM():
+	def __init__(self,): 
+		self.name = "ALBUM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

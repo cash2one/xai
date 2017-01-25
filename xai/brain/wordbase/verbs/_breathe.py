@@ -1,6 +1,10 @@
 
 
 #calss header
-class _breathe():
-	def __init__(self): 
-		self.name = "breathe" 
+class _BREATHE():
+	def __init__(self,): 
+		self.name = "BREATHE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

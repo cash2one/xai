@@ -1,6 +1,10 @@
 
 
 #calss header
-class _proof():
-	def __init__(self): 
-		self.name = "proof" 
+class _PROOF():
+	def __init__(self,): 
+		self.name = "PROOF"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

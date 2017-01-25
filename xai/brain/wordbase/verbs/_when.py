@@ -1,6 +1,10 @@
 
 
 #calss header
-class _when():
-	def __init__(self): 
-		self.name = "when" 
+class _WHEN():
+	def __init__(self,): 
+		self.name = "WHEN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

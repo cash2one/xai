@@ -1,6 +1,10 @@
 
 
 #calss header
-class _file():
-	def __init__(self): 
-		self.name = "file" 
+class _FILE():
+	def __init__(self,): 
+		self.name = "FILE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

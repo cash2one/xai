@@ -1,6 +1,10 @@
 
 
 #calss header
-class _reputation():
-	def __init__(self): 
-		self.name = "reputation" 
+class _REPUTATION():
+	def __init__(self,): 
+		self.name = "REPUTATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

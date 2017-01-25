@@ -1,6 +1,10 @@
 
 
 #calss header
-class _admission():
-	def __init__(self): 
-		self.name = "admission" 
+class _ADMISSION():
+	def __init__(self,): 
+		self.name = "ADMISSION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

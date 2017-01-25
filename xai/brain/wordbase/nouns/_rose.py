@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rose():
-	def __init__(self): 
-		self.name = "rose" 
+class _ROSE():
+	def __init__(self,): 
+		self.name = "ROSE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

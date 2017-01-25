@@ -1,6 +1,10 @@
 
 
 #calss header
-class _column():
-	def __init__(self): 
-		self.name = "column" 
+class _COLUMN():
+	def __init__(self,): 
+		self.name = "COLUMN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

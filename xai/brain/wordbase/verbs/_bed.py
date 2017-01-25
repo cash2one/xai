@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bed():
-	def __init__(self): 
-		self.name = "bed" 
+class _BED():
+	def __init__(self,): 
+		self.name = "BED"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

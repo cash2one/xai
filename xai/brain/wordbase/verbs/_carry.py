@@ -1,6 +1,10 @@
 
 
 #calss header
-class _carry():
-	def __init__(self): 
-		self.name = "carry" 
+class _CARRY():
+	def __init__(self,): 
+		self.name = "CARRY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

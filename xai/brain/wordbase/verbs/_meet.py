@@ -1,6 +1,10 @@
 
 
 #calss header
-class _meet():
-	def __init__(self): 
-		self.name = "meet" 
+class _MEET():
+	def __init__(self,): 
+		self.name = "MEET"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

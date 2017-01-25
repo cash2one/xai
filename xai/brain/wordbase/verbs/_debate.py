@@ -1,6 +1,10 @@
 
 
 #calss header
-class _debate():
-	def __init__(self): 
-		self.name = "debate" 
+class _DEBATE():
+	def __init__(self,): 
+		self.name = "DEBATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

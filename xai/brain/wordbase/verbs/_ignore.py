@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ignore():
-	def __init__(self): 
-		self.name = "ignore" 
+class _IGNORE():
+	def __init__(self,): 
+		self.name = "IGNORE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

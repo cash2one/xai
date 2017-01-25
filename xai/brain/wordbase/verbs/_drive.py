@@ -1,6 +1,10 @@
 
 
 #calss header
-class _drive():
-	def __init__(self): 
-		self.name = "drive" 
+class _DRIVE():
+	def __init__(self,): 
+		self.name = "DRIVE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

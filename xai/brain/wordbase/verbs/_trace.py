@@ -1,6 +1,10 @@
 
 
 #calss header
-class _trace():
-	def __init__(self): 
-		self.name = "trace" 
+class _TRACE():
+	def __init__(self,): 
+		self.name = "TRACE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

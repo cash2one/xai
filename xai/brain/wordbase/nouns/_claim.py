@@ -1,6 +1,10 @@
 
 
 #calss header
-class _claim():
-	def __init__(self): 
-		self.name = "claim" 
+class _CLAIM():
+	def __init__(self,): 
+		self.name = "CLAIM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

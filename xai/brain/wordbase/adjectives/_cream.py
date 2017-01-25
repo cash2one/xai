@@ -1,6 +1,12 @@
 
 
 #calss header
-class _cream():
-	def __init__(self): 
-		self.name = "cream" 
+class _CREAM():
+	def __init__(self,): 
+		self.name = "CREAM"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

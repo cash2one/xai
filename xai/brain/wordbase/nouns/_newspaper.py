@@ -1,6 +1,10 @@
 
 
 #calss header
-class _newspaper():
-	def __init__(self): 
-		self.name = "newspaper" 
+class _NEWSPAPER():
+	def __init__(self,): 
+		self.name = "NEWSPAPER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

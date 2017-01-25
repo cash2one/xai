@@ -1,6 +1,10 @@
 
 
 #calss header
-class _farm():
-	def __init__(self): 
-		self.name = "farm" 
+class _FARM():
+	def __init__(self,): 
+		self.name = "FARM"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

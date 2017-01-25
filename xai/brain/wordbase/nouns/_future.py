@@ -1,6 +1,10 @@
 
 
 #calss header
-class _future():
-	def __init__(self): 
-		self.name = "future" 
+class _FUTURE():
+	def __init__(self,): 
+		self.name = "FUTURE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

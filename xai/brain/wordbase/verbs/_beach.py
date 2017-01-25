@@ -1,6 +1,10 @@
 
 
 #calss header
-class _beach():
-	def __init__(self): 
-		self.name = "beach" 
+class _BEACH():
+	def __init__(self,): 
+		self.name = "BEACH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

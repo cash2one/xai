@@ -1,6 +1,12 @@
 
 
 #calss header
-class _stupid():
-	def __init__(self): 
-		self.name = "stupid" 
+class _STUPID():
+	def __init__(self,): 
+		self.name = "STUPID"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

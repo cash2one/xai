@@ -1,6 +1,10 @@
 
 
 #calss header
-class _protect():
-	def __init__(self): 
-		self.name = "protect" 
+class _PROTECT():
+	def __init__(self,): 
+		self.name = "PROTECT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

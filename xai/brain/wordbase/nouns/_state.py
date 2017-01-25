@@ -1,6 +1,10 @@
 
 
 #calss header
-class _state():
-	def __init__(self): 
-		self.name = "state" 
+class _STATE():
+	def __init__(self,): 
+		self.name = "STATE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

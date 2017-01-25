@@ -1,6 +1,10 @@
 
 
 #calss header
-class _motion():
-	def __init__(self): 
-		self.name = "motion" 
+class _MOTION():
+	def __init__(self,): 
+		self.name = "MOTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

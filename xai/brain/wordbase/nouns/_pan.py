@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pan():
-	def __init__(self): 
-		self.name = "pan" 
+class _PAN():
+	def __init__(self,): 
+		self.name = "PAN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

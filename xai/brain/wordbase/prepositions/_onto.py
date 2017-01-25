@@ -1,6 +1,10 @@
 
 
 #calss header
-class _onto():
-	def __init__(self): 
-		self.name = "onto" 
+class _ONTO():
+	def __init__(self,): 
+		self.name = "ONTO"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

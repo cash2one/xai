@@ -1,6 +1,10 @@
 
 
 #calss header
-class _but():
-	def __init__(self): 
-		self.name = "but" 
+class _BUT():
+	def __init__(self,): 
+		self.name = "BUT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

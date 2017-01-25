@@ -1,6 +1,10 @@
 
 
 #calss header
-class _concrete():
-	def __init__(self): 
-		self.name = "concrete" 
+class _CONCRETE():
+	def __init__(self,): 
+		self.name = "CONCRETE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

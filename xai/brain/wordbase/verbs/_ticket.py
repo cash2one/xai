@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ticket():
-	def __init__(self): 
-		self.name = "ticket" 
+class _TICKET():
+	def __init__(self,): 
+		self.name = "TICKET"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

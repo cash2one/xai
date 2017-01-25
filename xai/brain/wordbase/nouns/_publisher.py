@@ -1,6 +1,10 @@
 
 
 #calss header
-class _publisher():
-	def __init__(self): 
-		self.name = "publisher" 
+class _PUBLISHER():
+	def __init__(self,): 
+		self.name = "PUBLISHER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

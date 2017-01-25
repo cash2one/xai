@@ -1,6 +1,7 @@
 
 
 #calss header
-class _favorite():
-	def __init__(self): 
-		self.name = "favorite" 
+class _FAVORITE():
+	def __init__(self,): 
+		self.name = "FAVORITE"
+		self.jsondata = {}

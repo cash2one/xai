@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cream():
-	def __init__(self): 
-		self.name = "cream" 
+class _CREAM():
+	def __init__(self,): 
+		self.name = "CREAM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

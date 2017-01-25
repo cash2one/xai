@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ceremony():
-	def __init__(self): 
-		self.name = "ceremony" 
+class _CEREMONY():
+	def __init__(self,): 
+		self.name = "CEREMONY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

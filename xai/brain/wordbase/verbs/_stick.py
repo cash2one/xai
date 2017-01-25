@@ -1,6 +1,10 @@
 
 
 #calss header
-class _stick():
-	def __init__(self): 
-		self.name = "stick" 
+class _STICK():
+	def __init__(self,): 
+		self.name = "STICK"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

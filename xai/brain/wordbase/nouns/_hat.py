@@ -1,6 +1,10 @@
 
 
 #calss header
-class _hat():
-	def __init__(self): 
-		self.name = "hat" 
+class _HAT():
+	def __init__(self,): 
+		self.name = "HAT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

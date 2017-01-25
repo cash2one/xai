@@ -1,6 +1,10 @@
 
 
 #calss header
-class _strip():
-	def __init__(self): 
-		self.name = "strip" 
+class _STRIP():
+	def __init__(self,): 
+		self.name = "STRIP"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

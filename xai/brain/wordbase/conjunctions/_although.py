@@ -1,6 +1,10 @@
 
 
 #calss header
-class _although():
-	def __init__(self): 
-		self.name = "although" 
+class _ALTHOUGH():
+	def __init__(self,): 
+		self.name = "ALTHOUGH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

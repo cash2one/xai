@@ -1,6 +1,10 @@
 
 
 #calss header
-class _change():
-	def __init__(self): 
-		self.name = "change" 
+class _CHANGE():
+	def __init__(self,): 
+		self.name = "CHANGE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

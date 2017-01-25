@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sometimes():
-	def __init__(self): 
-		self.name = "sometimes" 
+class _SOMETIMES():
+	def __init__(self,): 
+		self.name = "SOMETIMES"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

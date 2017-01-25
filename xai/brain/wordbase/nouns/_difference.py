@@ -1,6 +1,10 @@
 
 
 #calss header
-class _difference():
-	def __init__(self): 
-		self.name = "difference" 
+class _DIFFERENCE():
+	def __init__(self,): 
+		self.name = "DIFFERENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

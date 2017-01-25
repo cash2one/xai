@@ -1,6 +1,10 @@
 
 
 #calss header
-class _latter():
-	def __init__(self): 
-		self.name = "latter" 
+class _LATTER():
+	def __init__(self,): 
+		self.name = "LATTER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

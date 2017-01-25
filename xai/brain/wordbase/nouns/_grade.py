@@ -1,6 +1,10 @@
 
 
 #calss header
-class _grade():
-	def __init__(self): 
-		self.name = "grade" 
+class _GRADE():
+	def __init__(self,): 
+		self.name = "GRADE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

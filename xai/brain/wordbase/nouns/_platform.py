@@ -1,6 +1,10 @@
 
 
 #calss header
-class _platform():
-	def __init__(self): 
-		self.name = "platform" 
+class _PLATFORM():
+	def __init__(self,): 
+		self.name = "PLATFORM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

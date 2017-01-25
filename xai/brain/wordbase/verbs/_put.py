@@ -1,6 +1,10 @@
 
 
 #calss header
-class _put():
-	def __init__(self): 
-		self.name = "put" 
+class _PUT():
+	def __init__(self,): 
+		self.name = "PUT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

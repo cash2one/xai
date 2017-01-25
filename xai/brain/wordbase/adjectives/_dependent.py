@@ -1,6 +1,12 @@
 
 
 #calss header
-class _dependent():
-	def __init__(self): 
-		self.name = "dependent" 
+class _DEPENDENT():
+	def __init__(self,): 
+		self.name = "DEPENDENT"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

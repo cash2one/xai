@@ -1,6 +1,10 @@
 
 
 #calss header
-class _guarantee():
-	def __init__(self): 
-		self.name = "guarantee" 
+class _GUARANTEE():
+	def __init__(self,): 
+		self.name = "GUARANTEE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

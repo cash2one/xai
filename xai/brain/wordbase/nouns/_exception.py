@@ -1,6 +1,10 @@
 
 
 #calss header
-class _exception():
-	def __init__(self): 
-		self.name = "exception" 
+class _EXCEPTION():
+	def __init__(self,): 
+		self.name = "EXCEPTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

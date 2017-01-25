@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bright():
-	def __init__(self): 
-		self.name = "bright" 
+class _BRIGHT():
+	def __init__(self,): 
+		self.name = "BRIGHT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _squeeze():
-	def __init__(self): 
-		self.name = "squeeze" 
+class _SQUEEZE():
+	def __init__(self,): 
+		self.name = "SQUEEZE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

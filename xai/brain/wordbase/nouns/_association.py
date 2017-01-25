@@ -1,6 +1,10 @@
 
 
 #calss header
-class _association():
-	def __init__(self): 
-		self.name = "association" 
+class _ASSOCIATION():
+	def __init__(self,): 
+		self.name = "ASSOCIATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

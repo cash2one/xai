@@ -1,6 +1,10 @@
 
 
 #calss header
-class _consensus():
-	def __init__(self): 
-		self.name = "consensus" 
+class _CONSENSUS():
+	def __init__(self,): 
+		self.name = "CONSENSUS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

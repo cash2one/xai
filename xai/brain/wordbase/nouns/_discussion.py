@@ -1,6 +1,10 @@
 
 
 #calss header
-class _discussion():
-	def __init__(self): 
-		self.name = "discussion" 
+class _DISCUSSION():
+	def __init__(self,): 
+		self.name = "DISCUSSION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

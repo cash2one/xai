@@ -1,6 +1,10 @@
 
 
 #calss header
-class _perspective():
-	def __init__(self): 
-		self.name = "perspective" 
+class _PERSPECTIVE():
+	def __init__(self,): 
+		self.name = "PERSPECTIVE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

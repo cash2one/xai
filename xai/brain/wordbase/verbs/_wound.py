@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wound():
-	def __init__(self): 
-		self.name = "wound" 
+class _WOUND():
+	def __init__(self,): 
+		self.name = "WOUND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

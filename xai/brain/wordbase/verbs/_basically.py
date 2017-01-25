@@ -1,6 +1,10 @@
 
 
 #calss header
-class _basically():
-	def __init__(self): 
-		self.name = "basically" 
+class _BASICALLY():
+	def __init__(self,): 
+		self.name = "BASICALLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

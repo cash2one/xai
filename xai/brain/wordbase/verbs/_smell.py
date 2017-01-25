@@ -1,6 +1,10 @@
 
 
 #calss header
-class _smell():
-	def __init__(self): 
-		self.name = "smell" 
+class _SMELL():
+	def __init__(self,): 
+		self.name = "SMELL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

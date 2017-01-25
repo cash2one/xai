@@ -1,6 +1,10 @@
 
 
 #calss header
-class _strengthen():
-	def __init__(self): 
-		self.name = "strengthen" 
+class _STRENGTHEN():
+	def __init__(self,): 
+		self.name = "STRENGTHEN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

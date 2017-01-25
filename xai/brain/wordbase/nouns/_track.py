@@ -1,6 +1,10 @@
 
 
 #calss header
-class _track():
-	def __init__(self): 
-		self.name = "track" 
+class _TRACK():
+	def __init__(self,): 
+		self.name = "TRACK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _against():
-	def __init__(self): 
-		self.name = "against" 
+class _AGAINST():
+	def __init__(self,): 
+		self.name = "AGAINST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

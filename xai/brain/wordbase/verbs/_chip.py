@@ -1,6 +1,10 @@
 
 
 #calss header
-class _chip():
-	def __init__(self): 
-		self.name = "chip" 
+class _CHIP():
+	def __init__(self,): 
+		self.name = "CHIP"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

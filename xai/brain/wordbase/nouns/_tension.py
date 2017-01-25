@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tension():
-	def __init__(self): 
-		self.name = "tension" 
+class _TENSION():
+	def __init__(self,): 
+		self.name = "TENSION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

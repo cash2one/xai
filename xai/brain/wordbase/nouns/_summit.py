@@ -1,6 +1,10 @@
 
 
 #calss header
-class _summit():
-	def __init__(self): 
-		self.name = "summit" 
+class _SUMMIT():
+	def __init__(self,): 
+		self.name = "SUMMIT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

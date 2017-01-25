@@ -1,6 +1,10 @@
 
 
 #calss header
-class _brush():
-	def __init__(self): 
-		self.name = "brush" 
+class _BRUSH():
+	def __init__(self,): 
+		self.name = "BRUSH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

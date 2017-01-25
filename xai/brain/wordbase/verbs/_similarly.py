@@ -1,6 +1,10 @@
 
 
 #calss header
-class _similarly():
-	def __init__(self): 
-		self.name = "similarly" 
+class _SIMILARLY():
+	def __init__(self,): 
+		self.name = "SIMILARLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

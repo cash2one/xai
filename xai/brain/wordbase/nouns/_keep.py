@@ -1,6 +1,10 @@
 
 
 #calss header
-class _keep():
-	def __init__(self): 
-		self.name = "keep" 
+class _KEEP():
+	def __init__(self,): 
+		self.name = "KEEP"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

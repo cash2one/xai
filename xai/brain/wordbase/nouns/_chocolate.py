@@ -1,6 +1,10 @@
 
 
 #calss header
-class _chocolate():
-	def __init__(self): 
-		self.name = "chocolate" 
+class _CHOCOLATE():
+	def __init__(self,): 
+		self.name = "CHOCOLATE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

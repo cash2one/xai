@@ -1,6 +1,10 @@
 
 
 #calss header
-class _frame():
-	def __init__(self): 
-		self.name = "frame" 
+class _FRAME():
+	def __init__(self,): 
+		self.name = "FRAME"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

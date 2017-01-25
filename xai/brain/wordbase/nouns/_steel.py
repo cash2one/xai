@@ -1,6 +1,10 @@
 
 
 #calss header
-class _steel():
-	def __init__(self): 
-		self.name = "steel" 
+class _STEEL():
+	def __init__(self,): 
+		self.name = "STEEL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

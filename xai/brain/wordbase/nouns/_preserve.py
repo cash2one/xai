@@ -1,6 +1,10 @@
 
 
 #calss header
-class _preserve():
-	def __init__(self): 
-		self.name = "preserve" 
+class _PRESERVE():
+	def __init__(self,): 
+		self.name = "PRESERVE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

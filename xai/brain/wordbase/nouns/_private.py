@@ -1,6 +1,10 @@
 
 
 #calss header
-class _private():
-	def __init__(self): 
-		self.name = "private" 
+class _PRIVATE():
+	def __init__(self,): 
+		self.name = "PRIVATE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _or():
-	def __init__(self): 
-		self.name = "or" 
+class _OR():
+	def __init__(self,): 
+		self.name = "OR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

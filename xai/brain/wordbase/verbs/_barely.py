@@ -1,6 +1,10 @@
 
 
 #calss header
-class _barely():
-	def __init__(self): 
-		self.name = "barely" 
+class _BARELY():
+	def __init__(self,): 
+		self.name = "BARELY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

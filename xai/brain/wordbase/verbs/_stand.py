@@ -1,6 +1,10 @@
 
 
 #calss header
-class _stand():
-	def __init__(self): 
-		self.name = "stand" 
+class _STAND():
+	def __init__(self,): 
+		self.name = "STAND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rain():
-	def __init__(self): 
-		self.name = "rain" 
+class _RAIN():
+	def __init__(self,): 
+		self.name = "RAIN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

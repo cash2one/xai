@@ -1,6 +1,10 @@
 
 
 #calss header
-class _seriously():
-	def __init__(self): 
-		self.name = "seriously" 
+class _SERIOUSLY():
+	def __init__(self,): 
+		self.name = "SERIOUSLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

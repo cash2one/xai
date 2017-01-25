@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sort():
-	def __init__(self): 
-		self.name = "sort" 
+class _SORT():
+	def __init__(self,): 
+		self.name = "SORT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

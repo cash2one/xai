@@ -1,6 +1,10 @@
 
 
 #calss header
-class _prevent():
-	def __init__(self): 
-		self.name = "prevent" 
+class _PREVENT():
+	def __init__(self,): 
+		self.name = "PREVENT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

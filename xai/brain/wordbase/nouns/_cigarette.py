@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cigarette():
-	def __init__(self): 
-		self.name = "cigarette" 
+class _CIGARETTE():
+	def __init__(self,): 
+		self.name = "CIGARETTE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

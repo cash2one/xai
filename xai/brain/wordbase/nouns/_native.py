@@ -1,6 +1,10 @@
 
 
 #calss header
-class _native():
-	def __init__(self): 
-		self.name = "native" 
+class _NATIVE():
+	def __init__(self,): 
+		self.name = "NATIVE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

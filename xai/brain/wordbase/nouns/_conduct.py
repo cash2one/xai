@@ -1,6 +1,10 @@
 
 
 #calss header
-class _conduct():
-	def __init__(self): 
-		self.name = "conduct" 
+class _CONDUCT():
+	def __init__(self,): 
+		self.name = "CONDUCT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

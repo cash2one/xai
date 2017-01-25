@@ -1,6 +1,10 @@
 
 
 #calss header
-class _defensive():
-	def __init__(self): 
-		self.name = "defensive" 
+class _DEFENSIVE():
+	def __init__(self,): 
+		self.name = "DEFENSIVE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

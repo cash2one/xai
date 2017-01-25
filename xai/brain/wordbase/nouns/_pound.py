@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pound():
-	def __init__(self): 
-		self.name = "pound" 
+class _POUND():
+	def __init__(self,): 
+		self.name = "POUND"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

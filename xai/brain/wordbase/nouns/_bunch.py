@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bunch():
-	def __init__(self): 
-		self.name = "bunch" 
+class _BUNCH():
+	def __init__(self,): 
+		self.name = "BUNCH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

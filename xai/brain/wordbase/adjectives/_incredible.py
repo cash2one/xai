@@ -1,6 +1,12 @@
 
 
 #calss header
-class _incredible():
-	def __init__(self): 
-		self.name = "incredible" 
+class _INCREDIBLE():
+	def __init__(self,): 
+		self.name = "INCREDIBLE"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

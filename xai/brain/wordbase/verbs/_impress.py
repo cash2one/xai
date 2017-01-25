@@ -1,6 +1,10 @@
 
 
 #calss header
-class _impress():
-	def __init__(self): 
-		self.name = "impress" 
+class _IMPRESS():
+	def __init__(self,): 
+		self.name = "IMPRESS"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

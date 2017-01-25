@@ -1,6 +1,10 @@
 
 
 #calss header
-class _computer():
-	def __init__(self): 
-		self.name = "computer" 
+class _COMPUTER():
+	def __init__(self,): 
+		self.name = "COMPUTER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

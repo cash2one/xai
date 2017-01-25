@@ -1,6 +1,7 @@
 
 
 #calss header
-class _none():
-	def __init__(self): 
-		self.name = "none" 
+class _NONE():
+	def __init__(self,): 
+		self.name = "NONE"
+		self.jsondata = {}

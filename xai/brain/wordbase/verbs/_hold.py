@@ -1,6 +1,10 @@
 
 
 #calss header
-class _hold():
-	def __init__(self): 
-		self.name = "hold" 
+class _HOLD():
+	def __init__(self,): 
+		self.name = "HOLD"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

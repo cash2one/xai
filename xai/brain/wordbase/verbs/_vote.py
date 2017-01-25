@@ -1,6 +1,10 @@
 
 
 #calss header
-class _vote():
-	def __init__(self): 
-		self.name = "vote" 
+class _VOTE():
+	def __init__(self,): 
+		self.name = "VOTE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

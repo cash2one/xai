@@ -1,6 +1,10 @@
 
 
 #calss header
-class _grab():
-	def __init__(self): 
-		self.name = "grab" 
+class _GRAB():
+	def __init__(self,): 
+		self.name = "GRAB"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

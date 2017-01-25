@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sentence():
-	def __init__(self): 
-		self.name = "sentence" 
+class _SENTENCE():
+	def __init__(self,): 
+		self.name = "SENTENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

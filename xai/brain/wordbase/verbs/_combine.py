@@ -1,6 +1,10 @@
 
 
 #calss header
-class _combine():
-	def __init__(self): 
-		self.name = "combine" 
+class _COMBINE():
+	def __init__(self,): 
+		self.name = "COMBINE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

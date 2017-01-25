@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mutual():
-	def __init__(self): 
-		self.name = "mutual" 
+class _MUTUAL():
+	def __init__(self,): 
+		self.name = "MUTUAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

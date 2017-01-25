@@ -1,6 +1,10 @@
 
 
 #calss header
-class _barrier():
-	def __init__(self): 
-		self.name = "barrier" 
+class _BARRIER():
+	def __init__(self,): 
+		self.name = "BARRIER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

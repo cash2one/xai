@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bury():
-	def __init__(self): 
-		self.name = "bury" 
+class _BURY():
+	def __init__(self,): 
+		self.name = "BURY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _refuse():
-	def __init__(self): 
-		self.name = "refuse" 
+class _REFUSE():
+	def __init__(self,): 
+		self.name = "REFUSE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

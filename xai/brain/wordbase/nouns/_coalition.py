@@ -1,6 +1,10 @@
 
 
 #calss header
-class _coalition():
-	def __init__(self): 
-		self.name = "coalition" 
+class _COALITION():
+	def __init__(self,): 
+		self.name = "COALITION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

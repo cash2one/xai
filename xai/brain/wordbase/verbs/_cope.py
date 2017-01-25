@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cope():
-	def __init__(self): 
-		self.name = "cope" 
+class _COPE():
+	def __init__(self,): 
+		self.name = "COPE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

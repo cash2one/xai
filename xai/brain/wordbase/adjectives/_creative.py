@@ -1,6 +1,12 @@
 
 
 #calss header
-class _creative():
-	def __init__(self): 
-		self.name = "creative" 
+class _CREATIVE():
+	def __init__(self,): 
+		self.name = "CREATIVE"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

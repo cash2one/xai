@@ -1,6 +1,10 @@
 
 
 #calss header
-class _explosion():
-	def __init__(self): 
-		self.name = "explosion" 
+class _EXPLOSION():
+	def __init__(self,): 
+		self.name = "EXPLOSION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

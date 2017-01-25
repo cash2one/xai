@@ -1,6 +1,10 @@
 
 
 #calss header
-class _should():
-	def __init__(self): 
-		self.name = "should" 
+class _SHOULD():
+	def __init__(self,): 
+		self.name = "SHOULD"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

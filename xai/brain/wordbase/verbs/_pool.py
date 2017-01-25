@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pool():
-	def __init__(self): 
-		self.name = "pool" 
+class _POOL():
+	def __init__(self,): 
+		self.name = "POOL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

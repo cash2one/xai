@@ -1,6 +1,10 @@
 
 
 #calss header
-class _after():
-	def __init__(self): 
-		self.name = "after" 
+class _AFTER():
+	def __init__(self,): 
+		self.name = "AFTER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

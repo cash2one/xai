@@ -1,6 +1,10 @@
 
 
 #calss header
-class _provider():
-	def __init__(self): 
-		self.name = "provider" 
+class _PROVIDER():
+	def __init__(self,): 
+		self.name = "PROVIDER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

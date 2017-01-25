@@ -1,6 +1,10 @@
 
 
 #calss header
-class _express():
-	def __init__(self): 
-		self.name = "express" 
+class _EXPRESS():
+	def __init__(self,): 
+		self.name = "EXPRESS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _maker():
-	def __init__(self): 
-		self.name = "maker" 
+class _MAKER():
+	def __init__(self,): 
+		self.name = "MAKER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

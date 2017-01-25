@@ -1,6 +1,10 @@
 
 
 #calss header
-class _owe():
-	def __init__(self): 
-		self.name = "owe" 
+class _OWE():
+	def __init__(self,): 
+		self.name = "OWE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

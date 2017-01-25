@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ceiling():
-	def __init__(self): 
-		self.name = "ceiling" 
+class _CEILING():
+	def __init__(self,): 
+		self.name = "CEILING"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

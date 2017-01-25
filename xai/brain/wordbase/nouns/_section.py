@@ -1,6 +1,10 @@
 
 
 #calss header
-class _section():
-	def __init__(self): 
-		self.name = "section" 
+class _SECTION():
+	def __init__(self,): 
+		self.name = "SECTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

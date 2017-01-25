@@ -1,6 +1,10 @@
 
 
 #calss header
-class _appropriate():
-	def __init__(self): 
-		self.name = "appropriate" 
+class _APPROPRIATE():
+	def __init__(self,): 
+		self.name = "APPROPRIATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

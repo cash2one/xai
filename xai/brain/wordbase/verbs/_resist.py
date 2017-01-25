@@ -1,6 +1,10 @@
 
 
 #calss header
-class _resist():
-	def __init__(self): 
-		self.name = "resist" 
+class _RESIST():
+	def __init__(self,): 
+		self.name = "RESIST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

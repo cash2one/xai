@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ease():
-	def __init__(self): 
-		self.name = "ease" 
+class _EASE():
+	def __init__(self,): 
+		self.name = "EASE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

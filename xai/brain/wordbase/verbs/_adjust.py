@@ -1,6 +1,10 @@
 
 
 #calss header
-class _adjust():
-	def __init__(self): 
-		self.name = "adjust" 
+class _ADJUST():
+	def __init__(self,): 
+		self.name = "ADJUST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

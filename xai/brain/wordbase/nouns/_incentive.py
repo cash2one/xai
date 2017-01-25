@@ -1,6 +1,10 @@
 
 
 #calss header
-class _incentive():
-	def __init__(self): 
-		self.name = "incentive" 
+class _INCENTIVE():
+	def __init__(self,): 
+		self.name = "INCENTIVE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

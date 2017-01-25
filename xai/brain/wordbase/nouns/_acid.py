@@ -1,6 +1,10 @@
 
 
 #calss header
-class _acid():
-	def __init__(self): 
-		self.name = "acid" 
+class _ACID():
+	def __init__(self,): 
+		self.name = "ACID"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

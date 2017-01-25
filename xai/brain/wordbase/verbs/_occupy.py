@@ -1,6 +1,10 @@
 
 
 #calss header
-class _occupy():
-	def __init__(self): 
-		self.name = "occupy" 
+class _OCCUPY():
+	def __init__(self,): 
+		self.name = "OCCUPY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

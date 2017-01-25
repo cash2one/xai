@@ -1,6 +1,10 @@
 
 
 #calss header
-class _light():
-	def __init__(self): 
-		self.name = "light" 
+class _LIGHT():
+	def __init__(self,): 
+		self.name = "LIGHT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

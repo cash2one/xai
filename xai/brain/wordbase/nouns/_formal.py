@@ -1,6 +1,10 @@
 
 
 #calss header
-class _formal():
-	def __init__(self): 
-		self.name = "formal" 
+class _FORMAL():
+	def __init__(self,): 
+		self.name = "FORMAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,7 @@
 
 
 #calss header
-class _whom():
-	def __init__(self): 
-		self.name = "whom" 
+class _WHOM():
+	def __init__(self,): 
+		self.name = "WHOM"
+		self.jsondata = {}

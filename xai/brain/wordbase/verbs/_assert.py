@@ -1,6 +1,10 @@
 
 
 #calss header
-class _assert():
-	def __init__(self): 
-		self.name = "assert" 
+class _ASSERT():
+	def __init__(self,): 
+		self.name = "ASSERT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

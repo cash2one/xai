@@ -1,6 +1,7 @@
 
 
 #calss header
-class _inner():
-	def __init__(self): 
-		self.name = "inner" 
+class _INNER():
+	def __init__(self,): 
+		self.name = "INNER"
+		self.jsondata = {}

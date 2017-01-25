@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fire():
-	def __init__(self): 
-		self.name = "fire" 
+class _FIRE():
+	def __init__(self,): 
+		self.name = "FIRE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _close():
-	def __init__(self): 
-		self.name = "close" 
+class _CLOSE():
+	def __init__(self,): 
+		self.name = "CLOSE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

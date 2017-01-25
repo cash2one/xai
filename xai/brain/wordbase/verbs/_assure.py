@@ -1,6 +1,10 @@
 
 
 #calss header
-class _assure():
-	def __init__(self): 
-		self.name = "assure" 
+class _ASSURE():
+	def __init__(self,): 
+		self.name = "ASSURE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

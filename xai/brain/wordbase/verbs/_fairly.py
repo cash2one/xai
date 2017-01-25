@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fairly():
-	def __init__(self): 
-		self.name = "fairly" 
+class _FAIRLY():
+	def __init__(self,): 
+		self.name = "FAIRLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

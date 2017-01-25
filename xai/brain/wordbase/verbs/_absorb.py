@@ -1,6 +1,10 @@
 
 
 #calss header
-class _absorb():
-	def __init__(self): 
-		self.name = "absorb" 
+class _ABSORB():
+	def __init__(self,): 
+		self.name = "ABSORB"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

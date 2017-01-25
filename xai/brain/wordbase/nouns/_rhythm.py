@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rhythm():
-	def __init__(self): 
-		self.name = "rhythm" 
+class _RHYTHM():
+	def __init__(self,): 
+		self.name = "RHYTHM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

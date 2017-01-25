@@ -1,6 +1,10 @@
 
 
 #calss header
-class _boundary():
-	def __init__(self): 
-		self.name = "boundary" 
+class _BOUNDARY():
+	def __init__(self,): 
+		self.name = "BOUNDARY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

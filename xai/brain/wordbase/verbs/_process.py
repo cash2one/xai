@@ -1,6 +1,10 @@
 
 
 #calss header
-class _process():
-	def __init__(self): 
-		self.name = "process" 
+class _PROCESS():
+	def __init__(self,): 
+		self.name = "PROCESS"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _swear():
-	def __init__(self): 
-		self.name = "swear" 
+class _SWEAR():
+	def __init__(self,): 
+		self.name = "SWEAR"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

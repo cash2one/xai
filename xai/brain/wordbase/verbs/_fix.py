@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fix():
-	def __init__(self): 
-		self.name = "fix" 
+class _FIX():
+	def __init__(self,): 
+		self.name = "FIX"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

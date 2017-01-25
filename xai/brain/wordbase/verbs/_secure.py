@@ -1,6 +1,10 @@
 
 
 #calss header
-class _secure():
-	def __init__(self): 
-		self.name = "secure" 
+class _SECURE():
+	def __init__(self,): 
+		self.name = "SECURE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

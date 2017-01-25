@@ -1,6 +1,10 @@
 
 
 #calss header
-class _many():
-	def __init__(self): 
-		self.name = "many" 
+class _MANY():
+	def __init__(self,): 
+		self.name = "MANY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

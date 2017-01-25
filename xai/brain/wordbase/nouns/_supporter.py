@@ -1,6 +1,10 @@
 
 
 #calss header
-class _supporter():
-	def __init__(self): 
-		self.name = "supporter" 
+class _SUPPORTER():
+	def __init__(self,): 
+		self.name = "SUPPORTER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

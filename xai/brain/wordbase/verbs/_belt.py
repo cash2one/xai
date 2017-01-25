@@ -1,6 +1,10 @@
 
 
 #calss header
-class _belt():
-	def __init__(self): 
-		self.name = "belt" 
+class _BELT():
+	def __init__(self,): 
+		self.name = "BELT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

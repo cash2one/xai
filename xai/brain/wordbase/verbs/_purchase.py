@@ -1,6 +1,10 @@
 
 
 #calss header
-class _purchase():
-	def __init__(self): 
-		self.name = "purchase" 
+class _PURCHASE():
+	def __init__(self,): 
+		self.name = "PURCHASE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

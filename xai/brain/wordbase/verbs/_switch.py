@@ -1,6 +1,10 @@
 
 
 #calss header
-class _switch():
-	def __init__(self): 
-		self.name = "switch" 
+class _SWITCH():
+	def __init__(self,): 
+		self.name = "SWITCH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _kill():
-	def __init__(self): 
-		self.name = "kill" 
+class _KILL():
+	def __init__(self,): 
+		self.name = "KILL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

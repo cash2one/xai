@@ -1,6 +1,10 @@
 
 
 #calss header
-class _parking():
-	def __init__(self): 
-		self.name = "parking" 
+class _PARKING():
+	def __init__(self,): 
+		self.name = "PARKING"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _flag():
-	def __init__(self): 
-		self.name = "flag" 
+class _FLAG():
+	def __init__(self,): 
+		self.name = "FLAG"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

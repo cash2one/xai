@@ -1,6 +1,10 @@
 
 
 #calss header
-class _fiber():
-	def __init__(self): 
-		self.name = "fiber" 
+class _FIBER():
+	def __init__(self,): 
+		self.name = "FIBER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

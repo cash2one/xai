@@ -1,6 +1,10 @@
 
 
 #calss header
-class _photo():
-	def __init__(self): 
-		self.name = "photo" 
+class _PHOTO():
+	def __init__(self,): 
+		self.name = "PHOTO"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

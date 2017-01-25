@@ -1,6 +1,10 @@
 
 
 #calss header
-class _lay():
-	def __init__(self): 
-		self.name = "lay" 
+class _LAY():
+	def __init__(self,): 
+		self.name = "LAY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

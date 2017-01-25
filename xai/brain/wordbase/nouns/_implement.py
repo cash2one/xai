@@ -1,6 +1,10 @@
 
 
 #calss header
-class _implement():
-	def __init__(self): 
-		self.name = "implement" 
+class _IMPLEMENT():
+	def __init__(self,): 
+		self.name = "IMPLEMENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

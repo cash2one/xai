@@ -1,6 +1,10 @@
 
 
 #calss header
-class _thus():
-	def __init__(self): 
-		self.name = "thus" 
+class _THUS():
+	def __init__(self,): 
+		self.name = "THUS"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

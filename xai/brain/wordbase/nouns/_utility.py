@@ -1,6 +1,10 @@
 
 
 #calss header
-class _utility():
-	def __init__(self): 
-		self.name = "utility" 
+class _UTILITY():
+	def __init__(self,): 
+		self.name = "UTILITY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

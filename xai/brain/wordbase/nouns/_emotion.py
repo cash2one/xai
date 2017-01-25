@@ -1,6 +1,10 @@
 
 
 #calss header
-class _emotion():
-	def __init__(self): 
-		self.name = "emotion" 
+class _EMOTION():
+	def __init__(self,): 
+		self.name = "EMOTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

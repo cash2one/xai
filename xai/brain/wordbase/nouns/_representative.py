@@ -1,6 +1,10 @@
 
 
 #calss header
-class _representative():
-	def __init__(self): 
-		self.name = "representative" 
+class _REPRESENTATIVE():
+	def __init__(self,): 
+		self.name = "REPRESENTATIVE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

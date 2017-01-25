@@ -1,6 +1,10 @@
 
 
 #calss header
-class _garlic():
-	def __init__(self): 
-		self.name = "garlic" 
+class _GARLIC():
+	def __init__(self,): 
+		self.name = "GARLIC"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

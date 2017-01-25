@@ -1,6 +1,10 @@
 
 
 #calss header
-class _except():
-	def __init__(self): 
-		self.name = "except" 
+class _EXCEPT():
+	def __init__(self,): 
+		self.name = "EXCEPT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

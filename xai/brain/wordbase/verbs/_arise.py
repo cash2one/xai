@@ -1,6 +1,10 @@
 
 
 #calss header
-class _arise():
-	def __init__(self): 
-		self.name = "arise" 
+class _ARISE():
+	def __init__(self,): 
+		self.name = "ARISE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

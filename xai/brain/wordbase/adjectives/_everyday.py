@@ -1,6 +1,12 @@
 
 
 #calss header
-class _everyday():
-	def __init__(self): 
-		self.name = "everyday" 
+class _EVERYDAY():
+	def __init__(self,): 
+		self.name = "EVERYDAY"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

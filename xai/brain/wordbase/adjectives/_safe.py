@@ -1,6 +1,12 @@
 
 
 #calss header
-class _safe():
-	def __init__(self): 
-		self.name = "safe" 
+class _SAFE():
+	def __init__(self,): 
+		self.name = "SAFE"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

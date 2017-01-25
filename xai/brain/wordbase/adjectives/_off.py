@@ -1,6 +1,12 @@
 
 
 #calss header
-class _off():
-	def __init__(self): 
-		self.name = "off" 
+class _OFF():
+	def __init__(self,): 
+		self.name = "OFF"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _must():
-	def __init__(self): 
-		self.name = "must" 
+class _MUST():
+	def __init__(self,): 
+		self.name = "MUST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,7 @@
 
 
 #calss header
-class _which():
-	def __init__(self): 
-		self.name = "which" 
+class _WHICH():
+	def __init__(self,): 
+		self.name = "WHICH"
+		self.jsondata = {}

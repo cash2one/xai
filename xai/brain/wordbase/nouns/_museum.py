@@ -1,6 +1,10 @@
 
 
 #calss header
-class _museum():
-	def __init__(self): 
-		self.name = "museum" 
+class _MUSEUM():
+	def __init__(self,): 
+		self.name = "MUSEUM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _permanent():
-	def __init__(self): 
-		self.name = "permanent" 
+class _PERMANENT():
+	def __init__(self,): 
+		self.name = "PERMANENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

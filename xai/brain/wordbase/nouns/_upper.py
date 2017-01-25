@@ -1,6 +1,10 @@
 
 
 #calss header
-class _upper():
-	def __init__(self): 
-		self.name = "upper" 
+class _UPPER():
+	def __init__(self,): 
+		self.name = "UPPER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

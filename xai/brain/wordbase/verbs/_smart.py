@@ -1,6 +1,10 @@
 
 
 #calss header
-class _smart():
-	def __init__(self): 
-		self.name = "smart" 
+class _SMART():
+	def __init__(self,): 
+		self.name = "SMART"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

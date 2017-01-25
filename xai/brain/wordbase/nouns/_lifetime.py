@@ -1,6 +1,10 @@
 
 
 #calss header
-class _lifetime():
-	def __init__(self): 
-		self.name = "lifetime" 
+class _LIFETIME():
+	def __init__(self,): 
+		self.name = "LIFETIME"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

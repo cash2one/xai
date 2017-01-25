@@ -1,6 +1,10 @@
 
 
 #calss header
-class _conviction():
-	def __init__(self): 
-		self.name = "conviction" 
+class _CONVICTION():
+	def __init__(self,): 
+		self.name = "CONVICTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

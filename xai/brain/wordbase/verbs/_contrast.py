@@ -1,6 +1,10 @@
 
 
 #calss header
-class _contrast():
-	def __init__(self): 
-		self.name = "contrast" 
+class _CONTRAST():
+	def __init__(self,): 
+		self.name = "CONTRAST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

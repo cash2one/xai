@@ -1,6 +1,10 @@
 
 
 #calss header
-class _group():
-	def __init__(self): 
-		self.name = "group" 
+class _GROUP():
+	def __init__(self,): 
+		self.name = "GROUP"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

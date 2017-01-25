@@ -1,6 +1,10 @@
 
 
 #calss header
-class _evidence():
-	def __init__(self): 
-		self.name = "evidence" 
+class _EVIDENCE():
+	def __init__(self,): 
+		self.name = "EVIDENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

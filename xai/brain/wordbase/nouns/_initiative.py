@@ -1,6 +1,10 @@
 
 
 #calss header
-class _initiative():
-	def __init__(self): 
-		self.name = "initiative" 
+class _INITIATIVE():
+	def __init__(self,): 
+		self.name = "INITIATIVE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

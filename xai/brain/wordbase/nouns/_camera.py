@@ -1,6 +1,10 @@
 
 
 #calss header
-class _camera():
-	def __init__(self): 
-		self.name = "camera" 
+class _CAMERA():
+	def __init__(self,): 
+		self.name = "CAMERA"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

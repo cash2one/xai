@@ -1,6 +1,10 @@
 
 
 #calss header
-class _neck():
-	def __init__(self): 
-		self.name = "neck" 
+class _NECK():
+	def __init__(self,): 
+		self.name = "NECK"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

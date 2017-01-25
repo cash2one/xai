@@ -1,6 +1,10 @@
 
 
 #calss header
-class _moon():
-	def __init__(self): 
-		self.name = "moon" 
+class _MOON():
+	def __init__(self,): 
+		self.name = "MOON"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

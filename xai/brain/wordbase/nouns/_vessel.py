@@ -1,6 +1,10 @@
 
 
 #calss header
-class _vessel():
-	def __init__(self): 
-		self.name = "vessel" 
+class _VESSEL():
+	def __init__(self,): 
+		self.name = "VESSEL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

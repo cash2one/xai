@@ -1,6 +1,10 @@
 
 
 #calss header
-class _prescription():
-	def __init__(self): 
-		self.name = "prescription" 
+class _PRESCRIPTION():
+	def __init__(self,): 
+		self.name = "PRESCRIPTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

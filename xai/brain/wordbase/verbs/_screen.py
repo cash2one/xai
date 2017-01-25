@@ -1,6 +1,10 @@
 
 
 #calss header
-class _screen():
-	def __init__(self): 
-		self.name = "screen" 
+class _SCREEN():
+	def __init__(self,): 
+		self.name = "SCREEN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

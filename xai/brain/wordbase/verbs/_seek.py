@@ -1,6 +1,10 @@
 
 
 #calss header
-class _seek():
-	def __init__(self): 
-		self.name = "seek" 
+class _SEEK():
+	def __init__(self,): 
+		self.name = "SEEK"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _convince():
-	def __init__(self): 
-		self.name = "convince" 
+class _CONVINCE():
+	def __init__(self,): 
+		self.name = "CONVINCE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

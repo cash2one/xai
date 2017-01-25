@@ -1,6 +1,10 @@
 
 
 #calss header
-class _conclude():
-	def __init__(self): 
-		self.name = "conclude" 
+class _CONCLUDE():
+	def __init__(self,): 
+		self.name = "CONCLUDE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

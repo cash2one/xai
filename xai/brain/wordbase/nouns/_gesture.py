@@ -1,6 +1,10 @@
 
 
 #calss header
-class _gesture():
-	def __init__(self): 
-		self.name = "gesture" 
+class _GESTURE():
+	def __init__(self,): 
+		self.name = "GESTURE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

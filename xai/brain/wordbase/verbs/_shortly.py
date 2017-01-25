@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shortly():
-	def __init__(self): 
-		self.name = "shortly" 
+class _SHORTLY():
+	def __init__(self,): 
+		self.name = "SHORTLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

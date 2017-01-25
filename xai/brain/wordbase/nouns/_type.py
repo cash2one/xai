@@ -1,6 +1,10 @@
 
 
 #calss header
-class _type():
-	def __init__(self): 
-		self.name = "type" 
+class _TYPE():
+	def __init__(self,): 
+		self.name = "TYPE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _discrimination():
-	def __init__(self): 
-		self.name = "discrimination" 
+class _DISCRIMINATION():
+	def __init__(self,): 
+		self.name = "DISCRIMINATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

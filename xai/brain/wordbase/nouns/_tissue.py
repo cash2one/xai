@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tissue():
-	def __init__(self): 
-		self.name = "tissue" 
+class _TISSUE():
+	def __init__(self,): 
+		self.name = "TISSUE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _family():
-	def __init__(self): 
-		self.name = "family" 
+class _FAMILY():
+	def __init__(self,): 
+		self.name = "FAMILY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,12 @@
 
 
 #calss header
-class _widespread():
-	def __init__(self): 
-		self.name = "widespread" 
+class _WIDESPREAD():
+	def __init__(self,): 
+		self.name = "WIDESPREAD"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

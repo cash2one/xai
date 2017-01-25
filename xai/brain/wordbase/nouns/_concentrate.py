@@ -1,6 +1,10 @@
 
 
 #calss header
-class _concentrate():
-	def __init__(self): 
-		self.name = "concentrate" 
+class _CONCENTRATE():
+	def __init__(self,): 
+		self.name = "CONCENTRATE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _illegal():
-	def __init__(self): 
-		self.name = "illegal" 
+class _ILLEGAL():
+	def __init__(self,): 
+		self.name = "ILLEGAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _reaction():
-	def __init__(self): 
-		self.name = "reaction" 
+class _REACTION():
+	def __init__(self,): 
+		self.name = "REACTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

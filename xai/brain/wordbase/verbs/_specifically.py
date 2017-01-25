@@ -1,6 +1,10 @@
 
 
 #calss header
-class _specifically():
-	def __init__(self): 
-		self.name = "specifically" 
+class _SPECIFICALLY():
+	def __init__(self,): 
+		self.name = "SPECIFICALLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

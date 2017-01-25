@@ -1,6 +1,10 @@
 
 
 #calss header
-class _agreement():
-	def __init__(self): 
-		self.name = "agreement" 
+class _AGREEMENT():
+	def __init__(self,): 
+		self.name = "AGREEMENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

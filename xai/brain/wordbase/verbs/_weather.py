@@ -1,6 +1,10 @@
 
 
 #calss header
-class _weather():
-	def __init__(self): 
-		self.name = "weather" 
+class _WEATHER():
+	def __init__(self,): 
+		self.name = "WEATHER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

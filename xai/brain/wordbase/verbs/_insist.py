@@ -1,6 +1,10 @@
 
 
 #calss header
-class _insist():
-	def __init__(self): 
-		self.name = "insist" 
+class _INSIST():
+	def __init__(self,): 
+		self.name = "INSIST"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

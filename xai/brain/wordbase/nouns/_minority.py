@@ -1,6 +1,10 @@
 
 
 #calss header
-class _minority():
-	def __init__(self): 
-		self.name = "minority" 
+class _MINORITY():
+	def __init__(self,): 
+		self.name = "MINORITY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

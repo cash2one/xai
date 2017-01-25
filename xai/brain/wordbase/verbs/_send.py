@@ -1,6 +1,10 @@
 
 
 #calss header
-class _send():
-	def __init__(self): 
-		self.name = "send" 
+class _SEND():
+	def __init__(self,): 
+		self.name = "SEND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

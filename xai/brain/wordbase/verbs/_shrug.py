@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shrug():
-	def __init__(self): 
-		self.name = "shrug" 
+class _SHRUG():
+	def __init__(self,): 
+		self.name = "SHRUG"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

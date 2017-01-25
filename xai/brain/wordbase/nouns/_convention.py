@@ -1,6 +1,10 @@
 
 
 #calss header
-class _convention():
-	def __init__(self): 
-		self.name = "convention" 
+class _CONVENTION():
+	def __init__(self,): 
+		self.name = "CONVENTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

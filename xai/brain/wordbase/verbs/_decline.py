@@ -1,6 +1,10 @@
 
 
 #calss header
-class _decline():
-	def __init__(self): 
-		self.name = "decline" 
+class _DECLINE():
+	def __init__(self,): 
+		self.name = "DECLINE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

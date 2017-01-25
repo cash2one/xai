@@ -1,6 +1,10 @@
 
 
 #calss header
-class _extension():
-	def __init__(self): 
-		self.name = "extension" 
+class _EXTENSION():
+	def __init__(self,): 
+		self.name = "EXTENSION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

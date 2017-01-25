@@ -1,6 +1,10 @@
 
 
 #calss header
-class _merely():
-	def __init__(self): 
-		self.name = "merely" 
+class _MERELY():
+	def __init__(self,): 
+		self.name = "MERELY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

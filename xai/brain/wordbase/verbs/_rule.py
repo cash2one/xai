@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rule():
-	def __init__(self): 
-		self.name = "rule" 
+class _RULE():
+	def __init__(self,): 
+		self.name = "RULE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

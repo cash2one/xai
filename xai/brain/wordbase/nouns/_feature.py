@@ -1,6 +1,10 @@
 
 
 #calss header
-class _feature():
-	def __init__(self): 
-		self.name = "feature" 
+class _FEATURE():
+	def __init__(self,): 
+		self.name = "FEATURE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _preparation():
-	def __init__(self): 
-		self.name = "preparation" 
+class _PREPARATION():
+	def __init__(self,): 
+		self.name = "PREPARATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shine():
-	def __init__(self): 
-		self.name = "shine" 
+class _SHINE():
+	def __init__(self,): 
+		self.name = "SHINE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

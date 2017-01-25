@@ -1,6 +1,10 @@
 
 
 #calss header
-class _conference():
-	def __init__(self): 
-		self.name = "conference" 
+class _CONFERENCE():
+	def __init__(self,): 
+		self.name = "CONFERENCE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

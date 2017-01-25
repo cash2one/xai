@@ -1,6 +1,12 @@
 
 
 #calss header
-class _considerable():
-	def __init__(self): 
-		self.name = "considerable" 
+class _CONSIDERABLE():
+	def __init__(self,): 
+		self.name = "CONSIDERABLE"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

@@ -1,6 +1,7 @@
 
 
 #calss header
-class _cognitive():
-	def __init__(self): 
-		self.name = "cognitive" 
+class _COGNITIVE():
+	def __init__(self,): 
+		self.name = "COGNITIVE"
+		self.jsondata = {}

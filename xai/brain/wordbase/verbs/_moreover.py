@@ -1,6 +1,10 @@
 
 
 #calss header
-class _moreover():
-	def __init__(self): 
-		self.name = "moreover" 
+class _MOREOVER():
+	def __init__(self,): 
+		self.name = "MOREOVER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

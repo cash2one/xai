@@ -1,6 +1,10 @@
 
 
 #calss header
-class _despite():
-	def __init__(self): 
-		self.name = "despite" 
+class _DESPITE():
+	def __init__(self,): 
+		self.name = "DESPITE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

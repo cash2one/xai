@@ -1,6 +1,10 @@
 
 
 #calss header
-class _trick():
-	def __init__(self): 
-		self.name = "trick" 
+class _TRICK():
+	def __init__(self,): 
+		self.name = "TRICK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

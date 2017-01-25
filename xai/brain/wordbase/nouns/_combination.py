@@ -1,6 +1,10 @@
 
 
 #calss header
-class _combination():
-	def __init__(self): 
-		self.name = "combination" 
+class _COMBINATION():
+	def __init__(self,): 
+		self.name = "COMBINATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _intention():
-	def __init__(self): 
-		self.name = "intention" 
+class _INTENTION():
+	def __init__(self,): 
+		self.name = "INTENTION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

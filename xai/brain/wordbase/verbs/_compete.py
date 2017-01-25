@@ -1,6 +1,10 @@
 
 
 #calss header
-class _compete():
-	def __init__(self): 
-		self.name = "compete" 
+class _COMPETE():
+	def __init__(self,): 
+		self.name = "COMPETE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

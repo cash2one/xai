@@ -1,6 +1,10 @@
 
 
 #calss header
-class _gang():
-	def __init__(self): 
-		self.name = "gang" 
+class _GANG():
+	def __init__(self,): 
+		self.name = "GANG"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

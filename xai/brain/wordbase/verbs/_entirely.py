@@ -1,6 +1,10 @@
 
 
 #calss header
-class _entirely():
-	def __init__(self): 
-		self.name = "entirely" 
+class _ENTIRELY():
+	def __init__(self,): 
+		self.name = "ENTIRELY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

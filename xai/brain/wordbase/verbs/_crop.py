@@ -1,6 +1,10 @@
 
 
 #calss header
-class _crop():
-	def __init__(self): 
-		self.name = "crop" 
+class _CROP():
+	def __init__(self,): 
+		self.name = "CROP"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

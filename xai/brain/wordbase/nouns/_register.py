@@ -1,6 +1,10 @@
 
 
 #calss header
-class _register():
-	def __init__(self): 
-		self.name = "register" 
+class _REGISTER():
+	def __init__(self,): 
+		self.name = "REGISTER"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

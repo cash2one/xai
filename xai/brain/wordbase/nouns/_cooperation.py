@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cooperation():
-	def __init__(self): 
-		self.name = "cooperation" 
+class _COOPERATION():
+	def __init__(self,): 
+		self.name = "COOPERATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

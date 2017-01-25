@@ -1,6 +1,10 @@
 
 
 #calss header
-class _active():
-	def __init__(self): 
-		self.name = "active" 
+class _ACTIVE():
+	def __init__(self,): 
+		self.name = "ACTIVE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

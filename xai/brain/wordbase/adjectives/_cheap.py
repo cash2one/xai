@@ -1,6 +1,12 @@
 
 
 #calss header
-class _cheap():
-	def __init__(self): 
-		self.name = "cheap" 
+class _CHEAP():
+	def __init__(self,): 
+		self.name = "CHEAP"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

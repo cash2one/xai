@@ -1,6 +1,10 @@
 
 
 #calss header
-class _print():
-	def __init__(self): 
-		self.name = "print" 
+class _PRINT():
+	def __init__(self,): 
+		self.name = "PRINT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

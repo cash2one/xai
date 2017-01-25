@@ -1,6 +1,10 @@
 
 
 #calss header
-class _argument():
-	def __init__(self): 
-		self.name = "argument" 
+class _ARGUMENT():
+	def __init__(self,): 
+		self.name = "ARGUMENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

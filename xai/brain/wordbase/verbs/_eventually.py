@@ -1,6 +1,10 @@
 
 
 #calss header
-class _eventually():
-	def __init__(self): 
-		self.name = "eventually" 
+class _EVENTUALLY():
+	def __init__(self,): 
+		self.name = "EVENTUALLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

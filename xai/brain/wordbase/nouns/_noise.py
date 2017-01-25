@@ -1,6 +1,10 @@
 
 
 #calss header
-class _noise():
-	def __init__(self): 
-		self.name = "noise" 
+class _NOISE():
+	def __init__(self,): 
+		self.name = "NOISE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

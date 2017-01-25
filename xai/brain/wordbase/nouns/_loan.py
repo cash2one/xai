@@ -1,6 +1,10 @@
 
 
 #calss header
-class _loan():
-	def __init__(self): 
-		self.name = "loan" 
+class _LOAN():
+	def __init__(self,): 
+		self.name = "LOAN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

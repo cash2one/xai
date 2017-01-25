@@ -1,6 +1,10 @@
 
 
 #calss header
-class _jet():
-	def __init__(self): 
-		self.name = "jet" 
+class _JET():
+	def __init__(self,): 
+		self.name = "JET"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

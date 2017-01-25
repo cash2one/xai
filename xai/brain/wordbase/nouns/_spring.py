@@ -1,6 +1,10 @@
 
 
 #calss header
-class _spring():
-	def __init__(self): 
-		self.name = "spring" 
+class _SPRING():
+	def __init__(self,): 
+		self.name = "SPRING"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

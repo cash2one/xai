@@ -1,6 +1,10 @@
 
 
 #calss header
-class _closely():
-	def __init__(self): 
-		self.name = "closely" 
+class _CLOSELY():
+	def __init__(self,): 
+		self.name = "CLOSELY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

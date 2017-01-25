@@ -1,6 +1,12 @@
 
 
 #calss header
-class _clean():
-	def __init__(self): 
-		self.name = "clean" 
+class _CLEAN():
+	def __init__(self,): 
+		self.name = "CLEAN"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

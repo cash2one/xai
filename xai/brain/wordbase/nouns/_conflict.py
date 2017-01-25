@@ -1,6 +1,10 @@
 
 
 #calss header
-class _conflict():
-	def __init__(self): 
-		self.name = "conflict" 
+class _CONFLICT():
+	def __init__(self,): 
+		self.name = "CONFLICT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

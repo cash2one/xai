@@ -1,6 +1,12 @@
 
 
 #calss header
-class _difficult():
-	def __init__(self): 
-		self.name = "difficult" 
+class _DIFFICULT():
+	def __init__(self,): 
+		self.name = "DIFFICULT"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

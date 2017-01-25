@@ -1,6 +1,10 @@
 
 
 #calss header
-class _appoint():
-	def __init__(self): 
-		self.name = "appoint" 
+class _APPOINT():
+	def __init__(self,): 
+		self.name = "APPOINT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

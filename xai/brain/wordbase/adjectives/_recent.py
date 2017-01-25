@@ -1,6 +1,12 @@
 
 
 #calss header
-class _recent():
-	def __init__(self): 
-		self.name = "recent" 
+class _RECENT():
+	def __init__(self,): 
+		self.name = "RECENT"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

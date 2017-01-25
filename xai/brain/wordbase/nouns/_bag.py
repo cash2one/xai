@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bag():
-	def __init__(self): 
-		self.name = "bag" 
+class _BAG():
+	def __init__(self,): 
+		self.name = "BAG"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

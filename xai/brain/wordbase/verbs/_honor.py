@@ -1,6 +1,10 @@
 
 
 #calss header
-class _honor():
-	def __init__(self): 
-		self.name = "honor" 
+class _HONOR():
+	def __init__(self,): 
+		self.name = "HONOR"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

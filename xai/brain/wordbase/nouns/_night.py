@@ -1,6 +1,10 @@
 
 
 #calss header
-class _night():
-	def __init__(self): 
-		self.name = "night" 
+class _NIGHT():
+	def __init__(self,): 
+		self.name = "NIGHT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

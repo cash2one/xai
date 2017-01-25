@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wipe():
-	def __init__(self): 
-		self.name = "wipe" 
+class _WIPE():
+	def __init__(self,): 
+		self.name = "WIPE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _chart():
-	def __init__(self): 
-		self.name = "chart" 
+class _CHART():
+	def __init__(self,): 
+		self.name = "CHART"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

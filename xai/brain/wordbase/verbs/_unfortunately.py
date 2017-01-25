@@ -1,6 +1,10 @@
 
 
 #calss header
-class _unfortunately():
-	def __init__(self): 
-		self.name = "unfortunately" 
+class _UNFORTUNATELY():
+	def __init__(self,): 
+		self.name = "UNFORTUNATELY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

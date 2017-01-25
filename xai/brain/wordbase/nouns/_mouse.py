@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mouse():
-	def __init__(self): 
-		self.name = "mouse" 
+class _MOUSE():
+	def __init__(self,): 
+		self.name = "MOUSE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

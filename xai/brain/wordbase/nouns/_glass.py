@@ -1,6 +1,10 @@
 
 
 #calss header
-class _glass():
-	def __init__(self): 
-		self.name = "glass" 
+class _GLASS():
+	def __init__(self,): 
+		self.name = "GLASS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

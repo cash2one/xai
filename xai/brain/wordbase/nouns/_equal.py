@@ -1,6 +1,10 @@
 
 
 #calss header
-class _equal():
-	def __init__(self): 
-		self.name = "equal" 
+class _EQUAL():
+	def __init__(self,): 
+		self.name = "EQUAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

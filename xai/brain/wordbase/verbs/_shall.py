@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shall():
-	def __init__(self): 
-		self.name = "shall" 
+class _SHALL():
+	def __init__(self,): 
+		self.name = "SHALL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

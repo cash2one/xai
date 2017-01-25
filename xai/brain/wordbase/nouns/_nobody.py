@@ -1,6 +1,10 @@
 
 
 #calss header
-class _nobody():
-	def __init__(self): 
-		self.name = "nobody" 
+class _NOBODY():
+	def __init__(self,): 
+		self.name = "NOBODY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _learn():
-	def __init__(self): 
-		self.name = "learn" 
+class _LEARN():
+	def __init__(self,): 
+		self.name = "LEARN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,12 @@
 
 
 #calss header
-class _gay():
-	def __init__(self): 
-		self.name = "gay" 
+class _GAY():
+	def __init__(self,): 
+		self.name = "GAY"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _promise():
-	def __init__(self): 
-		self.name = "promise" 
+class _PROMISE():
+	def __init__(self,): 
+		self.name = "PROMISE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

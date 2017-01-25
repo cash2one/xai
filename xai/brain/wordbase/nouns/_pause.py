@@ -1,6 +1,10 @@
 
 
 #calss header
-class _pause():
-	def __init__(self): 
-		self.name = "pause" 
+class _PAUSE():
+	def __init__(self,): 
+		self.name = "PAUSE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

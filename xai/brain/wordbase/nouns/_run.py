@@ -1,6 +1,10 @@
 
 
 #calss header
-class _run():
-	def __init__(self): 
-		self.name = "run" 
+class _RUN():
+	def __init__(self,): 
+		self.name = "RUN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _incorporate():
-	def __init__(self): 
-		self.name = "incorporate" 
+class _INCORPORATE():
+	def __init__(self,): 
+		self.name = "INCORPORATE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

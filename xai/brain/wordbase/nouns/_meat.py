@@ -1,6 +1,10 @@
 
 
 #calss header
-class _meat():
-	def __init__(self): 
-		self.name = "meat" 
+class _MEAT():
+	def __init__(self,): 
+		self.name = "MEAT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

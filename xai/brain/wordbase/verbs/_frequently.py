@@ -1,6 +1,10 @@
 
 
 #calss header
-class _frequently():
-	def __init__(self): 
-		self.name = "frequently" 
+class _FREQUENTLY():
+	def __init__(self,): 
+		self.name = "FREQUENTLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

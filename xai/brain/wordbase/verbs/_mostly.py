@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mostly():
-	def __init__(self): 
-		self.name = "mostly" 
+class _MOSTLY():
+	def __init__(self,): 
+		self.name = "MOSTLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

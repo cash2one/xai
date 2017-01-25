@@ -1,6 +1,10 @@
 
 
 #calss header
-class _uniform():
-	def __init__(self): 
-		self.name = "uniform" 
+class _UNIFORM():
+	def __init__(self,): 
+		self.name = "UNIFORM"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

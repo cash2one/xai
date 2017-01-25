@@ -1,6 +1,10 @@
 
 
 #calss header
-class _until():
-	def __init__(self): 
-		self.name = "until" 
+class _UNTIL():
+	def __init__(self,): 
+		self.name = "UNTIL"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

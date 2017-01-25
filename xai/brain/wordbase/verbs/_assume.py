@@ -1,6 +1,10 @@
 
 
 #calss header
-class _assume():
-	def __init__(self): 
-		self.name = "assume" 
+class _ASSUME():
+	def __init__(self,): 
+		self.name = "ASSUME"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

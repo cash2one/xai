@@ -1,6 +1,10 @@
 
 
 #calss header
-class _overcome():
-	def __init__(self): 
-		self.name = "overcome" 
+class _OVERCOME():
+	def __init__(self,): 
+		self.name = "OVERCOME"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _row():
-	def __init__(self): 
-		self.name = "row" 
+class _ROW():
+	def __init__(self,): 
+		self.name = "ROW"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

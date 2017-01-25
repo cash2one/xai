@@ -1,6 +1,10 @@
 
 
 #calss header
-class _through():
-	def __init__(self): 
-		self.name = "through" 
+class _THROUGH():
+	def __init__(self,): 
+		self.name = "THROUGH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

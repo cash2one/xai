@@ -1,6 +1,10 @@
 
 
 #calss header
-class _depict():
-	def __init__(self): 
-		self.name = "depict" 
+class _DEPICT():
+	def __init__(self,): 
+		self.name = "DEPICT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

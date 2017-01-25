@@ -1,6 +1,10 @@
 
 
 #calss header
-class _speech():
-	def __init__(self): 
-		self.name = "speech" 
+class _SPEECH():
+	def __init__(self,): 
+		self.name = "SPEECH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

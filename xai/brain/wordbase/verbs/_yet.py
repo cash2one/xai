@@ -1,6 +1,10 @@
 
 
 #calss header
-class _yet():
-	def __init__(self): 
-		self.name = "yet" 
+class _YET():
+	def __init__(self,): 
+		self.name = "YET"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

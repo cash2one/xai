@@ -1,6 +1,10 @@
 
 
 #calss header
-class _weigh():
-	def __init__(self): 
-		self.name = "weigh" 
+class _WEIGH():
+	def __init__(self,): 
+		self.name = "WEIGH"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

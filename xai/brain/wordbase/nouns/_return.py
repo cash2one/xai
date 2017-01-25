@@ -1,6 +1,10 @@
 
 
 #calss header
-class _return():
-	def __init__(self): 
-		self.name = "return" 
+class _RETURN():
+	def __init__(self,): 
+		self.name = "RETURN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

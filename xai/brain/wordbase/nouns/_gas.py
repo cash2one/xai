@@ -1,6 +1,10 @@
 
 
 #calss header
-class _gas():
-	def __init__(self): 
-		self.name = "gas" 
+class _GAS():
+	def __init__(self,): 
+		self.name = "GAS"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _expectation():
-	def __init__(self): 
-		self.name = "expectation" 
+class _EXPECTATION():
+	def __init__(self,): 
+		self.name = "EXPECTATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

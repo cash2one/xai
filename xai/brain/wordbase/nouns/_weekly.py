@@ -1,6 +1,10 @@
 
 
 #calss header
-class _weekly():
-	def __init__(self): 
-		self.name = "weekly" 
+class _WEEKLY():
+	def __init__(self,): 
+		self.name = "WEEKLY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

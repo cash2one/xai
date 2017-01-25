@@ -1,6 +1,10 @@
 
 
 #calss header
-class _gaze():
-	def __init__(self): 
-		self.name = "gaze" 
+class _GAZE():
+	def __init__(self,): 
+		self.name = "GAZE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

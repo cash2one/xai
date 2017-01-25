@@ -1,6 +1,12 @@
 
 
 #calss header
-class _complex():
-	def __init__(self): 
-		self.name = "complex" 
+class _COMPLEX():
+	def __init__(self,): 
+		self.name = "COMPLEX"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

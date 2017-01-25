@@ -1,6 +1,10 @@
 
 
 #calss header
-class _retire():
-	def __init__(self): 
-		self.name = "retire" 
+class _RETIRE():
+	def __init__(self,): 
+		self.name = "RETIRE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

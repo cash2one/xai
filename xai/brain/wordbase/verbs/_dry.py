@@ -1,6 +1,10 @@
 
 
 #calss header
-class _dry():
-	def __init__(self): 
-		self.name = "dry" 
+class _DRY():
+	def __init__(self,): 
+		self.name = "DRY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

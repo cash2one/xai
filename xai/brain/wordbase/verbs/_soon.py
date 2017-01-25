@@ -1,6 +1,10 @@
 
 
 #calss header
-class _soon():
-	def __init__(self): 
-		self.name = "soon" 
+class _SOON():
+	def __init__(self,): 
+		self.name = "SOON"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _friendly():
-	def __init__(self): 
-		self.name = "friendly" 
+class _FRIENDLY():
+	def __init__(self,): 
+		self.name = "FRIENDLY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

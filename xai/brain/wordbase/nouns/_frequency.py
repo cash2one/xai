@@ -1,6 +1,10 @@
 
 
 #calss header
-class _frequency():
-	def __init__(self): 
-		self.name = "frequency" 
+class _FREQUENCY():
+	def __init__(self,): 
+		self.name = "FREQUENCY"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

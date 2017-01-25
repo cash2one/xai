@@ -1,6 +1,10 @@
 
 
 #calss header
-class _consume():
-	def __init__(self): 
-		self.name = "consume" 
+class _CONSUME():
+	def __init__(self,): 
+		self.name = "CONSUME"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

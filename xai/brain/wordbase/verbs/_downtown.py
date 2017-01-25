@@ -1,6 +1,10 @@
 
 
 #calss header
-class _downtown():
-	def __init__(self): 
-		self.name = "downtown" 
+class _DOWNTOWN():
+	def __init__(self,): 
+		self.name = "DOWNTOWN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

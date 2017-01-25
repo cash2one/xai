@@ -1,6 +1,10 @@
 
 
 #calss header
-class _remove():
-	def __init__(self): 
-		self.name = "remove" 
+class _REMOVE():
+	def __init__(self,): 
+		self.name = "REMOVE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

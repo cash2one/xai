@@ -1,6 +1,10 @@
 
 
 #calss header
-class _elite():
-	def __init__(self): 
-		self.name = "elite" 
+class _ELITE():
+	def __init__(self,): 
+		self.name = "ELITE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

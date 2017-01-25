@@ -1,6 +1,10 @@
 
 
 #calss header
-class _operator():
-	def __init__(self): 
-		self.name = "operator" 
+class _OPERATOR():
+	def __init__(self,): 
+		self.name = "OPERATOR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cop():
-	def __init__(self): 
-		self.name = "cop" 
+class _COP():
+	def __init__(self,): 
+		self.name = "COP"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

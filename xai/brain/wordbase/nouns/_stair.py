@@ -1,6 +1,10 @@
 
 
 #calss header
-class _stair():
-	def __init__(self): 
-		self.name = "stair" 
+class _STAIR():
+	def __init__(self,): 
+		self.name = "STAIR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

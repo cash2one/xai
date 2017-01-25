@@ -1,6 +1,10 @@
 
 
 #calss header
-class _direct():
-	def __init__(self): 
-		self.name = "direct" 
+class _DIRECT():
+	def __init__(self,): 
+		self.name = "DIRECT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

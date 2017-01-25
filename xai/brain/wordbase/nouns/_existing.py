@@ -1,6 +1,7 @@
 
 
 #calss header
-class _existing():
-	def __init__(self): 
-		self.name = "existing" 
+class _EXISTING():
+	def __init__(self,): 
+		self.name = "EXISTING"
+		self.jsondata = {}

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _bite():
-	def __init__(self): 
-		self.name = "bite" 
+class _BITE():
+	def __init__(self,): 
+		self.name = "BITE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

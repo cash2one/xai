@@ -1,6 +1,10 @@
 
 
 #calss header
-class _thinking():
-	def __init__(self): 
-		self.name = "thinking" 
+class _THINKING():
+	def __init__(self,): 
+		self.name = "THINKING"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

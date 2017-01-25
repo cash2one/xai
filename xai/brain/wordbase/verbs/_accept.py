@@ -1,6 +1,10 @@
 
 
 #calss header
-class _accept():
-	def __init__(self): 
-		self.name = "accept" 
+class _ACCEPT():
+	def __init__(self,): 
+		self.name = "ACCEPT"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _occasion():
-	def __init__(self): 
-		self.name = "occasion" 
+class _OCCASION():
+	def __init__(self,): 
+		self.name = "OCCASION"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

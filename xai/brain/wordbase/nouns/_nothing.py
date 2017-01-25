@@ -1,6 +1,10 @@
 
 
 #calss header
-class _nothing():
-	def __init__(self): 
-		self.name = "nothing" 
+class _NOTHING():
+	def __init__(self,): 
+		self.name = "NOTHING"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

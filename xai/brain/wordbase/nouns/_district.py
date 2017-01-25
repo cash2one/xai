@@ -1,6 +1,10 @@
 
 
 #calss header
-class _district():
-	def __init__(self): 
-		self.name = "district" 
+class _DISTRICT():
+	def __init__(self,): 
+		self.name = "DISTRICT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

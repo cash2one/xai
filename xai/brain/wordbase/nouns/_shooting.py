@@ -1,6 +1,10 @@
 
 
 #calss header
-class _shooting():
-	def __init__(self): 
-		self.name = "shooting" 
+class _SHOOTING():
+	def __init__(self,): 
+		self.name = "SHOOTING"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

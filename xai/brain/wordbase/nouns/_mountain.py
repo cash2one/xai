@@ -1,6 +1,10 @@
 
 
 #calss header
-class _mountain():
-	def __init__(self): 
-		self.name = "mountain" 
+class _MOUNTAIN():
+	def __init__(self,): 
+		self.name = "MOUNTAIN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

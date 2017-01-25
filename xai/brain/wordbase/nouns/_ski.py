@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ski():
-	def __init__(self): 
-		self.name = "ski" 
+class _SKI():
+	def __init__(self,): 
+		self.name = "SKI"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

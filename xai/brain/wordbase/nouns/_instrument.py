@@ -1,6 +1,10 @@
 
 
 #calss header
-class _instrument():
-	def __init__(self): 
-		self.name = "instrument" 
+class _INSTRUMENT():
+	def __init__(self,): 
+		self.name = "INSTRUMENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

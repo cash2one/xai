@@ -1,6 +1,10 @@
 
 
 #calss header
-class _depth():
-	def __init__(self): 
-		self.name = "depth" 
+class _DEPTH():
+	def __init__(self,): 
+		self.name = "DEPTH"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

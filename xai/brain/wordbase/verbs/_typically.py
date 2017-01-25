@@ -1,6 +1,10 @@
 
 
 #calss header
-class _typically():
-	def __init__(self): 
-		self.name = "typically" 
+class _TYPICALLY():
+	def __init__(self,): 
+		self.name = "TYPICALLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

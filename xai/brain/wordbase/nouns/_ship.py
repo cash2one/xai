@@ -1,6 +1,10 @@
 
 
 #calss header
-class _ship():
-	def __init__(self): 
-		self.name = "ship" 
+class _SHIP():
+	def __init__(self,): 
+		self.name = "SHIP"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

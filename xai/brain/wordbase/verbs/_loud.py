@@ -1,6 +1,10 @@
 
 
 #calss header
-class _loud():
-	def __init__(self): 
-		self.name = "loud" 
+class _LOUD():
+	def __init__(self,): 
+		self.name = "LOUD"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _forward():
-	def __init__(self): 
-		self.name = "forward" 
+class _FORWARD():
+	def __init__(self,): 
+		self.name = "FORWARD"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

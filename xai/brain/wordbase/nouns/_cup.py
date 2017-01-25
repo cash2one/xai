@@ -1,6 +1,10 @@
 
 
 #calss header
-class _cup():
-	def __init__(self): 
-		self.name = "cup" 
+class _CUP():
+	def __init__(self,): 
+		self.name = "CUP"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

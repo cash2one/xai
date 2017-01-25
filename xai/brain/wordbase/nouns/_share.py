@@ -1,6 +1,10 @@
 
 
 #calss header
-class _share():
-	def __init__(self): 
-		self.name = "share" 
+class _SHARE():
+	def __init__(self,): 
+		self.name = "SHARE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wood():
-	def __init__(self): 
-		self.name = "wood" 
+class _WOOD():
+	def __init__(self,): 
+		self.name = "WOOD"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

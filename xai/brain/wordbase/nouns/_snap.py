@@ -1,6 +1,10 @@
 
 
 #calss header
-class _snap():
-	def __init__(self): 
-		self.name = "snap" 
+class _SNAP():
+	def __init__(self,): 
+		self.name = "SNAP"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

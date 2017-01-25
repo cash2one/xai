@@ -1,6 +1,10 @@
 
 
 #calss header
-class _wing():
-	def __init__(self): 
-		self.name = "wing" 
+class _WING():
+	def __init__(self,): 
+		self.name = "WING"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

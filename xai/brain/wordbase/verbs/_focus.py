@@ -1,6 +1,10 @@
 
 
 #calss header
-class _focus():
-	def __init__(self): 
-		self.name = "focus" 
+class _FOCUS():
+	def __init__(self,): 
+		self.name = "FOCUS"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

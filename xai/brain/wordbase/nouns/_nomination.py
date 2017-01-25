@@ -1,6 +1,10 @@
 
 
 #calss header
-class _nomination():
-	def __init__(self): 
-		self.name = "nomination" 
+class _NOMINATION():
+	def __init__(self,): 
+		self.name = "NOMINATION"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

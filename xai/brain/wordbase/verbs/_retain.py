@@ -1,6 +1,10 @@
 
 
 #calss header
-class _retain():
-	def __init__(self): 
-		self.name = "retain" 
+class _RETAIN():
+	def __init__(self,): 
+		self.name = "RETAIN"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

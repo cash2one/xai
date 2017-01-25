@@ -1,6 +1,10 @@
 
 
 #calss header
-class _attitude():
-	def __init__(self): 
-		self.name = "attitude" 
+class _ATTITUDE():
+	def __init__(self,): 
+		self.name = "ATTITUDE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

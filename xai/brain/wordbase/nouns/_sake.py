@@ -1,6 +1,10 @@
 
 
 #calss header
-class _sake():
-	def __init__(self): 
-		self.name = "sake" 
+class _SAKE():
+	def __init__(self,): 
+		self.name = "SAKE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

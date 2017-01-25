@@ -1,6 +1,10 @@
 
 
 #calss header
-class _gap():
-	def __init__(self): 
-		self.name = "gap" 
+class _GAP():
+	def __init__(self,): 
+		self.name = "GAP"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

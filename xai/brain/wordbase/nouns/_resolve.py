@@ -1,6 +1,10 @@
 
 
 #calss header
-class _resolve():
-	def __init__(self): 
-		self.name = "resolve" 
+class _RESOLVE():
+	def __init__(self,): 
+		self.name = "RESOLVE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

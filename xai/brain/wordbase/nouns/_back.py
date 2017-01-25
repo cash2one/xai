@@ -1,6 +1,10 @@
 
 
 #calss header
-class _back():
-	def __init__(self): 
-		self.name = "back" 
+class _BACK():
+	def __init__(self,): 
+		self.name = "BACK"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

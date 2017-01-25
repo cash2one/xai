@@ -1,6 +1,10 @@
 
 
 #calss header
-class _prefer():
-	def __init__(self): 
-		self.name = "prefer" 
+class _PREFER():
+	def __init__(self,): 
+		self.name = "PREFER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

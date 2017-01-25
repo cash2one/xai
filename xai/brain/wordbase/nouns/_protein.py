@@ -1,6 +1,10 @@
 
 
 #calss header
-class _protein():
-	def __init__(self): 
-		self.name = "protein" 
+class _PROTEIN():
+	def __init__(self,): 
+		self.name = "PROTEIN"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

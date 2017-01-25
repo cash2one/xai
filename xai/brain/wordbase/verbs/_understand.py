@@ -1,6 +1,10 @@
 
 
 #calss header
-class _understand():
-	def __init__(self): 
-		self.name = "understand" 
+class _UNDERSTAND():
+	def __init__(self,): 
+		self.name = "UNDERSTAND"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

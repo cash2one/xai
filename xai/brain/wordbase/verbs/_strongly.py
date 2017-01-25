@@ -1,6 +1,10 @@
 
 
 #calss header
-class _strongly():
-	def __init__(self): 
-		self.name = "strongly" 
+class _STRONGLY():
+	def __init__(self,): 
+		self.name = "STRONGLY"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

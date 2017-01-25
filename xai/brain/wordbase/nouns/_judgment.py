@@ -1,6 +1,10 @@
 
 
 #calss header
-class _judgment():
-	def __init__(self): 
-		self.name = "judgment" 
+class _JUDGMENT():
+	def __init__(self,): 
+		self.name = "JUDGMENT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

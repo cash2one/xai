@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tomorrow():
-	def __init__(self): 
-		self.name = "tomorrow" 
+class _TOMORROW():
+	def __init__(self,): 
+		self.name = "TOMORROW"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

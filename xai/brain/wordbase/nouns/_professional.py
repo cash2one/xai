@@ -1,6 +1,10 @@
 
 
 #calss header
-class _professional():
-	def __init__(self): 
-		self.name = "professional" 
+class _PROFESSIONAL():
+	def __init__(self,): 
+		self.name = "PROFESSIONAL"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _regular():
-	def __init__(self): 
-		self.name = "regular" 
+class _REGULAR():
+	def __init__(self,): 
+		self.name = "REGULAR"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

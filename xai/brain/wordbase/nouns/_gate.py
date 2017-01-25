@@ -1,6 +1,10 @@
 
 
 #calss header
-class _gate():
-	def __init__(self): 
-		self.name = "gate" 
+class _GATE():
+	def __init__(self,): 
+		self.name = "GATE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

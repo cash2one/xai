@@ -1,6 +1,10 @@
 
 
 #calss header
-class _broad():
-	def __init__(self): 
-		self.name = "broad" 
+class _BROAD():
+	def __init__(self,): 
+		self.name = "BROAD"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

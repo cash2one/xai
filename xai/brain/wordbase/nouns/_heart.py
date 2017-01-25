@@ -1,6 +1,10 @@
 
 
 #calss header
-class _heart():
-	def __init__(self): 
-		self.name = "heart" 
+class _HEART():
+	def __init__(self,): 
+		self.name = "HEART"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _gather():
-	def __init__(self): 
-		self.name = "gather" 
+class _GATHER():
+	def __init__(self,): 
+		self.name = "GATHER"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

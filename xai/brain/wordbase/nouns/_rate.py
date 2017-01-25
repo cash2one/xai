@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rate():
-	def __init__(self): 
-		self.name = "rate" 
+class _RATE():
+	def __init__(self,): 
+		self.name = "RATE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

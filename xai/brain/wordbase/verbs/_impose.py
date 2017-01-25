@@ -1,6 +1,10 @@
 
 
 #calss header
-class _impose():
-	def __init__(self): 
-		self.name = "impose" 
+class _IMPOSE():
+	def __init__(self,): 
+		self.name = "IMPOSE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _engine():
-	def __init__(self): 
-		self.name = "engine" 
+class _ENGINE():
+	def __init__(self,): 
+		self.name = "ENGINE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

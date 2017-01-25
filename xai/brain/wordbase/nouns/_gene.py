@@ -1,6 +1,10 @@
 
 
 #calss header
-class _gene():
-	def __init__(self): 
-		self.name = "gene" 
+class _GENE():
+	def __init__(self,): 
+		self.name = "GENE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

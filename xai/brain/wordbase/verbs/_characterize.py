@@ -1,6 +1,10 @@
 
 
 #calss header
-class _characterize():
-	def __init__(self): 
-		self.name = "characterize" 
+class _CHARACTERIZE():
+	def __init__(self,): 
+		self.name = "CHARACTERIZE"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

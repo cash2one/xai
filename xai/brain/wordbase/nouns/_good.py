@@ -1,6 +1,10 @@
 
 
 #calss header
-class _good():
-	def __init__(self): 
-		self.name = "good" 
+class _GOOD():
+	def __init__(self,): 
+		self.name = "GOOD"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _habit():
-	def __init__(self): 
-		self.name = "habit" 
+class _HABIT():
+	def __init__(self,): 
+		self.name = "HABIT"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

@@ -1,6 +1,10 @@
 
 
 #calss header
-class _could():
-	def __init__(self): 
-		self.name = "could" 
+class _COULD():
+	def __init__(self,): 
+		self.name = "COULD"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

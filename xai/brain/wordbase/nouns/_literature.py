@@ -1,6 +1,10 @@
 
 
 #calss header
-class _literature():
-	def __init__(self): 
-		self.name = "literature" 
+class _LITERATURE():
+	def __init__(self,): 
+		self.name = "LITERATURE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

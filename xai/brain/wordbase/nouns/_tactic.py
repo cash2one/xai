@@ -1,6 +1,10 @@
 
 
 #calss header
-class _tactic():
-	def __init__(self): 
-		self.name = "tactic" 
+class _TACTIC():
+	def __init__(self,): 
+		self.name = "TACTIC"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

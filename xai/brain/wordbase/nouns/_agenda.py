@@ -1,6 +1,10 @@
 
 
 #calss header
-class _agenda():
-	def __init__(self): 
-		self.name = "agenda" 
+class _AGENDA():
+	def __init__(self,): 
+		self.name = "AGENDA"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

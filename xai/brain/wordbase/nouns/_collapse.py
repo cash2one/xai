@@ -1,6 +1,10 @@
 
 
 #calss header
-class _collapse():
-	def __init__(self): 
-		self.name = "collapse" 
+class _COLLAPSE():
+	def __init__(self,): 
+		self.name = "COLLAPSE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

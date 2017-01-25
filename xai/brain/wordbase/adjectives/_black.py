@@ -1,6 +1,12 @@
 
 
 #calss header
-class _black():
-	def __init__(self): 
-		self.name = "black" 
+class _BLACK():
+	def __init__(self,): 
+		self.name = "BLACK"
+		self.jsondata = {}
+
+	def run(self, obj):
+		jsondata[obj] = {}
+		jsondata[obj]['properties'] = self.name.lower()
+		return jsondata

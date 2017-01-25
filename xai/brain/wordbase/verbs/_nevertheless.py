@@ -1,6 +1,10 @@
 
 
 #calss header
-class _nevertheless():
-	def __init__(self): 
-		self.name = "nevertheless" 
+class _NEVERTHELESS():
+	def __init__(self,): 
+		self.name = "NEVERTHELESS"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata

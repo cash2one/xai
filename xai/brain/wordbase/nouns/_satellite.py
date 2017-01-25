@@ -1,6 +1,10 @@
 
 
 #calss header
-class _satellite():
-	def __init__(self): 
-		self.name = "satellite" 
+class _SATELLITE():
+	def __init__(self,): 
+		self.name = "SATELLITE"
+		self.jsondata = {}
+
+		self.parents = []
+		self.childen = []

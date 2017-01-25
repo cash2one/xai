@@ -1,6 +1,10 @@
 
 
 #calss header
-class _rank():
-	def __init__(self): 
-		self.name = "rank" 
+class _RANK():
+	def __init__(self,): 
+		self.name = "RANK"
+		self.jsondata = {}
+
+	def run(self,):
+		return jsondata
