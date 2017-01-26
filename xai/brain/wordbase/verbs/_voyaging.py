@@ -5,6 +5,8 @@ from xai.brain.wordbase.verbs._voyage import _VOYAGE
 #calss header
 class _VOYAGING(_VOYAGE, ):
 	def __init__(self,): 
+		_VOYAGE.__init__(self)
 		self.name = "VOYAGING"
+		self.specie = 'verbs'
 		self.basic = "voyage"
 		self.jsondata = {}

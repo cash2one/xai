@@ -4,6 +4,11 @@
 class _SULFIDES():
 	def __init__(self,): 
 		self.name = "SULFIDES"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['sulfide']

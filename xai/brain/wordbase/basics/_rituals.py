@@ -4,6 +4,11 @@
 class _RITUALS():
 	def __init__(self,): 
 		self.name = "RITUALS"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['ritual']

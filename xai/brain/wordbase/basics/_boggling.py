@@ -4,6 +4,11 @@
 class _BOGGLING():
 	def __init__(self,): 
 		self.name = "BOGGLING"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['boggle']

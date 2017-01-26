@@ -5,6 +5,8 @@ from xai.brain.wordbase.verbs._hover import _HOVER
 #calss header
 class _HOVERS(_HOVER, ):
 	def __init__(self,): 
+		_HOVER.__init__(self)
 		self.name = "HOVERS"
+		self.specie = 'verbs'
 		self.basic = "hover"
 		self.jsondata = {}

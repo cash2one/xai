@@ -191,7 +191,7 @@ class Sent():
         self.words = []
         self.word_class = {}
         self.word_species = {}
-        pass
+        self.jsondata = {}
     #
     def analyze(self, sent):
         '''
@@ -199,6 +199,8 @@ class Sent():
         self.sent = sent
         self.find_class()
         self.run_class()
+        print(self.jsondata)
+        self.memory.word.modify_word(self.jsondata)
 
         pass
     #
@@ -227,20 +229,18 @@ class Sent():
         '''
         '''
         # adje
+        jsondata = {}
         for word in self.words:
             # print(self.word_class[word])
             index = self.words.index(word)
-            obj1 = self.words[0:index]
-            obj2 = self.words[index + 1:]
+            obj1 = ['']
+            obj1.append(self.words[index - 1:index])
+            obj2 = self.words[index + 1:index + 2]
             for wordclass in self.word_class[word]:
                 wordinstance = wordclass()
-                print(wordinstance)
-                if wordinstance.specie == 'adjectives':
-                    jsondata = wordinstance.run(obj1, obj2)
-                    # self.words
-        # prep
-        # for word in self.words:
-
+                jsondata.update(wordinstance.run(obj1[0], obj2[0]))
+        # print(jsondata)
+        self.jsondata = jsondata
     #
     def find_verbs(self, sent):
         '''

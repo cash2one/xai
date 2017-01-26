@@ -4,6 +4,11 @@
 class _PANHANDLING():
 	def __init__(self,): 
 		self.name = "PANHANDLING"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['panhandle']

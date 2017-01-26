@@ -4,6 +4,11 @@
 class _NEAREST():
 	def __init__(self,): 
 		self.name = "NEAREST"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['near']

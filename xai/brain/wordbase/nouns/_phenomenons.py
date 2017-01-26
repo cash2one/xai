@@ -5,6 +5,8 @@ from xai.brain.wordbase.nouns._phenomenon import _PHENOMENON
 #calss header
 class _PHENOMENONS(_PHENOMENON, ):
 	def __init__(self,): 
+		_PHENOMENON.__init__(self)
 		self.name = "PHENOMENONS"
+		self.specie = 'nouns'
 		self.basic = "phenomenon"
 		self.jsondata = {}

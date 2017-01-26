@@ -5,6 +5,8 @@ from xai.brain.wordbase.nouns._lush import _LUSH
 #calss header
 class _LUSHEST(_LUSH, ):
 	def __init__(self,): 
+		_LUSH.__init__(self)
 		self.name = "LUSHEST"
+		self.specie = 'nouns'
 		self.basic = "lush"
 		self.jsondata = {}

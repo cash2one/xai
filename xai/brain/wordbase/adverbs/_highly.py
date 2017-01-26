@@ -4,11 +4,15 @@
 class _HIGHLY():
 	def __init__(self,): 
 		self.name = "HIGHLY"
-		self.jsondata = {}
-
-		self.specie = 'adverbs'
 		self.parents = []
 		self.childen = []
+		self.properties = []
+		self.jsondata = {}
+
+
+
+		self.specie = 'adverbs'
+
 
 	def run(self, obj1, obj2):
 		self.jsondata[obj2] = {}

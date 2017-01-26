@@ -4,6 +4,11 @@
 class _COLLECTIONS():
 	def __init__(self,): 
 		self.name = "COLLECTIONS"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['collection']

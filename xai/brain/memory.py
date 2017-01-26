@@ -1,5 +1,7 @@
+#!/usr/bin/env python
 import nltk
 from xai.python.file import File
+from xai.python.update_class import Update_class
 import os
 
 class Memory():
@@ -9,6 +11,7 @@ class Memory():
         '''
         '''
         self.file = File()
+        self.update_class = Update_class()
         self.word = Word()
         self.sent = Sent()
 
@@ -93,6 +96,7 @@ class Word():
         '''
         '''
         self.file = File()
+        self.update_class = Update_class()
         self.word = None
         self.wordbase = {'adjectives':None, 
                          'adverbs':None,
@@ -214,9 +218,15 @@ class _{3}(_{2}, ):
     def modify_word(self, jsondata):
         '''
         '''
-        for jsonword in jsondata:
-            pass
-        pass
+        for word, jsonword in jsondata.items():
+            print(word)
+            self.word = word
+            species = self.find_word(word)
+            for specie in species:
+                self.specie = specie
+                filename = self.file.pwd + '/xai/brain/wordbase/{0}/_{1}.py'.format(self.specie, self.word)
+                # print(filename)
+                self.update_class.update(filename, jsonword)
     #
     def build_class(self, class_body = ''):
         '''
@@ -226,7 +236,12 @@ class _{3}(_{2}, ):
 class _{0}():
 \tdef __init__(self,): 
 \t\tself.name = "{0}"
+\t\tself.parents = []
+\t\tself.childen = []
+\t\tself.properties = []
 \t\tself.jsondata = {{}}
+
+
 '''.format(self.word.upper()) + class_body
     #
         filename = self.file.pwd + '/xai/brain/wordbase/{0}/_{1}.py'.format(self.specie, self.word)
@@ -279,8 +294,7 @@ class _{0}():
         # self.build_class()
         class_body = '''
 \t\tself.specie = 'verbs'
-\t\tself.parents = []
-\t\tself.childen = []
+
 
 \tdef run(self, obj1 = [], obj2 = []):
 \t\treturn self.jsondata
@@ -294,8 +308,7 @@ class _{0}():
         '''
         class_body = '''
 \t\tself.specie = 'nouns'
-\t\tself.parents = []
-\t\tself.childen = []
+
 
 \tdef run(self, obj1 = [], obj2 = []):
 \t\treturn self.jsondata
@@ -307,8 +320,7 @@ class _{0}():
         '''
         class_body = '''
 \t\tself.specie = 'prepositions'
-\t\tself.parents = []
-\t\tself.childen = []
+
 
 \tdef run(self, obj1 = [], obj2 = []):
 \t\treturn self.jsondata
@@ -320,8 +332,7 @@ class _{0}():
         '''
         class_body = '''
 \t\tself.specie = 'adjectives'
-\t\tself.parents = []
-\t\tself.childen = []
+
 
 \tdef run(self, obj1, obj2):
 \t\tself.jsondata[obj2] = {}
@@ -337,8 +348,7 @@ class _{0}():
         '''
         class_body = '''
 \t\tself.specie = 'adverbs'
-\t\tself.parents = []
-\t\tself.childen = []
+
 
 \tdef run(self, obj1, obj2):
 \t\tself.jsondata[obj2] = {}
@@ -352,8 +362,7 @@ class _{0}():
         '''
         class_body = '''
 \t\tself.specie = 'conjunctions'
-\t\tself.parents = []
-\t\tself.childen = []
+
 
 \tdef run(self, obj1 = [], obj2 = []):
 \t\treturn self.jsondata
@@ -365,8 +374,7 @@ class _{0}():
         '''
         class_body = '''
 \t\tself.specie = 'pronouns'
-\t\tself.parents = []
-\t\tself.childen = []
+
 
 \tdef run(self, obj1 = [], obj2 = []):
 \t\treturn self.jsondata
@@ -378,8 +386,7 @@ class _{0}():
         '''
         class_body = '''
 \t\tself.specie = 'numbers'
-\t\tself.parents = []
-\t\tself.childen = []
+
 
 \tdef run(self, obj1 = [], obj2 = []):
 \t\treturn self.jsondata
@@ -401,18 +408,16 @@ class _{0}():
         # print(self.definitions)
         class_body = '''
 \t\tself.specie = 'exclamations'
-\t\tself.parents = []
-\t\tself.childen = []
+
 
 \tdef run(self, obj1 = [], obj2 = []):
 \t\treturn self.jsondata
 '''
         self.build_class(class_body)
     #
-    def modify_class(self, ):
+    def modify_class(self, jsondata):
         '''
         '''
-
         pass
 
 
@@ -434,15 +439,13 @@ if __name__ == "__main__":
     mymemory = Memory()
     #==========================================================
     # # build word class
-    # filename = file.pwd + '/xai/words/jsonword/cambtionary.dat'
-    # jsonword = eye.read_json(filename)
-    # # print(jsonword)
-    # mymemory.word.build_word(jsonword)
-    # build word in basic
-    mymemory.word.build_word_basic()
+    filename = file.pwd + '/xai/words/jsonword/cambtionary.dat'
+    jsonword = eye.read_json(filename)
+    mymemory.word.build_word(jsonword)
     #==========================================================
     # build word in basic
-    # filename = file.pwd + '/xai/examples/word/cambtionary.dat'
-    # jsonword = eye.read_json(filename)
-    # # print(jsonword)
-    # mymemory.word.modify_word(jsonword)
+    # mymemory.word.build_word_basic()
+    #==========================================================
+    # modify word
+    jsondata = {'': {'properties': 'inside'}, 'fruit': {'properties': 'long'}, 'skin': {'properties': 'yellow'}, 'inside': {'properties': 'white'}, 'long': {'properties': 'a'}}
+    mymemory.word.modify_word(jsondata)

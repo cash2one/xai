@@ -4,6 +4,11 @@
 class _SIZING():
 	def __init__(self,): 
 		self.name = "SIZING"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['size']

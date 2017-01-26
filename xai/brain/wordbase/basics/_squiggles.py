@@ -4,6 +4,11 @@
 class _SQUIGGLES():
 	def __init__(self,): 
 		self.name = "SQUIGGLES"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['squiggle']

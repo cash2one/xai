@@ -5,6 +5,8 @@ from xai.brain.wordbase.nouns._blight import _BLIGHT
 #calss header
 class _BLIGHTED(_BLIGHT, ):
 	def __init__(self,): 
+		_BLIGHT.__init__(self)
 		self.name = "BLIGHTED"
+		self.specie = 'nouns'
 		self.basic = "blight"
 		self.jsondata = {}

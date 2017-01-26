@@ -5,6 +5,8 @@ from xai.brain.wordbase.nouns._strip import _STRIP
 #calss header
 class _STRIPING(_STRIP, ):
 	def __init__(self,): 
+		_STRIP.__init__(self)
 		self.name = "STRIPING"
+		self.specie = 'nouns'
 		self.basic = "strip"
 		self.jsondata = {}

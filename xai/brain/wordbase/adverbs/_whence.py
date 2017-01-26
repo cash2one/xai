@@ -4,11 +4,15 @@
 class _WHENCE():
 	def __init__(self,): 
 		self.name = "WHENCE"
-		self.jsondata = {}
-
-		self.specie = 'adverbs'
 		self.parents = []
 		self.childen = []
+		self.properties = []
+		self.jsondata = {}
+
+
+
+		self.specie = 'adverbs'
+
 
 	def run(self, obj1, obj2):
 		self.jsondata[obj2] = {}

@@ -4,6 +4,11 @@
 class _PEKINGESES():
 	def __init__(self,): 
 		self.name = "PEKINGESES"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['pekingese']

@@ -4,6 +4,11 @@
 class _JADING():
 	def __init__(self,): 
 		self.name = "JADING"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['jade']

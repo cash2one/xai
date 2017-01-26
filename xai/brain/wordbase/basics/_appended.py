@@ -4,6 +4,11 @@
 class _APPENDED():
 	def __init__(self,): 
 		self.name = "APPENDED"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['append']

@@ -4,6 +4,11 @@
 class _TREFOILS():
 	def __init__(self,): 
 		self.name = "TREFOILS"
+		self.parents = []
+		self.childen = []
+		self.properties = []
 		self.jsondata = {}
+
+
 
 		self.basic = ['trefoil']

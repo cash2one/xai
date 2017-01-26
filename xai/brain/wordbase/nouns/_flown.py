@@ -5,6 +5,8 @@ from xai.brain.wordbase.nouns._fly import _FLY
 #calss header
 class _FLOWN(_FLY, ):
 	def __init__(self,): 
+		_FLY.__init__(self)
 		self.name = "FLOWN"
+		self.specie = 'nouns'
 		self.basic = "fly"
 		self.jsondata = {}
