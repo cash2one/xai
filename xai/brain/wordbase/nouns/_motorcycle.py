@@ -4,11 +4,12 @@
 class _MOTORCYCLE():
 	def __init__(self,): 
 		self.name = "MOTORCYCLE"
+		self.definitions = [u'a vehicle with two wheels and an engine']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

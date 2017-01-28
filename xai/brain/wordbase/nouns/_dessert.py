@@ -4,11 +4,12 @@
 class _DESSERT():
 	def __init__(self,): 
 		self.name = "DESSERT"
+		self.definitions = [u'sweet food eaten at the end of a meal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

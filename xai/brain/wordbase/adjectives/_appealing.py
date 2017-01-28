@@ -4,11 +4,12 @@
 class _APPEALING():
 	def __init__(self,): 
 		self.name = "APPEALING"
+		self.definitions = [u'attractive or interesting: ', u'showing that you want people to help or protect you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

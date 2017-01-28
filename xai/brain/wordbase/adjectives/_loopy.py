@@ -4,11 +4,12 @@
 class _LOOPY():
 	def __init__(self,): 
 		self.name = "LOOPY"
+		self.definitions = [u'strange, unusual, or silly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _TEEMING():
 	def __init__(self,): 
 		self.name = "TEEMING"
+		self.definitions = [u'If a place is teeming, it is full of people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

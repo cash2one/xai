@@ -4,11 +4,12 @@
 class _PLANE():
 	def __init__(self,): 
 		self.name = "PLANE"
+		self.definitions = [u'flat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

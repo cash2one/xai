@@ -4,11 +4,12 @@
 class _EXTRATERRESTRIAL():
 	def __init__(self,): 
 		self.name = "EXTRATERRESTRIAL"
+		self.definitions = [u'(coming from) outside the planet Earth: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

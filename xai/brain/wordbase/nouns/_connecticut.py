@@ -4,11 +4,12 @@
 class _CONNECTICUT():
 	def __init__(self,): 
 		self.name = "CONNECTICUT"
+		self.definitions = [u'a state in the northeastern United States, whose capital city is Hartford']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

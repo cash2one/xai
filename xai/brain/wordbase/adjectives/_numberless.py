@@ -4,11 +4,12 @@
 class _NUMBERLESS():
 	def __init__(self,): 
 		self.name = "NUMBERLESS"
+		self.definitions = [u'too many to be counted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

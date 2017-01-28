@@ -4,11 +4,12 @@
 class _ATTAINABLE():
 	def __init__(self,): 
 		self.name = "ATTAINABLE"
+		self.definitions = [u'possible to achieve: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

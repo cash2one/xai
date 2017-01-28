@@ -4,11 +4,12 @@
 class _ANAEMIC():
 	def __init__(self,): 
 		self.name = "ANAEMIC"
+		self.definitions = [u'suffering from anaemia: ', u'without any energy and effort: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

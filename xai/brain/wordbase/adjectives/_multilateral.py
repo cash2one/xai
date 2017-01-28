@@ -4,11 +4,12 @@
 class _MULTILATERAL():
 	def __init__(self,): 
 		self.name = "MULTILATERAL"
+		self.definitions = [u'involving more than two groups or countries: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

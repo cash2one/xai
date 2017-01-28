@@ -4,11 +4,12 @@
 class _EVERYONE():
 	def __init__(self,): 
 		self.name = "EVERYONE"
+		self.definitions = [u'every person: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'pronouns'

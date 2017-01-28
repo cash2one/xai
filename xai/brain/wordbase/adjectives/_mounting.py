@@ -4,11 +4,12 @@
 class _MOUNTING():
 	def __init__(self,): 
 		self.name = "MOUNTING"
+		self.definitions = [u'gradually increasing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

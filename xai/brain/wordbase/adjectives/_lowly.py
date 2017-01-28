@@ -4,11 +4,12 @@
 class _LOWLY():
 	def __init__(self,): 
 		self.name = "LOWLY"
+		self.definitions = [u'low in position and importance, or not respected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

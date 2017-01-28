@@ -4,11 +4,12 @@
 class _INDECIPHERABLE():
 	def __init__(self,): 
 		self.name = "INDECIPHERABLE"
+		self.definitions = [u'unable to be read or understood: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

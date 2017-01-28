@@ -4,11 +4,12 @@
 class _WHEREABOUTS():
 	def __init__(self,): 
 		self.name = "WHEREABOUTS"
+		self.definitions = [u'in what part or area: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

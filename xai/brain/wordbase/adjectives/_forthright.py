@@ -4,11 +4,12 @@
 class _FORTHRIGHT():
 	def __init__(self,): 
 		self.name = "FORTHRIGHT"
+		self.definitions = [u'(too) honest or direct in behaviour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

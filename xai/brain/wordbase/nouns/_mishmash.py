@@ -4,11 +4,12 @@
 class _MISHMASH():
 	def __init__(self,): 
 		self.name = "MISHMASH"
+		self.definitions = [u'a confused mixture: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

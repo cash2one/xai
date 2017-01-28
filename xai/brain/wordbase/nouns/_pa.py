@@ -4,11 +4,12 @@
 class _PA():
 	def __init__(self,): 
 		self.name = "PA"
+		self.definitions = [u'a father: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

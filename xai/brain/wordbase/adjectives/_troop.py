@@ -4,11 +4,12 @@
 class _TROOP():
 	def __init__(self,): 
 		self.name = "TROOP"
+		self.definitions = [u'for, relating to, or involving troops: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

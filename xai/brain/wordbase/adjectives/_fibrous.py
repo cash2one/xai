@@ -4,11 +4,12 @@
 class _FIBROUS():
 	def __init__(self,): 
 		self.name = "FIBROUS"
+		self.definitions = [u'made of fibres, or like fibre', u'Food that is fibrous contains fibre.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _NAKEDLY():
 	def __init__(self,): 
 		self.name = "NAKEDLY"
+		self.definitions = [u'in a way that is obvious and unpleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

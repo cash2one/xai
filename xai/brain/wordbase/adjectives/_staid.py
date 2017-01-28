@@ -4,11 +4,12 @@
 class _STAID():
 	def __init__(self,): 
 		self.name = "STAID"
+		self.definitions = [u'serious, boring, and slightly old-fashioned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

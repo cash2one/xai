@@ -4,11 +4,12 @@
 class _GANGLAND():
 	def __init__(self,): 
 		self.name = "GANGLAND"
+		self.definitions = [u'the people and places involved in violent crime: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

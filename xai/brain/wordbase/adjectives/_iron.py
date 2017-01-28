@@ -4,11 +4,12 @@
 class _IRON():
 	def __init__(self,): 
 		self.name = "IRON"
+		self.definitions = [u'very strong physically, mentally, or emotionally: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

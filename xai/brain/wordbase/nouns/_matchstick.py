@@ -4,11 +4,12 @@
 class _MATCHSTICK():
 	def __init__(self,): 
 		self.name = "MATCHSTICK"
+		self.definitions = [u'the short wooden stick of a match, or the match itself: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

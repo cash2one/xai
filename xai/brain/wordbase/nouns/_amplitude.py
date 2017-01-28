@@ -4,11 +4,12 @@
 class _AMPLITUDE():
 	def __init__(self,): 
 		self.name = "AMPLITUDE"
+		self.definitions = [u'a large amount or wide range: ', u'the distance between the top and the bottom of a wave']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

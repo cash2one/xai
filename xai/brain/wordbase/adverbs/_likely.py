@@ -4,11 +4,12 @@
 class _LIKELY():
 	def __init__(self,): 
 		self.name = "LIKELY"
+		self.definitions = [u'probably: ', u'probably: ', u'very probably: ', u'certainly not!: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

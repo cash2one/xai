@@ -4,11 +4,12 @@
 class _STRINGY():
 	def __init__(self,): 
 		self.name = "STRINGY"
+		self.definitions = [u'similar to string: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

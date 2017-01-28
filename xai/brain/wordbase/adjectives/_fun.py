@@ -4,11 +4,12 @@
 class _FUN():
 	def __init__(self,): 
 		self.name = "FUN"
+		self.definitions = [u'enjoyable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

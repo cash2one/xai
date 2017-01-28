@@ -4,11 +4,12 @@
 class _DOWDY():
 	def __init__(self,): 
 		self.name = "DOWDY"
+		self.definitions = [u'(especially of clothes or the person wearing them) not attractive or fashionable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

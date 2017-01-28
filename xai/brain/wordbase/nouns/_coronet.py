@@ -4,11 +4,12 @@
 class _CORONET():
 	def __init__(self,): 
 		self.name = "CORONET"
+		self.definitions = [u'a small crown (= circular decoration for the head)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _SOCIALLY():
 	def __init__(self,): 
 		self.name = "SOCIALLY"
+		self.definitions = [u'in or relating to a social situation: ', u'by or relating to society: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

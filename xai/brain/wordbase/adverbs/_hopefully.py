@@ -4,11 +4,12 @@
 class _HOPEFULLY():
 	def __init__(self,): 
 		self.name = "HOPEFULLY"
+		self.definitions = [u'used, often at the start of a sentence, to express what you would like to happen: ', u'in a hopeful way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _DISTORTED():
 	def __init__(self,): 
 		self.name = "DISTORTED"
+		self.definitions = [u'changed from the usual, original, natural, or intended form: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

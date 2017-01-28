@@ -4,11 +4,12 @@
 class _ADAGE():
 	def __init__(self,): 
 		self.name = "ADAGE"
+		self.definitions = [u'a wise saying: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _QUARTERLY():
 	def __init__(self,): 
 		self.name = "QUARTERLY"
+		self.definitions = [u'done or produced four times a year: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

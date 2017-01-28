@@ -4,11 +4,12 @@
 class _AGRICULTURE():
 	def __init__(self,): 
 		self.name = "AGRICULTURE"
+		self.definitions = [u'farming: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

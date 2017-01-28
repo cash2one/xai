@@ -4,11 +4,12 @@
 class _WHENEVER():
 	def __init__(self,): 
 		self.name = "WHENEVER"
+		self.definitions = [u'every or any time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _STOCKPILE():
 	def __init__(self,): 
 		self.name = "STOCKPILE"
+		self.definitions = [u'a large amount of food, goods, or weapons that are kept ready for future use: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

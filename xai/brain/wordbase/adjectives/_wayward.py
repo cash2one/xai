@@ -4,11 +4,12 @@
 class _WAYWARD():
 	def __init__(self,): 
 		self.name = "WAYWARD"
+		self.definitions = [u'doing only what you want and often changing your behaviour in a way that is difficult to control']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

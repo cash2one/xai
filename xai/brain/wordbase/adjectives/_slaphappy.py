@@ -4,11 +4,12 @@
 class _SLAPHAPPY():
 	def __init__(self,): 
 		self.name = "SLAPHAPPY"
+		self.definitions = [u'happily careless and not thinking about the results of your actions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

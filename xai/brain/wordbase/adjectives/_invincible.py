@@ -4,11 +4,12 @@
 class _INVINCIBLE():
 	def __init__(self,): 
 		self.name = "INVINCIBLE"
+		self.definitions = [u'impossible to defeat or prevent from doing what is intended: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

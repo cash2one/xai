@@ -4,11 +4,12 @@
 class _RACOON():
 	def __init__(self,): 
 		self.name = "RACOON"
+		self.definitions = [u'a  raccoon ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

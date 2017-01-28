@@ -4,11 +4,12 @@
 class _UNCOUNTABLE():
 	def __init__(self,): 
 		self.name = "UNCOUNTABLE"
+		self.definitions = [u'An uncountable noun is not used with "a" or "an" and cannot be made plural: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

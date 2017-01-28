@@ -4,11 +4,12 @@
 class _GRAIL():
 	def __init__(self,): 
 		self.name = "GRAIL"
+		self.definitions = [u'\u2192\xa0 the holy grail ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

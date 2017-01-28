@@ -4,11 +4,12 @@
 class _GRAD():
 	def __init__(self,): 
 		self.name = "GRAD"
+		self.definitions = [u'informal for  graduate ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

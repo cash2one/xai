@@ -4,11 +4,12 @@
 class _AFFECTING():
 	def __init__(self,): 
 		self.name = "AFFECTING"
+		self.definitions = [u'causing a strong emotion, especially sadness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

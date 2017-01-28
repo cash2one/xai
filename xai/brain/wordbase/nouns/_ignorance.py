@@ -4,11 +4,12 @@
 class _IGNORANCE():
 	def __init__(self,): 
 		self.name = "IGNORANCE"
+		self.definitions = [u'lack of knowledge, understanding, or information about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _INACTIVE():
 	def __init__(self,): 
 		self.name = "INACTIVE"
+		self.definitions = [u'doing nothing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

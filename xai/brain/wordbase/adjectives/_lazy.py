@@ -4,11 +4,12 @@
 class _LAZY():
 	def __init__(self,): 
 		self.name = "LAZY"
+		self.definitions = [u'not willing to work or use any effort: ', u'slow and relaxed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

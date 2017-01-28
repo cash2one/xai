@@ -4,11 +4,12 @@
 class _GODFORSAKEN():
 	def __init__(self,): 
 		self.name = "GODFORSAKEN"
+		self.definitions = [u'A godforsaken place is not attractive and contains nothing interesting or pleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _TREATABLE():
 	def __init__(self,): 
 		self.name = "TREATABLE"
+		self.definitions = [u'A treatable illness or condition can be cured with drugs, exercises, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

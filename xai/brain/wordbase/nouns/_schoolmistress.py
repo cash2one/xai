@@ -4,11 +4,12 @@
 class _SCHOOLMISTRESS():
 	def __init__(self,): 
 		self.name = "SCHOOLMISTRESS"
+		self.definitions = [u'a woman who teaches children in a school']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

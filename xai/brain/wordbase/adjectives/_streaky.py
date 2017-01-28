@@ -4,11 +4,12 @@
 class _STREAKY():
 	def __init__(self,): 
 		self.name = "STREAKY"
+		self.definitions = [u'covered with long, thin lines: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

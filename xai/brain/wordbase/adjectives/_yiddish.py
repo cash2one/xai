@@ -4,11 +4,12 @@
 class _YIDDISH():
 	def __init__(self,): 
 		self.name = "YIDDISH"
+		self.definitions = [u'in or relating to Yiddish']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

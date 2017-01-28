@@ -4,11 +4,12 @@
 class _SUPERNUMERARY():
 	def __init__(self,): 
 		self.name = "SUPERNUMERARY"
+		self.definitions = [u'in addition to the number usually needed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

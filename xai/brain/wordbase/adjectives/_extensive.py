@@ -4,11 +4,12 @@
 class _EXTENSIVE():
 	def __init__(self,): 
 		self.name = "EXTENSIVE"
+		self.definitions = [u'covering a large area; having a great range: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

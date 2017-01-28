@@ -4,11 +4,12 @@
 class _FRUMPY():
 	def __init__(self,): 
 		self.name = "FRUMPY"
+		self.definitions = [u'(of a person or their clothes) old-fashioned and not attractive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

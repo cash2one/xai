@@ -4,11 +4,12 @@
 class _MELANCHOLY():
 	def __init__(self,): 
 		self.name = "MELANCHOLY"
+		self.definitions = [u'sad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

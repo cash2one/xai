@@ -4,11 +4,12 @@
 class _SLAVIC():
 	def __init__(self,): 
 		self.name = "SLAVIC"
+		self.definitions = [u'\u2192\xa0 Slavonic ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

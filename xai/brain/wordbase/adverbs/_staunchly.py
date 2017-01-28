@@ -4,11 +4,12 @@
 class _STAUNCHLY():
 	def __init__(self,): 
 		self.name = "STAUNCHLY"
+		self.definitions = [u'strongly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

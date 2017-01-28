@@ -4,11 +4,12 @@
 class _CHLORIDE():
 	def __init__(self,): 
 		self.name = "CHLORIDE"
+		self.definitions = [u'a chemical compound that is a mixture of chlorine and another substance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

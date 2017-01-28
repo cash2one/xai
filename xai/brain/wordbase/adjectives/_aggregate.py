@@ -4,11 +4,12 @@
 class _AGGREGATE():
 	def __init__(self,): 
 		self.name = "AGGREGATE"
+		self.definitions = [u'total: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

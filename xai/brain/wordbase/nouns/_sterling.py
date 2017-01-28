@@ -4,11 +4,12 @@
 class _STERLING():
 	def __init__(self,): 
 		self.name = "STERLING"
+		self.definitions = [u'British money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

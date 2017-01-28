@@ -4,11 +4,12 @@
 class _PROMPTLY():
 	def __init__(self,): 
 		self.name = "PROMPTLY"
+		self.definitions = [u'quickly, without delay, or at the arranged time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

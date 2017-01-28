@@ -4,11 +4,12 @@
 class _LACTOSE():
 	def __init__(self,): 
 		self.name = "LACTOSE"
+		self.definitions = [u'a type of sugar that is found in milk']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

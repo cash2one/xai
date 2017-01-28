@@ -4,11 +4,12 @@
 class _BEDRAGGLED():
 	def __init__(self,): 
 		self.name = "BEDRAGGLED"
+		self.definitions = [u'wet, dirty, and untidy']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

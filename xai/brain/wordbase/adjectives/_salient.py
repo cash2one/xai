@@ -4,11 +4,12 @@
 class _SALIENT():
 	def __init__(self,): 
 		self.name = "SALIENT"
+		self.definitions = [u'The salient facts about something or qualities of something are the most important things about them: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

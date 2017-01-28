@@ -4,11 +4,12 @@
 class _RAINFALL():
 	def __init__(self,): 
 		self.name = "RAINFALL"
+		self.definitions = [u'rain, or the amount of rain that falls: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _INTRIGUING():
 	def __init__(self,): 
 		self.name = "INTRIGUING"
+		self.definitions = [u'very interesting because of being unusual or mysterious: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

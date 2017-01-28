@@ -4,11 +4,12 @@
 class _BLINKING():
 	def __init__(self,): 
 		self.name = "BLINKING"
+		self.definitions = [u'an expression of anger: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FEVERED():
 	def __init__(self,): 
 		self.name = "FEVERED"
+		self.definitions = [u'unnaturally excited or active: ', u'suffering from fever: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

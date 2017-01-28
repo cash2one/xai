@@ -4,11 +4,12 @@
 class _CANARY():
 	def __init__(self,): 
 		self.name = "CANARY"
+		self.definitions = [u'a small, yellow bird that is well known for its singing, sometimes kept as a pet']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

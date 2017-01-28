@@ -4,11 +4,12 @@
 class _HUMID():
 	def __init__(self,): 
 		self.name = "HUMID"
+		self.definitions = [u'(of air and weather conditions) containing extremely small drops of water in the air: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _EMPIRICAL():
 	def __init__(self,): 
 		self.name = "EMPIRICAL"
+		self.definitions = [u'based on what is experienced or seen rather than on theory: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

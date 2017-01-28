@@ -4,11 +4,12 @@
 class _SWOON():
 	def __init__(self,): 
 		self.name = "SWOON"
+		self.definitions = [u'a  faint noun  (= state of suddenly becoming unconscious)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

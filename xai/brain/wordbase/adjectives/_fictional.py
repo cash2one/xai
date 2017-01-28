@@ -4,11 +4,12 @@
 class _FICTIONAL():
 	def __init__(self,): 
 		self.name = "FICTIONAL"
+		self.definitions = [u'imaginary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

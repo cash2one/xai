@@ -4,11 +4,12 @@
 class _OVERWEIGHT():
 	def __init__(self,): 
 		self.name = "OVERWEIGHT"
+		self.definitions = [u'fat: ', u'heavier than is allowed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

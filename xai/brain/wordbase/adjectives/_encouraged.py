@@ -4,11 +4,12 @@
 class _ENCOURAGED():
 	def __init__(self,): 
 		self.name = "ENCOURAGED"
+		self.definitions = [u'having more confidence or hope about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

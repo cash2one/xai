@@ -4,11 +4,12 @@
 class _OUTWARDS():
 	def __init__(self,): 
 		self.name = "OUTWARDS"
+		self.definitions = [u'going or pointing away from a particular place or towards the outside: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

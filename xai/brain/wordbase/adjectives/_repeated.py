@@ -4,11 +4,12 @@
 class _REPEATED():
 	def __init__(self,): 
 		self.name = "REPEATED"
+		self.definitions = [u'happening again and again: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

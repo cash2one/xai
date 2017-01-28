@@ -4,11 +4,12 @@
 class _TAMPAX():
 	def __init__(self,): 
 		self.name = "TAMPAX"
+		self.definitions = [u'a type of tampon']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

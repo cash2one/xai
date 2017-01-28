@@ -4,11 +4,12 @@
 class _DISFAVOUR():
 	def __init__(self,): 
 		self.name = "DISFAVOUR"
+		self.definitions = [u'a feeling of dislike or disapproval: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

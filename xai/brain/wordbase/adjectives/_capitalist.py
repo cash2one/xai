@@ -4,11 +4,12 @@
 class _CAPITALIST():
 	def __init__(self,): 
 		self.name = "CAPITALIST"
+		self.definitions = [u'based on the system of capitalism: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

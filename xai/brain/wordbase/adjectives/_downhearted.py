@@ -4,11 +4,12 @@
 class _DOWNHEARTED():
 	def __init__(self,): 
 		self.name = "DOWNHEARTED"
+		self.definitions = [u'unhappy and having no hope, especially because of a disappointment or failure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

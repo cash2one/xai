@@ -4,11 +4,12 @@
 class _BEARISH():
 	def __init__(self,): 
 		self.name = "BEARISH"
+		self.definitions = [u'looking or behaving like a bear', u'expecting a fall in prices: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

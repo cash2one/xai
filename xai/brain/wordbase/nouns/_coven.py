@@ -4,11 +4,12 @@
 class _COVEN():
 	def __init__(self,): 
 		self.name = "COVEN"
+		self.definitions = [u'a group or meeting of witches']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

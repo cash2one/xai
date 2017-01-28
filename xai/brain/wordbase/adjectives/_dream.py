@@ -4,11 +4,12 @@
 class _DREAM():
 	def __init__(self,): 
 		self.name = "DREAM"
+		self.definitions = [u'the perfect house, job, etc., that you want more than any other']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

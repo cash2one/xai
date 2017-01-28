@@ -4,11 +4,12 @@
 class _PASCHAL():
 	def __init__(self,): 
 		self.name = "PASCHAL"
+		self.definitions = [u'relating to Easter or to Passover: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MOTLEY():
 	def __init__(self,): 
 		self.name = "MOTLEY"
+		self.definitions = [u'consisting of many different types that do not appear to go together: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

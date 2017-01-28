@@ -4,11 +4,12 @@
 class _SPEARMINT():
 	def __init__(self,): 
 		self.name = "SPEARMINT"
+		self.definitions = [u'a strong flavouring with a fresh taste, or the plant from which this flavouring comes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

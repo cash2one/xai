@@ -4,11 +4,12 @@
 class _CAFFEINATED():
 	def __init__(self,): 
 		self.name = "CAFFEINATED"
+		self.definitions = [u'containing caffeine: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

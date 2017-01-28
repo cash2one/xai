@@ -4,11 +4,12 @@
 class _SINGE():
 	def __init__(self,): 
 		self.name = "SINGE"
+		self.definitions = [u'a slight burn mark: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

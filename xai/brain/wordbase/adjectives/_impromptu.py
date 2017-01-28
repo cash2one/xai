@@ -4,11 +4,12 @@
 class _IMPROMPTU():
 	def __init__(self,): 
 		self.name = "IMPROMPTU"
+		self.definitions = [u'done or said without earlier planning or preparation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

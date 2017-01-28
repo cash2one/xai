@@ -4,11 +4,12 @@
 class _PECK():
 	def __init__(self,): 
 		self.name = "PECK"
+		self.definitions = [u'a quick kiss: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

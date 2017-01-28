@@ -4,11 +4,12 @@
 class _PUBLICITY():
 	def __init__(self,): 
 		self.name = "PUBLICITY"
+		self.definitions = [u'the activity of making certain that someone or something attracts a lot of interest or attention from many people, or the attention received as a result of this activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

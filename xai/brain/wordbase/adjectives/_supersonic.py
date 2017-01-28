@@ -4,11 +4,12 @@
 class _SUPERSONIC():
 	def __init__(self,): 
 		self.name = "SUPERSONIC"
+		self.definitions = [u'faster than the speed of sound: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNSMILING():
 	def __init__(self,): 
 		self.name = "UNSMILING"
+		self.definitions = [u'not smiling: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

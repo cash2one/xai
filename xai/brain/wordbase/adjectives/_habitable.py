@@ -4,11 +4,12 @@
 class _HABITABLE():
 	def __init__(self,): 
 		self.name = "HABITABLE"
+		self.definitions = [u'providing conditions that are good enough to live in or on: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

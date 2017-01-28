@@ -4,11 +4,12 @@
 class _SUSPICIOUS():
 	def __init__(self,): 
 		self.name = "SUSPICIOUS"
+		self.definitions = [u'making you feel that something illegal is happening or that something is wrong: ', u'feeling doubt or no trust in someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

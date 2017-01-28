@@ -4,11 +4,12 @@
 class _PLUM():
 	def __init__(self,): 
 		self.name = "PLUM"
+		self.definitions = [u'very good and worth having: ', u'having a dark reddish-purple colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

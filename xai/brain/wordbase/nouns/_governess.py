@@ -4,11 +4,12 @@
 class _GOVERNESS():
 	def __init__(self,): 
 		self.name = "GOVERNESS"
+		self.definitions = [u'(especially in the past) a woman who lives with a family and teaches their children at home']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

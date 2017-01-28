@@ -4,11 +4,12 @@
 class _WANTED():
 	def __init__(self,): 
 		self.name = "WANTED"
+		self.definitions = [u'wished for and loved by other people: ', u'being searched for by the police because of a crime: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INDISSOLUBLE():
 	def __init__(self,): 
 		self.name = "INDISSOLUBLE"
+		self.definitions = [u'impossible to take apart or bring to an end, or existing for a very long time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

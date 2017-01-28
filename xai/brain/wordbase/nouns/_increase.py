@@ -4,11 +4,12 @@
 class _INCREASE():
 	def __init__(self,): 
 		self.name = "INCREASE"
+		self.definitions = [u'a rise in the amount or size of something: ', u'increasing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

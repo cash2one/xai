@@ -4,11 +4,12 @@
 class _ARTISTIC():
 	def __init__(self,): 
 		self.name = "ARTISTIC"
+		self.definitions = [u'relating to art: ', u'able to create or enjoy art: ', u'skilfully and attractively made: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

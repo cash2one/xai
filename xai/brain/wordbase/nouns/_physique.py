@@ -4,11 +4,12 @@
 class _PHYSIQUE():
 	def __init__(self,): 
 		self.name = "PHYSIQUE"
+		self.definitions = [u'the shape and size of a human body: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _GRATITUDE():
 	def __init__(self,): 
 		self.name = "GRATITUDE"
+		self.definitions = [u'the feeling or quality of being grateful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

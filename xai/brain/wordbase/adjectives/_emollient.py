@@ -4,11 +4,12 @@
 class _EMOLLIENT():
 	def __init__(self,): 
 		self.name = "EMOLLIENT"
+		self.definitions = [u'helping to treat dry, sore skin: ', u'making people calm and avoiding argument: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _COTTAGE():
 	def __init__(self,): 
 		self.name = "COTTAGE"
+		self.definitions = [u'a small house, usually in the countryside: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

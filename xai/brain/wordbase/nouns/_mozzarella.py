@@ -4,11 +4,12 @@
 class _MOZZARELLA():
 	def __init__(self,): 
 		self.name = "MOZZARELLA"
+		self.definitions = [u'a soft white Italian cheese']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

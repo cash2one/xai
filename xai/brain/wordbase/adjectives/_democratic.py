@@ -4,11 +4,12 @@
 class _DEMOCRATIC():
 	def __init__(self,): 
 		self.name = "DEMOCRATIC"
+		self.definitions = [u'based on the principles of democracy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _RETROGRADE():
 	def __init__(self,): 
 		self.name = "RETROGRADE"
+		self.definitions = [u'returning to older and worse conditions, methods, ideas, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

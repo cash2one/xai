@@ -4,11 +4,12 @@
 class _DIFFERENTIAL():
 	def __init__(self,): 
 		self.name = "DIFFERENTIAL"
+		self.definitions = [u'based on a difference: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

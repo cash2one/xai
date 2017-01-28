@@ -4,11 +4,12 @@
 class _DEADLY():
 	def __init__(self,): 
 		self.name = "DEADLY"
+		self.definitions = [u'likely to cause death: ', u'complete or extreme: ', u'extremely boring: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

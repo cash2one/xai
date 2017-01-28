@@ -4,11 +4,12 @@
 class _DISCERNIBLE():
 	def __init__(self,): 
 		self.name = "DISCERNIBLE"
+		self.definitions = [u'able to be seen or understood: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

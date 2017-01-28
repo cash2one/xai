@@ -4,11 +4,12 @@
 class _UNEQUALLED():
 	def __init__(self,): 
 		self.name = "UNEQUALLED"
+		self.definitions = [u'better or more extreme than any other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

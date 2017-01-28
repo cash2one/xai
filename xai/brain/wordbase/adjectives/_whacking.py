@@ -4,11 +4,12 @@
 class _WHACKING():
 	def __init__(self,): 
 		self.name = "WHACKING"
+		self.definitions = [u'very big: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

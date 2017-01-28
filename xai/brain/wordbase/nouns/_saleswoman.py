@@ -4,11 +4,12 @@
 class _SALESWOMAN():
 	def __init__(self,): 
 		self.name = "SALESWOMAN"
+		self.definitions = [u'a female salesperson']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

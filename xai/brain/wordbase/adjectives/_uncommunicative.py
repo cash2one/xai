@@ -4,11 +4,12 @@
 class _UNCOMMUNICATIVE():
 	def __init__(self,): 
 		self.name = "UNCOMMUNICATIVE"
+		self.definitions = [u'not willing to talk: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

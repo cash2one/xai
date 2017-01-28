@@ -4,11 +4,12 @@
 class _SYNCHRONOUS():
 	def __init__(self,): 
 		self.name = "SYNCHRONOUS"
+		self.definitions = [u'happening or done at the same time or speed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

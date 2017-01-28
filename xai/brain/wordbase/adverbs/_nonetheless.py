@@ -4,11 +4,12 @@
 class _NONETHELESS():
 	def __init__(self,): 
 		self.name = "NONETHELESS"
+		self.definitions = [u'despite what has just been said or done: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

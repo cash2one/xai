@@ -4,11 +4,12 @@
 class _THATCHER():
 	def __init__(self,): 
 		self.name = "THATCHER"
+		self.definitions = [u'a person whose job is thatching roofs']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

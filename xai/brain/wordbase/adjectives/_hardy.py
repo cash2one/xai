@@ -4,11 +4,12 @@
 class _HARDY():
 	def __init__(self,): 
 		self.name = "HARDY"
+		self.definitions = [u'strong enough to bear extreme conditions or difficult situations: ', u'Hardy plants can live through the winter without protection from the weather: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

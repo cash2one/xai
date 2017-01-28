@@ -4,11 +4,12 @@
 class _DESTINATION():
 	def __init__(self,): 
 		self.name = "DESTINATION"
+		self.definitions = [u'worth making a special journey for: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

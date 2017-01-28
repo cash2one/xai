@@ -4,11 +4,12 @@
 class _HEARTILY():
 	def __init__(self,): 
 		self.name = "HEARTILY"
+		self.definitions = [u'enthusiastically, energetically, and often loudly: ', u'completely or very much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

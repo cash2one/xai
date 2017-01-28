@@ -4,11 +4,12 @@
 class _SHIPSHAPE():
 	def __init__(self,): 
 		self.name = "SHIPSHAPE"
+		self.definitions = [u'neat and with everything in its correct place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

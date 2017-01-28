@@ -4,11 +4,12 @@
 class _CRAPPY():
 	def __init__(self,): 
 		self.name = "CRAPPY"
+		self.definitions = [u'unpleasant or of very bad quality: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

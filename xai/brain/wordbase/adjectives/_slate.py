@@ -4,11 +4,12 @@
 class _SLATE():
 	def __init__(self,): 
 		self.name = "SLATE"
+		self.definitions = [u'of a colour similar to slate: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

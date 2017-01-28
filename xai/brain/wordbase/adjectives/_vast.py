@@ -4,11 +4,12 @@
 class _VAST():
 	def __init__(self,): 
 		self.name = "VAST"
+		self.definitions = [u'extremely big: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _TEXTBOOK():
 	def __init__(self,): 
 		self.name = "TEXTBOOK"
+		self.definitions = [u'(of an example of something) extremely good, or thought to be usual or typical: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

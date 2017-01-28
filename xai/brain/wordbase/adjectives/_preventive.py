@@ -4,11 +4,12 @@
 class _PREVENTIVE():
 	def __init__(self,): 
 		self.name = "PREVENTIVE"
+		self.definitions = [u'intended to stop something before it happens: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

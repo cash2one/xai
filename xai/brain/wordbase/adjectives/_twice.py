@@ -4,11 +4,12 @@
 class _TWICE():
 	def __init__(self,): 
 		self.name = "TWICE"
+		self.definitions = [u'two times: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

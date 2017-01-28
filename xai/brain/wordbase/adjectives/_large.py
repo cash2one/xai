@@ -4,11 +4,12 @@
 class _LARGE():
 	def __init__(self,): 
 		self.name = "LARGE"
+		self.definitions = [u'big in size or amount: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

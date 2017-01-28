@@ -4,11 +4,12 @@
 class _SMIDGE():
 	def __init__(self,): 
 		self.name = "SMIDGE"
+		self.definitions = [u'\u2192\xa0 smidgen ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

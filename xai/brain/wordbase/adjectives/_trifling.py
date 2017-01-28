@@ -4,11 +4,12 @@
 class _TRIFLING():
 	def __init__(self,): 
 		self.name = "TRIFLING"
+		self.definitions = [u'A trifling matter or amount of money is small or not important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

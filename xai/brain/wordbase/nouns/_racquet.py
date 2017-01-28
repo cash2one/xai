@@ -4,11 +4,12 @@
 class _RACQUET():
 	def __init__(self,): 
 		self.name = "RACQUET"
+		self.definitions = [u'a  racket ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _UNCOMMITTED():
 	def __init__(self,): 
 		self.name = "UNCOMMITTED"
+		self.definitions = [u'having made no promise to support any particular group, plan, belief, or action: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

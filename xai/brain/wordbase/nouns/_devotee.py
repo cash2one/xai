@@ -4,11 +4,12 @@
 class _DEVOTEE():
 	def __init__(self,): 
 		self.name = "DEVOTEE"
+		self.definitions = [u'a person who strongly admires a particular person or is extremely interested in a subject: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

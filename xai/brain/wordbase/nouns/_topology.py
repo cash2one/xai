@@ -4,11 +4,12 @@
 class _TOPOLOGY():
 	def __init__(self,): 
 		self.name = "TOPOLOGY"
+		self.definitions = [u'the way the parts of something are organized or connected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

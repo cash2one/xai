@@ -4,11 +4,12 @@
 class _SUBMARINE():
 	def __init__(self,): 
 		self.name = "SUBMARINE"
+		self.definitions = [u'existing below the surface of the sea']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

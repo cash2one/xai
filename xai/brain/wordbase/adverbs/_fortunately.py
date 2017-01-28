@@ -4,11 +4,12 @@
 class _FORTUNATELY():
 	def __init__(self,): 
 		self.name = "FORTUNATELY"
+		self.definitions = [u'happening because of good luck: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _FLORID():
 	def __init__(self,): 
 		self.name = "FLORID"
+		self.definitions = [u'with too much decoration or detail: ', u"(of a person's face) too red, especially in a way that is unhealthy: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

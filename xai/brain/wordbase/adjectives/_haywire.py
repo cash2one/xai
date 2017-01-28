@@ -4,11 +4,12 @@
 class _HAYWIRE():
 	def __init__(self,): 
 		self.name = "HAYWIRE"
+		self.definitions = [u'to stop working, often in a way that is very sudden and noticeable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _GENEROSITY():
 	def __init__(self,): 
 		self.name = "GENEROSITY"
+		self.definitions = [u'the quality or condition of being generous: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

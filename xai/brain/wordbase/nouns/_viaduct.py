@@ -4,11 +4,12 @@
 class _VIADUCT():
 	def __init__(self,): 
 		self.name = "VIADUCT"
+		self.definitions = [u'a long, high bridge, usually held up by many arches, that carries a railway or a road over a valley: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

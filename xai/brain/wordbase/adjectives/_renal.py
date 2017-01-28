@@ -4,11 +4,12 @@
 class _RENAL():
 	def __init__(self,): 
 		self.name = "RENAL"
+		self.definitions = [u'relating to the kidneys (= body organs): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _NAVIGABLE():
 	def __init__(self,): 
 		self.name = "NAVIGABLE"
+		self.definitions = [u'(of an area of water) deep, wide, or safe enough for a boat to go through: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

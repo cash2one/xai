@@ -4,11 +4,12 @@
 class _COPSE():
 	def __init__(self,): 
 		self.name = "COPSE"
+		self.definitions = [u'a small group of trees']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

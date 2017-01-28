@@ -4,11 +4,12 @@
 class _GRUMPY():
 	def __init__(self,): 
 		self.name = "GRUMPY"
+		self.definitions = [u'easily annoyed and complaining: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ACCUMULATIVE():
 	def __init__(self,): 
 		self.name = "ACCUMULATIVE"
+		self.definitions = [u'gradually increasing in number or amount: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

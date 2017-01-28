@@ -4,11 +4,12 @@
 class _HOMEY():
 	def __init__(self,): 
 		self.name = "HOMEY"
+		self.definitions = [u'plain or ordinary, but pleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

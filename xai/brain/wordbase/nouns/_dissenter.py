@@ -4,11 +4,12 @@
 class _DISSENTER():
 	def __init__(self,): 
 		self.name = "DISSENTER"
+		self.definitions = [u'someone who dissents']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

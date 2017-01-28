@@ -4,11 +4,12 @@
 class _ROLLICKING():
 	def __init__(self,): 
 		self.name = "ROLLICKING"
+		self.definitions = [u'an occasion when someone tells you in a very angry way that you have done something wrong: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

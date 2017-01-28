@@ -4,11 +4,12 @@
 class _FRI():
 	def __init__(self,): 
 		self.name = "FRI"
+		self.definitions = [u'written abbreviation for Friday']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

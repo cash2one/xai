@@ -4,11 +4,12 @@
 class _CONDO():
 	def __init__(self,): 
 		self.name = "CONDO"
+		self.definitions = [u'a  condominium ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

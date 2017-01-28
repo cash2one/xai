@@ -4,11 +4,12 @@
 class _VERMINOUS():
 	def __init__(self,): 
 		self.name = "VERMINOUS"
+		self.definitions = [u'covered with insects: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _OPERATIONAL():
 	def __init__(self,): 
 		self.name = "OPERATIONAL"
+		self.definitions = [u'relating to a particular activity: ', u'If a system is operational, it is working: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PROTEAN():
 	def __init__(self,): 
 		self.name = "PROTEAN"
+		self.definitions = [u'easily and continuously changing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

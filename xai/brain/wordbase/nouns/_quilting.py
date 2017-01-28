@@ -4,11 +4,12 @@
 class _QUILTING():
 	def __init__(self,): 
 		self.name = "QUILTING"
+		self.definitions = [u'the activity of making quilts, or the material used for making quilts']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

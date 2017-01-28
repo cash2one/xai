@@ -4,11 +4,12 @@
 class _IMPASSABLE():
 	def __init__(self,): 
 		self.name = "IMPASSABLE"
+		self.definitions = [u'An impassable road or path cannot be travelled on because of bad weather conditions or because it is blocked: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

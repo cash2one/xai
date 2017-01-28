@@ -4,11 +4,12 @@
 class _FLEET():
 	def __init__(self,): 
 		self.name = "FLEET"
+		self.definitions = [u'able to run quickly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

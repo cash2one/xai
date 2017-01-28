@@ -4,11 +4,12 @@
 class _UPPER():
 	def __init__(self,): 
 		self.name = "UPPER"
+		self.definitions = [u'at a higher position or level than something else, or being the top part of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

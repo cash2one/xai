@@ -4,11 +4,12 @@
 class _COMPREHENSIBLE():
 	def __init__(self,): 
 		self.name = "COMPREHENSIBLE"
+		self.definitions = [u'able to be understood: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

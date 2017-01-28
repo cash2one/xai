@@ -4,11 +4,12 @@
 class _VELOCITY():
 	def __init__(self,): 
 		self.name = "VELOCITY"
+		self.definitions = [u'the speed at which an object is travelling: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

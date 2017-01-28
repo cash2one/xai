@@ -4,11 +4,12 @@
 class _FIFTY():
 	def __init__(self,): 
 		self.name = "FIFTY"
+		self.definitions = [u'the number 50: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'numbers'

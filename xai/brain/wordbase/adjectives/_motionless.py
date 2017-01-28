@@ -4,11 +4,12 @@
 class _MOTIONLESS():
 	def __init__(self,): 
 		self.name = "MOTIONLESS"
+		self.definitions = [u'without moving: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

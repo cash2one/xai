@@ -4,11 +4,12 @@
 class _DERANGED():
 	def __init__(self,): 
 		self.name = "DERANGED"
+		self.definitions = [u'completely unable to think clearly or behave in a controlled way, especially because of mental illness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

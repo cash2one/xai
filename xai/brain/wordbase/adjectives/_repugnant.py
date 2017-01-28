@@ -4,11 +4,12 @@
 class _REPUGNANT():
 	def __init__(self,): 
 		self.name = "REPUGNANT"
+		self.definitions = [u'If behaviour or beliefs, etc. are repugnant, they are very unpleasant, causing a feeling of disgust: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

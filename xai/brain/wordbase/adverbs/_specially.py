@@ -4,11 +4,12 @@
 class _SPECIALLY():
 	def __init__(self,): 
 		self.name = "SPECIALLY"
+		self.definitions = [u'extremely or in particular: ', u'for a particular purpose: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

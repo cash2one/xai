@@ -4,11 +4,12 @@
 class _HARMFUL():
 	def __init__(self,): 
 		self.name = "HARMFUL"
+		self.definitions = [u'causing harm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

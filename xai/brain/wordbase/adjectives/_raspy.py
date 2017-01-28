@@ -4,11 +4,12 @@
 class _RASPY():
 	def __init__(self,): 
 		self.name = "RASPY"
+		self.definitions = [u'A raspy voice sounds unpleasantly rough.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

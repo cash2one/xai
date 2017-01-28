@@ -4,11 +4,12 @@
 class _OBTAINABLE():
 	def __init__(self,): 
 		self.name = "OBTAINABLE"
+		self.definitions = [u'able to be obtained: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

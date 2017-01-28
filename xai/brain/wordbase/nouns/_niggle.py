@@ -4,11 +4,12 @@
 class _NIGGLE():
 	def __init__(self,): 
 		self.name = "NIGGLE"
+		self.definitions = [u'a small doubt or worry: ', u'a small criticism: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

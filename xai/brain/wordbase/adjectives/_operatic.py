@@ -4,11 +4,12 @@
 class _OPERATIC():
 	def __init__(self,): 
 		self.name = "OPERATIC"
+		self.definitions = [u'of, for, or relating to opera: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INDIGNATION():
 	def __init__(self,): 
 		self.name = "INDIGNATION"
+		self.definitions = [u'anger about a situation that you think is wrong or not fair']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

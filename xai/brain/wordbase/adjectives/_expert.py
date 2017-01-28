@@ -4,11 +4,12 @@
 class _EXPERT():
 	def __init__(self,): 
 		self.name = "EXPERT"
+		self.definitions = [u'having or showing a lot of knowledge or skill: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNSOLD():
 	def __init__(self,): 
 		self.name = "UNSOLD"
+		self.definitions = [u'not sold: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

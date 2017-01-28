@@ -4,11 +4,12 @@
 class _ALACRITY():
 	def __init__(self,): 
 		self.name = "ALACRITY"
+		self.definitions = [u'speed and eagerness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

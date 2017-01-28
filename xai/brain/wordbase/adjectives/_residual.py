@@ -4,11 +4,12 @@
 class _RESIDUAL():
 	def __init__(self,): 
 		self.name = "RESIDUAL"
+		self.definitions = [u'remaining after most of something has gone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DECEMBER():
 	def __init__(self,): 
 		self.name = "DECEMBER"
+		self.definitions = [u'the twelfth and last month of the year, after November and before January: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

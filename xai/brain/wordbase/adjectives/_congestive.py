@@ -4,11 +4,12 @@
 class _CONGESTIVE():
 	def __init__(self,): 
 		self.name = "CONGESTIVE"
+		self.definitions = [u'involving or producing too much blood or other liquid in an organ: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

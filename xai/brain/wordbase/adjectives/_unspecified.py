@@ -4,11 +4,12 @@
 class _UNSPECIFIED():
 	def __init__(self,): 
 		self.name = "UNSPECIFIED"
+		self.definitions = [u'If something is unspecified, you are not told what it is: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

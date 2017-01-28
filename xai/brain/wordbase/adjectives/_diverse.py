@@ -4,11 +4,12 @@
 class _DIVERSE():
 	def __init__(self,): 
 		self.name = "DIVERSE"
+		self.definitions = [u'including many different types of people or things: ', u'very different from each other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

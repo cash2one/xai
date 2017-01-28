@@ -4,11 +4,12 @@
 class _LUMBERMAN():
 	def __init__(self,): 
 		self.name = "LUMBERMAN"
+		self.definitions = [u'a  lumberjack ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

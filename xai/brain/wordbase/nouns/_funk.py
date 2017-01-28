@@ -4,11 +4,12 @@
 class _FUNK():
 	def __init__(self,): 
 		self.name = "FUNK"
+		self.definitions = [u'a style of music, usually for dancing to, with a strong rhythm based on jazz and a tune that repeats: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

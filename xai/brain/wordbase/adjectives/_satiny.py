@@ -4,11 +4,12 @@
 class _SATINY():
 	def __init__(self,): 
 		self.name = "SATINY"
+		self.definitions = [u'smooth and soft']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

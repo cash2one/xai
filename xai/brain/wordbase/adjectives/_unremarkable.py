@@ -4,11 +4,12 @@
 class _UNREMARKABLE():
 	def __init__(self,): 
 		self.name = "UNREMARKABLE"
+		self.definitions = [u'ordinary and not interesting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

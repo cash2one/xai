@@ -4,11 +4,12 @@
 class _FLARED():
 	def __init__(self,): 
 		self.name = "FLARED"
+		self.definitions = [u'becoming wider at one end: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

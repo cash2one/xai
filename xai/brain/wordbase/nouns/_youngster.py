@@ -4,11 +4,12 @@
 class _YOUNGSTER():
 	def __init__(self,): 
 		self.name = "YOUNGSTER"
+		self.definitions = [u'a young person, usually an older child: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

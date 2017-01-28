@@ -4,11 +4,12 @@
 class _SHENANIGANS():
 	def __init__(self,): 
 		self.name = "SHENANIGANS"
+		self.definitions = [u'secret or dishonest activities, usually of a complicated and humorous or interesting type: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

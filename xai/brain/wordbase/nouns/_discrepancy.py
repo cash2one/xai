@@ -4,11 +4,12 @@
 class _DISCREPANCY():
 	def __init__(self,): 
 		self.name = "DISCREPANCY"
+		self.definitions = [u'a difference between two things that should be the same: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

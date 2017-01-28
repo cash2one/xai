@@ -4,11 +4,12 @@
 class _DUMBBELL():
 	def __init__(self,): 
 		self.name = "DUMBBELL"
+		self.definitions = [u'a short bar with a weight on each end that you lift up and down to make your arm and shoulder muscles stronger', u'a stupid or silly person']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

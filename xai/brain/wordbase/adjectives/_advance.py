@@ -4,11 +4,12 @@
 class _ADVANCE():
 	def __init__(self,): 
 		self.name = "ADVANCE"
+		self.definitions = [u'happening, done, or ready before an event: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

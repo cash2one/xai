@@ -4,11 +4,12 @@
 class _ENCRUSTED():
 	def __init__(self,): 
 		self.name = "ENCRUSTED"
+		self.definitions = [u'covered with something hard or decorative: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

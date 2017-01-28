@@ -4,11 +4,12 @@
 class _MONASTERY():
 	def __init__(self,): 
 		self.name = "MONASTERY"
+		self.definitions = [u'a building in which monks live and worship']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

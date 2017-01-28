@@ -4,11 +4,12 @@
 class _TIBIA():
 	def __init__(self,): 
 		self.name = "TIBIA"
+		self.definitions = [u'the large bone at the front of the lower leg']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

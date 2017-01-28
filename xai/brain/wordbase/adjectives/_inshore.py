@@ -4,11 +4,12 @@
 class _INSHORE():
 	def __init__(self,): 
 		self.name = "INSHORE"
+		self.definitions = [u'near or towards the coast: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

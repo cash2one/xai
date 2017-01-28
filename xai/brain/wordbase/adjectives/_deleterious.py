@@ -4,11 +4,12 @@
 class _DELETERIOUS():
 	def __init__(self,): 
 		self.name = "DELETERIOUS"
+		self.definitions = [u'harmful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

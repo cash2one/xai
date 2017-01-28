@@ -4,11 +4,12 @@
 class _FANATICAL():
 	def __init__(self,): 
 		self.name = "FANATICAL"
+		self.definitions = [u'extremely interested in something, to a degree that someone people find unreasonable: ', u'holding extreme beliefs that may lead to unreasonable or violent behaviour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

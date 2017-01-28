@@ -4,11 +4,12 @@
 class _INTERESTINGLY():
 	def __init__(self,): 
 		self.name = "INTERESTINGLY"
+		self.definitions = [u'used to introduce a piece of information that the speaker thinks is strange or interesting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

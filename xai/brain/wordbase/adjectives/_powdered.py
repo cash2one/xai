@@ -4,11 +4,12 @@
 class _POWDERED():
 	def __init__(self,): 
 		self.name = "POWDERED"
+		self.definitions = [u'in the form of a powder or covered with a powder: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

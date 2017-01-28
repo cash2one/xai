@@ -4,11 +4,12 @@
 class _ELABORATE():
 	def __init__(self,): 
 		self.name = "ELABORATE"
+		self.definitions = [u'containing a lot of careful detail or many detailed parts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

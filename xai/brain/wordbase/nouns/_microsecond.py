@@ -4,11 +4,12 @@
 class _MICROSECOND():
 	def __init__(self,): 
 		self.name = "MICROSECOND"
+		self.definitions = [u'one millionth of a second']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

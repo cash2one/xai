@@ -4,11 +4,12 @@
 class _VEEP():
 	def __init__(self,): 
 		self.name = "VEEP"
+		self.definitions = [u'a  vice president ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

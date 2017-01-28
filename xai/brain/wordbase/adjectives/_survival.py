@@ -4,11 +4,12 @@
 class _SURVIVAL():
 	def __init__(self,): 
 		self.name = "SURVIVAL"
+		self.definitions = [u'continuing to exist or wanting to continue to exist: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

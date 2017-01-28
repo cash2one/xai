@@ -4,11 +4,12 @@
 class _PHONEY():
 	def __init__(self,): 
 		self.name = "PHONEY"
+		self.definitions = [u'not sincere or not real: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MEMORIAL():
 	def __init__(self,): 
 		self.name = "MEMORIAL"
+		self.definitions = [u'done to remember a person or people who have died: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

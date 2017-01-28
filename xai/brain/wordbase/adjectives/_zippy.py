@@ -4,11 +4,12 @@
 class _ZIPPY():
 	def __init__(self,): 
 		self.name = "ZIPPY"
+		self.definitions = [u'energetic or fast: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

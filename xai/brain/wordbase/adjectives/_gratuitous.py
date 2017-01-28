@@ -4,11 +4,12 @@
 class _GRATUITOUS():
 	def __init__(self,): 
 		self.name = "GRATUITOUS"
+		self.definitions = [u'(of something such as bad behaviour) not necessary, or with no cause: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

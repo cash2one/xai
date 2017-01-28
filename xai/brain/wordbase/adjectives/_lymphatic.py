@@ -4,11 +4,12 @@
 class _LYMPHATIC():
 	def __init__(self,): 
 		self.name = "LYMPHATIC"
+		self.definitions = [u'relating to lymph (= a liquid that transports useful substances around the body and carries waste matter away from body tissue): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

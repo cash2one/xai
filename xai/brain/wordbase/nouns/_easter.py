@@ -4,11 +4,12 @@
 class _EASTER():
 	def __init__(self,): 
 		self.name = "EASTER"
+		self.definitions = [u"a Christian religious holiday to celebrate Jesus Christ's return to life after he was killed: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

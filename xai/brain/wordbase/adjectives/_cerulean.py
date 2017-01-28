@@ -4,11 +4,12 @@
 class _CERULEAN():
 	def __init__(self,): 
 		self.name = "CERULEAN"
+		self.definitions = [u'deep blue in colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

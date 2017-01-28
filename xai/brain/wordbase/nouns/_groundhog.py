@@ -4,11 +4,12 @@
 class _GROUNDHOG():
 	def __init__(self,): 
 		self.name = "GROUNDHOG"
+		self.definitions = [u'a  woodchuck ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

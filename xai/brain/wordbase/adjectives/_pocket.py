@@ -4,11 +4,12 @@
 class _POCKET():
 	def __init__(self,): 
 		self.name = "POCKET"
+		self.definitions = [u'used to describe something that is small enough to put in your pocket, or that you regularly carry in your pocket: ', u'smaller than usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

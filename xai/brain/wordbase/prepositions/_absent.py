@@ -4,11 +4,12 @@
 class _ABSENT():
 	def __init__(self,): 
 		self.name = "ABSENT"
+		self.definitions = [u'without: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

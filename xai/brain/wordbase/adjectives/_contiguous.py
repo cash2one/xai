@@ -4,11 +4,12 @@
 class _CONTIGUOUS():
 	def __init__(self,): 
 		self.name = "CONTIGUOUS"
+		self.definitions = [u'next to or touching another, usually similar, thing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

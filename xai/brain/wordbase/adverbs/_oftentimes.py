@@ -4,11 +4,12 @@
 class _OFTENTIMES():
 	def __init__(self,): 
 		self.name = "OFTENTIMES"
+		self.definitions = [u'on many occasions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

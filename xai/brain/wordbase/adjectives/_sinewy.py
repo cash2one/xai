@@ -4,11 +4,12 @@
 class _SINEWY():
 	def __init__(self,): 
 		self.name = "SINEWY"
+		self.definitions = [u'with strong muscles and little fat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

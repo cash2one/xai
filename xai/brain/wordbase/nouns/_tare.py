@@ -4,11 +4,12 @@
 class _TARE():
 	def __init__(self,): 
 		self.name = "TARE"
+		self.definitions = [u'the weight of a vehicle or container when empty']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

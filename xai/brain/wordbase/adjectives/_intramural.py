@@ -4,11 +4,12 @@
 class _INTRAMURAL():
 	def __init__(self,): 
 		self.name = "INTRAMURAL"
+		self.definitions = [u'happening within or involving the members of one school, college, or university: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

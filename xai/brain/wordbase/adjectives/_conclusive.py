@@ -4,11 +4,12 @@
 class _CONCLUSIVE():
 	def __init__(self,): 
 		self.name = "CONCLUSIVE"
+		self.definitions = [u'proving that something is true, or ending any doubt: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

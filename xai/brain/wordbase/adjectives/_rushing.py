@@ -4,11 +4,12 @@
 class _RUSHING():
 	def __init__(self,): 
 		self.name = "RUSHING"
+		self.definitions = [u'moving quickly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

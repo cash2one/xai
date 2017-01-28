@@ -4,11 +4,12 @@
 class _JOLLIES():
 	def __init__(self,): 
 		self.name = "JOLLIES"
+		self.definitions = [u'to get enjoyment from something, especially something unpleasant']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

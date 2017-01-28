@@ -4,11 +4,12 @@
 class _FOOTHILL():
 	def __init__(self,): 
 		self.name = "FOOTHILL"
+		self.definitions = [u'a low mountain or low hill at the bottom of a larger mountain or range of mountains: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

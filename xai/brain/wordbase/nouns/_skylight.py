@@ -4,11 +4,12 @@
 class _SKYLIGHT():
 	def __init__(self,): 
 		self.name = "SKYLIGHT"
+		self.definitions = [u'a window built into a roof to allow light in: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

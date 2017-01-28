@@ -4,11 +4,12 @@
 class _TRANSIENT():
 	def __init__(self,): 
 		self.name = "TRANSIENT"
+		self.definitions = [u'someone who lives only temporarily in a place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

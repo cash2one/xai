@@ -4,11 +4,12 @@
 class _ABSTRUSE():
 	def __init__(self,): 
 		self.name = "ABSTRUSE"
+		self.definitions = [u'difficult to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

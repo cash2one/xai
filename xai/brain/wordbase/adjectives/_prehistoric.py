@@ -4,11 +4,12 @@
 class _PREHISTORIC():
 	def __init__(self,): 
 		self.name = "PREHISTORIC"
+		self.definitions = [u'describing the period before there were written records: ', u'very old-fashioned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _NURSING():
 	def __init__(self,): 
 		self.name = "NURSING"
+		self.definitions = [u'A nursing mother is a woman who is feeding her baby with her own breast milk: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

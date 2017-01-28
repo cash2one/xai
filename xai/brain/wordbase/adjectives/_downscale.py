@@ -4,11 +4,12 @@
 class _DOWNSCALE():
 	def __init__(self,): 
 		self.name = "DOWNSCALE"
+		self.definitions = [u'low in quality and cheap in price; relating to or intended for people who are poor or not educated: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

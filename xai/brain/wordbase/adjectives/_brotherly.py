@@ -4,11 +4,12 @@
 class _BROTHERLY():
 	def __init__(self,): 
 		self.name = "BROTHERLY"
+		self.definitions = [u'showing the kindness, interest, or love that you would expect a brother to show: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

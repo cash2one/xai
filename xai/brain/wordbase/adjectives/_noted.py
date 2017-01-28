@@ -4,11 +4,12 @@
 class _NOTED():
 	def __init__(self,): 
 		self.name = "NOTED"
+		self.definitions = [u'known by many people, especially because of particular qualities: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

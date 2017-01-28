@@ -4,11 +4,12 @@
 class _MOONLIGHT():
 	def __init__(self,): 
 		self.name = "MOONLIGHT"
+		self.definitions = [u'the pale light of the moon: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

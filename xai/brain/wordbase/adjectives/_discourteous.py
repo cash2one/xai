@@ -4,11 +4,12 @@
 class _DISCOURTEOUS():
 	def __init__(self,): 
 		self.name = "DISCOURTEOUS"
+		self.definitions = [u"rude and not considering other people's feelings: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

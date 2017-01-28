@@ -4,11 +4,12 @@
 class _SWEATY():
 	def __init__(self,): 
 		self.name = "SWEATY"
+		self.definitions = [u'covered in sweat or smelling of sweat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -231,7 +231,7 @@ class Sent():
         # adje
         jsondata = {}
         for word in self.words:
-            # print(self.word_class[word])
+            print(self.word_class[word])
             index = self.words.index(word)
             obj1 = ['']
             obj1.append(self.words[index - 1:index])

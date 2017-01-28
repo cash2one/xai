@@ -4,11 +4,12 @@
 class _SCATOLOGICAL():
 	def __init__(self,): 
 		self.name = "SCATOLOGICAL"
+		self.definitions = [u'relating to solid human waste: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

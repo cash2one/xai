@@ -4,11 +4,12 @@
 class _MISSIVE():
 	def __init__(self,): 
 		self.name = "MISSIVE"
+		self.definitions = [u'an official, formal, or long letter: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

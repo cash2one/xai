@@ -4,11 +4,12 @@
 class _NERVOUSLY():
 	def __init__(self,): 
 		self.name = "NERVOUSLY"
+		self.definitions = [u'feeling or showing that you are worried and anxious: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

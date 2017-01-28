@@ -4,11 +4,12 @@
 class _STYGIAN():
 	def __init__(self,): 
 		self.name = "STYGIAN"
+		self.definitions = [u'extremely and unpleasantly dark: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

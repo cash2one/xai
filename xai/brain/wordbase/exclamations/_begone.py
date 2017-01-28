@@ -4,11 +4,12 @@
 class _BEGONE():
 	def __init__(self,): 
 		self.name = "BEGONE"
+		self.definitions = [u'go away: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

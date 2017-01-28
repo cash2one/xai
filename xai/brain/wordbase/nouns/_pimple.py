@@ -4,11 +4,12 @@
 class _PIMPLE():
 	def __init__(self,): 
 		self.name = "PIMPLE"
+		self.definitions = [u'a small raised spot on the skin that is temporary']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

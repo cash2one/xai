@@ -4,11 +4,12 @@
 class _FINDER():
 	def __init__(self,): 
 		self.name = "FINDER"
+		self.definitions = [u'someone who finds something']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

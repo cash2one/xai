@@ -4,11 +4,12 @@
 class _UNDERNOURISHED():
 	def __init__(self,): 
 		self.name = "UNDERNOURISHED"
+		self.definitions = [u'not eating enough food to continue to be in good health: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

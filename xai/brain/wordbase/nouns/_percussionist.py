@@ -4,11 +4,12 @@
 class _PERCUSSIONIST():
 	def __init__(self,): 
 		self.name = "PERCUSSIONIST"
+		self.definitions = [u'a person who plays percussion instruments']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

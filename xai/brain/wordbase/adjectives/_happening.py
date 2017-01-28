@@ -4,11 +4,12 @@
 class _HAPPENING():
 	def __init__(self,): 
 		self.name = "HAPPENING"
+		self.definitions = [u'A happening place is extremely fashionable and exciting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

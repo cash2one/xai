@@ -4,11 +4,12 @@
 class _BABYISH():
 	def __init__(self,): 
 		self.name = "BABYISH"
+		self.definitions = [u'only suitable for a baby: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

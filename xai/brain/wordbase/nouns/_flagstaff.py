@@ -4,11 +4,12 @@
 class _FLAGSTAFF():
 	def __init__(self,): 
 		self.name = "FLAGSTAFF"
+		self.definitions = [u'a  flagpole ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

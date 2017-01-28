@@ -4,11 +4,12 @@
 class _STERLING():
 	def __init__(self,): 
 		self.name = "STERLING"
+		self.definitions = [u'(of precious metal, especially silver) of a particular standard of purity: ', u'of a very high standard: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

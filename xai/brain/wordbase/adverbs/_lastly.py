@@ -4,11 +4,12 @@
 class _LASTLY():
 	def __init__(self,): 
 		self.name = "LASTLY"
+		self.definitions = [u'used to show when something comes after all the other things in a list: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

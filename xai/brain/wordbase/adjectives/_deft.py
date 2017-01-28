@@ -4,11 +4,12 @@
 class _DEFT():
 	def __init__(self,): 
 		self.name = "DEFT"
+		self.definitions = [u'skilful, clever, or quick: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

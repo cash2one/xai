@@ -4,11 +4,12 @@
 class _HAWSER():
 	def __init__(self,): 
 		self.name = "HAWSER"
+		self.definitions = [u'a strong, thick rope, often made of steel']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

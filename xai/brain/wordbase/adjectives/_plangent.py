@@ -4,11 +4,12 @@
 class _PLANGENT():
 	def __init__(self,): 
 		self.name = "PLANGENT"
+		self.definitions = [u'(of sounds) deep, low, and expressing sadness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

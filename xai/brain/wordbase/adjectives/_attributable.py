@@ -4,11 +4,12 @@
 class _ATTRIBUTABLE():
 	def __init__(self,): 
 		self.name = "ATTRIBUTABLE"
+		self.definitions = [u'caused by: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

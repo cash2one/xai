@@ -4,11 +4,12 @@
 class _SAVAGE():
 	def __init__(self,): 
 		self.name = "SAVAGE"
+		self.definitions = [u'extremely violent, wild, or frightening: ', u'very serious or cruel: ', u'very large and severe: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

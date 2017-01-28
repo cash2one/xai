@@ -4,11 +4,12 @@
 class _ROTTEN():
 	def __init__(self,): 
 		self.name = "ROTTEN"
+		self.definitions = [u'decayed: ', u'very bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

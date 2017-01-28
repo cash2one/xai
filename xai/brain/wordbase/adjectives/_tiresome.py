@@ -4,11 +4,12 @@
 class _TIRESOME():
 	def __init__(self,): 
 		self.name = "TIRESOME"
+		self.definitions = [u'annoying and making you lose patience: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

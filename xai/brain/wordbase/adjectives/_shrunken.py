@@ -4,11 +4,12 @@
 class _SHRUNKEN():
 	def __init__(self,): 
 		self.name = "SHRUNKEN"
+		self.definitions = [u'smaller than before, and less important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

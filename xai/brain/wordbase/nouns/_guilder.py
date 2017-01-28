@@ -4,11 +4,12 @@
 class _GUILDER():
 	def __init__(self,): 
 		self.name = "GUILDER"
+		self.definitions = [u'the standard unit of money used in the Netherlands before the introduction of the euro']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _HASTE():
 	def __init__(self,): 
 		self.name = "HASTE"
+		self.definitions = [u'(too much) speed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

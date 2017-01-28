@@ -4,11 +4,12 @@
 class _PERIODICALLY():
 	def __init__(self,): 
 		self.name = "PERIODICALLY"
+		self.definitions = [u'in a way that is repeated after a particular period of time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

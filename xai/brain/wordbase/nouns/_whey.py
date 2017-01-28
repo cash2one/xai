@@ -4,11 +4,12 @@
 class _WHEY():
 	def __init__(self,): 
 		self.name = "WHEY"
+		self.definitions = [u'the liquid part of milk that is separated from the solid curds during the process of making cheese']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

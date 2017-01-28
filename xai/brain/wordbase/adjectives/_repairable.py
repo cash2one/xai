@@ -4,11 +4,12 @@
 class _REPAIRABLE():
 	def __init__(self,): 
 		self.name = "REPAIRABLE"
+		self.definitions = [u'able to be repaired']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

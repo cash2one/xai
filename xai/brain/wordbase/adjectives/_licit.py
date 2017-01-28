@@ -4,11 +4,12 @@
 class _LICIT():
 	def __init__(self,): 
 		self.name = "LICIT"
+		self.definitions = [u'allowed by law: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ENERGETIC():
 	def __init__(self,): 
 		self.name = "ENERGETIC"
+		self.definitions = [u'having or involving a lot of energy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

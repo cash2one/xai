@@ -4,11 +4,12 @@
 class _CASUISTRY():
 	def __init__(self,): 
 		self.name = "CASUISTRY"
+		self.definitions = [u'the use of clever arguments to trick people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

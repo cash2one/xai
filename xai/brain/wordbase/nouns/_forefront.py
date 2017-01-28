@@ -4,11 +4,12 @@
 class _FOREFRONT():
 	def __init__(self,): 
 		self.name = "FOREFRONT"
+		self.definitions = [u'the most noticeable or important position: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PORTMANTEAU():
 	def __init__(self,): 
 		self.name = "PORTMANTEAU"
+		self.definitions = [u'consisting of a wide range of things that are considered as a single thing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

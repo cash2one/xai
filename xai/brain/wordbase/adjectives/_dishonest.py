@@ -4,11 +4,12 @@
 class _DISHONEST():
 	def __init__(self,): 
 		self.name = "DISHONEST"
+		self.definitions = [u'not honest: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

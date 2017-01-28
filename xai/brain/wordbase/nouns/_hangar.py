@@ -4,11 +4,12 @@
 class _HANGAR():
 	def __init__(self,): 
 		self.name = "HANGAR"
+		self.definitions = [u'a large building in which aircraft are kept']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

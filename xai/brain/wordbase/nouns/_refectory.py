@@ -4,11 +4,12 @@
 class _REFECTORY():
 	def __init__(self,): 
 		self.name = "REFECTORY"
+		self.definitions = [u'a large room in a monastery, college, school, etc. where meals are eaten']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

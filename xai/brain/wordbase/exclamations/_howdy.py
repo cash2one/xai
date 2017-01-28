@@ -4,11 +4,12 @@
 class _HOWDY():
 	def __init__(self,): 
 		self.name = "HOWDY"
+		self.definitions = [u'hello']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

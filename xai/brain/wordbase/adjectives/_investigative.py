@@ -4,11 +4,12 @@
 class _INVESTIGATIVE():
 	def __init__(self,): 
 		self.name = "INVESTIGATIVE"
+		self.definitions = [u'intended to examine a situation in order to discover the truth: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

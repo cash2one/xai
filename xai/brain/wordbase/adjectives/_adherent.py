@@ -4,11 +4,12 @@
 class _ADHERENT():
 	def __init__(self,): 
 		self.name = "ADHERENT"
+		self.definitions = [u'sticky: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

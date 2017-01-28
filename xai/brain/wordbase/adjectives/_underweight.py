@@ -4,11 +4,12 @@
 class _UNDERWEIGHT():
 	def __init__(self,): 
 		self.name = "UNDERWEIGHT"
+		self.definitions = [u'Underweight people weigh too little and are too thin: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

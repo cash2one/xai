@@ -4,11 +4,12 @@
 class _CORNY():
 	def __init__(self,): 
 		self.name = "CORNY"
+		self.definitions = [u'(especially of jokes, films, stories, etc.) showing no new ideas or too often repeated, and therefore not funny or interesting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

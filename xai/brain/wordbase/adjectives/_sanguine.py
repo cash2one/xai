@@ -4,11 +4,12 @@
 class _SANGUINE():
 	def __init__(self,): 
 		self.name = "SANGUINE"
+		self.definitions = [u"(of someone or someone's character) positive and hoping for good things: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

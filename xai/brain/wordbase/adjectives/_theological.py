@@ -4,11 +4,12 @@
 class _THEOLOGICAL():
 	def __init__(self,): 
 		self.name = "THEOLOGICAL"
+		self.definitions = [u'relating to the study of religion and religious belief: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

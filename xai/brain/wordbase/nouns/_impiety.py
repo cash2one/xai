@@ -4,11 +4,12 @@
 class _IMPIETY():
 	def __init__(self,): 
 		self.name = "IMPIETY"
+		self.definitions = [u'a lack of respect, especially for God or religion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

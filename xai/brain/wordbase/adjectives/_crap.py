@@ -4,11 +4,12 @@
 class _CRAP():
 	def __init__(self,): 
 		self.name = "CRAP"
+		self.definitions = [u'of very bad quality: ', u'not skilled or not organized: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

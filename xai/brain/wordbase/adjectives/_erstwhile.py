@@ -4,11 +4,12 @@
 class _ERSTWHILE():
 	def __init__(self,): 
 		self.name = "ERSTWHILE"
+		self.definitions = [u'previous']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

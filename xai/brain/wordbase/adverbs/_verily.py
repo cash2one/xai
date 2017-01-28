@@ -4,11 +4,12 @@
 class _VERILY():
 	def __init__(self,): 
 		self.name = "VERILY"
+		self.definitions = [u'in a completely honest way']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

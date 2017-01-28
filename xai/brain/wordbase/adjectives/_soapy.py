@@ -4,11 +4,12 @@
 class _SOAPY():
 	def __init__(self,): 
 		self.name = "SOAPY"
+		self.definitions = [u'containing or like soap: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

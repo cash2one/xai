@@ -4,11 +4,12 @@
 class _ENTICING():
 	def __init__(self,): 
 		self.name = "ENTICING"
+		self.definitions = [u'Something that is enticing attracts you to it by offering you advantages or pleasure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

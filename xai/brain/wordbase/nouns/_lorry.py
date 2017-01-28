@@ -4,11 +4,12 @@
 class _LORRY():
 	def __init__(self,): 
 		self.name = "LORRY"
+		self.definitions = [u'a  truck noun : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

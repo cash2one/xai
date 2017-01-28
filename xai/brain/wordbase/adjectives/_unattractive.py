@@ -4,11 +4,12 @@
 class _UNATTRACTIVE():
 	def __init__(self,): 
 		self.name = "UNATTRACTIVE"
+		self.definitions = [u'unpleasant to look at: ', u'lacking good or positive features: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

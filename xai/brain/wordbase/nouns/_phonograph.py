@@ -4,11 +4,12 @@
 class _PHONOGRAPH():
 	def __init__(self,): 
 		self.name = "PHONOGRAPH"
+		self.definitions = [u'old use for  record player ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

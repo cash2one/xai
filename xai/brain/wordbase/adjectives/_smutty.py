@@ -4,11 +4,12 @@
 class _SMUTTY():
 	def __init__(self,): 
 		self.name = "SMUTTY"
+		self.definitions = [u'related to or containing smut: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

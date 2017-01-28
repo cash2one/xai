@@ -4,11 +4,12 @@
 class _IGNOMINY():
 	def __init__(self,): 
 		self.name = "IGNOMINY"
+		self.definitions = [u'public embarrassment: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _BI():
 	def __init__(self,): 
 		self.name = "BI"
+		self.definitions = [u'abbreviation for  bisexual : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

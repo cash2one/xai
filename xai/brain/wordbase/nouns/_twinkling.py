@@ -4,11 +4,12 @@
 class _TWINKLING():
 	def __init__(self,): 
 		self.name = "TWINKLING"
+		self.definitions = [u'a very short time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

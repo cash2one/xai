@@ -4,11 +4,12 @@
 class _PRESENTER():
 	def __init__(self,): 
 		self.name = "PRESENTER"
+		self.definitions = [u'someone who introduces a television or radio show: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

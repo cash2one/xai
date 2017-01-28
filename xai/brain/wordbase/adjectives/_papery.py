@@ -4,11 +4,12 @@
 class _PAPERY():
 	def __init__(self,): 
 		self.name = "PAPERY"
+		self.definitions = [u'thin and dry like paper: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

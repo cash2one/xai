@@ -4,11 +4,12 @@
 class _LUXEMBOURGER():
 	def __init__(self,): 
 		self.name = "LUXEMBOURGER"
+		self.definitions = [u'a person from Luxembourg']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

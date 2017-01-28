@@ -4,11 +4,12 @@
 class _WORRIER():
 	def __init__(self,): 
 		self.name = "WORRIER"
+		self.definitions = [u'someone who worries a lot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

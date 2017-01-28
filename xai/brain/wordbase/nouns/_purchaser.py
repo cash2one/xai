@@ -4,11 +4,12 @@
 class _PURCHASER():
 	def __init__(self,): 
 		self.name = "PURCHASER"
+		self.definitions = [u'the person who buys something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

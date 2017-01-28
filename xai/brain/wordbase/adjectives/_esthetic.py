@@ -4,11 +4,12 @@
 class _ESTHETIC():
 	def __init__(self,): 
 		self.name = "ESTHETIC"
+		self.definitions = [u'US spelling of  aesthetic ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

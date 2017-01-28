@@ -4,11 +4,12 @@
 class _MUTUALLY():
 	def __init__(self,): 
 		self.name = "MUTUALLY"
+		self.definitions = [u'felt or done by two or more people or groups in the same way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

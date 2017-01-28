@@ -4,11 +4,12 @@
 class _LITTLE():
 	def __init__(self,): 
 		self.name = "LITTLE"
+		self.definitions = [u'slightly: ', u'slowly or gradually: ', u'not much: ', u'not much more or better: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

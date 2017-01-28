@@ -4,11 +4,12 @@
 class _BOTHERSOME():
 	def __init__(self,): 
 		self.name = "BOTHERSOME"
+		self.definitions = [u'annoying or causing trouble: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

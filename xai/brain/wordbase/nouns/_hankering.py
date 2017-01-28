@@ -4,11 +4,12 @@
 class _HANKERING():
 	def __init__(self,): 
 		self.name = "HANKERING"
+		self.definitions = [u'a strong wish: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

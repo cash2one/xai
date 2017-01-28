@@ -4,11 +4,12 @@
 class _CLOSING():
 	def __init__(self,): 
 		self.name = "CLOSING"
+		self.definitions = [u'coming near the end of a speech, event, activity, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

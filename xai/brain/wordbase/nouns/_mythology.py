@@ -4,11 +4,12 @@
 class _MYTHOLOGY():
 	def __init__(self,): 
 		self.name = "MYTHOLOGY"
+		self.definitions = [u'myths in general: ', u'a popular belief that is probably not true: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

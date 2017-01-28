@@ -4,11 +4,12 @@
 class _SUBTLETY():
 	def __init__(self,): 
 		self.name = "SUBTLETY"
+		self.definitions = [u'the quality of being subtle: ', u'a small but important detail: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

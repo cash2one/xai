@@ -4,11 +4,12 @@
 class _OUTWARD():
 	def __init__(self,): 
 		self.name = "OUTWARD"
+		self.definitions = [u'\u2192\xa0 outwards ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

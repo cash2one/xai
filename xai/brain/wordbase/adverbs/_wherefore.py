@@ -4,11 +4,12 @@
 class _WHEREFORE():
 	def __init__(self,): 
 		self.name = "WHEREFORE"
+		self.definitions = [u'for what reason; why: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

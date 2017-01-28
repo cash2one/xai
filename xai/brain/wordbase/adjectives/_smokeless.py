@@ -4,11 +4,12 @@
 class _SMOKELESS():
 	def __init__(self,): 
 		self.name = "SMOKELESS"
+		self.definitions = [u'not causing or allowing smoke: ', u'tobacco that is chewed or put in the mouth']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

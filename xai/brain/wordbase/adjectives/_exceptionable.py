@@ -4,11 +4,12 @@
 class _EXCEPTIONABLE():
 	def __init__(self,): 
 		self.name = "EXCEPTIONABLE"
+		self.definitions = [u'offensive or upsetting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PEACEABLE():
 	def __init__(self,): 
 		self.name = "PEACEABLE"
+		self.definitions = [u'without violence; peaceful: ', u'avoiding arguments: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

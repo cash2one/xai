@@ -4,11 +4,12 @@
 class _STATESIDE():
 	def __init__(self,): 
 		self.name = "STATESIDE"
+		self.definitions = [u'related to the US; in or towards the US: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

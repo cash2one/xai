@@ -4,11 +4,12 @@
 class _REFUSAL():
 	def __init__(self,): 
 		self.name = "REFUSAL"
+		self.definitions = [u'the act of refusing to do or accept something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

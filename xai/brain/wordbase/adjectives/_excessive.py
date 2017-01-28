@@ -4,11 +4,12 @@
 class _EXCESSIVE():
 	def __init__(self,): 
 		self.name = "EXCESSIVE"
+		self.definitions = [u'too much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

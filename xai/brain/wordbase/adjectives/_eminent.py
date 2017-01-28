@@ -4,11 +4,12 @@
 class _EMINENT():
 	def __init__(self,): 
 		self.name = "EMINENT"
+		self.definitions = [u'famous, respected, or important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

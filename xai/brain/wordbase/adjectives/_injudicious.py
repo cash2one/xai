@@ -4,11 +4,12 @@
 class _INJUDICIOUS():
 	def __init__(self,): 
 		self.name = "INJUDICIOUS"
+		self.definitions = [u'showing bad judgment: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

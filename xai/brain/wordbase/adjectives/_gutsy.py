@@ -4,11 +4,12 @@
 class _GUTSY():
 	def __init__(self,): 
 		self.name = "GUTSY"
+		self.definitions = [u'brave and determined: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

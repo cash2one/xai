@@ -4,11 +4,12 @@
 class _GOGGLES():
 	def __init__(self,): 
 		self.name = "GOGGLES"
+		self.definitions = [u'special glasses that fit close to the face to protect the eyes from chemicals, wind, water, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

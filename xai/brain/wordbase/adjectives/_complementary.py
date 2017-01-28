@@ -4,11 +4,12 @@
 class _COMPLEMENTARY():
 	def __init__(self,): 
 		self.name = "COMPLEMENTARY"
+		self.definitions = [u'useful or attractive together: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DECORATIVE():
 	def __init__(self,): 
 		self.name = "DECORATIVE"
+		self.definitions = [u'made to look attractive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

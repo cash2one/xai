@@ -4,11 +4,12 @@
 class _UNCOMMON():
 	def __init__(self,): 
 		self.name = "UNCOMMON"
+		self.definitions = [u'not seen, happening, or experienced often: ', u'An uncommon quality, especially a human quality, is larger in amount or degree than usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

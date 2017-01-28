@@ -4,11 +4,12 @@
 class _FAMISHED():
 	def __init__(self,): 
 		self.name = "FAMISHED"
+		self.definitions = [u'extremely hungry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

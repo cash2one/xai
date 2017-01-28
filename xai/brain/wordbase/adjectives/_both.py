@@ -4,11 +4,12 @@
 class _BOTH():
 	def __init__(self,): 
 		self.name = "BOTH"
+		self.definitions = [u'(referring to) two people or things together: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

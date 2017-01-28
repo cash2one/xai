@@ -4,11 +4,12 @@
 class _BRANDED():
 	def __init__(self,): 
 		self.name = "BRANDED"
+		self.definitions = [u'made by a particular company and sold under a particular name: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

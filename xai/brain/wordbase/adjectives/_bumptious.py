@@ -4,11 +4,12 @@
 class _BUMPTIOUS():
 	def __init__(self,): 
 		self.name = "BUMPTIOUS"
+		self.definitions = [u'unpleasantly confident: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

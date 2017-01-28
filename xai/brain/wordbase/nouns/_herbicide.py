@@ -4,11 +4,12 @@
 class _HERBICIDE():
 	def __init__(self,): 
 		self.name = "HERBICIDE"
+		self.definitions = [u'a chemical that is used to destroy plants, especially weeds']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

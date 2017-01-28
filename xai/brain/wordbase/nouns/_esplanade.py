@@ -4,11 +4,12 @@
 class _ESPLANADE():
 	def __init__(self,): 
 		self.name = "ESPLANADE"
+		self.definitions = [u'a wide level path, especially one by the sea']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

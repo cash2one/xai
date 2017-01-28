@@ -4,11 +4,12 @@
 class _INDISCRETION():
 	def __init__(self,): 
 		self.name = "INDISCRETION"
+		self.definitions = [u'the quality of being indiscreet: ', u'something, especially a sexual relationship, that is considered embarrassing or morally wrong: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

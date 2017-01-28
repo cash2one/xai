@@ -4,11 +4,12 @@
 class _DOOMED():
 	def __init__(self,): 
 		self.name = "DOOMED"
+		self.definitions = [u'certain to fail, die, or be destroyed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

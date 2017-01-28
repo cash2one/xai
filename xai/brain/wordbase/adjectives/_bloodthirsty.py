@@ -4,11 +4,12 @@
 class _BLOODTHIRSTY():
 	def __init__(self,): 
 		self.name = "BLOODTHIRSTY"
+		self.definitions = [u'eager to see or take part in violence and killing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

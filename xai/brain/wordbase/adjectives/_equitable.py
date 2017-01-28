@@ -4,11 +4,12 @@
 class _EQUITABLE():
 	def __init__(self,): 
 		self.name = "EQUITABLE"
+		self.definitions = [u'treating everyone fairly and in the same way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

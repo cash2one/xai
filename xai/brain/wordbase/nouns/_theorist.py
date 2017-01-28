@@ -4,11 +4,12 @@
 class _THEORIST():
 	def __init__(self,): 
 		self.name = "THEORIST"
+		self.definitions = [u'someone who develops ideas about the explanation for events: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _GLUTINOUS():
 	def __init__(self,): 
 		self.name = "GLUTINOUS"
+		self.definitions = [u'sticky: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

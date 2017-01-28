@@ -4,11 +4,12 @@
 class _IMAGINATIVE():
 	def __init__(self,): 
 		self.name = "IMAGINATIVE"
+		self.definitions = [u'new, original, and clever: ', u'good at thinking of new, original, and clever ideas: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

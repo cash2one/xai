@@ -4,11 +4,12 @@
 class _ENORMOUSLY():
 	def __init__(self,): 
 		self.name = "ENORMOUSLY"
+		self.definitions = [u'extremely or very much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

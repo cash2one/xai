@@ -4,11 +4,12 @@
 class _INSULT():
 	def __init__(self,): 
 		self.name = "INSULT"
+		self.definitions = [u'an offensive remark or action: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

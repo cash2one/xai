@@ -4,11 +4,12 @@
 class _UNSOLVED():
 	def __init__(self,): 
 		self.name = "UNSOLVED"
+		self.definitions = [u'that has not been solved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

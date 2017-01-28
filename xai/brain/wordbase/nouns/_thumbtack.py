@@ -4,11 +4,12 @@
 class _THUMBTACK():
 	def __init__(self,): 
 		self.name = "THUMBTACK"
+		self.definitions = [u'a short, sharp pin with a flat, round top, used especially for putting up notices']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

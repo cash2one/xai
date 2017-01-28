@@ -4,11 +4,12 @@
 class _SLAVONIC():
 	def __init__(self,): 
 		self.name = "SLAVONIC"
+		self.definitions = [u'of or relating to Russia, Poland, Bulgaria, and other countries of central and eastern Europe: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

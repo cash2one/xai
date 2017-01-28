@@ -4,11 +4,12 @@
 class _WHEN():
 	def __init__(self,): 
 		self.name = "WHEN"
+		self.definitions = [u'at what time; at the time at which: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _MONUMENTAL():
 	def __init__(self,): 
 		self.name = "MONUMENTAL"
+		self.definitions = [u'very big: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

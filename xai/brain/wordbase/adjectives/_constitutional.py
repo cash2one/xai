@@ -4,11 +4,12 @@
 class _CONSTITUTIONAL():
 	def __init__(self,): 
 		self.name = "CONSTITUTIONAL"
+		self.definitions = [u'allowed by or contained in a constitution: ', u"relating to someone's general state of health: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

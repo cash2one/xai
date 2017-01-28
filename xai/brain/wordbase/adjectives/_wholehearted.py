@@ -4,11 +4,12 @@
 class _WHOLEHEARTED():
 	def __init__(self,): 
 		self.name = "WHOLEHEARTED"
+		self.definitions = [u'completely enthusiastic: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

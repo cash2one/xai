@@ -4,11 +4,12 @@
 class _COOKOUT():
 	def __init__(self,): 
 		self.name = "COOKOUT"
+		self.definitions = [u'a party at which food is cooked outdoors']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

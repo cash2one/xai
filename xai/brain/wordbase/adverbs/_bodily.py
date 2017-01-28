@@ -4,11 +4,12 @@
 class _BODILY():
 	def __init__(self,): 
 		self.name = "BODILY"
+		self.definitions = [u'If you lift or carry someone bodily, you lift or carry them in your arms: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

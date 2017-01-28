@@ -4,11 +4,12 @@
 class _ZEPHYR():
 	def __init__(self,): 
 		self.name = "ZEPHYR"
+		self.definitions = [u'a light wind']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

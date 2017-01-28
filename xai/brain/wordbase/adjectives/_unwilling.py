@@ -4,11 +4,12 @@
 class _UNWILLING():
 	def __init__(self,): 
 		self.name = "UNWILLING"
+		self.definitions = [u'not willing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

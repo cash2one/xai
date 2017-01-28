@@ -4,11 +4,12 @@
 class _SOILED():
 	def __init__(self,): 
 		self.name = "SOILED"
+		self.definitions = [u'dirty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

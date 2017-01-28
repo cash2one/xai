@@ -4,11 +4,12 @@
 class _FACELESS():
 	def __init__(self,): 
 		self.name = "FACELESS"
+		self.definitions = [u'having no clear characteristics and therefore not interesting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CHRISTIAN():
 	def __init__(self,): 
 		self.name = "CHRISTIAN"
+		self.definitions = [u'someone who believes in and follows the teachings of Jesus Christ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

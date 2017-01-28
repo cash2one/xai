@@ -4,11 +4,12 @@
 class _URBAN():
 	def __init__(self,): 
 		self.name = "URBAN"
+		self.definitions = [u'of or in a city or town: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

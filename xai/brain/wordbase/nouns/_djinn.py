@@ -4,11 +4,12 @@
 class _DJINN():
 	def __init__(self,): 
 		self.name = "DJINN"
+		self.definitions = [u'a  jinn ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

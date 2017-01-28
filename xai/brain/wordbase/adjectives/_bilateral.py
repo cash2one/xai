@@ -4,11 +4,12 @@
 class _BILATERAL():
 	def __init__(self,): 
 		self.name = "BILATERAL"
+		self.definitions = [u'involving two groups or countries: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

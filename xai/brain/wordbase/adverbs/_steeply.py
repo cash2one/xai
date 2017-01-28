@@ -4,11 +4,12 @@
 class _STEEPLY():
 	def __init__(self,): 
 		self.name = "STEEPLY"
+		self.definitions = [u'suddenly or by a large amount: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

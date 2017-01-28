@@ -4,11 +4,12 @@
 class _INTELLIGENT():
 	def __init__(self,): 
 		self.name = "INTELLIGENT"
+		self.definitions = [u'showing intelligence, or able to learn and understand things easily: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

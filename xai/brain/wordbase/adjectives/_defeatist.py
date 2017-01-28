@@ -4,11 +4,12 @@
 class _DEFEATIST():
 	def __init__(self,): 
 		self.name = "DEFEATIST"
+		self.definitions = [u'having no hope and expecting to fail: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

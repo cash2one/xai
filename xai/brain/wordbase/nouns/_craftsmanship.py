@@ -4,11 +4,12 @@
 class _CRAFTSMANSHIP():
 	def __init__(self,): 
 		self.name = "CRAFTSMANSHIP"
+		self.definitions = [u'skill at making things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

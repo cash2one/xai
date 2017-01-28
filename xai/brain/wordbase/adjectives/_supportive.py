@@ -4,11 +4,12 @@
 class _SUPPORTIVE():
 	def __init__(self,): 
 		self.name = "SUPPORTIVE"
+		self.definitions = [u'showing agreement and giving encouragement: ', u'giving help and encouragement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

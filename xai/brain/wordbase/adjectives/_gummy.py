@@ -4,11 +4,12 @@
 class _GUMMY():
 	def __init__(self,): 
 		self.name = "GUMMY"
+		self.definitions = [u'showing the gums: ', u'gummed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

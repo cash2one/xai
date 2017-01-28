@@ -4,11 +4,12 @@
 class _INTERMINABLE():
 	def __init__(self,): 
 		self.name = "INTERMINABLE"
+		self.definitions = [u'continuing for too long and therefore boring or annoying: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

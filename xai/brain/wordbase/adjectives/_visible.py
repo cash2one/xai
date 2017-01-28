@@ -4,11 +4,12 @@
 class _VISIBLE():
 	def __init__(self,): 
 		self.name = "VISIBLE"
+		self.definitions = [u'able to be seen: ', u'able or likely to attract public attention and be noticed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

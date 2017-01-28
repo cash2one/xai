@@ -4,11 +4,12 @@
 class _FOOLISH():
 	def __init__(self,): 
 		self.name = "FOOLISH"
+		self.definitions = [u'unwise, stupid, or not showing good judgment: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

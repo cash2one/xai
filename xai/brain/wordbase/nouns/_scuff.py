@@ -4,11 +4,12 @@
 class _SCUFF():
 	def __init__(self,): 
 		self.name = "SCUFF"
+		self.definitions = [u'a rough mark made on a smooth surface, especially on a shoe or floor: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

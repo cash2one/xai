@@ -4,11 +4,12 @@
 class _CHINOS():
 	def __init__(self,): 
 		self.name = "CHINOS"
+		self.definitions = [u'loose cotton trousers, usually of a light brown colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

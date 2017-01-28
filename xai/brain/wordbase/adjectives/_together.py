@@ -4,11 +4,12 @@
 class _TOGETHER():
 	def __init__(self,): 
 		self.name = "TOGETHER"
+		self.definitions = [u'organized, confident of your abilities, and able to use them to achieve what you want: ', u'to get something organized: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

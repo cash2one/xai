@@ -4,11 +4,12 @@
 class _BALANCED():
 	def __init__(self,): 
 		self.name = "BALANCED"
+		self.definitions = [u'considering all sides or opinions equally: ', u'containing an equal amount or number of similar things or people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DICKY():
 	def __init__(self,): 
 		self.name = "DICKY"
+		self.definitions = [u'weak, especially in health, and likely to fail or suffer from problems: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

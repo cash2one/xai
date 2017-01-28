@@ -4,11 +4,12 @@
 class _HIGHBROW():
 	def __init__(self,): 
 		self.name = "HIGHBROW"
+		self.definitions = [u'(of books, plays, etc.) involving serious and complicated or artistic ideas, or (of people) interested in serious and complicated subjects']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

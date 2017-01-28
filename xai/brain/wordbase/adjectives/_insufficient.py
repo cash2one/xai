@@ -4,11 +4,12 @@
 class _INSUFFICIENT():
 	def __init__(self,): 
 		self.name = "INSUFFICIENT"
+		self.definitions = [u'not enough: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

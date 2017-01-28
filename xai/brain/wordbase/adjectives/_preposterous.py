@@ -4,11 +4,12 @@
 class _PREPOSTEROUS():
 	def __init__(self,): 
 		self.name = "PREPOSTEROUS"
+		self.definitions = [u'very silly or stupid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

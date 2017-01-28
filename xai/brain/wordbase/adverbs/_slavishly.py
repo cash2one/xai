@@ -4,11 +4,12 @@
 class _SLAVISHLY():
 	def __init__(self,): 
 		self.name = "SLAVISHLY"
+		self.definitions = [u'obeying completely; without any ideas of your own: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

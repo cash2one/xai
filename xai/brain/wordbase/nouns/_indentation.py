@@ -4,11 +4,12 @@
 class _INDENTATION():
 	def __init__(self,): 
 		self.name = "INDENTATION"
+		self.definitions = [u'a hole or mark on the surface of something: ', u'a space left at the edge of a line of writing, or the process of leaving such a space']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

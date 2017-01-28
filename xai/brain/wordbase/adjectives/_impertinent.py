@@ -4,11 +4,12 @@
 class _IMPERTINENT():
 	def __init__(self,): 
 		self.name = "IMPERTINENT"
+		self.definitions = [u'rude and not showing respect, especially towards someone older or in a higher position than you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

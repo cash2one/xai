@@ -4,11 +4,12 @@
 class _IMPROVIDENT():
 	def __init__(self,): 
 		self.name = "IMPROVIDENT"
+		self.definitions = [u'not planning carefully for the future, especially by spending money in a way that is unwise']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

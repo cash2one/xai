@@ -4,11 +4,12 @@
 class _CLAMMY():
 	def __init__(self,): 
 		self.name = "CLAMMY"
+		self.definitions = [u'sticky and slightly wet in an unpleasant way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BYZANTINE():
 	def __init__(self,): 
 		self.name = "BYZANTINE"
+		self.definitions = [u'complicated and difficult to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

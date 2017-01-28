@@ -4,11 +4,12 @@
 class _AGO():
 	def __init__(self,): 
 		self.name = "AGO"
+		self.definitions = [u'back in time from the present: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

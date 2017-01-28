@@ -4,11 +4,12 @@
 class _FINESSE():
 	def __init__(self,): 
 		self.name = "FINESSE"
+		self.definitions = [u'great skill or style: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

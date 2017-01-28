@@ -4,11 +4,12 @@
 class _ARROGANT():
 	def __init__(self,): 
 		self.name = "ARROGANT"
+		self.definitions = [u'unpleasantly proud and behaving as if you are more important than, or know more than, other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

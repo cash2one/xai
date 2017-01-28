@@ -4,11 +4,12 @@
 class _SQUAT():
 	def __init__(self,): 
 		self.name = "SQUAT"
+		self.definitions = [u'short and wide, usually in a way that is not attractive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

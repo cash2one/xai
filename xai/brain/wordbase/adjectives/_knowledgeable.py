@@ -4,11 +4,12 @@
 class _KNOWLEDGEABLE():
 	def __init__(self,): 
 		self.name = "KNOWLEDGEABLE"
+		self.definitions = [u'knowing a lot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

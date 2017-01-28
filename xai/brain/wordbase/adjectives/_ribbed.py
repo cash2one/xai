@@ -4,11 +4,12 @@
 class _RIBBED():
 	def __init__(self,): 
 		self.name = "RIBBED"
+		self.definitions = [u'made from knitted material that has a pattern of raised lines on it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

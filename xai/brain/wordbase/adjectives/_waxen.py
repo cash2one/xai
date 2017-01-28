@@ -4,11 +4,12 @@
 class _WAXEN():
 	def __init__(self,): 
 		self.name = "WAXEN"
+		self.definitions = [u'A waxen face has pale, shiny skin and does not look healthy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

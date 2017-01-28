@@ -4,11 +4,12 @@
 class _SHELVING():
 	def __init__(self,): 
 		self.name = "SHELVING"
+		self.definitions = [u'shelves: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

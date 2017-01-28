@@ -4,11 +4,12 @@
 class _REHASH():
 	def __init__(self,): 
 		self.name = "REHASH"
+		self.definitions = [u'writing or speech that uses old ideas as if they were new: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

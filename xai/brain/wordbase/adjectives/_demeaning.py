@@ -4,11 +4,12 @@
 class _DEMEANING():
 	def __init__(self,): 
 		self.name = "DEMEANING"
+		self.definitions = [u'causing someone to become or feel less respected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SWIMMERS():
 	def __init__(self,): 
 		self.name = "SWIMMERS"
+		self.definitions = [u'informal for  swimming costume  or  swimming trunks ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

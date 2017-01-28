@@ -4,11 +4,12 @@
 class _CORMORANT():
 	def __init__(self,): 
 		self.name = "CORMORANT"
+		self.definitions = [u'a large, black sea bird with a long neck and body']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _WILLPOWER():
 	def __init__(self,): 
 		self.name = "WILLPOWER"
+		self.definitions = [u'the ability to control your own thoughts and the way in which you behave: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

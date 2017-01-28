@@ -4,11 +4,12 @@
 class _CHORAL():
 	def __init__(self,): 
 		self.name = "CHORAL"
+		self.definitions = [u'of (music sung by) a choir or a chorus: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

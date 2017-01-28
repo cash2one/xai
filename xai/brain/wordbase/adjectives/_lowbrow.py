@@ -4,11 +4,12 @@
 class _LOWBROW():
 	def __init__(self,): 
 		self.name = "LOWBROW"
+		self.definitions = [u'(of entertainment) not complicated or demanding much intelligence to be understood: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNILATERAL():
 	def __init__(self,): 
 		self.name = "UNILATERAL"
+		self.definitions = [u'involving only one group or country: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

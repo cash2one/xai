@@ -4,11 +4,12 @@
 class _LUGUBRIOUS():
 	def __init__(self,): 
 		self.name = "LUGUBRIOUS"
+		self.definitions = [u'sad and serious: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

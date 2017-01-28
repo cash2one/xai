@@ -4,11 +4,12 @@
 class _CLAD():
 	def __init__(self,): 
 		self.name = "CLAD"
+		self.definitions = [u'(of people) dressed, or (of things) covered: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

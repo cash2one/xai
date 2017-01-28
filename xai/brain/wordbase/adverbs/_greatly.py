@@ -4,11 +4,12 @@
 class _GREATLY():
 	def __init__(self,): 
 		self.name = "GREATLY"
+		self.definitions = [u'very much, used especially to show how much you feel or experience something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

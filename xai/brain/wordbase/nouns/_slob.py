@@ -4,11 +4,12 @@
 class _SLOB():
 	def __init__(self,): 
 		self.name = "SLOB"
+		self.definitions = [u'a lazy, untidy, and often rude person: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _POINTEDLY():
 	def __init__(self,): 
 		self.name = "POINTEDLY"
+		self.definitions = [u'in a very obvious way, usually to express criticism or disapproval: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

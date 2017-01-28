@@ -4,11 +4,12 @@
 class _GORY():
 	def __init__(self,): 
 		self.name = "GORY"
+		self.definitions = [u'involving violence and blood: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

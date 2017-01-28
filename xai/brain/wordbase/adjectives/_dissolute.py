@@ -4,11 +4,12 @@
 class _DISSOLUTE():
 	def __init__(self,): 
 		self.name = "DISSOLUTE"
+		self.definitions = [u'(of a person) living in a way that other people strongly disapprove of: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

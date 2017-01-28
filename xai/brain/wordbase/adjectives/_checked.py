@@ -4,11 +4,12 @@
 class _CHECKED():
 	def __init__(self,): 
 		self.name = "CHECKED"
+		self.definitions = [u'with a pattern of squares formed by lines of different colours crossing each other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

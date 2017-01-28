@@ -4,11 +4,12 @@
 class _TEEN():
 	def __init__(self,): 
 		self.name = "TEEN"
+		self.definitions = [u'\u2192\xa0 teenage (teenager) ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

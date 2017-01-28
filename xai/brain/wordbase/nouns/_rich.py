@@ -4,11 +4,12 @@
 class _RICH():
 	def __init__(self,): 
 		self.name = "RICH"
+		self.definitions = [u'rich people considered together as a group: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

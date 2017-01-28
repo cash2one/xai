@@ -4,11 +4,12 @@
 class _BINDING():
 	def __init__(self,): 
 		self.name = "BINDING"
+		self.definitions = [u'(especially of an agreement) that cannot be legally avoided or stopped: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

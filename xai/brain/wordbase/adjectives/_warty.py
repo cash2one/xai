@@ -4,11 +4,12 @@
 class _WARTY():
 	def __init__(self,): 
 		self.name = "WARTY"
+		self.definitions = [u'having warts']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

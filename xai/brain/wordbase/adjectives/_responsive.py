@@ -4,11 +4,12 @@
 class _RESPONSIVE():
 	def __init__(self,): 
 		self.name = "RESPONSIVE"
+		self.definitions = [u'making a positive and quick reaction to something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

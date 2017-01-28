@@ -4,11 +4,12 @@
 class _ROMANTIC():
 	def __init__(self,): 
 		self.name = "ROMANTIC"
+		self.definitions = [u'someone who is not practical and has ideas that are not related to real life: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

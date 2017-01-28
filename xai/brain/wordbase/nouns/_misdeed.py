@@ -4,11 +4,12 @@
 class _MISDEED():
 	def __init__(self,): 
 		self.name = "MISDEED"
+		self.definitions = [u'an act that is criminal or bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

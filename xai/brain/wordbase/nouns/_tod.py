@@ -4,11 +4,12 @@
 class _TOD():
 	def __init__(self,): 
 		self.name = "TOD"
+		self.definitions = [u'alone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

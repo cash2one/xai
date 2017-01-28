@@ -4,11 +4,12 @@
 class _SWINISH():
 	def __init__(self,): 
 		self.name = "SWINISH"
+		self.definitions = [u'like a pig: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

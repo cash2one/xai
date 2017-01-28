@@ -4,11 +4,12 @@
 class _AUTHORITATIVE():
 	def __init__(self,): 
 		self.name = "AUTHORITATIVE"
+		self.definitions = [u'showing that you are confident, in control, and expect to be respected and obeyed: ', u'containing complete and accurate information, and therefore respected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

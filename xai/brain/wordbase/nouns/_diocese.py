@@ -4,11 +4,12 @@
 class _DIOCESE():
 	def __init__(self,): 
 		self.name = "DIOCESE"
+		self.definitions = [u'an area controlled by a bishop']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _SUBSTRUCTURE():
 	def __init__(self,): 
 		self.name = "SUBSTRUCTURE"
+		self.definitions = [u'a firm structure that supports something built on top of it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

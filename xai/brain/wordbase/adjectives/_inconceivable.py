@@ -4,11 +4,12 @@
 class _INCONCEIVABLE():
 	def __init__(self,): 
 		self.name = "INCONCEIVABLE"
+		self.definitions = [u'impossible to imagine or think of: ', u'extremely unlikely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _STATIONARY():
 	def __init__(self,): 
 		self.name = "STATIONARY"
+		self.definitions = [u'not moving, or not changing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

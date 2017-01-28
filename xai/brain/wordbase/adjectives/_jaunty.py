@@ -4,11 +4,12 @@
 class _JAUNTY():
 	def __init__(self,): 
 		self.name = "JAUNTY"
+		self.definitions = [u'showing that you are happy and confident: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

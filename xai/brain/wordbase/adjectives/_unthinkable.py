@@ -4,11 +4,12 @@
 class _UNTHINKABLE():
 	def __init__(self,): 
 		self.name = "UNTHINKABLE"
+		self.definitions = [u'so shocking that it cannot be imagined as possible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

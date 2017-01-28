@@ -4,11 +4,12 @@
 class _ENIGMA():
 	def __init__(self,): 
 		self.name = "ENIGMA"
+		self.definitions = [u'something that is mysterious and seems impossible to understand completely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

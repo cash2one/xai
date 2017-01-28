@@ -4,11 +4,12 @@
 class _MISSHAPEN():
 	def __init__(self,): 
 		self.name = "MISSHAPEN"
+		self.definitions = [u'having an unusual shape or a shape that is not natural: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

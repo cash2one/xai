@@ -4,11 +4,12 @@
 class _AFAR():
 	def __init__(self,): 
 		self.name = "AFAR"
+		self.definitions = [u'from or at a great distance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

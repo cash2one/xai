@@ -4,11 +4,12 @@
 class _AMBLE():
 	def __init__(self,): 
 		self.name = "AMBLE"
+		self.definitions = [u'a slow, relaxed walk: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _HOODLUM():
 	def __init__(self,): 
 		self.name = "HOODLUM"
+		self.definitions = [u'a violent person, especially one who is member of a group of criminals']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

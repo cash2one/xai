@@ -4,11 +4,12 @@
 class _HEARTY():
 	def __init__(self,): 
 		self.name = "HEARTY"
+		self.definitions = [u'enthusiastic, energetic, and often loudly expressed: ', u'large or (especially of food) in large amounts: ', u'very great: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

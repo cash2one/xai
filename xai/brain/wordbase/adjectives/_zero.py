@@ -4,11 +4,12 @@
 class _ZERO():
 	def __init__(self,): 
 		self.name = "ZERO"
+		self.definitions = [u'not any or no: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

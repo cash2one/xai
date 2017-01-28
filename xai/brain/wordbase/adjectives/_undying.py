@@ -4,11 +4,12 @@
 class _UNDYING():
 	def __init__(self,): 
 		self.name = "UNDYING"
+		self.definitions = [u'Undying feelings or beliefs are permanent and never end: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LACUNA():
 	def __init__(self,): 
 		self.name = "LACUNA"
+		self.definitions = [u'an absent part, especially in a book or other piece of writing']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

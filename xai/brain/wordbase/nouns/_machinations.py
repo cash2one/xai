@@ -4,11 +4,12 @@
 class _MACHINATIONS():
 	def __init__(self,): 
 		self.name = "MACHINATIONS"
+		self.definitions = [u'complicated and secret plans to get power or control or to gain an advantage: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _BLUSTERY():
 	def __init__(self,): 
 		self.name = "BLUSTERY"
+		self.definitions = [u'with strong winds: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

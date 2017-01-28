@@ -4,11 +4,12 @@
 class _HELLENIC():
 	def __init__(self,): 
 		self.name = "HELLENIC"
+		self.definitions = [u'of or relating to the ancient or modern Greeks, and their history, art, etc.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

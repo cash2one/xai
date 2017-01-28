@@ -4,11 +4,12 @@
 class _PROBING():
 	def __init__(self,): 
 		self.name = "PROBING"
+		self.definitions = [u'intended to get information: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

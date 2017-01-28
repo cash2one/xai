@@ -4,11 +4,12 @@
 class _ONLINE():
 	def __init__(self,): 
 		self.name = "ONLINE"
+		self.definitions = [u'Online products, services, or information can be bought or used on the internet: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

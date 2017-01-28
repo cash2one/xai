@@ -4,11 +4,12 @@
 class _AERODYNAMIC():
 	def __init__(self,): 
 		self.name = "AERODYNAMIC"
+		self.definitions = [u'relating to or using aerodynamics: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

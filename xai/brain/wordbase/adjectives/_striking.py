@@ -4,11 +4,12 @@
 class _STRIKING():
 	def __init__(self,): 
 		self.name = "STRIKING"
+		self.definitions = [u'very unusual or easily noticed, and therefore attracting a lot of attention: ', u'more attractive than usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

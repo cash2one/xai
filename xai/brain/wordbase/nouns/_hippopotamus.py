@@ -4,11 +4,12 @@
 class _HIPPOPOTAMUS():
 	def __init__(self,): 
 		self.name = "HIPPOPOTAMUS"
+		self.definitions = [u'a very large animal with short legs and thick, dark grey skin that lives near water in Africa']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

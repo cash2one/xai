@@ -4,11 +4,12 @@
 class _UNLESS():
 	def __init__(self,): 
 		self.name = "UNLESS"
+		self.definitions = [u'except if: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'conjunctions'

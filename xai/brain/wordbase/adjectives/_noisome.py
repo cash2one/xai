@@ -4,11 +4,12 @@
 class _NOISOME():
 	def __init__(self,): 
 		self.name = "NOISOME"
+		self.definitions = [u'very unpleasant and offensive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

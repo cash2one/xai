@@ -4,11 +4,12 @@
 class _SECRETARIAL():
 	def __init__(self,): 
 		self.name = "SECRETARIAL"
+		self.definitions = [u'relating to the work of a secretary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

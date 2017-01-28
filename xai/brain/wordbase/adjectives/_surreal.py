@@ -4,11 +4,12 @@
 class _SURREAL():
 	def __init__(self,): 
 		self.name = "SURREAL"
+		self.definitions = [u'strange; not seeming real; like a dream: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

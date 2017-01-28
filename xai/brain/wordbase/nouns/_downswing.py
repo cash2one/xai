@@ -4,11 +4,12 @@
 class _DOWNSWING():
 	def __init__(self,): 
 		self.name = "DOWNSWING"
+		self.definitions = [u'a  downturn ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

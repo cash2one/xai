@@ -4,11 +4,12 @@
 class _LIMP():
 	def __init__(self,): 
 		self.name = "LIMP"
+		self.definitions = [u'soft and neither firm nor stiff: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

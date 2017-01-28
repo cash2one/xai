@@ -4,11 +4,12 @@
 class _SENSELESS():
 	def __init__(self,): 
 		self.name = "SENSELESS"
+		self.definitions = [u'not having good judgment or a good or useful purpose: ', u'unconscious: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WORN():
 	def __init__(self,): 
 		self.name = "WORN"
+		self.definitions = [u'damaged because of continuous use: ', u'very tired, and seeming old : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

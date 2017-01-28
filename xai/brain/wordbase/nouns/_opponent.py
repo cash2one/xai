@@ -4,11 +4,12 @@
 class _OPPONENT():
 	def __init__(self,): 
 		self.name = "OPPONENT"
+		self.definitions = [u'a person who disagrees with something and speaks against it or tries to change it: ', u'a person who someone is competing against in a sports event: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

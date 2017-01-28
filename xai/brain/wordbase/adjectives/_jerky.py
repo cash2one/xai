@@ -4,11 +4,12 @@
 class _JERKY():
 	def __init__(self,): 
 		self.name = "JERKY"
+		self.definitions = [u'quick and sudden: ', u'not smooth and pleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

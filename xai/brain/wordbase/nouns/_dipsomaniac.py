@@ -4,11 +4,12 @@
 class _DIPSOMANIAC():
 	def __init__(self,): 
 		self.name = "DIPSOMANIAC"
+		self.definitions = [u'someone suffering from dipsomania']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

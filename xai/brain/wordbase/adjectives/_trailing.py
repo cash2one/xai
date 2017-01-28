@@ -4,11 +4,12 @@
 class _TRAILING():
 	def __init__(self,): 
 		self.name = "TRAILING"
+		self.definitions = [u'Trailing plants grow along the ground or over the surface of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

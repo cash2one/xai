@@ -4,11 +4,12 @@
 class _MISGUIDED():
 	def __init__(self,): 
 		self.name = "MISGUIDED"
+		self.definitions = [u'unreasonable or unsuitable because of being based on bad judgment or on wrong information or beliefs: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

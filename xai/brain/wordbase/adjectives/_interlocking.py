@@ -4,11 +4,12 @@
 class _INTERLOCKING():
 	def __init__(self,): 
 		self.name = "INTERLOCKING"
+		self.definitions = [u'firmly joined together, especially by one part fitting into another: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

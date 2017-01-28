@@ -4,11 +4,12 @@
 class _ALLOWABLE():
 	def __init__(self,): 
 		self.name = "ALLOWABLE"
+		self.definitions = [u'allowed according to the rules or laws that control a particular area of activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

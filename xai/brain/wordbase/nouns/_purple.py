@@ -4,11 +4,12 @@
 class _PURPLE():
 	def __init__(self,): 
 		self.name = "PURPLE"
+		self.definitions = [u'a dark reddish-blue colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

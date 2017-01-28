@@ -4,11 +4,12 @@
 class _DIDACTIC():
 	def __init__(self,): 
 		self.name = "DIDACTIC"
+		self.definitions = [u'intended to teach, especially in a way that is too determined or eager, and often fixed and unwilling to change: ', u'intended to teach people a moral lesson: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

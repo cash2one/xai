@@ -4,11 +4,12 @@
 class _BAR():
 	def __init__(self,): 
 		self.name = "BAR"
+		self.definitions = [u'except: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

@@ -4,11 +4,12 @@
 class _STRAIGHTAWAY():
 	def __init__(self,): 
 		self.name = "STRAIGHTAWAY"
+		self.definitions = [u'immediately: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

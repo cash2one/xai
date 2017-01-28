@@ -4,11 +4,12 @@
 class _CLOYING():
 	def __init__(self,): 
 		self.name = "CLOYING"
+		self.definitions = [u'too sweet and therefore unpleasant: ', u'too good or kind, or expressing feelings of love in a way that is not sincere: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

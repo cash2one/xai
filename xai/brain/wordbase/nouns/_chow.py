@@ -4,11 +4,12 @@
 class _CHOW():
 	def __init__(self,): 
 		self.name = "CHOW"
+		self.definitions = [u'food']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

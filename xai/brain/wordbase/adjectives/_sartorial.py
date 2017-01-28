@@ -4,11 +4,12 @@
 class _SARTORIAL():
 	def __init__(self,): 
 		self.name = "SARTORIAL"
+		self.definitions = [u"relating to the making of clothes, usually men's clothes, or to a way of dressing: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

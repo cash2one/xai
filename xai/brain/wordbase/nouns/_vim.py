@@ -4,11 +4,12 @@
 class _VIM():
 	def __init__(self,): 
 		self.name = "VIM"
+		self.definitions = [u'energy and enthusiasm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

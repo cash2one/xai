@@ -4,11 +4,12 @@
 class _FROSTED():
 	def __init__(self,): 
 		self.name = "FROSTED"
+		self.definitions = [u'Frosted glass is less smooth to stop it being transparent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

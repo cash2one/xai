@@ -4,11 +4,12 @@
 class _CREATOR():
 	def __init__(self,): 
 		self.name = "CREATOR"
+		self.definitions = [u'someone who has invented something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

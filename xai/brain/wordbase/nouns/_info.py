@@ -4,11 +4,12 @@
 class _INFO():
 	def __init__(self,): 
 		self.name = "INFO"
+		self.definitions = [u'informal for  information ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

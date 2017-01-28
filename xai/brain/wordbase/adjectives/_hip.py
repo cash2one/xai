@@ -4,11 +4,12 @@
 class _HIP():
 	def __init__(self,): 
 		self.name = "HIP"
+		self.definitions = [u'fashionable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

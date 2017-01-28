@@ -4,11 +4,12 @@
 class _LISTLESS():
 	def __init__(self,): 
 		self.name = "LISTLESS"
+		self.definitions = [u'having no energy and enthusiasm and unwilling to do anything needing effort: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

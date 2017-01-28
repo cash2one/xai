@@ -4,11 +4,12 @@
 class _POOCH():
 	def __init__(self,): 
 		self.name = "POOCH"
+		self.definitions = [u'a dog: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

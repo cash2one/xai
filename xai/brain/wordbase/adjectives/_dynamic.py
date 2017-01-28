@@ -4,11 +4,12 @@
 class _DYNAMIC():
 	def __init__(self,): 
 		self.name = "DYNAMIC"
+		self.definitions = [u'having a lot of ideas and enthusiasm: ', u'continuously changing or developing: ', u'relating to forces that produce movement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

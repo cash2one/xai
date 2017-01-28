@@ -4,11 +4,12 @@
 class _UNINSPIRED():
 	def __init__(self,): 
 		self.name = "UNINSPIRED"
+		self.definitions = [u'not exciting or interesting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

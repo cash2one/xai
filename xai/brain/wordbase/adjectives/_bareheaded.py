@@ -4,11 +4,12 @@
 class _BAREHEADED():
 	def __init__(self,): 
 		self.name = "BAREHEADED"
+		self.definitions = [u'without any covering on your head']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

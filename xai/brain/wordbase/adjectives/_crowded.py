@@ -4,11 +4,12 @@
 class _CROWDED():
 	def __init__(self,): 
 		self.name = "CROWDED"
+		self.definitions = [u'If a place is crowded, it is full of people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

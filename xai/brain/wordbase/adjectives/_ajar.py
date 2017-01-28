@@ -4,11 +4,12 @@
 class _AJAR():
 	def __init__(self,): 
 		self.name = "AJAR"
+		self.definitions = [u'If a door is ajar, it is slightly open: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

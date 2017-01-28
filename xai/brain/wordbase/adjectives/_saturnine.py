@@ -4,11 +4,12 @@
 class _SATURNINE():
 	def __init__(self,): 
 		self.name = "SATURNINE"
+		self.definitions = [u'serious and unfriendly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

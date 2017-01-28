@@ -4,11 +4,12 @@
 class _SOPPY():
 	def __init__(self,): 
 		self.name = "SOPPY"
+		self.definitions = [u'showing or feeling too much of emotions such as love or sympathy, rather than being reasonable or practical: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

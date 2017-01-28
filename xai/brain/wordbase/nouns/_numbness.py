@@ -4,11 +4,12 @@
 class _NUMBNESS():
 	def __init__(self,): 
 		self.name = "NUMBNESS"
+		self.definitions = [u'lack of physical or emotional feeling']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

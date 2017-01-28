@@ -4,11 +4,12 @@
 class _STILTON():
 	def __init__(self,): 
 		self.name = "STILTON"
+		self.definitions = [u'a white and blue English cheese with a strong flavour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

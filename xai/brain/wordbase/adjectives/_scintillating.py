@@ -4,11 +4,12 @@
 class _SCINTILLATING():
 	def __init__(self,): 
 		self.name = "SCINTILLATING"
+		self.definitions = [u'funny, exciting, and clever: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

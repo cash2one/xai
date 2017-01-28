@@ -4,11 +4,12 @@
 class _ORDINANCE():
 	def __init__(self,): 
 		self.name = "ORDINANCE"
+		self.definitions = [u'a law or rule made by a government or authority: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

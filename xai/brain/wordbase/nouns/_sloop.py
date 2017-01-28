@@ -4,11 +4,12 @@
 class _SLOOP():
 	def __init__(self,): 
 		self.name = "SLOOP"
+		self.definitions = [u'a small sailing boat with one mast']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

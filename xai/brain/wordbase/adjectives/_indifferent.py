@@ -4,11 +4,12 @@
 class _INDIFFERENT():
 	def __init__(self,): 
 		self.name = "INDIFFERENT"
+		self.definitions = [u'not thinking about or interested in someone or something: ', u'not good, but not very bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

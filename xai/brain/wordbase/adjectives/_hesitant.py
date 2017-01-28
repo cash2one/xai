@@ -4,11 +4,12 @@
 class _HESITANT():
 	def __init__(self,): 
 		self.name = "HESITANT"
+		self.definitions = [u'If you are hesitant, you do not do something immediately or quickly because you are nervous or not certain: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

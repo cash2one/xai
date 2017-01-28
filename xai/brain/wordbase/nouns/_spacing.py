@@ -4,11 +4,12 @@
 class _SPACING():
 	def __init__(self,): 
 		self.name = "SPACING"
+		self.definitions = [u'the amount of distance between lines or words, especially on a printed page: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

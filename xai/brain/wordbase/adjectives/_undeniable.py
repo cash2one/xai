@@ -4,11 +4,12 @@
 class _UNDENIABLE():
 	def __init__(self,): 
 		self.name = "UNDENIABLE"
+		self.definitions = [u'certainly true: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

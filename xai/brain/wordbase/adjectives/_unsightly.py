@@ -4,11 +4,12 @@
 class _UNSIGHTLY():
 	def __init__(self,): 
 		self.name = "UNSIGHTLY"
+		self.definitions = [u'not attractive; ugly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

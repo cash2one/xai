@@ -4,11 +4,12 @@
 class _ARMOURED():
 	def __init__(self,): 
 		self.name = "ARMOURED"
+		self.definitions = [u'protected by a strong covering, or using military vehicles protected by strong covering: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

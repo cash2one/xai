@@ -4,11 +4,12 @@
 class _CONTEXTUAL():
 	def __init__(self,): 
 		self.name = "CONTEXTUAL"
+		self.definitions = [u'related to the context of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PIGHEADED():
 	def __init__(self,): 
 		self.name = "PIGHEADED"
+		self.definitions = [u'showing unreasonable support for an opinion or plan of action and refusing to change or listen to different opinions']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

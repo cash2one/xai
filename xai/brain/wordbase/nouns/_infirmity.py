@@ -4,11 +4,12 @@
 class _INFIRMITY():
 	def __init__(self,): 
 		self.name = "INFIRMITY"
+		self.definitions = [u'illness, especially for long periods or because of old age: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

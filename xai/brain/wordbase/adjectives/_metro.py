@@ -4,11 +4,12 @@
 class _METRO():
 	def __init__(self,): 
 		self.name = "METRO"
+		self.definitions = [u'relating to a large city and the area surrounding it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

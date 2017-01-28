@@ -4,11 +4,12 @@
 class _UNREMITTING():
 	def __init__(self,): 
 		self.name = "UNREMITTING"
+		self.definitions = [u'never stopping, becoming weaker, or failing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

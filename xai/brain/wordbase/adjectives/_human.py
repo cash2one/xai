@@ -4,11 +4,12 @@
 class _HUMAN():
 	def __init__(self,): 
 		self.name = "HUMAN"
+		self.definitions = [u'of or typical of people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

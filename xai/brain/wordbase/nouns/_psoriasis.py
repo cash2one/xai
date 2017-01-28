@@ -4,11 +4,12 @@
 class _PSORIASIS():
 	def __init__(self,): 
 		self.name = "PSORIASIS"
+		self.definitions = [u'a disease in which areas of skin turn red and are covered with small dry pieces of skin']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

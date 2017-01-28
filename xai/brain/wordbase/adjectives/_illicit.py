@@ -4,11 +4,12 @@
 class _ILLICIT():
 	def __init__(self,): 
 		self.name = "ILLICIT"
+		self.definitions = [u'illegal or disapproved of by society: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LITERARY():
 	def __init__(self,): 
 		self.name = "LITERARY"
+		self.definitions = [u'connected with literature: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

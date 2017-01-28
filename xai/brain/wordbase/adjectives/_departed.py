@@ -4,11 +4,12 @@
 class _DEPARTED():
 	def __init__(self,): 
 		self.name = "DEPARTED"
+		self.definitions = [u'dead: ', u'used to refer to something that happened in the past and is finished: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

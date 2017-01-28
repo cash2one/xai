@@ -4,11 +4,12 @@
 class _CLASS():
 	def __init__(self,): 
 		self.name = "CLASS"
+		self.definitions = [u'very good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

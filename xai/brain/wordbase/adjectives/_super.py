@@ -4,11 +4,12 @@
 class _SUPER():
 	def __init__(self,): 
 		self.name = "SUPER"
+		self.definitions = [u'excellent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

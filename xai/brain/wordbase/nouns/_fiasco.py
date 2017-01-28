@@ -4,11 +4,12 @@
 class _FIASCO():
 	def __init__(self,): 
 		self.name = "FIASCO"
+		self.definitions = [u'something planned that goes wrong and is a complete failure, usually in an embarrassing way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

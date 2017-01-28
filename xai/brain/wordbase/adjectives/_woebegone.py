@@ -4,11 +4,12 @@
 class _WOEBEGONE():
 	def __init__(self,): 
 		self.name = "WOEBEGONE"
+		self.definitions = [u'looking very sad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

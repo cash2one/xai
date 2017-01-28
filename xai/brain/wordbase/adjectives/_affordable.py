@@ -4,11 +4,12 @@
 class _AFFORDABLE():
 	def __init__(self,): 
 		self.name = "AFFORDABLE"
+		self.definitions = [u'not expensive: ', u'(used about houses, etc.) able to be bought or rented by people who do not earn a lot of money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

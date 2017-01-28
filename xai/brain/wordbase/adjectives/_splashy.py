@@ -4,11 +4,12 @@
 class _SPLASHY():
 	def __init__(self,): 
 		self.name = "SPLASHY"
+		self.definitions = [u'more expensive, exciting, etc. than necessary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

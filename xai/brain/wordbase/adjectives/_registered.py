@@ -4,11 +4,12 @@
 class _REGISTERED():
 	def __init__(self,): 
 		self.name = "REGISTERED"
+		self.definitions = [u'officially listed and accepted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

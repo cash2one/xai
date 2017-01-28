@@ -4,11 +4,12 @@
 class _ABUZZ():
 	def __init__(self,): 
 		self.name = "ABUZZ"
+		self.definitions = [u'filled with noise and activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SURGICALLY():
 	def __init__(self,): 
 		self.name = "SURGICALLY"
+		self.definitions = [u'using surgical procedures to treat an injury or condition: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _SILVAN():
 	def __init__(self,): 
 		self.name = "SILVAN"
+		self.definitions = [u'of or having woods']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

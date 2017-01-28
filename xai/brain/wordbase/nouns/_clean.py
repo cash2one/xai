@@ -4,11 +4,12 @@
 class _CLEAN():
 	def __init__(self,): 
 		self.name = "CLEAN"
+		self.definitions = [u'when something is cleaned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

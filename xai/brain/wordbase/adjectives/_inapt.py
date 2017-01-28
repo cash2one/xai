@@ -4,11 +4,12 @@
 class _INAPT():
 	def __init__(self,): 
 		self.name = "INAPT"
+		self.definitions = [u'not suitable for the situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

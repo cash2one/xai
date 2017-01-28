@@ -4,11 +4,12 @@
 class _BLUFF():
 	def __init__(self,): 
 		self.name = "BLUFF"
+		self.definitions = [u'an attempt to bluff: ', u'a cliff or very steep bank']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _GRANULARITY():
 	def __init__(self,): 
 		self.name = "GRANULARITY"
+		self.definitions = [u'the quality of including a lot of small details: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

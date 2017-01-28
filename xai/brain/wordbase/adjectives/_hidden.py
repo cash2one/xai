@@ -4,11 +4,12 @@
 class _HIDDEN():
 	def __init__(self,): 
 		self.name = "HIDDEN"
+		self.definitions = [u'not easy to find: ', u'that most people do not know about: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

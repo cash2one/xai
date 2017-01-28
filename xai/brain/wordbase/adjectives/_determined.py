@@ -4,11 +4,12 @@
 class _DETERMINED():
 	def __init__(self,): 
 		self.name = "DETERMINED"
+		self.definitions = [u'wanting to do something very much and not allowing anyone or any difficulties to stop you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BIOLOGIST():
 	def __init__(self,): 
 		self.name = "BIOLOGIST"
+		self.definitions = [u'a scientist who studies biology']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

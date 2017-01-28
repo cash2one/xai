@@ -4,11 +4,12 @@
 class _MONO():
 	def __init__(self,): 
 		self.name = "MONO"
+		self.definitions = [u'Mono sound is recorded or broadcast sound that comes from a single direction: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WASPISH():
 	def __init__(self,): 
 		self.name = "WASPISH"
+		self.definitions = [u'likely to make sharp, slightly cruel remarks; having a slightly angry and unpleasant manner: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

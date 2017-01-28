@@ -4,11 +4,12 @@
 class _SCREWY():
 	def __init__(self,): 
 		self.name = "SCREWY"
+		self.definitions = [u'very strange, silly, or unusual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

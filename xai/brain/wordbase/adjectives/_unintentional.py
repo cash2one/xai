@@ -4,11 +4,12 @@
 class _UNINTENTIONAL():
 	def __init__(self,): 
 		self.name = "UNINTENTIONAL"
+		self.definitions = [u'not intentional']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

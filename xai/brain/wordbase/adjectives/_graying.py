@@ -4,11 +4,12 @@
 class _GRAYING():
 	def __init__(self,): 
 		self.name = "GRAYING"
+		self.definitions = [u'US spelling of  greying ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

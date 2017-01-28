@@ -4,11 +4,12 @@
 class _INCIDENT():
 	def __init__(self,): 
 		self.name = "INCIDENT"
+		self.definitions = [u'touching or hitting the surface of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

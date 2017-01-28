@@ -4,15 +4,15 @@
 class _SUCCOUR():
 	def __init__(self,): 
 		self.name = "SUCCOUR"
+		self.definitions = [u'to help someone, especially someone who is suffering or in need: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
 
 
-
 		self.specie = 'verbs'
-
 
 	def run(self, obj1 = [], obj2 = []):
 		return self.jsondata

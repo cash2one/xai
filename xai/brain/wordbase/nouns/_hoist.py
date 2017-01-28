@@ -4,11 +4,12 @@
 class _HOIST():
 	def __init__(self,): 
 		self.name = "HOIST"
+		self.definitions = [u'a device used for lifting heavy things']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

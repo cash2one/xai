@@ -4,11 +4,12 @@
 class _BEDCLOTHES():
 	def __init__(self,): 
 		self.name = "BEDCLOTHES"
+		self.definitions = [u'the sheets and covers that you put on a bed']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

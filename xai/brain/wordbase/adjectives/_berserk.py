@@ -4,11 +4,12 @@
 class _BERSERK():
 	def __init__(self,): 
 		self.name = "BERSERK"
+		self.definitions = [u'very angry or out of control: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

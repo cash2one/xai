@@ -4,11 +4,12 @@
 class _MASON():
 	def __init__(self,): 
 		self.name = "MASON"
+		self.definitions = [u'a  stonemason  (= person who cuts stone)', u'a  bricklayer ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

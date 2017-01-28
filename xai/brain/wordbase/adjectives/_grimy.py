@@ -4,11 +4,12 @@
 class _GRIMY():
 	def __init__(self,): 
 		self.name = "GRIMY"
+		self.definitions = [u'dirty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

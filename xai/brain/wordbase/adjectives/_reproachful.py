@@ -4,11 +4,12 @@
 class _REPROACHFUL():
 	def __init__(self,): 
 		self.name = "REPROACHFUL"
+		self.definitions = [u'expressing criticism: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

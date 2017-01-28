@@ -4,11 +4,12 @@
 class _MAGNOLIA():
 	def __init__(self,): 
 		self.name = "MAGNOLIA"
+		self.definitions = [u'of a pale cream colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

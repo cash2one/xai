@@ -4,11 +4,12 @@
 class _ASTONISHMENT():
 	def __init__(self,): 
 		self.name = "ASTONISHMENT"
+		self.definitions = [u'very great surprise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

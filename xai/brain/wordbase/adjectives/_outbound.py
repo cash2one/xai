@@ -4,11 +4,12 @@
 class _OUTBOUND():
 	def __init__(self,): 
 		self.name = "OUTBOUND"
+		self.definitions = [u'travelling away from a particular point: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

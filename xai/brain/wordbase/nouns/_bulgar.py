@@ -4,11 +4,12 @@
 class _BULGAR():
 	def __init__(self,): 
 		self.name = "BULGAR"
+		self.definitions = [u'grains of wheat that are boiled, dried, and used in cooking']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

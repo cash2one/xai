@@ -4,11 +4,12 @@
 class _UNRELATED():
 	def __init__(self,): 
 		self.name = "UNRELATED"
+		self.definitions = [u'having no connection: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

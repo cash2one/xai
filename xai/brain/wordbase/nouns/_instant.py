@@ -4,11 +4,12 @@
 class _INSTANT():
 	def __init__(self,): 
 		self.name = "INSTANT"
+		self.definitions = [u'an extremely short period of time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

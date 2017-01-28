@@ -4,11 +4,12 @@
 class _REPAIRMAN():
 	def __init__(self,): 
 		self.name = "REPAIRMAN"
+		self.definitions = [u'someone whose job is to make things that are broken work correctly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

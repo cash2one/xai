@@ -4,11 +4,12 @@
 class _TOOTHED():
 	def __init__(self,): 
 		self.name = "TOOTHED"
+		self.definitions = [u'with the teeth described: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'conjunctions'

@@ -4,11 +4,12 @@
 class _UNGAINLY():
 	def __init__(self,): 
 		self.name = "UNGAINLY"
+		self.definitions = [u'awkward and without grace (= moving smoothly and attractively) in movement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

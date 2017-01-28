@@ -4,11 +4,12 @@
 class _SNIPPY():
 	def __init__(self,): 
 		self.name = "SNIPPY"
+		self.definitions = [u'slightly rude and impatient, and using only a few words: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

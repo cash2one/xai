@@ -4,11 +4,12 @@
 class _HAZEL():
 	def __init__(self,): 
 		self.name = "HAZEL"
+		self.definitions = [u'(especially of eyes) greenish-brown or yellowish-brown in colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

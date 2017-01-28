@@ -4,11 +4,12 @@
 class _MORDANT():
 	def __init__(self,): 
 		self.name = "MORDANT"
+		self.definitions = [u'(especially of humour) cruel and criticizing in a humorous way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

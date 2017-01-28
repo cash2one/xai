@@ -4,11 +4,12 @@
 class _REFULGENT():
 	def __init__(self,): 
 		self.name = "REFULGENT"
+		self.definitions = [u'shining with a bright light: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

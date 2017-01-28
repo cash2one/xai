@@ -4,11 +4,12 @@
 class _UNWORKABLE():
 	def __init__(self,): 
 		self.name = "UNWORKABLE"
+		self.definitions = [u'An unworkable plan is not practical or cannot really be done successfully: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

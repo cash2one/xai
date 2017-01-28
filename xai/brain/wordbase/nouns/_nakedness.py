@@ -4,11 +4,12 @@
 class _NAKEDNESS():
 	def __init__(self,): 
 		self.name = "NAKEDNESS"
+		self.definitions = [u'the state of being naked: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _RECTITUDE():
 	def __init__(self,): 
 		self.name = "RECTITUDE"
+		self.definitions = [u'honesty and correct moral behaviour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

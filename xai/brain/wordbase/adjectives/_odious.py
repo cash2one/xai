@@ -4,11 +4,12 @@
 class _ODIOUS():
 	def __init__(self,): 
 		self.name = "ODIOUS"
+		self.definitions = [u'extremely unpleasant and causing or deserving hate: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _POSTOPERATIVE():
 	def __init__(self,): 
 		self.name = "POSTOPERATIVE"
+		self.definitions = [u'relating to the period of time that immediately follows a medical operation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

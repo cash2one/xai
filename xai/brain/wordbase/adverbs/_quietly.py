@@ -4,11 +4,12 @@
 class _QUIETLY():
 	def __init__(self,): 
 		self.name = "QUIETLY"
+		self.definitions = [u'without making much noise: ', u'in a way that is not obvious to other people because you do not say much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

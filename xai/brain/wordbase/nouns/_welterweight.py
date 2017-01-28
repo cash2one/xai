@@ -4,11 +4,12 @@
 class _WELTERWEIGHT():
 	def __init__(self,): 
 		self.name = "WELTERWEIGHT"
+		self.definitions = [u'a boxer whose body weight is between lightweight and middleweight']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _FIRESIDE():
 	def __init__(self,): 
 		self.name = "FIRESIDE"
+		self.definitions = [u'the part of a room that surrounds a fireplace: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _FREAK():
 	def __init__(self,): 
 		self.name = "FREAK"
+		self.definitions = [u'very unusual or unexpected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

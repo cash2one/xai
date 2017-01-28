@@ -4,11 +4,12 @@
 class _OVERRIDING():
 	def __init__(self,): 
 		self.name = "OVERRIDING"
+		self.definitions = [u'travelling on public transport further than your ticket allows you to: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

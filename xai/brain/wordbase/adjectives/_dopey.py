@@ -4,11 +4,12 @@
 class _DOPEY():
 	def __init__(self,): 
 		self.name = "DOPEY"
+		self.definitions = [u'wanting to sleep, because or as if you have taken a drug: ', u'silly or stupid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

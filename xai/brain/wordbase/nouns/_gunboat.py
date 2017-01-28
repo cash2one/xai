@@ -4,11 +4,12 @@
 class _GUNBOAT():
 	def __init__(self,): 
 		self.name = "GUNBOAT"
+		self.definitions = [u'a small military ship with large guns, used especially in areas near the coast']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

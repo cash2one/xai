@@ -4,11 +4,12 @@
 class _PARALYSED():
 	def __init__(self,): 
 		self.name = "PARALYSED"
+		self.definitions = [u'unable to move or act: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

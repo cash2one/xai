@@ -4,11 +4,12 @@
 class _RADIOLOGY():
 	def __init__(self,): 
 		self.name = "RADIOLOGY"
+		self.definitions = [u'the scientific study of the medical use of radiation, especially X-rays']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

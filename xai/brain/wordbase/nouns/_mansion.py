@@ -4,11 +4,12 @@
 class _MANSION():
 	def __init__(self,): 
 		self.name = "MANSION"
+		self.definitions = [u'a very large, expensive house: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

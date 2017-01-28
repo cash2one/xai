@@ -4,11 +4,12 @@
 class _WOMANLY():
 	def __init__(self,): 
 		self.name = "WOMANLY"
+		self.definitions = [u'Womanly qualities, ideas, or physical features are ones that a woman is typically or traditionally thought to have: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _EMERGENCY():
 	def __init__(self,): 
 		self.name = "EMERGENCY"
+		self.definitions = [u'something dangerous or serious, such as an accident, that happens suddenly or unexpectedly and needs fast action in order to avoid harmful results: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

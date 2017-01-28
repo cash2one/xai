@@ -4,11 +4,12 @@
 class _HECTIC():
 	def __init__(self,): 
 		self.name = "HECTIC"
+		self.definitions = [u'full of activity, or very busy and fast: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

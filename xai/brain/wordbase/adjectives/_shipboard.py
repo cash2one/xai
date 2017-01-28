@@ -4,11 +4,12 @@
 class _SHIPBOARD():
 	def __init__(self,): 
 		self.name = "SHIPBOARD"
+		self.definitions = [u'happening or used on a ship: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

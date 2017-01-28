@@ -4,11 +4,12 @@
 class _UNHINGED():
 	def __init__(self,): 
 		self.name = "UNHINGED"
+		self.definitions = [u'mentally ill: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

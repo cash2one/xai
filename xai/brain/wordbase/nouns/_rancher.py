@@ -4,11 +4,12 @@
 class _RANCHER():
 	def __init__(self,): 
 		self.name = "RANCHER"
+		self.definitions = [u'someone who owns or works on a ranch']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

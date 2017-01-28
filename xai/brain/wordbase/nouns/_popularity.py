@@ -4,11 +4,12 @@
 class _POPULARITY():
 	def __init__(self,): 
 		self.name = "POPULARITY"
+		self.definitions = [u'the fact that something or someone is liked, enjoyed, or supported by many people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

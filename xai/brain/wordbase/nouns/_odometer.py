@@ -4,11 +4,12 @@
 class _ODOMETER():
 	def __init__(self,): 
 		self.name = "ODOMETER"
+		self.definitions = [u'a device in a vehicle that measures and shows the distance it travels']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

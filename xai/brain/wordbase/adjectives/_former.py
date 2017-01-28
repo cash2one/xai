@@ -4,11 +4,12 @@
 class _FORMER():
 	def __init__(self,): 
 		self.name = "FORMER"
+		self.definitions = [u'of or in an earlier time; before the present time or in the past: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

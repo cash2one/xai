@@ -4,11 +4,12 @@
 class _PORCINE():
 	def __init__(self,): 
 		self.name = "PORCINE"
+		self.definitions = [u'relating to pigs: ', u'like a pig: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

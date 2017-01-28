@@ -4,11 +4,12 @@
 class _SUPPOSEDLY():
 	def __init__(self,): 
 		self.name = "SUPPOSEDLY"
+		self.definitions = [u'used to show that you do not believe that something you have been told is true: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _DIVERS():
 	def __init__(self,): 
 		self.name = "DIVERS"
+		self.definitions = [u'various or several']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

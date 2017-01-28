@@ -4,11 +4,12 @@
 class _REGARDING():
 	def __init__(self,): 
 		self.name = "REGARDING"
+		self.definitions = [u'about: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

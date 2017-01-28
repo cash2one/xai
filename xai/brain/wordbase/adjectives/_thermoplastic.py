@@ -4,11 +4,12 @@
 class _THERMOPLASTIC():
 	def __init__(self,): 
 		self.name = "THERMOPLASTIC"
+		self.definitions = [u'Thermoplastic substances can be melted and formed into shapes that become hard, and can then be melted again.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _JIHAD():
 	def __init__(self,): 
 		self.name = "JIHAD"
+		self.definitions = [u'in Islam, a religious struggle against evil in yourself or in society', u'a holy war fought by Muslims against people who are a threat to Islam']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

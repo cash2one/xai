@@ -4,11 +4,12 @@
 class _LAVENDER():
 	def __init__(self,): 
 		self.name = "LAVENDER"
+		self.definitions = [u'of a pale purple colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

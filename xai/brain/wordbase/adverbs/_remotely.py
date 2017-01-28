@@ -4,11 +4,12 @@
 class _REMOTELY():
 	def __init__(self,): 
 		self.name = "REMOTELY"
+		self.definitions = [u'in a remote place: ', u'from a distance: ', u'in a remote or very slight way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

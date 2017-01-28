@@ -4,11 +4,12 @@
 class _ROUNDABOUT():
 	def __init__(self,): 
 		self.name = "ROUNDABOUT"
+		self.definitions = [u'not in a simple, direct, or quick way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

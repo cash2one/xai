@@ -4,11 +4,12 @@
 class _TANDEM():
 	def __init__(self,): 
 		self.name = "TANDEM"
+		self.definitions = [u'a bicycle made for two people who sit one behind the other']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

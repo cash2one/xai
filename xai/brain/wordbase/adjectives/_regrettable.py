@@ -4,11 +4,12 @@
 class _REGRETTABLE():
 	def __init__(self,): 
 		self.name = "REGRETTABLE"
+		self.definitions = [u'making you feel sad and sorry about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PASTY():
 	def __init__(self,): 
 		self.name = "PASTY"
+		self.definitions = [u"(of someone's face or skin) very pale and unhealthy looking: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

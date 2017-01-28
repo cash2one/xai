@@ -4,11 +4,12 @@
 class _FEEBLE():
 	def __init__(self,): 
 		self.name = "FEEBLE"
+		self.definitions = [u'weak and without energy, strength, or power: ', u'not effective or good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

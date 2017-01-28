@@ -4,11 +4,12 @@
 class _TIMEPIECE():
 	def __init__(self,): 
 		self.name = "TIMEPIECE"
+		self.definitions = [u'a clock or watch']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

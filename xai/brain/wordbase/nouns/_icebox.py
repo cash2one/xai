@@ -4,11 +4,12 @@
 class _ICEBOX():
 	def __init__(self,): 
 		self.name = "ICEBOX"
+		self.definitions = [u'a  refrigerator ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

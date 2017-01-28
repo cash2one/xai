@@ -4,11 +4,12 @@
 class _COMBAT():
 	def __init__(self,): 
 		self.name = "COMBAT"
+		self.definitions = [u'a fight, especially during a war: ', u'a fight between two people or things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

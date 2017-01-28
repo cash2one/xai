@@ -4,11 +4,12 @@
 class _CHAMP():
 	def __init__(self,): 
 		self.name = "CHAMP"
+		self.definitions = [u'informal for  champion noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

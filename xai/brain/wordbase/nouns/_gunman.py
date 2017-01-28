@@ -4,11 +4,12 @@
 class _GUNMAN():
 	def __init__(self,): 
 		self.name = "GUNMAN"
+		self.definitions = [u'a man, usually a criminal, who is armed with a gun: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

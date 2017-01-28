@@ -4,11 +4,12 @@
 class _UNSUBSTANTIATED():
 	def __init__(self,): 
 		self.name = "UNSUBSTANTIATED"
+		self.definitions = [u'not supported by facts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

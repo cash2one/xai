@@ -4,11 +4,12 @@
 class _CYCLICAL():
 	def __init__(self,): 
 		self.name = "CYCLICAL"
+		self.definitions = [u'Cyclical events happen in a particular order, one following the other, and are often repeated: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

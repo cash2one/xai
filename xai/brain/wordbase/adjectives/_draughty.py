@@ -4,11 +4,12 @@
 class _DRAUGHTY():
 	def __init__(self,): 
 		self.name = "DRAUGHTY"
+		self.definitions = [u'A draughty place, especially a room, has currents of unpleasantly cold air blowing through it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

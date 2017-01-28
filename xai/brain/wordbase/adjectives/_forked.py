@@ -4,11 +4,12 @@
 class _FORKED():
 	def __init__(self,): 
 		self.name = "FORKED"
+		self.definitions = [u'with one end divided into two parts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

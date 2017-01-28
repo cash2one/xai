@@ -4,11 +4,12 @@
 class _AMOROUS():
 	def __init__(self,): 
 		self.name = "AMOROUS"
+		self.definitions = [u'of or expressing sexual desire: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

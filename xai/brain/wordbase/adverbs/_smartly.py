@@ -4,11 +4,12 @@
 class _SMARTLY():
 	def __init__(self,): 
 		self.name = "SMARTLY"
+		self.definitions = [u'in a fashionable and slightly formal way: ', u'quickly or forcefully: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

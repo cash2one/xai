@@ -4,11 +4,12 @@
 class _ECONOMICAL():
 	def __init__(self,): 
 		self.name = "ECONOMICAL"
+		self.definitions = [u'not using a lot of fuel, money, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

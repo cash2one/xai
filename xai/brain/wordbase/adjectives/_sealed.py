@@ -4,11 +4,12 @@
 class _SEALED():
 	def __init__(self,): 
 		self.name = "SEALED"
+		self.definitions = [u'closed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

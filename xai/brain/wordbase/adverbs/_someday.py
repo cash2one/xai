@@ -4,11 +4,12 @@
 class _SOMEDAY():
 	def __init__(self,): 
 		self.name = "SOMEDAY"
+		self.definitions = [u'at some time in the future that is not yet known or not stated: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

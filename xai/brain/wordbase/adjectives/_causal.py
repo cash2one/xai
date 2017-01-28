@@ -4,11 +4,12 @@
 class _CAUSAL():
 	def __init__(self,): 
 		self.name = "CAUSAL"
+		self.definitions = [u'a relationship, link, etc. between two things in which one causes the other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

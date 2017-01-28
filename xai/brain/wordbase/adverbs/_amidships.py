@@ -4,11 +4,12 @@
 class _AMIDSHIPS():
 	def __init__(self,): 
 		self.name = "AMIDSHIPS"
+		self.definitions = [u'in the middle part of a ship']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

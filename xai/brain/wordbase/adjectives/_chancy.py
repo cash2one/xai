@@ -4,11 +4,12 @@
 class _CHANCY():
 	def __init__(self,): 
 		self.name = "CHANCY"
+		self.definitions = [u'involving the possibility of something bad happening: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

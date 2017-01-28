@@ -4,11 +4,12 @@
 class _CROSS():
 	def __init__(self,): 
 		self.name = "CROSS"
+		self.definitions = [u'annoyed or angry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BUXOM():
 	def __init__(self,): 
 		self.name = "BUXOM"
+		self.definitions = [u'(of a woman) healthy-looking and slightly fat, with large breasts']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

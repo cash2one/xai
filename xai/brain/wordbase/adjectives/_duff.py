@@ -4,11 +4,12 @@
 class _DUFF():
 	def __init__(self,): 
 		self.name = "DUFF"
+		self.definitions = [u'bad, not useful, or not working: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

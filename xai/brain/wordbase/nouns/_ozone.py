@@ -4,11 +4,12 @@
 class _OZONE():
 	def __init__(self,): 
 		self.name = "OZONE"
+		self.definitions = [u'a poisonous form of oxygen', u'air that is clean and pleasant to breathe, especially near the sea']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _INEXPERIENCED():
 	def __init__(self,): 
 		self.name = "INEXPERIENCED"
+		self.definitions = [u'having little knowledge or experience: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

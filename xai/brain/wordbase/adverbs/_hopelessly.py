@@ -4,11 +4,12 @@
 class _HOPELESSLY():
 	def __init__(self,): 
 		self.name = "HOPELESSLY"
+		self.definitions = [u'extremely, or in a way that makes you lose hope: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

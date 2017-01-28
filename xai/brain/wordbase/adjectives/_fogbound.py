@@ -4,11 +4,12 @@
 class _FOGBOUND():
 	def __init__(self,): 
 		self.name = "FOGBOUND"
+		self.definitions = [u'prevented from operating as usual or travelling because of fog: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WHENCE():
 	def __init__(self,): 
 		self.name = "WHENCE"
+		self.definitions = [u'(from) where: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

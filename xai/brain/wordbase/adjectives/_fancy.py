@@ -4,11 +4,12 @@
 class _FANCY():
 	def __init__(self,): 
 		self.name = "FANCY"
+		self.definitions = [u'decorative or complicated: ', u'expensive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

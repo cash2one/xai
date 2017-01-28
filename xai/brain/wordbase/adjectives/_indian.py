@@ -4,11 +4,12 @@
 class _INDIAN():
 	def __init__(self,): 
 		self.name = "INDIAN"
+		self.definitions = [u'belonging to or relating to India or its people: ', u'belonging to or relating to Native Americans: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

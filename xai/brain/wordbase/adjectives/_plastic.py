@@ -4,11 +4,12 @@
 class _PLASTIC():
 	def __init__(self,): 
 		self.name = "PLASTIC"
+		self.definitions = [u'made of plastic: ', u'artificial or false: ', u'soft enough to be changed into a new shape: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

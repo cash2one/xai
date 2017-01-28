@@ -4,11 +4,12 @@
 class _ORNATE():
 	def __init__(self,): 
 		self.name = "ORNATE"
+		self.definitions = [u'having a lot of complicated decoration: ', u'Language that is ornate contains too many complicated words or phrases: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

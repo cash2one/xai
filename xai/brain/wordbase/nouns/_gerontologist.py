@@ -4,11 +4,12 @@
 class _GERONTOLOGIST():
 	def __init__(self,): 
 		self.name = "GERONTOLOGIST"
+		self.definitions = [u'a person who studies old age']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

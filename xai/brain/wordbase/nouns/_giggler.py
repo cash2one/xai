@@ -4,11 +4,12 @@
 class _GIGGLER():
 	def __init__(self,): 
 		self.name = "GIGGLER"
+		self.definitions = [u'a person who often giggles']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

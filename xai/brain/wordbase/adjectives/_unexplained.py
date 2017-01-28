@@ -4,11 +4,12 @@
 class _UNEXPLAINED():
 	def __init__(self,): 
 		self.name = "UNEXPLAINED"
+		self.definitions = [u'Unexplained events, behaviour, etc. are ones for which people do not know or understand the reason: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

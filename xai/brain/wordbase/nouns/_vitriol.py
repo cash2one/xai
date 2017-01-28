@@ -4,11 +4,12 @@
 class _VITRIOL():
 	def __init__(self,): 
 		self.name = "VITRIOL"
+		self.definitions = [u'violent hate and anger expressed through severe criticism: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

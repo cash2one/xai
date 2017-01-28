@@ -4,11 +4,12 @@
 class _PORN():
 	def __init__(self,): 
 		self.name = "PORN"
+		self.definitions = [u'informal for  pornographic (pornography) : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

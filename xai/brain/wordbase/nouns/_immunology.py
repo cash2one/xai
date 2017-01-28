@@ -4,11 +4,12 @@
 class _IMMUNOLOGY():
 	def __init__(self,): 
 		self.name = "IMMUNOLOGY"
+		self.definitions = [u'the study of how the body fights disease and infection']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

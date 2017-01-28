@@ -4,11 +4,12 @@
 class _PAUPER():
 	def __init__(self,): 
 		self.name = "PAUPER"
+		self.definitions = [u'a very poor person']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

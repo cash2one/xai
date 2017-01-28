@@ -4,11 +4,12 @@
 class _EXCELLENT():
 	def __init__(self,): 
 		self.name = "EXCELLENT"
+		self.definitions = [u'extremely good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

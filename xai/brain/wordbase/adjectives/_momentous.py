@@ -4,11 +4,12 @@
 class _MOMENTOUS():
 	def __init__(self,): 
 		self.name = "MOMENTOUS"
+		self.definitions = [u'very important because of effects on future events: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

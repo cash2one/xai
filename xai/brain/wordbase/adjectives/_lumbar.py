@@ -4,11 +4,12 @@
 class _LUMBAR():
 	def __init__(self,): 
 		self.name = "LUMBAR"
+		self.definitions = [u'relating to the lower part of the back']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

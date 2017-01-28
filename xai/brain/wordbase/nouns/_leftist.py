@@ -4,11 +4,12 @@
 class _LEFTIST():
 	def __init__(self,): 
 		self.name = "LEFTIST"
+		self.definitions = [u'a supporter of the political left']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

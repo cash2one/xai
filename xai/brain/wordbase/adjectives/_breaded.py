@@ -4,11 +4,12 @@
 class _BREADED():
 	def __init__(self,): 
 		self.name = "BREADED"
+		self.definitions = [u'covered in breadcrumbs before being cooked: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

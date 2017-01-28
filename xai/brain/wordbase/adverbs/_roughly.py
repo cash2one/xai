@@ -4,11 +4,12 @@
 class _ROUGHLY():
 	def __init__(self,): 
 		self.name = "ROUGHLY"
+		self.definitions = [u'approximately: ', u'without taking a lot of care to make something perfect: ', u'in a violent or angry way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

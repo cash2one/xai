@@ -4,11 +4,12 @@
 class _EQUATORIAL():
 	def __init__(self,): 
 		self.name = "EQUATORIAL"
+		self.definitions = [u'near the equator, or typical of places near the equator: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

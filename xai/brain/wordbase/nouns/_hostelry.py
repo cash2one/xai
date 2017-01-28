@@ -4,11 +4,12 @@
 class _HOSTELRY():
 	def __init__(self,): 
 		self.name = "HOSTELRY"
+		self.definitions = [u'a bar or pub']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

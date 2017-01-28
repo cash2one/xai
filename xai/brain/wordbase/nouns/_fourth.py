@@ -4,11 +4,12 @@
 class _FOURTH():
 	def __init__(self,): 
 		self.name = "FOURTH"
+		self.definitions = [u'a  quarter noun : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

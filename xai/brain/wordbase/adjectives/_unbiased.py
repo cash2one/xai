@@ -4,11 +4,12 @@
 class _UNBIASED():
 	def __init__(self,): 
 		self.name = "UNBIASED"
+		self.definitions = [u'able to judge fairly because you are not influenced by your own opinions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

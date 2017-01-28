@@ -4,11 +4,12 @@
 class _DISREPUTABLE():
 	def __init__(self,): 
 		self.name = "DISREPUTABLE"
+		self.definitions = [u'not trusted or respected; thought to have a bad character: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

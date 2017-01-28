@@ -4,11 +4,12 @@
 class _APOLITICAL():
 	def __init__(self,): 
 		self.name = "APOLITICAL"
+		self.definitions = [u'not interested in or connected with politics, or not connected to any political party: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

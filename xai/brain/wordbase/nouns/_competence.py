@@ -4,11 +4,12 @@
 class _COMPETENCE():
 	def __init__(self,): 
 		self.name = "COMPETENCE"
+		self.definitions = [u'the ability to do something well: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _WONT():
 	def __init__(self,): 
 		self.name = "WONT"
+		self.definitions = [u'to often do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

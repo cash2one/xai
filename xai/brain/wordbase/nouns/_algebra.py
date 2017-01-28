@@ -4,11 +4,12 @@
 class _ALGEBRA():
 	def __init__(self,): 
 		self.name = "ALGEBRA"
+		self.definitions = [u'a part of mathematics in which signs and letters represent numbers']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

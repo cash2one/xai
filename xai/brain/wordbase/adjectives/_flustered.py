@@ -4,11 +4,12 @@
 class _FLUSTERED():
 	def __init__(self,): 
 		self.name = "FLUSTERED"
+		self.definitions = [u'upset and confused: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

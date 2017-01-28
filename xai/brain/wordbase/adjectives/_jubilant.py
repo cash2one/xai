@@ -4,11 +4,12 @@
 class _JUBILANT():
 	def __init__(self,): 
 		self.name = "JUBILANT"
+		self.definitions = [u'feeling or expressing great happiness, especially because of a success: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

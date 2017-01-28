@@ -4,11 +4,12 @@
 class _ORACULAR():
 	def __init__(self,): 
 		self.name = "ORACULAR"
+		self.definitions = [u'mysterious and difficult to understand, but probably wise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FLAMMABLE():
 	def __init__(self,): 
 		self.name = "FLAMMABLE"
+		self.definitions = [u'Something that is flammable burns easily: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

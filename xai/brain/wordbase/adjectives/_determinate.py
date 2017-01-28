@@ -4,11 +4,12 @@
 class _DETERMINATE():
 	def __init__(self,): 
 		self.name = "DETERMINATE"
+		self.definitions = [u'fixed or exact: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

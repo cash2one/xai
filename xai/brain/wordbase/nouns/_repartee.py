@@ -4,11 +4,12 @@
 class _REPARTEE():
 	def __init__(self,): 
 		self.name = "REPARTEE"
+		self.definitions = [u'quick and usually funny answers and remarks in conversation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

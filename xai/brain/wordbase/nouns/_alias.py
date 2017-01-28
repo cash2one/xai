@@ -4,11 +4,12 @@
 class _ALIAS():
 	def __init__(self,): 
 		self.name = "ALIAS"
+		self.definitions = [u'a false name, especially one used by a criminal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

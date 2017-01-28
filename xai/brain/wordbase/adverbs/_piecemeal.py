@@ -4,11 +4,12 @@
 class _PIECEMEAL():
 	def __init__(self,): 
 		self.name = "PIECEMEAL"
+		self.definitions = [u'not done according to a plan but done at different times in different ways: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

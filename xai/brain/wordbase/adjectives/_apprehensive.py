@@ -4,11 +4,12 @@
 class _APPREHENSIVE():
 	def __init__(self,): 
 		self.name = "APPREHENSIVE"
+		self.definitions = [u'feeling worried about something that you are going to do or that is going to happen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FULFILLING():
 	def __init__(self,): 
 		self.name = "FULFILLING"
+		self.definitions = [u'making you feel happy and satisfied: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

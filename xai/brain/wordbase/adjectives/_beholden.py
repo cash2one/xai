@@ -4,11 +4,12 @@
 class _BEHOLDEN():
 	def __init__(self,): 
 		self.name = "BEHOLDEN"
+		self.definitions = [u'feeling you have a duty to someone because they have done something for you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _RELUCTANT():
 	def __init__(self,): 
 		self.name = "RELUCTANT"
+		self.definitions = [u'not willing to do something and therefore slow to do it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

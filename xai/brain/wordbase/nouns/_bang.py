@@ -4,11 +4,12 @@
 class _BANG():
 	def __init__(self,): 
 		self.name = "BANG"
+		self.definitions = [u'a sudden very loud noise: ', u'an act of hitting someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

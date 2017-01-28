@@ -4,11 +4,12 @@
 class _UNDISTURBED():
 	def __init__(self,): 
 		self.name = "UNDISTURBED"
+		self.definitions = [u'not interrupted or changed in any way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

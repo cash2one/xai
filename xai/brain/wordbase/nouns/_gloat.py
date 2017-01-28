@@ -4,11 +4,12 @@
 class _GLOAT():
 	def __init__(self,): 
 		self.name = "GLOAT"
+		self.definitions = [u'an occasion when you gloat about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

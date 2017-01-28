@@ -4,11 +4,12 @@
 class _BRITCHES():
 	def __init__(self,): 
 		self.name = "BRITCHES"
+		self.definitions = [u'trousers, especially those that do not cover the whole of the leg']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

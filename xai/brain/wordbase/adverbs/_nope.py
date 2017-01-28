@@ -4,11 +4,12 @@
 class _NOPE():
 	def __init__(self,): 
 		self.name = "NOPE"
+		self.definitions = [u'no: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

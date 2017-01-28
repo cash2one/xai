@@ -4,11 +4,12 @@
 class _COSMIC():
 	def __init__(self,): 
 		self.name = "COSMIC"
+		self.definitions = [u'relating to the universe and the natural processes that happen in it: ', u'very great: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

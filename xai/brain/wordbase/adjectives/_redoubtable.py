@@ -4,11 +4,12 @@
 class _REDOUBTABLE():
 	def __init__(self,): 
 		self.name = "REDOUBTABLE"
+		self.definitions = [u'very strong, especially in character; producing respect and a little fear in others: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

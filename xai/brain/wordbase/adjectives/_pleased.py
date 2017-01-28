@@ -4,11 +4,12 @@
 class _PLEASED():
 	def __init__(self,): 
 		self.name = "PLEASED"
+		self.definitions = [u'happy or satisfied: ', u'to be very willing to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

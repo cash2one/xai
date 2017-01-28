@@ -4,11 +4,12 @@
 class _ESTIMABLE():
 	def __init__(self,): 
 		self.name = "ESTIMABLE"
+		self.definitions = [u'of a person or their behaviour , considered to be very good or deserving praise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UR():
 	def __init__(self,): 
 		self.name = "UR"
+		self.definitions = [u'original or earliest: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

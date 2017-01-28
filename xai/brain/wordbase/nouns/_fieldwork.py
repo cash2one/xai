@@ -4,11 +4,12 @@
 class _FIELDWORK():
 	def __init__(self,): 
 		self.name = "FIELDWORK"
+		self.definitions = [u'study that consists of practical activities that are done away from your school, college, or place of work: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

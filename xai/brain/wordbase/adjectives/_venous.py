@@ -4,11 +4,12 @@
 class _VENOUS():
 	def __init__(self,): 
 		self.name = "VENOUS"
+		self.definitions = [u'of or relating to the veins: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

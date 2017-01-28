@@ -4,11 +4,12 @@
 class _SKULL():
 	def __init__(self,): 
 		self.name = "SKULL"
+		self.definitions = [u'the bones of the head that surround the brain and give the head its shape: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

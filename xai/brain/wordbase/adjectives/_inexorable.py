@@ -4,11 +4,12 @@
 class _INEXORABLE():
 	def __init__(self,): 
 		self.name = "INEXORABLE"
+		self.definitions = [u'continuing without any possibility of being stopped: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

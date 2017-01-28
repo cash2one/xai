@@ -4,11 +4,12 @@
 class _COMBUSTIBLE():
 	def __init__(self,): 
 		self.name = "COMBUSTIBLE"
+		self.definitions = [u'able to burn easily: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

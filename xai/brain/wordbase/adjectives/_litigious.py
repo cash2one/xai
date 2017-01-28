@@ -4,11 +4,12 @@
 class _LITIGIOUS():
 	def __init__(self,): 
 		self.name = "LITIGIOUS"
+		self.definitions = [u'too often taking arguments to a court of law for a decision: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

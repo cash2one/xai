@@ -4,11 +4,12 @@
 class _MOZAMBICAN():
 	def __init__(self,): 
 		self.name = "MOZAMBICAN"
+		self.definitions = [u'belonging to or relating to Mozambique or its people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

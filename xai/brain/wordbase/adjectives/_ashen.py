@@ -4,11 +4,12 @@
 class _ASHEN():
 	def __init__(self,): 
 		self.name = "ASHEN"
+		self.definitions = [u'without colour, or pale grey in colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CURACY():
 	def __init__(self,): 
 		self.name = "CURACY"
+		self.definitions = [u'a job or period of time as a curate: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

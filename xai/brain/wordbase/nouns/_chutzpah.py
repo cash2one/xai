@@ -4,11 +4,12 @@
 class _CHUTZPAH():
 	def __init__(self,): 
 		self.name = "CHUTZPAH"
+		self.definitions = [u'unusual and shocking behaviour, involving taking risks but not feeling guilty']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

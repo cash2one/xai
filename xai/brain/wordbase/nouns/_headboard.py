@@ -4,11 +4,12 @@
 class _HEADBOARD():
 	def __init__(self,): 
 		self.name = "HEADBOARD"
+		self.definitions = [u'a vertical board at the end of a bed behind where your head rests']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

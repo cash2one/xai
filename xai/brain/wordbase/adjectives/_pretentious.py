@@ -4,11 +4,12 @@
 class _PRETENTIOUS():
 	def __init__(self,): 
 		self.name = "PRETENTIOUS"
+		self.definitions = [u'trying to appear or sound more important or clever than you are, especially in matters of art and literature: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

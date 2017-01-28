@@ -4,11 +4,12 @@
 class _SIGH():
 	def __init__(self,): 
 		self.name = "SIGH"
+		self.definitions = [u'a slow, noisy breath: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

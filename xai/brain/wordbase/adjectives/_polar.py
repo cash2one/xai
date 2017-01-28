@@ -4,11 +4,12 @@
 class _POLAR():
 	def __init__(self,): 
 		self.name = "POLAR"
+		self.definitions = [u'relating to the North or South Pole or the areas around them: ', u'Polar opposites are complete opposites: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

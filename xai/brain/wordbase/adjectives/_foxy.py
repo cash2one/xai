@@ -4,11 +4,12 @@
 class _FOXY():
 	def __init__(self,): 
 		self.name = "FOXY"
+		self.definitions = [u'like a fox in appearance', u'good at deceiving people', u'sexually attractive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

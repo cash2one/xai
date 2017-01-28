@@ -4,11 +4,12 @@
 class _HUNGRY():
 	def __init__(self,): 
 		self.name = "HUNGRY"
+		self.definitions = [u'wanting or needing food: ', u'having a strong wish or desire for something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

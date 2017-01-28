@@ -4,11 +4,12 @@
 class _ENTREATY():
 	def __init__(self,): 
 		self.name = "ENTREATY"
+		self.definitions = [u'an attempt to persuade someone to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

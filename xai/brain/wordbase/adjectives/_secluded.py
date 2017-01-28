@@ -4,11 +4,12 @@
 class _SECLUDED():
 	def __init__(self,): 
 		self.name = "SECLUDED"
+		self.definitions = [u'quiet, private, and not near people, roads, or buildings: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

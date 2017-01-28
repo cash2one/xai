@@ -4,11 +4,12 @@
 class _INELASTIC():
 	def __init__(self,): 
 		self.name = "INELASTIC"
+		self.definitions = [u'not changing much, or not allowing much change: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

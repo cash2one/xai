@@ -4,11 +4,12 @@
 class _UNENLIGHTENED():
 	def __init__(self,): 
 		self.name = "UNENLIGHTENED"
+		self.definitions = [u'not showing understanding or knowledge; not enlightened']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

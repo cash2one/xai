@@ -4,11 +4,12 @@
 class _NAVAL():
 	def __init__(self,): 
 		self.name = "NAVAL"
+		self.definitions = [u"belonging to a country's navy, or relating to military ships: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

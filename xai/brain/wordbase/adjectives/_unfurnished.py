@@ -4,11 +4,12 @@
 class _UNFURNISHED():
 	def __init__(self,): 
 		self.name = "UNFURNISHED"
+		self.definitions = [u'An unfurnished room, house, or other building has no furniture in it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

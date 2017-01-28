@@ -4,11 +4,12 @@
 class _CONCERNING():
 	def __init__(self,): 
 		self.name = "CONCERNING"
+		self.definitions = [u'about: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

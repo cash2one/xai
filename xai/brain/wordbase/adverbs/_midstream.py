@@ -4,11 +4,12 @@
 class _MIDSTREAM():
 	def __init__(self,): 
 		self.name = "MIDSTREAM"
+		self.definitions = [u'in the middle of an activity, often one that is interrupted']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

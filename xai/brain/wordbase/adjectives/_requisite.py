@@ -4,11 +4,12 @@
 class _REQUISITE():
 	def __init__(self,): 
 		self.name = "REQUISITE"
+		self.definitions = [u'necessary or needed for a particular purpose: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

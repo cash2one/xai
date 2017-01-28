@@ -4,11 +4,12 @@
 class _ACTUALITY():
 	def __init__(self,): 
 		self.name = "ACTUALITY"
+		self.definitions = [u'a fact: ', u'really: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

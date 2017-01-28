@@ -4,11 +4,12 @@
 class _PUSHED():
 	def __init__(self,): 
 		self.name = "PUSHED"
+		self.definitions = [u'to not have enough time or money: ', u'to find it difficult to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

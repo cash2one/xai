@@ -4,11 +4,12 @@
 class _PUNCTUAL():
 	def __init__(self,): 
 		self.name = "PUNCTUAL"
+		self.definitions = [u'arriving, doing something, or happening at the expected, correct time; not late: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

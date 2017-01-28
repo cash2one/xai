@@ -4,11 +4,12 @@
 class _READINESS():
 	def __init__(self,): 
 		self.name = "READINESS"
+		self.definitions = [u'willingness or a state of being prepared for something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

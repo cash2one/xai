@@ -4,11 +4,12 @@
 class _COWGIRL():
 	def __init__(self,): 
 		self.name = "COWGIRL"
+		self.definitions = [u'a female cowboy']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

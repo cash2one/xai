@@ -4,11 +4,12 @@
 class _UNHEALTHY():
 	def __init__(self,): 
 		self.name = "UNHEALTHY"
+		self.definitions = [u'not good for your health, or not strong and well: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

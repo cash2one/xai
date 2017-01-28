@@ -4,11 +4,12 @@
 class _DUSK():
 	def __init__(self,): 
 		self.name = "DUSK"
+		self.definitions = [u'the time before night when it is not yet dark: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

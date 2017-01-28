@@ -4,11 +4,12 @@
 class _MISERLY():
 	def __init__(self,): 
 		self.name = "MISERLY"
+		self.definitions = [u'like or typical of a miser: ', u'A miserly amount is extremely small: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ESSAYIST():
 	def __init__(self,): 
 		self.name = "ESSAYIST"
+		self.definitions = [u'a person who writes essays that are published: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

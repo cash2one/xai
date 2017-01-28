@@ -4,11 +4,12 @@
 class _QUADRUPLE():
 	def __init__(self,): 
 		self.name = "QUADRUPLE"
+		self.definitions = [u'four times as big: ', u'involving four parts, people, places, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

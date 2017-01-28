@@ -4,11 +4,12 @@
 class _FRIGHT():
 	def __init__(self,): 
 		self.name = "FRIGHT"
+		self.definitions = [u'the feeling of fear, especially if felt suddenly, or an experience of fear that happens suddenly: ', u'to feel fear: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

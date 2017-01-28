@@ -4,11 +4,12 @@
 class _FLOWERPOT():
 	def __init__(self,): 
 		self.name = "FLOWERPOT"
+		self.definitions = [u'a container, usually made of clay or plastic, in which a plant is grown']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

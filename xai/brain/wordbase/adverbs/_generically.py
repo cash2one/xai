@@ -4,11 +4,12 @@
 class _GENERICALLY():
 	def __init__(self,): 
 		self.name = "GENERICALLY"
+		self.definitions = [u'relating to generic products, especially medical drugs: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

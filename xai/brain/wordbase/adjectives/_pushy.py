@@ -4,11 +4,12 @@
 class _PUSHY():
 	def __init__(self,): 
 		self.name = "PUSHY"
+		self.definitions = [u'behaving in an unpleasant way by trying too much to get something or to make someone do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

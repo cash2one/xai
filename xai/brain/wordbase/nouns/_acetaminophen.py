@@ -4,11 +4,12 @@
 class _ACETAMINOPHEN():
 	def __init__(self,): 
 		self.name = "ACETAMINOPHEN"
+		self.definitions = [u'a drug used to reduce pain']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

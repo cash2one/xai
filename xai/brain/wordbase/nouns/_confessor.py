@@ -4,11 +4,12 @@
 class _CONFESSOR():
 	def __init__(self,): 
 		self.name = "CONFESSOR"
+		self.definitions = [u'a priest who someone can confess to']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _WASHABLE():
 	def __init__(self,): 
 		self.name = "WASHABLE"
+		self.definitions = [u'able to be washed in a washing machine without being damaged: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

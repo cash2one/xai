@@ -4,11 +4,12 @@
 class _UNMOVED():
 	def __init__(self,): 
 		self.name = "UNMOVED"
+		self.definitions = [u'not feeling any emotion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

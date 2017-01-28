@@ -4,11 +4,12 @@
 class _PARLIAMENTARY():
 	def __init__(self,): 
 		self.name = "PARLIAMENTARY"
+		self.definitions = [u'of or relating to a parliament: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

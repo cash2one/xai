@@ -4,11 +4,12 @@
 class _GEN():
 	def __init__(self,): 
 		self.name = "GEN"
+		self.definitions = [u'information about a particular subject: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

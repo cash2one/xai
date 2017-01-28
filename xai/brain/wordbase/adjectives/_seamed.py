@@ -4,11 +4,12 @@
 class _SEAMED():
 	def __init__(self,): 
 		self.name = "SEAMED"
+		self.definitions = [u'covered in lines: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

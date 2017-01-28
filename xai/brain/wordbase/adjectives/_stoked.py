@@ -4,11 +4,12 @@
 class _STOKED():
 	def __init__(self,): 
 		self.name = "STOKED"
+		self.definitions = [u'excited and very happy about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

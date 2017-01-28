@@ -4,11 +4,12 @@
 class _INHUMANE():
 	def __init__(self,): 
 		self.name = "INHUMANE"
+		self.definitions = [u'cruel and causing suffering to people or animals: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ROUNDED():
 	def __init__(self,): 
 		self.name = "ROUNDED"
+		self.definitions = [u'round or curved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SECRETIVE():
 	def __init__(self,): 
 		self.name = "SECRETIVE"
+		self.definitions = [u'People who are secretive hide their feelings, thoughts, intentions, and actions from other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

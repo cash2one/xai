@@ -4,11 +4,12 @@
 class _PROLONGED():
 	def __init__(self,): 
 		self.name = "PROLONGED"
+		self.definitions = [u'continuing for a long time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

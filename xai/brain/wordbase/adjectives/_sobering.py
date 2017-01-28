@@ -4,11 +4,12 @@
 class _SOBERING():
 	def __init__(self,): 
 		self.name = "SOBERING"
+		self.definitions = [u'making you feel serious or think about serious matters: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

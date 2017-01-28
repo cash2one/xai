@@ -4,11 +4,12 @@
 class _OUTREACH():
 	def __init__(self,): 
 		self.name = "OUTREACH"
+		self.definitions = [u'bringing medical or other services to people at home or to where they spend time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

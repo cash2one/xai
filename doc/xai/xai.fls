@@ -361,11 +361,13 @@ INPUT introduction.tex
 INPUT body/body.tex
 INPUT body/body.tex
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplb9t.tfm
-INPUT appendix.tex
-INPUT appendix.tex
+INPUT body/python.tex
+INPUT body/python.tex
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/palatino/pplb9t.vf
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT appendix.tex
+INPUT appendix.tex
 OUTPUT xai.thm
 OUTPUT xai.toc
 INPUT xai.aux

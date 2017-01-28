@@ -4,11 +4,12 @@
 class _GIVEN():
 	def __init__(self,): 
 		self.name = "GIVEN"
+		self.definitions = [u'knowing about or considering a particular thing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

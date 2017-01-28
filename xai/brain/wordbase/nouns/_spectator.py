@@ -4,11 +4,12 @@
 class _SPECTATOR():
 	def __init__(self,): 
 		self.name = "SPECTATOR"
+		self.definitions = [u'a person who watches an activity, especially a sports event, without taking part: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

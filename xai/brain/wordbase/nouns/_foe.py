@@ -4,11 +4,12 @@
 class _FOE():
 	def __init__(self,): 
 		self.name = "FOE"
+		self.definitions = [u'an enemy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

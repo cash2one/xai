@@ -4,11 +4,12 @@
 class _FOLLOWING():
 	def __init__(self,): 
 		self.name = "FOLLOWING"
+		self.definitions = [u'after: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

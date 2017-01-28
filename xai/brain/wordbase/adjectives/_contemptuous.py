@@ -4,11 +4,12 @@
 class _CONTEMPTUOUS():
 	def __init__(self,): 
 		self.name = "CONTEMPTUOUS"
+		self.definitions = [u'expressing contempt: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

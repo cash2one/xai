@@ -4,11 +4,12 @@
 class _GOATHERD():
 	def __init__(self,): 
 		self.name = "GOATHERD"
+		self.definitions = [u'a person who takes care of a group of goats']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

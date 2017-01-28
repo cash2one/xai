@@ -4,11 +4,12 @@
 class _IRATE():
 	def __init__(self,): 
 		self.name = "IRATE"
+		self.definitions = [u'very angry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

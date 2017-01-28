@@ -4,11 +4,12 @@
 class _OW():
 	def __init__(self,): 
 		self.name = "OW"
+		self.definitions = [u'used to express sudden pain: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

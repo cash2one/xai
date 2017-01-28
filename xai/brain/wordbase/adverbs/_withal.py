@@ -4,11 +4,12 @@
 class _WITHAL():
 	def __init__(self,): 
 		self.name = "WITHAL"
+		self.definitions = [u'in addition: ', u'in spite of what has been said: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

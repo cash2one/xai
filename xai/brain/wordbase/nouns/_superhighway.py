@@ -4,11 +4,12 @@
 class _SUPERHIGHWAY():
 	def __init__(self,): 
 		self.name = "SUPERHIGHWAY"
+		self.definitions = [u'a large, wide road on which traffic travels at high speed']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

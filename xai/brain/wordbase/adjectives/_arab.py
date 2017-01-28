@@ -4,11 +4,12 @@
 class _ARAB():
 	def __init__(self,): 
 		self.name = "ARAB"
+		self.definitions = [u'belonging to or relating to Arabs or their countries: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _TEARY():
 	def __init__(self,): 
 		self.name = "TEARY"
+		self.definitions = [u'crying or likely to cry: ', u'sad and likely to make people cry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

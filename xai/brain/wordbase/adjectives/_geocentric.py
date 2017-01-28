@@ -4,11 +4,12 @@
 class _GEOCENTRIC():
 	def __init__(self,): 
 		self.name = "GEOCENTRIC"
+		self.definitions = [u'having the earth as its centre']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

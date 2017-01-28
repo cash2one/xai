@@ -4,11 +4,12 @@
 class _SLUMPED():
 	def __init__(self,): 
 		self.name = "SLUMPED"
+		self.definitions = [u'having your head low and shoulders forward: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

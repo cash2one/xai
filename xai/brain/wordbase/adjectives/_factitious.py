@@ -4,11 +4,12 @@
 class _FACTITIOUS():
 	def __init__(self,): 
 		self.name = "FACTITIOUS"
+		self.definitions = [u'artificial rather than natural: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

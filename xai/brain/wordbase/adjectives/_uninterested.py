@@ -4,11 +4,12 @@
 class _UNINTERESTED():
 	def __init__(self,): 
 		self.name = "UNINTERESTED"
+		self.definitions = [u'not interested']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

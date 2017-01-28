@@ -4,11 +4,12 @@
 class _HAMMERING():
 	def __init__(self,): 
 		self.name = "HAMMERING"
+		self.definitions = [u'an occasion when someone is defeated completely: ', u'strong criticism: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

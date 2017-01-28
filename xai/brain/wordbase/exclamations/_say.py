@@ -4,11 +4,12 @@
 class _SAY():
 	def __init__(self,): 
 		self.name = "SAY"
+		self.definitions = [u'used to express surprise or pleasure, or to attract attention to what you are about to say: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

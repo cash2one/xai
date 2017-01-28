@@ -4,11 +4,12 @@
 class _ANTIPERSPIRANT():
 	def __init__(self,): 
 		self.name = "ANTIPERSPIRANT"
+		self.definitions = [u'acting to prevent or reduce sweating: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

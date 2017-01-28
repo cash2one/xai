@@ -4,11 +4,12 @@
 class _GRAVELLED():
 	def __init__(self,): 
 		self.name = "GRAVELLED"
+		self.definitions = [u'covered with gravel: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

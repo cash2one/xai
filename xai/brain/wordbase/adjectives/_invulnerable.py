@@ -4,11 +4,12 @@
 class _INVULNERABLE():
 	def __init__(self,): 
 		self.name = "INVULNERABLE"
+		self.definitions = [u'impossible to damage or hurt in any way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

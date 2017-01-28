@@ -4,11 +4,12 @@
 class _LUCRE():
 	def __init__(self,): 
 		self.name = "LUCRE"
+		self.definitions = [u'money or profit: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

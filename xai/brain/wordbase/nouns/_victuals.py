@@ -4,11 +4,12 @@
 class _VICTUALS():
 	def __init__(self,): 
 		self.name = "VICTUALS"
+		self.definitions = [u'food and drink: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

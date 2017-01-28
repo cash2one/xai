@@ -4,11 +4,12 @@
 class _ILLUSTRATOR():
 	def __init__(self,): 
 		self.name = "ILLUSTRATOR"
+		self.definitions = [u'a person who draws pictures, especially for books']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

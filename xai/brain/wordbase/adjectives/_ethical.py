@@ -4,11 +4,12 @@
 class _ETHICAL():
 	def __init__(self,): 
 		self.name = "ETHICAL"
+		self.definitions = [u'relating to beliefs about what is morally right and wrong: ', u'morally right: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PARISIAN():
 	def __init__(self,): 
 		self.name = "PARISIAN"
+		self.definitions = [u'from, belonging to, or relating to the city of Paris in France: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNIVERSAL():
 	def __init__(self,): 
 		self.name = "UNIVERSAL"
+		self.definitions = [u'existing everywhere or involving everyone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

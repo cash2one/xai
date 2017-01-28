@@ -4,11 +4,12 @@
 class _PRACTITIONER():
 	def __init__(self,): 
 		self.name = "PRACTITIONER"
+		self.definitions = [u'someone involved in a skilled job or activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

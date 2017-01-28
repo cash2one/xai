@@ -4,11 +4,12 @@
 class _AVUNCULAR():
 	def __init__(self,): 
 		self.name = "AVUNCULAR"
+		self.definitions = [u'friendly, kind, or helpful, like the expected behaviour of an uncle: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

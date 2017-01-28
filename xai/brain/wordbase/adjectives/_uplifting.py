@@ -4,11 +4,12 @@
 class _UPLIFTING():
 	def __init__(self,): 
 		self.name = "UPLIFTING"
+		self.definitions = [u'making someone feel better: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

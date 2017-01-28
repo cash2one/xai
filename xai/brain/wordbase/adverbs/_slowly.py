@@ -4,11 +4,12 @@
 class _SLOWLY():
 	def __init__(self,): 
 		self.name = "SLOWLY"
+		self.definitions = [u'at a slow speed: ', u'carefully, in order to avoid problems: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

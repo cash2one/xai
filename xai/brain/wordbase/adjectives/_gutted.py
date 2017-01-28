@@ -4,11 +4,12 @@
 class _GUTTED():
 	def __init__(self,): 
 		self.name = "GUTTED"
+		self.definitions = [u'extremely disappointed and unhappy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

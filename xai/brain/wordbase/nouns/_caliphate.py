@@ -4,11 +4,12 @@
 class _CALIPHATE():
 	def __init__(self,): 
 		self.name = "CALIPHATE"
+		self.definitions = [u'an Islamic state, especially one ruled by a single religious and political leader ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

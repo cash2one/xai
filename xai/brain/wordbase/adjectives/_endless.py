@@ -4,11 +4,12 @@
 class _ENDLESS():
 	def __init__(self,): 
 		self.name = "ENDLESS"
+		self.definitions = [u'never finishing, or seeming never to finish: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

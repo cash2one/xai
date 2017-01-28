@@ -4,11 +4,12 @@
 class _GAUCHO():
 	def __init__(self,): 
 		self.name = "GAUCHO"
+		self.definitions = [u'a South American cowboy (= person who takes care of male and female cows)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

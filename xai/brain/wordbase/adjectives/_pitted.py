@@ -4,11 +4,12 @@
 class _PITTED():
 	def __init__(self,): 
 		self.name = "PITTED"
+		self.definitions = [u'covered with holes or low areas: ', u'with the pit (= seed) removed ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

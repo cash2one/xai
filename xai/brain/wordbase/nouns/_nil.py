@@ -4,11 +4,12 @@
 class _NIL():
 	def __init__(self,): 
 		self.name = "NIL"
+		self.definitions = [u'nothing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

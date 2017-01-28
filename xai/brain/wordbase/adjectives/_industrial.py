@@ -4,11 +4,12 @@
 class _INDUSTRIAL():
 	def __init__(self,): 
 		self.name = "INDUSTRIAL"
+		self.definitions = [u'in or related to industry, or having a lot of industry and factories, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

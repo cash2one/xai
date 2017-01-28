@@ -4,11 +4,12 @@
 class _DISCIPLINED():
 	def __init__(self,): 
 		self.name = "DISCIPLINED"
+		self.definitions = [u'behaving in a very controlled way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

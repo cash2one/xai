@@ -4,11 +4,12 @@
 class _PERCEPTIBLE():
 	def __init__(self,): 
 		self.name = "PERCEPTIBLE"
+		self.definitions = [u'that can be seen, heard, or noticed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

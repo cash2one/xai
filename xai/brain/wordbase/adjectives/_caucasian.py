@@ -4,11 +4,12 @@
 class _CAUCASIAN():
 	def __init__(self,): 
 		self.name = "CAUCASIAN"
+		self.definitions = [u'belonging to the races of people who have skin that is of a pale colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

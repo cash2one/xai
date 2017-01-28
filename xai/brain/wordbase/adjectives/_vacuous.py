@@ -4,11 +4,12 @@
 class _VACUOUS():
 	def __init__(self,): 
 		self.name = "VACUOUS"
+		self.definitions = [u'not expressing or showing intelligent thought or purpose: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

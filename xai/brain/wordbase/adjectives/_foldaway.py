@@ -4,11 +4,12 @@
 class _FOLDAWAY():
 	def __init__(self,): 
 		self.name = "FOLDAWAY"
+		self.definitions = [u'able to be folded away out of sight: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

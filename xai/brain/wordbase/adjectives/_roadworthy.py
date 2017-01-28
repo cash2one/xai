@@ -4,11 +4,12 @@
 class _ROADWORTHY():
 	def __init__(self,): 
 		self.name = "ROADWORTHY"
+		self.definitions = [u'(of a vehicle) in good enough condition to be driven without danger']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

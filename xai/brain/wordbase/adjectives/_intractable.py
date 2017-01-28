@@ -4,11 +4,12 @@
 class _INTRACTABLE():
 	def __init__(self,): 
 		self.name = "INTRACTABLE"
+		self.definitions = [u'very difficult or impossible to control, manage, or solve: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

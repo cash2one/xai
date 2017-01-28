@@ -4,11 +4,12 @@
 class _UNSELFISH():
 	def __init__(self,): 
 		self.name = "UNSELFISH"
+		self.definitions = [u'An unselfish person thinks about what is good for other people, not just about their own advantage.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

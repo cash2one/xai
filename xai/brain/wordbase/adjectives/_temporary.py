@@ -4,11 +4,12 @@
 class _TEMPORARY():
 	def __init__(self,): 
 		self.name = "TEMPORARY"
+		self.definitions = [u'not lasting or needed for very long: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

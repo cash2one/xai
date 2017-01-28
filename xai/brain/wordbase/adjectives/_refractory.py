@@ -4,11 +4,12 @@
 class _REFRACTORY():
 	def __init__(self,): 
 		self.name = "REFRACTORY"
+		self.definitions = [u'not affected by a treatment, change, or process: ', u'difficult to control; unwilling to obey: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

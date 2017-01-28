@@ -4,11 +4,12 @@
 class _YUP():
 	def __init__(self,): 
 		self.name = "YUP"
+		self.definitions = [u'(spelled the way it is spoken) yes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

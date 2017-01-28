@@ -4,11 +4,12 @@
 class _ZILCH():
 	def __init__(self,): 
 		self.name = "ZILCH"
+		self.definitions = [u'nothing; none; no: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

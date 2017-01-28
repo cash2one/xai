@@ -4,11 +4,12 @@
 class _WITTY():
 	def __init__(self,): 
 		self.name = "WITTY"
+		self.definitions = [u'using words in a clever and funny way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

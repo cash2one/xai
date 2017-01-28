@@ -4,11 +4,12 @@
 class _THEOLOGIAN():
 	def __init__(self,): 
 		self.name = "THEOLOGIAN"
+		self.definitions = [u'a student of theology']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

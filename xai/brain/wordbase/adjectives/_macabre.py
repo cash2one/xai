@@ -4,11 +4,12 @@
 class _MACABRE():
 	def __init__(self,): 
 		self.name = "MACABRE"
+		self.definitions = [u'used to describe something that is very strange and unpleasant because it is connected with death or violence: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

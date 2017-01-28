@@ -4,11 +4,12 @@
 class _DISARMAMENT():
 	def __init__(self,): 
 		self.name = "DISARMAMENT"
+		self.definitions = [u'the act of taking away or giving up weapons: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

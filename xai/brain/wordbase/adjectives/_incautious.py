@@ -4,11 +4,12 @@
 class _INCAUTIOUS():
 	def __init__(self,): 
 		self.name = "INCAUTIOUS"
+		self.definitions = [u'not showing or giving careful thought to the possible results: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

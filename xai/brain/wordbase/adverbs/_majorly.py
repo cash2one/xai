@@ -4,11 +4,12 @@
 class _MAJORLY():
 	def __init__(self,): 
 		self.name = "MAJORLY"
+		self.definitions = [u'very or extremely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _RESOLVED():
 	def __init__(self,): 
 		self.name = "RESOLVED"
+		self.definitions = [u'determined: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

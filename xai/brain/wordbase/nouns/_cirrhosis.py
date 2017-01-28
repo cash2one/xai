@@ -4,11 +4,12 @@
 class _CIRRHOSIS():
 	def __init__(self,): 
 		self.name = "CIRRHOSIS"
+		self.definitions = [u'a serious disease of the liver that usually causes death: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

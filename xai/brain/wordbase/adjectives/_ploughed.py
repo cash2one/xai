@@ -4,11 +4,12 @@
 class _PLOUGHED():
 	def __init__(self,): 
 		self.name = "PLOUGHED"
+		self.definitions = [u'dug to make ready for planting seeds: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

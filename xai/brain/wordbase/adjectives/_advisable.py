@@ -4,11 +4,12 @@
 class _ADVISABLE():
 	def __init__(self,): 
 		self.name = "ADVISABLE"
+		self.definitions = [u'If something is advisable, it will avoid problems if you do it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

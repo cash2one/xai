@@ -4,11 +4,12 @@
 class _MAIDEN():
 	def __init__(self,): 
 		self.name = "MAIDEN"
+		self.definitions = [u'being the first of its type: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

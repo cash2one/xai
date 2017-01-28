@@ -4,11 +4,12 @@
 class _CHOLERIC():
 	def __init__(self,): 
 		self.name = "CHOLERIC"
+		self.definitions = [u'very angry or easily annoyed']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

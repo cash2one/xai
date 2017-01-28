@@ -4,11 +4,12 @@
 class _INDELICATE():
 	def __init__(self,): 
 		self.name = "INDELICATE"
+		self.definitions = [u'Indelicate words or actions are not suitable for a situation and are likely to be offensive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LIMY():
 	def __init__(self,): 
 		self.name = "LIMY"
+		self.definitions = [u'Limy land has been covered with lime or contains it naturally.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

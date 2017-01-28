@@ -4,11 +4,12 @@
 class _SOLVENT():
 	def __init__(self,): 
 		self.name = "SOLVENT"
+		self.definitions = [u'a liquid in which solids will dissolve']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

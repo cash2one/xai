@@ -4,11 +4,12 @@
 class _PEEL():
 	def __init__(self,): 
 		self.name = "PEEL"
+		self.definitions = [u'the skin of fruit and vegetables, especially after it has been removed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

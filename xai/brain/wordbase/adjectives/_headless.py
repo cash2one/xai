@@ -4,11 +4,12 @@
 class _HEADLESS():
 	def __init__(self,): 
 		self.name = "HEADLESS"
+		self.definitions = [u'without a head: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

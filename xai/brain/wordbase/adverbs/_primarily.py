@@ -4,11 +4,12 @@
 class _PRIMARILY():
 	def __init__(self,): 
 		self.name = "PRIMARILY"
+		self.definitions = [u'mainly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

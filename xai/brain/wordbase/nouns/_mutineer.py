@@ -4,11 +4,12 @@
 class _MUTINEER():
 	def __init__(self,): 
 		self.name = "MUTINEER"
+		self.definitions = [u'someone who takes part in a mutiny']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

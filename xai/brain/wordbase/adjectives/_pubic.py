@@ -4,11 +4,12 @@
 class _PUBIC():
 	def __init__(self,): 
 		self.name = "PUBIC"
+		self.definitions = [u"of or near the sexual organs on the outside of a person's body: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

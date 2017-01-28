@@ -4,11 +4,12 @@
 class _STERN():
 	def __init__(self,): 
 		self.name = "STERN"
+		self.definitions = [u'severe, or showing disapproval: ', u'If something, such as a job, is stern, it is difficult: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

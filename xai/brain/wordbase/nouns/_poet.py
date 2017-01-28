@@ -4,11 +4,12 @@
 class _POET():
 	def __init__(self,): 
 		self.name = "POET"
+		self.definitions = [u'a person who writes poems']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

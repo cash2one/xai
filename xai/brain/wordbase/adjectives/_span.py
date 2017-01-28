@@ -4,11 +4,12 @@
 class _SPAN():
 	def __init__(self,): 
 		self.name = "SPAN"
+		self.definitions = [u'\u2192\xa0 spick and span ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LUMINOUS():
 	def __init__(self,): 
 		self.name = "LUMINOUS"
+		self.definitions = [u'producing or reflecting bright light (especially in the dark): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

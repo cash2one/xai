@@ -4,11 +4,12 @@
 class _STEAM():
 	def __init__(self,): 
 		self.name = "STEAM"
+		self.definitions = [u'the hot gas that is produced when water boils: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

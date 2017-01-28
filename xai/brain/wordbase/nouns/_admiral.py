@@ -4,11 +4,12 @@
 class _ADMIRAL():
 	def __init__(self,): 
 		self.name = "ADMIRAL"
+		self.definitions = [u'an officer of very high rank in the navy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

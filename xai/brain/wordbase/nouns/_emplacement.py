@@ -4,11 +4,12 @@
 class _EMPLACEMENT():
 	def __init__(self,): 
 		self.name = "EMPLACEMENT"
+		self.definitions = [u'a position specially prepared for large pieces of military equipment']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

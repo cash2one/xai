@@ -4,11 +4,12 @@
 class _UNNOTICED():
 	def __init__(self,): 
 		self.name = "UNNOTICED"
+		self.definitions = [u'without being seen or noticed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

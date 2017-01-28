@@ -4,11 +4,12 @@
 class _TB():
 	def __init__(self,): 
 		self.name = "TB"
+		self.definitions = [u'abbreviation for  tuberculosis ', u'written abbreviation for  terabyte ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

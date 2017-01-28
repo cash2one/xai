@@ -4,11 +4,12 @@
 class _JOKINGLY():
 	def __init__(self,): 
 		self.name = "JOKINGLY"
+		self.definitions = [u'in a way that is intended to be funny: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

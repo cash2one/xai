@@ -4,11 +4,12 @@
 class _STRAPLESS():
 	def __init__(self,): 
 		self.name = "STRAPLESS"
+		self.definitions = [u"A strapless dress, bra (= piece of underwear), or other piece of women's clothing does not have pieces of material going over the shoulders: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

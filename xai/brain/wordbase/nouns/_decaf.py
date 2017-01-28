@@ -4,11 +4,12 @@
 class _DECAF():
 	def __init__(self,): 
 		self.name = "DECAF"
+		self.definitions = [u'informal for decaffeinated coffee: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

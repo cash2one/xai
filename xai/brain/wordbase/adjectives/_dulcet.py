@@ -4,11 +4,12 @@
 class _DULCET():
 	def __init__(self,): 
 		self.name = "DULCET"
+		self.definitions = [u'Dulcet sounds are soft and pleasant to listen to.', u"a person's voice"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

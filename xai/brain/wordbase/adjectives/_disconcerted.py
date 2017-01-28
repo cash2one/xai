@@ -4,11 +4,12 @@
 class _DISCONCERTED():
 	def __init__(self,): 
 		self.name = "DISCONCERTED"
+		self.definitions = [u'worried by something and uncertain: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

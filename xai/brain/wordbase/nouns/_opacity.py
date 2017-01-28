@@ -4,11 +4,12 @@
 class _OPACITY():
 	def __init__(self,): 
 		self.name = "OPACITY"
+		self.definitions = [u'the state of being opaque, or the degree to which something is opaque']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

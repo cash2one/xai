@@ -4,11 +4,12 @@
 class _SULFIDE():
 	def __init__(self,): 
 		self.name = "SULFIDE"
+		self.definitions = [u'US spelling of  sulphide ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

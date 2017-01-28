@@ -4,11 +4,12 @@
 class _DIFFUSE():
 	def __init__(self,): 
 		self.name = "DIFFUSE"
+		self.definitions = [u'spread out and not directed in one place: ', u'not clear or easy to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

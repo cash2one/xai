@@ -4,11 +4,12 @@
 class _FIXED():
 	def __init__(self,): 
 		self.name = "FIXED"
+		self.definitions = [u'arranged or decided already and not able to be changed: ', u'fastened somewhere and not able to be moved']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

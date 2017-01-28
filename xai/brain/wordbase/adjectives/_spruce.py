@@ -4,11 +4,12 @@
 class _SPRUCE():
 	def __init__(self,): 
 		self.name = "SPRUCE"
+		self.definitions = [u'(of a person) tidy and clean in appearance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

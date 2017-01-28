@@ -4,11 +4,12 @@
 class _BOOKWORM():
 	def __init__(self,): 
 		self.name = "BOOKWORM"
+		self.definitions = [u'a person who reads a lot']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

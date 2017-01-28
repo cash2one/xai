@@ -4,11 +4,12 @@
 class _ANTI():
 	def __init__(self,): 
 		self.name = "ANTI"
+		self.definitions = [u'a person who is opposed to something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

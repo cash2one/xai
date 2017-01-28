@@ -4,11 +4,12 @@
 class _PUDDLE():
 	def __init__(self,): 
 		self.name = "PUDDLE"
+		self.definitions = [u'a small pool of liquid on the ground, especially from rain']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

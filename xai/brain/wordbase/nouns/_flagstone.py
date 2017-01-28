@@ -4,11 +4,12 @@
 class _FLAGSTONE():
 	def __init__(self,): 
 		self.name = "FLAGSTONE"
+		self.definitions = [u'a large, flat piece of stone or concrete used for paths, floors, etc.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

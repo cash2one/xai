@@ -4,11 +4,12 @@
 class _PRESUMPTUOUS():
 	def __init__(self,): 
 		self.name = "PRESUMPTUOUS"
+		self.definitions = [u'A person who is presumptuous shows little respect for others by doing things they have no right to do: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

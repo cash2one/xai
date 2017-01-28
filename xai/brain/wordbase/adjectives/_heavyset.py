@@ -4,11 +4,12 @@
 class _HEAVYSET():
 	def __init__(self,): 
 		self.name = "HEAVYSET"
+		self.definitions = [u'Someone who is heavyset has a large, wide, strong body.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CIVILLY():
 	def __init__(self,): 
 		self.name = "CIVILLY"
+		self.definitions = [u'in a polite way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

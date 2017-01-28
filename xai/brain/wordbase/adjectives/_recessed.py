@@ -4,11 +4,12 @@
 class _RECESSED():
 	def __init__(self,): 
 		self.name = "RECESSED"
+		self.definitions = [u'built in a space in a wall: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

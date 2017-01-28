@@ -4,11 +4,12 @@
 class _BACKWARD():
 	def __init__(self,): 
 		self.name = "BACKWARD"
+		self.definitions = [u'\u2192\xa0 backwards ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _LEMON():
 	def __init__(self,): 
 		self.name = "LEMON"
+		self.definitions = [u'of a pale yellow colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

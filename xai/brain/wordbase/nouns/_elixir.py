@@ -4,11 +4,12 @@
 class _ELIXIR():
 	def __init__(self,): 
 		self.name = "ELIXIR"
+		self.definitions = [u'a substance, usually a liquid, with a magical power to cure, improve, or preserve something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

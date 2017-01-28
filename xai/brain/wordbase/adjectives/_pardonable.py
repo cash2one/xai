@@ -4,11 +4,12 @@
 class _PARDONABLE():
 	def __init__(self,): 
 		self.name = "PARDONABLE"
+		self.definitions = [u'able to be forgiven: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

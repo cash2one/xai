@@ -4,11 +4,12 @@
 class _TRIBAL():
 	def __init__(self,): 
 		self.name = "TRIBAL"
+		self.definitions = [u'relating to a tribe: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

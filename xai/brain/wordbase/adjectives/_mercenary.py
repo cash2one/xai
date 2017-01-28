@@ -4,11 +4,12 @@
 class _MERCENARY():
 	def __init__(self,): 
 		self.name = "MERCENARY"
+		self.definitions = [u'interested only in the amount of money that you can get from a situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

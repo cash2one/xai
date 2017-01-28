@@ -4,11 +4,12 @@
 class _INTOLERABLE():
 	def __init__(self,): 
 		self.name = "INTOLERABLE"
+		self.definitions = [u'too bad or unpleasant to deal with or accept: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

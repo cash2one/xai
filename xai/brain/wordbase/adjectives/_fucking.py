@@ -4,11 +4,12 @@
 class _FUCKING():
 	def __init__(self,): 
 		self.name = "FUCKING"
+		self.definitions = [u'used to emphasize a statement, especially an angry one: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

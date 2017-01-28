@@ -4,11 +4,12 @@
 class _DILATORY():
 	def __init__(self,): 
 		self.name = "DILATORY"
+		self.definitions = [u'slow and likely to cause delay: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

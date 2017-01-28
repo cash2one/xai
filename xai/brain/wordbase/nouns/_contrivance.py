@@ -4,11 +4,12 @@
 class _CONTRIVANCE():
 	def __init__(self,): 
 		self.name = "CONTRIVANCE"
+		self.definitions = [u'the act of contriving something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

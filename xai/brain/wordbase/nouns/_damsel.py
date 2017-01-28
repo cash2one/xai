@@ -4,11 +4,12 @@
 class _DAMSEL():
 	def __init__(self,): 
 		self.name = "DAMSEL"
+		self.definitions = [u'a young woman who is not married']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _MALE():
 	def __init__(self,): 
 		self.name = "MALE"
+		self.definitions = [u'a boy, man, or male animal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

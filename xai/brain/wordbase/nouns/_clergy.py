@@ -4,11 +4,12 @@
 class _CLERGY():
 	def __init__(self,): 
 		self.name = "CLERGY"
+		self.definitions = [u'religious leaders, especially Christian priests, ministers, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

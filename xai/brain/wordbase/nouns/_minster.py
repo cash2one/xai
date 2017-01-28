@@ -4,11 +4,12 @@
 class _MINSTER():
 	def __init__(self,): 
 		self.name = "MINSTER"
+		self.definitions = [u'used in Britain in the name of a large or important church: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

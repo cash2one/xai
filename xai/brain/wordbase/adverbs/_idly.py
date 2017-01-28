@@ -4,11 +4,12 @@
 class _IDLY():
 	def __init__(self,): 
 		self.name = "IDLY"
+		self.definitions = [u'without any particular purpose: ', u'doing nothing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _ANTHROPOID():
 	def __init__(self,): 
 		self.name = "ANTHROPOID"
+		self.definitions = [u'like a human being or an ape: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

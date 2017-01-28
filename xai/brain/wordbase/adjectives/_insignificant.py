@@ -4,11 +4,12 @@
 class _INSIGNIFICANT():
 	def __init__(self,): 
 		self.name = "INSIGNIFICANT"
+		self.definitions = [u'small or not noticeable, and therefore not considered important : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

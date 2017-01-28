@@ -4,11 +4,12 @@
 class _GOURMET():
 	def __init__(self,): 
 		self.name = "GOURMET"
+		self.definitions = [u'(of food) very high quality: ', u'producing or serving food that is very high quality: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

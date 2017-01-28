@@ -4,11 +4,12 @@
 class _DISCOLOURED():
 	def __init__(self,): 
 		self.name = "DISCOLOURED"
+		self.definitions = [u'Something that is discoloured has become a less attractive colour than it was originally: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

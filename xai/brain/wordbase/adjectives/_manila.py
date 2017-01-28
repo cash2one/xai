@@ -4,11 +4,12 @@
 class _MANILA():
 	def __init__(self,): 
 		self.name = "MANILA"
+		self.definitions = [u'made of strong brown paper: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

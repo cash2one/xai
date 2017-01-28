@@ -4,11 +4,12 @@
 class _DOC():
 	def __init__(self,): 
 		self.name = "DOC"
+		self.definitions = [u'a doctor: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

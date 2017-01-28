@@ -4,11 +4,12 @@
 class _IDENTIFIABLE():
 	def __init__(self,): 
 		self.name = "IDENTIFIABLE"
+		self.definitions = [u'able to be recognized: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

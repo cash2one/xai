@@ -4,11 +4,12 @@
 class _ADEQUATE():
 	def __init__(self,): 
 		self.name = "ADEQUATE"
+		self.definitions = [u'enough or satisfactory for a particular purpose: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

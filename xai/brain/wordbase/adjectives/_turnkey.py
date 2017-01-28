@@ -4,11 +4,12 @@
 class _TURNKEY():
 	def __init__(self,): 
 		self.name = "TURNKEY"
+		self.definitions = [u'(of a piece of equipment) ready to be used immediately by the person who is buying or renting it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

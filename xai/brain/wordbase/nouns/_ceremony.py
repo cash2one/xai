@@ -4,11 +4,12 @@
 class _CEREMONY():
 	def __init__(self,): 
 		self.name = "CEREMONY"
+		self.definitions = [u'(a set of) formal acts, often fixed and traditional, performed on important social or religious occasions: ', u'very formal and polite behaviour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

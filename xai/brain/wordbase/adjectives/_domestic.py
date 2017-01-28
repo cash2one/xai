@@ -4,11 +4,12 @@
 class _DOMESTIC():
 	def __init__(self,): 
 		self.name = "DOMESTIC"
+		self.definitions = [u"relating to a person's own country: ", u'belonging or relating to the home, house, or family: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

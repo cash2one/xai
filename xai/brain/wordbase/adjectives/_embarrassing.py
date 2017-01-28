@@ -4,11 +4,12 @@
 class _EMBARRASSING():
 	def __init__(self,): 
 		self.name = "EMBARRASSING"
+		self.definitions = [u'making you feel embarrassed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

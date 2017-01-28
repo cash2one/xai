@@ -4,11 +4,12 @@
 class _SAM():
 	def __init__(self,): 
 		self.name = "SAM"
+		self.definitions = [u'abbreviation for  surface-to-air missile ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

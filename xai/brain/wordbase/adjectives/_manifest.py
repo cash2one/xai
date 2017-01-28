@@ -4,11 +4,12 @@
 class _MANIFEST():
 	def __init__(self,): 
 		self.name = "MANIFEST"
+		self.definitions = [u'easily noticed or obvious: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DISCONTINUOUS():
 	def __init__(self,): 
 		self.name = "DISCONTINUOUS"
+		self.definitions = [u'with breaks, or stopping and starting again: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _STABLING():
 	def __init__(self,): 
 		self.name = "STABLING"
+		self.definitions = [u'a stable (= building for horses)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

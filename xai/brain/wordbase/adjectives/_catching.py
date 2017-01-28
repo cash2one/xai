@@ -4,11 +4,12 @@
 class _CATCHING():
 	def __init__(self,): 
 		self.name = "CATCHING"
+		self.definitions = [u'If an illness is catching, it can easily be passed from one person to another: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

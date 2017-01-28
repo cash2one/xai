@@ -4,11 +4,12 @@
 class _UNSURE():
 	def __init__(self,): 
 		self.name = "UNSURE"
+		self.definitions = [u'not certain or having doubts: ', u'without confidence in yourself: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

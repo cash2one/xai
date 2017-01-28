@@ -4,11 +4,12 @@
 class _SPENDER():
 	def __init__(self,): 
 		self.name = "SPENDER"
+		self.definitions = [u'someone who spends money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

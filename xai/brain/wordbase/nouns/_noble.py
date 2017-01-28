@@ -4,11 +4,12 @@
 class _NOBLE():
 	def __init__(self,): 
 		self.name = "NOBLE"
+		self.definitions = [u'a person of the highest social group in some countries']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

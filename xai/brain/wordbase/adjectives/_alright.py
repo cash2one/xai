@@ -4,11 +4,12 @@
 class _ALRIGHT():
 	def __init__(self,): 
 		self.name = "ALRIGHT"
+		self.definitions = [u'non-standard form of  all right ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

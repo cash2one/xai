@@ -4,11 +4,12 @@
 class _AFOREMENTIONED():
 	def __init__(self,): 
 		self.name = "AFOREMENTIONED"
+		self.definitions = [u'the person or people mentioned earlier: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

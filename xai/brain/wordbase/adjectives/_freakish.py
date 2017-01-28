@@ -4,11 +4,12 @@
 class _FREAKISH():
 	def __init__(self,): 
 		self.name = "FREAKISH"
+		self.definitions = [u'very unusual or unexpected, especially in an unpleasant or strange way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

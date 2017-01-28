@@ -4,11 +4,12 @@
 class _HOLOGRAPHY():
 	def __init__(self,): 
 		self.name = "HOLOGRAPHY"
+		self.definitions = [u'the activity of making holograms']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

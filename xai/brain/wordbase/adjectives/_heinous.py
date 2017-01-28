@@ -4,11 +4,12 @@
 class _HEINOUS():
 	def __init__(self,): 
 		self.name = "HEINOUS"
+		self.definitions = [u'very bad and shocking: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

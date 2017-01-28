@@ -4,11 +4,12 @@
 class _DESPICABLE():
 	def __init__(self,): 
 		self.name = "DESPICABLE"
+		self.definitions = [u'very unpleasant or bad, causing strong feelings of dislike: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _EMBRYONIC():
 	def __init__(self,): 
 		self.name = "EMBRYONIC"
+		self.definitions = [u'relating to an embryo', u'starting to develop: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

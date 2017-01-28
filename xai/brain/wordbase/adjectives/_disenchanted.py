@@ -4,11 +4,12 @@
 class _DISENCHANTED():
 	def __init__(self,): 
 		self.name = "DISENCHANTED"
+		self.definitions = [u'no longer believing in the value of something, especially having learned of the problems with it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

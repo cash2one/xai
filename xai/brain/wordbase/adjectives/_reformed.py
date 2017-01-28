@@ -4,11 +4,12 @@
 class _REFORMED():
 	def __init__(self,): 
 		self.name = "REFORMED"
+		self.definitions = [u'(especially of a person) changed and improved because of no longer doing something harmful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

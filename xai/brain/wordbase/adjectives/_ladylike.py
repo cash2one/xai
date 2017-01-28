@@ -4,11 +4,12 @@
 class _LADYLIKE():
 	def __init__(self,): 
 		self.name = "LADYLIKE"
+		self.definitions = [u'graceful, polite, and behaving in a way that is thought to be socially acceptable for a woman: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

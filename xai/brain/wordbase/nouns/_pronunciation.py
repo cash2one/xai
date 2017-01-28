@@ -4,11 +4,12 @@
 class _PRONUNCIATION():
 	def __init__(self,): 
 		self.name = "PRONUNCIATION"
+		self.definitions = [u'how words are pronounced: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

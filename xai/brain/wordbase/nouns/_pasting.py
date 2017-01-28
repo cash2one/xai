@@ -4,11 +4,12 @@
 class _PASTING():
 	def __init__(self,): 
 		self.name = "PASTING"
+		self.definitions = [u'a severe beating, severe criticism, or a severe defeat in a game or competition: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

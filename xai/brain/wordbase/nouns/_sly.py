@@ -4,11 +4,12 @@
 class _SLY():
 	def __init__(self,): 
 		self.name = "SLY"
+		self.definitions = [u'If you do something on the sly, you do it secretly because you should not be doing it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

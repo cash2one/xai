@@ -4,11 +4,12 @@
 class _WOBBLY():
 	def __init__(self,): 
 		self.name = "WOBBLY"
+		self.definitions = [u'likely to wobble: ', u'uncertain what to do or changing repeatedly between two opinions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HENCHMAN():
 	def __init__(self,): 
 		self.name = "HENCHMAN"
+		self.definitions = [u'someone who does unpleasant or illegal things for a powerful person: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

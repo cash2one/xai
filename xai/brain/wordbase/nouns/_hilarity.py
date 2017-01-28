@@ -4,11 +4,12 @@
 class _HILARITY():
 	def __init__(self,): 
 		self.name = "HILARITY"
+		self.definitions = [u'a situation in which people laugh very loudly and think something is very funny: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

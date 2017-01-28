@@ -4,11 +4,12 @@
 class _SALLOW():
 	def __init__(self,): 
 		self.name = "SALLOW"
+		self.definitions = [u'(of white-skinned people) yellowish and looking unhealthy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _JOGGING():
 	def __init__(self,): 
 		self.name = "JOGGING"
+		self.definitions = [u'the activity of running at a slow, regular speed, especially as a form of exercise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

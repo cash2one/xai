@@ -4,11 +4,12 @@
 class _UNPROMPTED():
 	def __init__(self,): 
 		self.name = "UNPROMPTED"
+		self.definitions = [u'without being told to say or do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

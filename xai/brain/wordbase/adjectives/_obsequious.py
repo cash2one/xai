@@ -4,11 +4,12 @@
 class _OBSEQUIOUS():
 	def __init__(self,): 
 		self.name = "OBSEQUIOUS"
+		self.definitions = [u'too eager to praise or obey someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

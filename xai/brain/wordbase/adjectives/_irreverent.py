@@ -4,11 +4,12 @@
 class _IRREVERENT():
 	def __init__(self,): 
 		self.name = "IRREVERENT"
+		self.definitions = [u'not showing the expected respect for official, important, or holy things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

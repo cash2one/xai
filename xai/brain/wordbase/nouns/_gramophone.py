@@ -4,11 +4,12 @@
 class _GRAMOPHONE():
 	def __init__(self,): 
 		self.name = "GRAMOPHONE"
+		self.definitions = [u'old-fashioned for  record player ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

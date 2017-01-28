@@ -4,11 +4,12 @@
 class _PENULTIMATE():
 	def __init__(self,): 
 		self.name = "PENULTIMATE"
+		self.definitions = [u'second from the last: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

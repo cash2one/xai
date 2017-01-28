@@ -4,11 +4,12 @@
 class _CAPACITANCE():
 	def __init__(self,): 
 		self.name = "CAPACITANCE"
+		self.definitions = [u'the ability of an object or material to store electricity']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

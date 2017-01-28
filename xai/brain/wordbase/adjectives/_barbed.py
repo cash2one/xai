@@ -4,11 +4,12 @@
 class _BARBED():
 	def __init__(self,): 
 		self.name = "BARBED"
+		self.definitions = [u'having a sharp point that curves backwards', u'unkind and criticizing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _IDIOTIC():
 	def __init__(self,): 
 		self.name = "IDIOTIC"
+		self.definitions = [u'stupid']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

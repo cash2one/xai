@@ -4,11 +4,12 @@
 class _VENOMOUS():
 	def __init__(self,): 
 		self.name = "VENOMOUS"
+		self.definitions = [u'poisonous: ', u'full of anger or hate: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

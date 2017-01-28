@@ -4,11 +4,12 @@
 class _EBULLIENT():
 	def __init__(self,): 
 		self.name = "EBULLIENT"
+		self.definitions = [u'very energetic, positive, and happy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

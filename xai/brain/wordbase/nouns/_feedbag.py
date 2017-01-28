@@ -4,11 +4,12 @@
 class _FEEDBAG():
 	def __init__(self,): 
 		self.name = "FEEDBAG"
+		self.definitions = [u"a bag for holding food that is hung around a horse's head"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

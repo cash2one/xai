@@ -4,11 +4,12 @@
 class _CAMOMILE():
 	def __init__(self,): 
 		self.name = "CAMOMILE"
+		self.definitions = [u'a plant whose white and yellow flowers are used to make tea: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

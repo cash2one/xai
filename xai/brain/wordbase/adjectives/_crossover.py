@@ -4,11 +4,12 @@
 class _CROSSOVER():
 	def __init__(self,): 
 		self.name = "CROSSOVER"
+		self.definitions = [u'used to refer to a musician who has changed to a different style of music, or to their music: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

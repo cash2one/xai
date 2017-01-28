@@ -4,11 +4,12 @@
 class _LEATHERNECK():
 	def __init__(self,): 
 		self.name = "LEATHERNECK"
+		self.definitions = [u'a soldier in the US Marine Corps']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _SONGWRITER():
 	def __init__(self,): 
 		self.name = "SONGWRITER"
+		self.definitions = [u'a person who writes the music and words of songs']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

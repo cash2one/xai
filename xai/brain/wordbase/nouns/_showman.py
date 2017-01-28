@@ -4,11 +4,12 @@
 class _SHOWMAN():
 	def __init__(self,): 
 		self.name = "SHOWMAN"
+		self.definitions = [u'someone who is very good at entertaining people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

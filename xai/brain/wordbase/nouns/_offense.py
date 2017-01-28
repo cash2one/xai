@@ -4,11 +4,12 @@
 class _OFFENSE():
 	def __init__(self,): 
 		self.name = "OFFENSE"
+		self.definitions = [u'US spelling of  offence ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

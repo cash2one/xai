@@ -4,11 +4,12 @@
 class _BOYFRIEND():
 	def __init__(self,): 
 		self.name = "BOYFRIEND"
+		self.definitions = [u"used to refer to a loose, comfortable style of clothing for women that is based on men's clothes: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

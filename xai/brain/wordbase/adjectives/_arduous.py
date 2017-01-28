@@ -4,11 +4,12 @@
 class _ARDUOUS():
 	def __init__(self,): 
 		self.name = "ARDUOUS"
+		self.definitions = [u'difficult, needing a lot of effort and energy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

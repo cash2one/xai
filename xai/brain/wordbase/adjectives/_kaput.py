@@ -4,11 +4,12 @@
 class _KAPUT():
 	def __init__(self,): 
 		self.name = "KAPUT"
+		self.definitions = [u'not working correctly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

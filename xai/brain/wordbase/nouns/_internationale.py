@@ -4,11 +4,12 @@
 class _INTERNATIONALE():
 	def __init__(self,): 
 		self.name = "INTERNATIONALE"
+		self.definitions = [u'a song that is sung by people who believe in Communism or Socialism']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

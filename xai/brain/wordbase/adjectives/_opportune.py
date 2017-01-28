@@ -4,11 +4,12 @@
 class _OPPORTUNE():
 	def __init__(self,): 
 		self.name = "OPPORTUNE"
+		self.definitions = [u'happening at a time that is likely to produce success or is convenient: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

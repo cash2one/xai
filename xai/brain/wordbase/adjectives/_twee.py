@@ -4,11 +4,12 @@
 class _TWEE():
 	def __init__(self,): 
 		self.name = "TWEE"
+		self.definitions = [u'artificially attractive or too perfect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

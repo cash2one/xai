@@ -4,11 +4,12 @@
 class _MICROFICHE():
 	def __init__(self,): 
 		self.name = "MICROFICHE"
+		self.definitions = [u'a small, rectangular sheet of film on which information is photographed in a reduced size: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

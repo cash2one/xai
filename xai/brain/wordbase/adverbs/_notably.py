@@ -4,11 +4,12 @@
 class _NOTABLY():
 	def __init__(self,): 
 		self.name = "NOTABLY"
+		self.definitions = [u'especially or most importantly: ', u'to an important degree, or in a way that can or should be noticed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

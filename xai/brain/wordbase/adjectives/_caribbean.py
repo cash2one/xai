@@ -4,11 +4,12 @@
 class _CARIBBEAN():
 	def __init__(self,): 
 		self.name = "CARIBBEAN"
+		self.definitions = [u'belonging to or relating to Caribbean islands and countries, or their people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

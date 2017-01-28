@@ -4,11 +4,12 @@
 class _BONEHEAD():
 	def __init__(self,): 
 		self.name = "BONEHEAD"
+		self.definitions = [u'very stupid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

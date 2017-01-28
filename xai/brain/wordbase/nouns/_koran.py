@@ -4,11 +4,12 @@
 class _KORAN():
 	def __init__(self,): 
 		self.name = "KORAN"
+		self.definitions = [u'the holy book of the Islamic religion']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

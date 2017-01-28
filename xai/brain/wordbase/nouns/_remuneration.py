@@ -4,11 +4,12 @@
 class _REMUNERATION():
 	def __init__(self,): 
 		self.name = "REMUNERATION"
+		self.definitions = [u'payment for work or services: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

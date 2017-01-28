@@ -4,11 +4,12 @@
 class _HYDRATE():
 	def __init__(self,): 
 		self.name = "HYDRATE"
+		self.definitions = [u'a chemical that contains water']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

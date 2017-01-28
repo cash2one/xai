@@ -4,11 +4,12 @@
 class _WEEPY():
 	def __init__(self,): 
 		self.name = "WEEPY"
+		self.definitions = [u'feeling likely to cry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

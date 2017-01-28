@@ -4,11 +4,12 @@
 class _DEATHLESS():
 	def __init__(self,): 
 		self.name = "DEATHLESS"
+		self.definitions = [u'lasting for ever and never to be forgotten: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

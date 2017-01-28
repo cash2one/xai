@@ -4,11 +4,12 @@
 class _COEVAL():
 	def __init__(self,): 
 		self.name = "COEVAL"
+		self.definitions = [u'someone or something coeval']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

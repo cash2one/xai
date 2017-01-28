@@ -4,11 +4,12 @@
 class _WANNABE():
 	def __init__(self,): 
 		self.name = "WANNABE"
+		self.definitions = [u'a person who is trying to become famous, usually unsuccessfully: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

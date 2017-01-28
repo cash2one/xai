@@ -4,11 +4,12 @@
 class _HITCHED():
 	def __init__(self,): 
 		self.name = "HITCHED"
+		self.definitions = [u'to get married: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

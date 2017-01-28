@@ -4,11 +4,12 @@
 class _REIGNING():
 	def __init__(self,): 
 		self.name = "REIGNING"
+		self.definitions = [u'being the most recent winner of a competition: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

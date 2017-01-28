@@ -4,11 +4,12 @@
 class _EXPLORATORY():
 	def __init__(self,): 
 		self.name = "EXPLORATORY"
+		self.definitions = [u'done in order to discover more about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BACKLESS():
 	def __init__(self,): 
 		self.name = "BACKLESS"
+		self.definitions = [u"not covering most of a person's back: ", u'with no back part: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

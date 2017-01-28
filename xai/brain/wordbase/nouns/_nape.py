@@ -4,11 +4,12 @@
 class _NAPE():
 	def __init__(self,): 
 		self.name = "NAPE"
+		self.definitions = [u'the back of the neck: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

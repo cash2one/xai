@@ -4,11 +4,12 @@
 class _FLABBY():
 	def __init__(self,): 
 		self.name = "FLABBY"
+		self.definitions = [u'soft and fat: ', u'weak and without force: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

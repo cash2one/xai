@@ -4,11 +4,12 @@
 class _ICKY():
 	def __init__(self,): 
 		self.name = "ICKY"
+		self.definitions = [u'unpleasant, especially to look at: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

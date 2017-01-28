@@ -4,11 +4,12 @@
 class _FUSTIAN():
 	def __init__(self,): 
 		self.name = "FUSTIAN"
+		self.definitions = [u'a thick, rough cotton cloth that lasts for a long time']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PHD():
 	def __init__(self,): 
 		self.name = "PHD"
+		self.definitions = [u'abbreviation for doctor of philosophy: the highest college or university degree, or someone who has this: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

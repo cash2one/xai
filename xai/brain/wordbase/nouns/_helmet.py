@@ -4,11 +4,12 @@
 class _HELMET():
 	def __init__(self,): 
 		self.name = "HELMET"
+		self.definitions = [u'a strong, hard hat that covers and protects the head: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

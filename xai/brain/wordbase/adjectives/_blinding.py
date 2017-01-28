@@ -4,11 +4,12 @@
 class _BLINDING():
 	def __init__(self,): 
 		self.name = "BLINDING"
+		self.definitions = [u'extremely bright: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

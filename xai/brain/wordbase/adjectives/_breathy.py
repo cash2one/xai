@@ -4,11 +4,12 @@
 class _BREATHY():
 	def __init__(self,): 
 		self.name = "BREATHY"
+		self.definitions = [u'used to describe a voice or way of speaking in which the breath can be heard: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

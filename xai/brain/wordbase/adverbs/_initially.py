@@ -4,11 +4,12 @@
 class _INITIALLY():
 	def __init__(self,): 
 		self.name = "INITIALLY"
+		self.definitions = [u'at the beginning: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

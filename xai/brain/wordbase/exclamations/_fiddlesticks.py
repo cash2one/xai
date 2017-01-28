@@ -4,11 +4,12 @@
 class _FIDDLESTICKS():
 	def __init__(self,): 
 		self.name = "FIDDLESTICKS"
+		self.definitions = [u'used to express disagreement or to say that something is nonsense']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

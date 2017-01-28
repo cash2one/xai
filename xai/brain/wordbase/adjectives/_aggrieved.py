@@ -4,11 +4,12 @@
 class _AGGRIEVED():
 	def __init__(self,): 
 		self.name = "AGGRIEVED"
+		self.definitions = [u'unhappy and angry because of unfair treatment: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

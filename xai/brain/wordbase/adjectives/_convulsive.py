@@ -4,11 +4,12 @@
 class _CONVULSIVE():
 	def __init__(self,): 
 		self.name = "CONVULSIVE"
+		self.definitions = [u'Convulsive movements are movements of the muscles in your body that you cannot control: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

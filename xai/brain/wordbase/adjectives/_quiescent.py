@@ -4,11 +4,12 @@
 class _QUIESCENT():
 	def __init__(self,): 
 		self.name = "QUIESCENT"
+		self.definitions = [u'temporarily quiet and not active: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

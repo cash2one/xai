@@ -4,11 +4,12 @@
 class _UPSWING():
 	def __init__(self,): 
 		self.name = "UPSWING"
+		self.definitions = [u'an increase or improvement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

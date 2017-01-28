@@ -4,11 +4,12 @@
 class _COMEDIC():
 	def __init__(self,): 
 		self.name = "COMEDIC"
+		self.definitions = [u'relating to or involving comedy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

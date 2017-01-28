@@ -4,11 +4,12 @@
 class _SQ():
 	def __init__(self,): 
 		self.name = "SQ"
+		self.definitions = [u'written abbreviation for  square noun , in measurements of length']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

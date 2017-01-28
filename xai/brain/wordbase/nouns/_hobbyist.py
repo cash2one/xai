@@ -4,11 +4,12 @@
 class _HOBBYIST():
 	def __init__(self,): 
 		self.name = "HOBBYIST"
+		self.definitions = [u'someone who does something as a hobby: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

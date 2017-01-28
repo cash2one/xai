@@ -4,11 +4,12 @@
 class _GRACELESS():
 	def __init__(self,): 
 		self.name = "GRACELESS"
+		self.definitions = [u'without beauty: ', u'without politeness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

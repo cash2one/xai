@@ -4,11 +4,12 @@
 class _DECADENT():
 	def __init__(self,): 
 		self.name = "DECADENT"
+		self.definitions = [u'A decadent person or group has low moral standards: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

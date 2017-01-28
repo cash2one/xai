@@ -4,11 +4,12 @@
 class _QUEER():
 	def __init__(self,): 
 		self.name = "QUEER"
+		self.definitions = [u'(especially of a man) gay', u'strange, unusual, or not expected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

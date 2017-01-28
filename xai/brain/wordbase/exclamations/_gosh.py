@@ -4,11 +4,12 @@
 class _GOSH():
 	def __init__(self,): 
 		self.name = "GOSH"
+		self.definitions = [u'used to express surprise or strength of feeling: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

@@ -4,11 +4,12 @@
 class _SOAK():
 	def __init__(self,): 
 		self.name = "SOAK"
+		self.definitions = [u'a period of time during which something is in liquid: ', u'a person who is often drunk']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

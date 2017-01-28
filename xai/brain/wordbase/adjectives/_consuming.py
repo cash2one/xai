@@ -4,11 +4,12 @@
 class _CONSUMING():
 	def __init__(self,): 
 		self.name = "CONSUMING"
+		self.definitions = [u'A consuming emotion is very strong: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

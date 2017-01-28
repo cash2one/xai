@@ -4,11 +4,12 @@
 class _EXPRESS():
 	def __init__(self,): 
 		self.name = "EXPRESS"
+		self.definitions = [u'using a service that does something faster than usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _MONGREL():
 	def __init__(self,): 
 		self.name = "MONGREL"
+		self.definitions = [u'used to describe something of mixed origin: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

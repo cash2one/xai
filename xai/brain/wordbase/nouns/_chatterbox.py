@@ -4,11 +4,12 @@
 class _CHATTERBOX():
 	def __init__(self,): 
 		self.name = "CHATTERBOX"
+		self.definitions = [u'a person, especially a child, who talks a lot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

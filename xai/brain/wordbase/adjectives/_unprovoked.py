@@ -4,11 +4,12 @@
 class _UNPROVOKED():
 	def __init__(self,): 
 		self.name = "UNPROVOKED"
+		self.definitions = [u'If an unpleasant action or remark is unprovoked, it has not been caused by anything and is therefore unfair: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

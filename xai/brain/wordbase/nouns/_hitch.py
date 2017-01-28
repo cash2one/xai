@@ -4,11 +4,12 @@
 class _HITCH():
 	def __init__(self,): 
 		self.name = "HITCH"
+		self.definitions = [u'a temporary difficulty that causes a short delay: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

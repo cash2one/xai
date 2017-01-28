@@ -4,11 +4,12 @@
 class _UNCOMPLIMENTARY():
 	def __init__(self,): 
 		self.name = "UNCOMPLIMENTARY"
+		self.definitions = [u'rudely criticizing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

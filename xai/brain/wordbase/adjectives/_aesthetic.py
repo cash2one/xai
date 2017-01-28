@@ -4,11 +4,12 @@
 class _AESTHETIC():
 	def __init__(self,): 
 		self.name = "AESTHETIC"
+		self.definitions = [u'relating to the enjoyment or study of beauty: ', u'An aesthetic object or a work of art is one that shows great beauty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

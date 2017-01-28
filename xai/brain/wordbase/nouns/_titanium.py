@@ -4,11 +4,12 @@
 class _TITANIUM():
 	def __init__(self,): 
 		self.name = "TITANIUM"
+		self.definitions = [u'a chemical element that is a light, strong, white metal']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

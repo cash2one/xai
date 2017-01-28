@@ -4,11 +4,12 @@
 class _ACIDIC():
 	def __init__(self,): 
 		self.name = "ACIDIC"
+		self.definitions = [u'containing acid: ', u'very sour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

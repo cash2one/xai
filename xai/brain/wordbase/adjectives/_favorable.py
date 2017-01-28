@@ -4,11 +4,12 @@
 class _FAVORABLE():
 	def __init__(self,): 
 		self.name = "FAVORABLE"
+		self.definitions = [u'US spelling of  favourable ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

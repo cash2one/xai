@@ -4,11 +4,12 @@
 class _PROPOSAL():
 	def __init__(self,): 
 		self.name = "PROPOSAL"
+		self.definitions = [u'a suggestion, sometimes a written one: ', u'an offer of marriage']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

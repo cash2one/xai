@@ -4,11 +4,12 @@
 class _SCHOLASTIC():
 	def __init__(self,): 
 		self.name = "SCHOLASTIC"
+		self.definitions = [u'relating to school and education: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

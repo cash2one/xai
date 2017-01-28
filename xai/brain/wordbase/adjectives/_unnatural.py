@@ -4,11 +4,12 @@
 class _UNNATURAL():
 	def __init__(self,): 
 		self.name = "UNNATURAL"
+		self.definitions = [u'not natural']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

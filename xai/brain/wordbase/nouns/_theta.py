@@ -4,11 +4,12 @@
 class _THETA():
 	def __init__(self,): 
 		self.name = "THETA"
+		self.definitions = [u'the eighth letter of the Greek alphabet']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _HUNDREDTH():
 	def __init__(self,): 
 		self.name = "HUNDREDTH"
+		self.definitions = [u'one of a hundred equal parts of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

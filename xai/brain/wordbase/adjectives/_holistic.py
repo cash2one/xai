@@ -4,11 +4,12 @@
 class _HOLISTIC():
 	def __init__(self,): 
 		self.name = "HOLISTIC"
+		self.definitions = [u'dealing with or treating the whole of something or someone and not just a part: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

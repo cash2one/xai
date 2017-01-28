@@ -4,11 +4,12 @@
 class _NANNY():
 	def __init__(self,): 
 		self.name = "NANNY"
+		self.definitions = [u"a woman whose job is to take care of a particular family's children", u"child's word for a grandmother: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

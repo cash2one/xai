@@ -4,11 +4,12 @@
 class _BUBBLY():
 	def __init__(self,): 
 		self.name = "BUBBLY"
+		self.definitions = [u'champagne (= expensive white or pink alcoholic drink with bubbles): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

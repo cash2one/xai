@@ -4,11 +4,12 @@
 class _TZAR():
 	def __init__(self,): 
 		self.name = "TZAR"
+		self.definitions = [u'a  tsar ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _AMMETER():
 	def __init__(self,): 
 		self.name = "AMMETER"
+		self.definitions = [u'a device for measuring the strength of an electric current in units called amps']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

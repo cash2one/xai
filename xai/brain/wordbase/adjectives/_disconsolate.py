@@ -4,11 +4,12 @@
 class _DISCONSOLATE():
 	def __init__(self,): 
 		self.name = "DISCONSOLATE"
+		self.definitions = [u'extremely sad and disappointed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DELICIOUSLY():
 	def __init__(self,): 
 		self.name = "DELICIOUSLY"
+		self.definitions = [u'with a very pleasant taste or smell: ', u'very pleasantly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

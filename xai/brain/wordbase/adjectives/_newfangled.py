@@ -4,11 +4,12 @@
 class _NEWFANGLED():
 	def __init__(self,): 
 		self.name = "NEWFANGLED"
+		self.definitions = [u'recently made for the first time, but not always an improvement on what existed before: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

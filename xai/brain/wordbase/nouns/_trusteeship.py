@@ -4,11 +4,12 @@
 class _TRUSTEESHIP():
 	def __init__(self,): 
 		self.name = "TRUSTEESHIP"
+		self.definitions = [u'the position or responsibility of a trustee']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

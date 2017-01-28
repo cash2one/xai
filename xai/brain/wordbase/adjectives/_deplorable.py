@@ -4,11 +4,12 @@
 class _DEPLORABLE():
 	def __init__(self,): 
 		self.name = "DEPLORABLE"
+		self.definitions = [u'very bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

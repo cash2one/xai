@@ -4,11 +4,12 @@
 class _BIODEGRADABLE():
 	def __init__(self,): 
 		self.name = "BIODEGRADABLE"
+		self.definitions = [u'able to decay naturally and in a way that is not harmful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FRUITLESS():
 	def __init__(self,): 
 		self.name = "FRUITLESS"
+		self.definitions = [u'If an action or attempt to do something is fruitless, it is unsuccessful or produces nothing of value: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MEANWHILE():
 	def __init__(self,): 
 		self.name = "MEANWHILE"
+		self.definitions = [u'until something expected happens, or while something else is happening: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

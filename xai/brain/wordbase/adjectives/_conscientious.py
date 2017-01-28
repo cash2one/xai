@@ -4,11 +4,12 @@
 class _CONSCIENTIOUS():
 	def __init__(self,): 
 		self.name = "CONSCIENTIOUS"
+		self.definitions = [u'putting a lot of effort into your work: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

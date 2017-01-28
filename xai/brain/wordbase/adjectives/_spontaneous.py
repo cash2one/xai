@@ -4,11 +4,12 @@
 class _SPONTANEOUS():
 	def __init__(self,): 
 		self.name = "SPONTANEOUS"
+		self.definitions = [u'happening or done in a natural, often sudden way, without any planning or without being forced: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

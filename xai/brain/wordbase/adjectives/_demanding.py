@@ -4,11 +4,12 @@
 class _DEMANDING():
 	def __init__(self,): 
 		self.name = "DEMANDING"
+		self.definitions = [u'needing a lot of time, attention, or energy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

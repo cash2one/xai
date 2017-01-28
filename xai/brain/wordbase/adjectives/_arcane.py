@@ -4,11 +4,12 @@
 class _ARCANE():
 	def __init__(self,): 
 		self.name = "ARCANE"
+		self.definitions = [u'mysterious and known only by a few people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

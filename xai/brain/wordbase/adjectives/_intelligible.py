@@ -4,11 +4,12 @@
 class _INTELLIGIBLE():
 	def __init__(self,): 
 		self.name = "INTELLIGIBLE"
+		self.definitions = [u'(of speech and writing) clear enough to be understood: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

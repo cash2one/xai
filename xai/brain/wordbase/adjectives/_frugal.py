@@ -4,11 +4,12 @@
 class _FRUGAL():
 	def __init__(self,): 
 		self.name = "FRUGAL"
+		self.definitions = [u'careful when using money or food, or (of a meal) cheap or small in amount: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

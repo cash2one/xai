@@ -4,11 +4,12 @@
 class _ARRANT():
 	def __init__(self,): 
 		self.name = "ARRANT"
+		self.definitions = [u'used to say how bad something is: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

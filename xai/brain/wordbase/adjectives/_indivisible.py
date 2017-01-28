@@ -4,11 +4,12 @@
 class _INDIVISIBLE():
 	def __init__(self,): 
 		self.name = "INDIVISIBLE"
+		self.definitions = [u'not able to be separated from something else or into different parts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

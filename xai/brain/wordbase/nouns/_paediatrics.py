@@ -4,11 +4,12 @@
 class _PAEDIATRICS():
 	def __init__(self,): 
 		self.name = "PAEDIATRICS"
+		self.definitions = [u'the science or study of medical care for children: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

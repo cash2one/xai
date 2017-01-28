@@ -4,11 +4,12 @@
 class _STRETCHY():
 	def __init__(self,): 
 		self.name = "STRETCHY"
+		self.definitions = [u'Stretchy material stretches or can be stretched: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

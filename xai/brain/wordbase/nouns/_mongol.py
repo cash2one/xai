@@ -4,11 +4,12 @@
 class _MONGOL():
 	def __init__(self,): 
 		self.name = "MONGOL"
+		self.definitions = [u"a person who has Down's syndrome"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

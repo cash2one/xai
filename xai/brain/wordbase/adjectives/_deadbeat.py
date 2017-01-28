@@ -4,11 +4,12 @@
 class _DEADBEAT():
 	def __init__(self,): 
 		self.name = "DEADBEAT"
+		self.definitions = [u'not willing to pay debts or accept responsibilities: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

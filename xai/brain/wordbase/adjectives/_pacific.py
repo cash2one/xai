@@ -4,11 +4,12 @@
 class _PACIFIC():
 	def __init__(self,): 
 		self.name = "PACIFIC"
+		self.definitions = [u'peaceful or helping to cause peace']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

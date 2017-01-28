@@ -4,11 +4,12 @@
 class _PERICARDIUM():
 	def __init__(self,): 
 		self.name = "PERICARDIUM"
+		self.definitions = [u'the double layer of tissue that surrounds the heart: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

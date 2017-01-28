@@ -4,11 +4,12 @@
 class _GULCH():
 	def __init__(self,): 
 		self.name = "GULCH"
+		self.definitions = [u'US for  gully ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

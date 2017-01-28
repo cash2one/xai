@@ -4,11 +4,12 @@
 class _FUSELAGE():
 	def __init__(self,): 
 		self.name = "FUSELAGE"
+		self.definitions = [u'the main body of an aircraft: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

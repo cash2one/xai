@@ -4,11 +4,12 @@
 class _MASHED():
 	def __init__(self,): 
 		self.name = "MASHED"
+		self.definitions = [u'crushed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

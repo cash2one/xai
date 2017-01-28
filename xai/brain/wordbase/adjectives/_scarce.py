@@ -4,11 +4,12 @@
 class _SCARCE():
 	def __init__(self,): 
 		self.name = "SCARCE"
+		self.definitions = [u'not easy to find or get: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WISTFUL():
 	def __init__(self,): 
 		self.name = "WISTFUL"
+		self.definitions = [u'sad and thinking about something that is impossible or in the past: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

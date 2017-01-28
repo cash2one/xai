@@ -4,11 +4,12 @@
 class _GEOGRAPHER():
 	def __init__(self,): 
 		self.name = "GEOGRAPHER"
+		self.definitions = [u'a person who studies geography']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

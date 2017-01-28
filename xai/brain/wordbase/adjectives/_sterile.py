@@ -4,11 +4,12 @@
 class _STERILE():
 	def __init__(self,): 
 		self.name = "STERILE"
+		self.definitions = [u'(of a living being) unable to produce young, or (of land) unable to produce plants or crops: ', u'having no imagination, new ideas, or energy: ', u'completely clean and free from dirt and bacteria: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

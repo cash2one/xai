@@ -4,11 +4,12 @@
 class _CHEAP():
 	def __init__(self,): 
 		self.name = "CHEAP"
+		self.definitions = [u'for little money or for less than is usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

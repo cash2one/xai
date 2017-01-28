@@ -4,11 +4,12 @@
 class _OBSESSIVE():
 	def __init__(self,): 
 		self.name = "OBSESSIVE"
+		self.definitions = [u'thinking about something or someone, or doing something, too much or all the time: ', u'like, typical of, or caused by an obsession: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

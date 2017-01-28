@@ -4,11 +4,12 @@
 class _CRUMMY():
 	def __init__(self,): 
 		self.name = "CRUMMY"
+		self.definitions = [u'of very bad quality: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

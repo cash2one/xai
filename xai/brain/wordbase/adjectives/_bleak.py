@@ -4,11 +4,12 @@
 class _BLEAK():
 	def __init__(self,): 
 		self.name = "BLEAK"
+		self.definitions = [u'If a place is bleak, it is empty, and not welcoming or attractive: ', u'Bleak weather is cold and unpleasant.', u'If a situation is bleak, there is little or no hope for the future: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

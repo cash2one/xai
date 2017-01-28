@@ -4,11 +4,12 @@
 class _AXIOMATIC():
 	def __init__(self,): 
 		self.name = "AXIOMATIC"
+		self.definitions = [u'obviously true and therefore not needing to be proved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

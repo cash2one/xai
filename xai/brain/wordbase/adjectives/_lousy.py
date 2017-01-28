@@ -4,11 +4,12 @@
 class _LOUSY():
 	def __init__(self,): 
 		self.name = "LOUSY"
+		self.definitions = [u'very bad: ', u'used to say that you feel insulted by something: ', u'used to say that something is full of something, or has too much of it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FECKLESS():
 	def __init__(self,): 
 		self.name = "FECKLESS"
+		self.definitions = [u'weak in character and lacking determination: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

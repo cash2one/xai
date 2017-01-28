@@ -4,11 +4,12 @@
 class _DODGER():
 	def __init__(self,): 
 		self.name = "DODGER"
+		self.definitions = [u'a person who avoids doing what they should do: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

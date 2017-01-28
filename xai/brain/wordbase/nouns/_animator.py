@@ -4,11 +4,12 @@
 class _ANIMATOR():
 	def __init__(self,): 
 		self.name = "ANIMATOR"
+		self.definitions = [u'someone who makes animated films, drawings, models, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

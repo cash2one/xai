@@ -4,11 +4,12 @@
 class _TING():
 	def __init__(self,): 
 		self.name = "TING"
+		self.definitions = [u'(with) a clear, high ringing sound: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

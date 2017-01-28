@@ -4,11 +4,12 @@
 class _BOULDER():
 	def __init__(self,): 
 		self.name = "BOULDER"
+		self.definitions = [u'a very large rock']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

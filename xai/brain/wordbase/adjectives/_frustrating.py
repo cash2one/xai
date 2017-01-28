@@ -4,11 +4,12 @@
 class _FRUSTRATING():
 	def __init__(self,): 
 		self.name = "FRUSTRATING"
+		self.definitions = [u'making you feel annoyed or less confident because you cannot achieve what you want: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CESSATION():
 	def __init__(self,): 
 		self.name = "CESSATION"
+		self.definitions = [u'ending or stopping: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

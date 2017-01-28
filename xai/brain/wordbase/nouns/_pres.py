@@ -4,11 +4,12 @@
 class _PRES():
 	def __init__(self,): 
 		self.name = "PRES"
+		self.definitions = [u'written abbreviation for  president : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

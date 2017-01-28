@@ -4,11 +4,12 @@
 class _GRUESOME():
 	def __init__(self,): 
 		self.name = "GRUESOME"
+		self.definitions = [u'extremely unpleasant and shocking, and usually dealing with death or injury: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _POSTDOC():
 	def __init__(self,): 
 		self.name = "POSTDOC"
+		self.definitions = [u'someone doing postdoctoral work or study: ', u'a postdoctoral qualification: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

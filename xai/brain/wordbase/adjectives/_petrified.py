@@ -4,11 +4,12 @@
 class _PETRIFIED():
 	def __init__(self,): 
 		self.name = "PETRIFIED"
+		self.definitions = [u'extremely frightened: ', u'having changed to a substance like stone: ', u'used to describe something that has stopped changing and developing, and often belongs to the past']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

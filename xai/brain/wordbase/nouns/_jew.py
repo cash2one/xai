@@ -4,11 +4,12 @@
 class _JEW():
 	def __init__(self,): 
 		self.name = "JEW"
+		self.definitions = [u'a member of a people whose traditional religion is Judaism: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

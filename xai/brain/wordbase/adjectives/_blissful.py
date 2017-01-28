@@ -4,11 +4,12 @@
 class _BLISSFUL():
 	def __init__(self,): 
 		self.name = "BLISSFUL"
+		self.definitions = [u'extremely or completely happy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

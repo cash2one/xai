@@ -4,11 +4,12 @@
 class _VETERAN():
 	def __init__(self,): 
 		self.name = "VETERAN"
+		self.definitions = [u'having been involved in a particular activity for a long time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

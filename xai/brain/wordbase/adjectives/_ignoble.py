@@ -4,11 +4,12 @@
 class _IGNOBLE():
 	def __init__(self,): 
 		self.name = "IGNOBLE"
+		self.definitions = [u'morally bad and making you feel ashamed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _STATELY():
 	def __init__(self,): 
 		self.name = "STATELY"
+		self.definitions = [u'formal, slow, and having a style and appearance that causes admiration: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

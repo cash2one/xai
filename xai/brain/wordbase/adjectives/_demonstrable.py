@@ -4,11 +4,12 @@
 class _DEMONSTRABLE():
 	def __init__(self,): 
 		self.name = "DEMONSTRABLE"
+		self.definitions = [u'able to be proved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

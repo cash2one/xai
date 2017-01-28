@@ -4,11 +4,12 @@
 class _BROWNISH():
 	def __init__(self,): 
 		self.name = "BROWNISH"
+		self.definitions = [u'slightly brown: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

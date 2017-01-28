@@ -4,11 +4,12 @@
 class _SIDE():
 	def __init__(self,): 
 		self.name = "SIDE"
+		self.definitions = [u'not in or at the centre or main part of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

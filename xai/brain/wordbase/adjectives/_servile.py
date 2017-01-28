@@ -4,11 +4,12 @@
 class _SERVILE():
 	def __init__(self,): 
 		self.name = "SERVILE"
+		self.definitions = [u'too eager to serve and please someone else in a way that shows you do not have much respect for yourself: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

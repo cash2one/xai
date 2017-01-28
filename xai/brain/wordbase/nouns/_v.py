@@ -4,11 +4,12 @@
 class _V():
 	def __init__(self,): 
 		self.name = "V"
+		self.definitions = [u'written abbreviation for verb']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

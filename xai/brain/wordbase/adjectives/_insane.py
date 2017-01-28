@@ -4,11 +4,12 @@
 class _INSANE():
 	def __init__(self,): 
 		self.name = "INSANE"
+		self.definitions = [u'mentally ill: ', u'extremely unreasonable or stupid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

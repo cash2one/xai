@@ -4,11 +4,12 @@
 class _HABITUAL():
 	def __init__(self,): 
 		self.name = "HABITUAL"
+		self.definitions = [u'usual or repeated: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

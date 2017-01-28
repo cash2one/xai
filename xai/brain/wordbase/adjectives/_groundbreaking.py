@@ -4,11 +4,12 @@
 class _GROUNDBREAKING():
 	def __init__(self,): 
 		self.name = "GROUNDBREAKING"
+		self.definitions = [u'If something is groundbreaking, it is very new and a big change from other things of its type: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

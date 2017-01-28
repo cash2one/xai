@@ -4,11 +4,12 @@
 class _SOLACE():
 	def __init__(self,): 
 		self.name = "SOLACE"
+		self.definitions = [u'help and comfort when you are feeling sad or worried: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

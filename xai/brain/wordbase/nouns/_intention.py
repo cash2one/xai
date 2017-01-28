@@ -4,11 +4,12 @@
 class _INTENTION():
 	def __init__(self,): 
 		self.name = "INTENTION"
+		self.definitions = [u'something that you want and plan to do: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

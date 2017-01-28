@@ -4,11 +4,12 @@
 class _POTBELLY():
 	def __init__(self,): 
 		self.name = "POTBELLY"
+		self.definitions = [u'a fat, round stomach: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

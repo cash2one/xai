@@ -4,11 +4,12 @@
 class _UPLOAD():
 	def __init__(self,): 
 		self.name = "UPLOAD"
+		self.definitions = [u'a computer program or information that can be uploaded']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

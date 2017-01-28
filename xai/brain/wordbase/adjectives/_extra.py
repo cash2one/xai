@@ -4,11 +4,12 @@
 class _EXTRA():
 	def __init__(self,): 
 		self.name = "EXTRA"
+		self.definitions = [u'added to what is normal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

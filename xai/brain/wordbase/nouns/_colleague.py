@@ -4,11 +4,12 @@
 class _COLLEAGUE():
 	def __init__(self,): 
 		self.name = "COLLEAGUE"
+		self.definitions = [u'one of a group of people who work together: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

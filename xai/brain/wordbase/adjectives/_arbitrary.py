@@ -4,11 +4,12 @@
 class _ARBITRARY():
 	def __init__(self,): 
 		self.name = "ARBITRARY"
+		self.definitions = [u'based on chance rather than being planned or based on reason: ', u"using unlimited personal power without considering other people's wishes: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

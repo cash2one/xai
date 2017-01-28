@@ -4,11 +4,12 @@
 class _COSMOPOLITAN():
 	def __init__(self,): 
 		self.name = "COSMOPOLITAN"
+		self.definitions = [u'containing or having experience of people and things from many different parts of the world: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LATIN():
 	def __init__(self,): 
 		self.name = "LATIN"
+		self.definitions = [u'written in Latin: ', u'relating to (people or things in) countries that use a language that developed from Latin, such as French or Spanish: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _TREACHERY():
 	def __init__(self,): 
 		self.name = "TREACHERY"
+		self.definitions = [u'behaviour that deceives or is not loyal to someone who trusts you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

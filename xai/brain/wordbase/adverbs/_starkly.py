@@ -4,11 +4,12 @@
 class _STARKLY():
 	def __init__(self,): 
 		self.name = "STARKLY"
+		self.definitions = [u'very obviously and clearly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

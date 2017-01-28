@@ -4,11 +4,12 @@
 class _READ():
 	def __init__(self,): 
 		self.name = "READ"
+		self.definitions = [u'the act of reading something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

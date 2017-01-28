@@ -4,11 +4,12 @@
 class _UNPREPARED():
 	def __init__(self,): 
 		self.name = "UNPREPARED"
+		self.definitions = [u'not prepared; not ready: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

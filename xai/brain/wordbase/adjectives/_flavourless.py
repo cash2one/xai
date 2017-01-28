@@ -4,11 +4,12 @@
 class _FLAVOURLESS():
 	def __init__(self,): 
 		self.name = "FLAVOURLESS"
+		self.definitions = [u'having little or no flavour : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

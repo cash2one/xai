@@ -4,11 +4,12 @@
 class _DROLL():
 	def __init__(self,): 
 		self.name = "DROLL"
+		self.definitions = [u'humorous, especially in an unusual way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

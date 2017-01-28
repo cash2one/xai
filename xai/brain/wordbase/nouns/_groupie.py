@@ -4,11 +4,12 @@
 class _GROUPIE():
 	def __init__(self,): 
 		self.name = "GROUPIE"
+		self.definitions = [u'a person who likes a particular popular singer or other famous person and follows them to try to meet them']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

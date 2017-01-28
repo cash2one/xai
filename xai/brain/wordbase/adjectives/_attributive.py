@@ -4,11 +4,12 @@
 class _ATTRIBUTIVE():
 	def __init__(self,): 
 		self.name = "ATTRIBUTIVE"
+		self.definitions = [u'(of the position or use of an adjective, noun, or phrase) before a noun: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CROONER():
 	def __init__(self,): 
 		self.name = "CROONER"
+		self.definitions = [u'a singer, especially a man, who sings love songs']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

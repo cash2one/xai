@@ -4,11 +4,12 @@
 class _BRUISING():
 	def __init__(self,): 
 		self.name = "BRUISING"
+		self.definitions = [u'bruises: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

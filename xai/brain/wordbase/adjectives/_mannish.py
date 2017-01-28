@@ -4,11 +4,12 @@
 class _MANNISH():
 	def __init__(self,): 
 		self.name = "MANNISH"
+		self.definitions = [u"If you describe a woman as mannish, you mean that her appearance or behaviour are too much like a man's: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ECCLESIASTICAL():
 	def __init__(self,): 
 		self.name = "ECCLESIASTICAL"
+		self.definitions = [u'belonging to or connected with the Christian religion']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

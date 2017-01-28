@@ -4,11 +4,12 @@
 class _ANECDOTAL():
 	def __init__(self,): 
 		self.name = "ANECDOTAL"
+		self.definitions = [u'Anecdotal information is not based on facts or careful study: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

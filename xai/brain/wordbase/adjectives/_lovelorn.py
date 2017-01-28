@@ -4,11 +4,12 @@
 class _LOVELORN():
 	def __init__(self,): 
 		self.name = "LOVELORN"
+		self.definitions = [u'sad because the person you love does not love you']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

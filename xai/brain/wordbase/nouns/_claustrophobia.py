@@ -4,11 +4,12 @@
 class _CLAUSTROPHOBIA():
 	def __init__(self,): 
 		self.name = "CLAUSTROPHOBIA"
+		self.definitions = [u'fear of being in closed spaces: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

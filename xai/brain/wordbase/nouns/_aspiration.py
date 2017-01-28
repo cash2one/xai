@@ -4,11 +4,12 @@
 class _ASPIRATION():
 	def __init__(self,): 
 		self.name = "ASPIRATION"
+		self.definitions = [u'something that you hope to achieve: ', u'the noise that is made when air escapes after a plosive consonant sound: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

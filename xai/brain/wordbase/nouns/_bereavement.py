@@ -4,11 +4,12 @@
 class _BEREAVEMENT():
 	def __init__(self,): 
 		self.name = "BEREAVEMENT"
+		self.definitions = [u'the death of a close relation or friend: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

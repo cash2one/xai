@@ -4,11 +4,12 @@
 class _CONSTRUCTIVE():
 	def __init__(self,): 
 		self.name = "CONSTRUCTIVE"
+		self.definitions = [u'If advice, criticism, or actions are constructive, they are useful and intended to help or improve something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

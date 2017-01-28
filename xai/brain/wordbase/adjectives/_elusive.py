@@ -4,11 +4,12 @@
 class _ELUSIVE():
 	def __init__(self,): 
 		self.name = "ELUSIVE"
+		self.definitions = [u'difficult to describe, find, achieve, or remember: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

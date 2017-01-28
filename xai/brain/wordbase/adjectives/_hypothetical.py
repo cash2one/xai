@@ -4,11 +4,12 @@
 class _HYPOTHETICAL():
 	def __init__(self,): 
 		self.name = "HYPOTHETICAL"
+		self.definitions = [u'imagined or suggested but not necessarily real or true: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

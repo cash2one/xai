@@ -4,11 +4,12 @@
 class _DOABLE():
 	def __init__(self,): 
 		self.name = "DOABLE"
+		self.definitions = [u'If something is doable, it can be achieved or performed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

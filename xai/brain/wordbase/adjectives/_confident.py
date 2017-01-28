@@ -4,11 +4,12 @@
 class _CONFIDENT():
 	def __init__(self,): 
 		self.name = "CONFIDENT"
+		self.definitions = [u'having confidence: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

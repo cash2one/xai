@@ -4,11 +4,12 @@
 class _CONFECTION():
 	def __init__(self,): 
 		self.name = "CONFECTION"
+		self.definitions = [u'a decorated cake or unusual sweet dish']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

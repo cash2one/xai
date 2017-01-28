@@ -4,11 +4,12 @@
 class _SUBTERRANEAN():
 	def __init__(self,): 
 		self.name = "SUBTERRANEAN"
+		self.definitions = [u'under the ground: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

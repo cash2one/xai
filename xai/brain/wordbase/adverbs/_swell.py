@@ -4,11 +4,12 @@
 class _SWELL():
 	def __init__(self,): 
 		self.name = "SWELL"
+		self.definitions = [u'very well: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

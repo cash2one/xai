@@ -4,11 +4,12 @@
 class _MAJESTIC():
 	def __init__(self,): 
 		self.name = "MAJESTIC"
+		self.definitions = [u'beautiful, powerful, or causing great admiration and respect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

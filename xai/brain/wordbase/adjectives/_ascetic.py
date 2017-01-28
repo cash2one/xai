@@ -4,11 +4,12 @@
 class _ASCETIC():
 	def __init__(self,): 
 		self.name = "ASCETIC"
+		self.definitions = [u'avoiding physical pleasures and living a simple life, often for religious reasons: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

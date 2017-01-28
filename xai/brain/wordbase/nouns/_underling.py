@@ -4,11 +4,12 @@
 class _UNDERLING():
 	def __init__(self,): 
 		self.name = "UNDERLING"
+		self.definitions = [u'a person of low rank and little authority who works for someone more important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _SUDSY():
 	def __init__(self,): 
 		self.name = "SUDSY"
+		self.definitions = [u'covered in soap bubbles']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

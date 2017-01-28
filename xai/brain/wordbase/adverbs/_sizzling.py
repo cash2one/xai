@@ -4,11 +4,12 @@
 class _SIZZLING():
 	def __init__(self,): 
 		self.name = "SIZZLING"
+		self.definitions = [u'very hot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

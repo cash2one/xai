@@ -4,11 +4,12 @@
 class _OPINIONATED():
 	def __init__(self,): 
 		self.name = "OPINIONATED"
+		self.definitions = [u'An opinionated person is certain about their beliefs, and expresses their ideas strongly and often: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

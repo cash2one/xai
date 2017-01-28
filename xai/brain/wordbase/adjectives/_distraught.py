@@ -4,11 +4,12 @@
 class _DISTRAUGHT():
 	def __init__(self,): 
 		self.name = "DISTRAUGHT"
+		self.definitions = [u'extremely worried, nervous, or upset: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

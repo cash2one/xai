@@ -4,11 +4,12 @@
 class _INATTENTION():
 	def __init__(self,): 
 		self.name = "INATTENTION"
+		self.definitions = [u'failure to give attention: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

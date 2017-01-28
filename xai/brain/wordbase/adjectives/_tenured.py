@@ -4,11 +4,12 @@
 class _TENURED():
 	def __init__(self,): 
 		self.name = "TENURED"
+		self.definitions = [u'having been given tenure (= the right to remain permanently in a job, usually one in education): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

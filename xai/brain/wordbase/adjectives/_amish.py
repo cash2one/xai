@@ -4,11 +4,12 @@
 class _AMISH():
 	def __init__(self,): 
 		self.name = "AMISH"
+		self.definitions = [u'of or relating to the Amish: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

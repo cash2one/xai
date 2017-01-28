@@ -4,11 +4,12 @@
 class _UNCOMPROMISING():
 	def __init__(self,): 
 		self.name = "UNCOMPROMISING"
+		self.definitions = [u'If people or their beliefs are uncompromising, they are fixed and do not change, especially when faced with opposition: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

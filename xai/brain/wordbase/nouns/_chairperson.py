@@ -4,11 +4,12 @@
 class _CHAIRPERSON():
 	def __init__(self,): 
 		self.name = "CHAIRPERSON"
+		self.definitions = [u'a  chairman  or  chairwoman : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

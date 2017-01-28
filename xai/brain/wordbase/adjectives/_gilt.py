@@ -4,11 +4,12 @@
 class _GILT():
 	def __init__(self,): 
 		self.name = "GILT"
+		self.definitions = [u'covered with a thin layer of gold or a substance that is intended to look like it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HEADING():
 	def __init__(self,): 
 		self.name = "HEADING"
+		self.definitions = [u'words written or printed at the top of a text as a title']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

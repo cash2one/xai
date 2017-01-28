@@ -4,11 +4,12 @@
 class _CONCLUSIVELY():
 	def __init__(self,): 
 		self.name = "CONCLUSIVELY"
+		self.definitions = [u'without any doubt: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

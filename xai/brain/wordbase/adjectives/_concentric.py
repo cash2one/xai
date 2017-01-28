@@ -4,11 +4,12 @@
 class _CONCENTRIC():
 	def __init__(self,): 
 		self.name = "CONCENTRIC"
+		self.definitions = [u'Concentric circles and rings have the same centre: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

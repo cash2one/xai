@@ -4,11 +4,12 @@
 class _UNSUSPECTED():
 	def __init__(self,): 
 		self.name = "UNSUSPECTED"
+		self.definitions = [u'not known or thought to exist: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

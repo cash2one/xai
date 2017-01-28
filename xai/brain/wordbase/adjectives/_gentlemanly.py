@@ -4,11 +4,12 @@
 class _GENTLEMANLY():
 	def __init__(self,): 
 		self.name = "GENTLEMANLY"
+		self.definitions = [u'typical of a polite gentleman: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

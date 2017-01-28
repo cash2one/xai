@@ -4,11 +4,12 @@
 class _LORDLY():
 	def __init__(self,): 
 		self.name = "LORDLY"
+		self.definitions = [u'used to decribe someone who behaves as if they are better than other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

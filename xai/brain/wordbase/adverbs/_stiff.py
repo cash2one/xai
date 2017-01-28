@@ -4,11 +4,12 @@
 class _STIFF():
 	def __init__(self,): 
 		self.name = "STIFF"
+		self.definitions = [u'very much, or to a great degree: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

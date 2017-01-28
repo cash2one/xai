@@ -4,11 +4,12 @@
 class _LISSOME():
 	def __init__(self,): 
 		self.name = "LISSOME"
+		self.definitions = [u'attractively thin and able to move quickly and smoothly']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

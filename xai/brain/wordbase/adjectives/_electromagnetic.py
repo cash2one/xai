@@ -4,11 +4,12 @@
 class _ELECTROMAGNETIC():
 	def __init__(self,): 
 		self.name = "ELECTROMAGNETIC"
+		self.definitions = [u'having magnetic and electrical parts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

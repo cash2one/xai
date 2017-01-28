@@ -4,11 +4,12 @@
 class _ABSENTEE():
 	def __init__(self,): 
 		self.name = "ABSENTEE"
+		self.definitions = [u'someone who is not at school or work when they should be: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

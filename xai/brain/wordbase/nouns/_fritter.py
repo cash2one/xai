@@ -4,11 +4,12 @@
 class _FRITTER():
 	def __init__(self,): 
 		self.name = "FRITTER"
+		self.definitions = [u'a slice of fruit, vegetable, or meat covered with batter (= a mixture of flour, egg, and milk) and then fried: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

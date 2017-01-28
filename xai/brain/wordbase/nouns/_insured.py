@@ -4,11 +4,12 @@
 class _INSURED():
 	def __init__(self,): 
 		self.name = "INSURED"
+		self.definitions = [u'the person, group of people, or organization that is insured in a particular agreement']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _COMMENDABLE():
 	def __init__(self,): 
 		self.name = "COMMENDABLE"
+		self.definitions = [u'deserving praise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FESTIVE():
 	def __init__(self,): 
 		self.name = "FESTIVE"
+		self.definitions = [u'having or producing happy and enjoyable feelings suitable for a festival or other special occasion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

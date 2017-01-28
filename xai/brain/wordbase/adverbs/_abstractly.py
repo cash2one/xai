@@ -4,11 +4,12 @@
 class _ABSTRACTLY():
 	def __init__(self,): 
 		self.name = "ABSTRACTLY"
+		self.definitions = [u'in a general way and not based on particular examples: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

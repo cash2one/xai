@@ -4,11 +4,12 @@
 class _DOWNBEAT():
 	def __init__(self,): 
 		self.name = "DOWNBEAT"
+		self.definitions = [u'quiet and without much excitement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

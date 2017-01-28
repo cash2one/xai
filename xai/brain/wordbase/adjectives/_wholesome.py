@@ -4,11 +4,12 @@
 class _WHOLESOME():
 	def __init__(self,): 
 		self.name = "WHOLESOME"
+		self.definitions = [u'good for you, and likely to improve your life either physically, morally, or emotionally: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

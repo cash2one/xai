@@ -4,11 +4,12 @@
 class _FLAWED():
 	def __init__(self,): 
 		self.name = "FLAWED"
+		self.definitions = [u'not perfect, or containing mistakes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

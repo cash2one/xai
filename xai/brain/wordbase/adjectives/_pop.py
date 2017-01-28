@@ -4,11 +4,12 @@
 class _POP():
 	def __init__(self,): 
 		self.name = "POP"
+		self.definitions = [u'enjoyed by many people and easy to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

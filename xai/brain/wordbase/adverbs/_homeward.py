@@ -4,11 +4,12 @@
 class _HOMEWARD():
 	def __init__(self,): 
 		self.name = "HOMEWARD"
+		self.definitions = [u'towards home: ', u'travelling towards home: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

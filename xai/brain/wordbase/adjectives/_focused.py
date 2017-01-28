@@ -4,11 +4,12 @@
 class _FOCUSED():
 	def __init__(self,): 
 		self.name = "FOCUSED"
+		self.definitions = [u'giving a lot of attention to one particular thing: ', u'clear: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

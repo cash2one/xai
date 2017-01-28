@@ -4,11 +4,12 @@
 class _COLOUR():
 	def __init__(self,): 
 		self.name = "COLOUR"
+		self.definitions = [u'Colour television, photography, or printing shows things in all their colours, not just in black and white.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LATINA():
 	def __init__(self,): 
 		self.name = "LATINA"
+		self.definitions = [u'a woman or girl who lives in the US and who comes from, or whose family comes from, Latin America']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

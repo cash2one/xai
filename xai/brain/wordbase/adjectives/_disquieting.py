@@ -4,11 +4,12 @@
 class _DISQUIETING():
 	def __init__(self,): 
 		self.name = "DISQUIETING"
+		self.definitions = [u'causing worry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BANGLADESH():
 	def __init__(self,): 
 		self.name = "BANGLADESH"
+		self.definitions = [u'a country in South Asia']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

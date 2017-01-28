@@ -4,11 +4,12 @@
 class _INVESTOR():
 	def __init__(self,): 
 		self.name = "INVESTOR"
+		self.definitions = [u'a person who puts money into something in order to make a profit or get an advantage: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

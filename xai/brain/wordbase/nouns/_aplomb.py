@@ -4,11 +4,12 @@
 class _APLOMB():
 	def __init__(self,): 
 		self.name = "APLOMB"
+		self.definitions = [u'confidence and style: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _TOOTHSOME():
 	def __init__(self,): 
 		self.name = "TOOTHSOME"
+		self.definitions = [u'(especially of food) attractive or pleasant']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

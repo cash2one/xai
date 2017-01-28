@@ -4,11 +4,12 @@
 class _SUBVERSIVE():
 	def __init__(self,): 
 		self.name = "SUBVERSIVE"
+		self.definitions = [u'trying to destroy or damage something, especially an established political system: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

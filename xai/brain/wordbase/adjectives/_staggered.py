@@ -4,11 +4,12 @@
 class _STAGGERED():
 	def __init__(self,): 
 		self.name = "STAGGERED"
+		self.definitions = [u'very shocked or surprised: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

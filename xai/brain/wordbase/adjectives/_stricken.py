@@ -4,11 +4,12 @@
 class _STRICKEN():
 	def __init__(self,): 
 		self.name = "STRICKEN"
+		self.definitions = [u'suffering severely from the effects of something unpleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

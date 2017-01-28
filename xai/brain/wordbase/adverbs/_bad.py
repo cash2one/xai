@@ -4,11 +4,12 @@
 class _BAD():
 	def __init__(self,): 
 		self.name = "BAD"
+		self.definitions = [u'informal for badly (= very much): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

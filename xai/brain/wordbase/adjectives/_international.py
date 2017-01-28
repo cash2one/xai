@@ -4,11 +4,12 @@
 class _INTERNATIONAL():
 	def __init__(self,): 
 		self.name = "INTERNATIONAL"
+		self.definitions = [u'involving more than one country: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

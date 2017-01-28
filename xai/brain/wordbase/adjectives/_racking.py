@@ -4,11 +4,12 @@
 class _RACKING():
 	def __init__(self,): 
 		self.name = "RACKING"
+		self.definitions = [u'very bad and very painful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

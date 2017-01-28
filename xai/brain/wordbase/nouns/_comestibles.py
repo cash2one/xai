@@ -4,11 +4,12 @@
 class _COMESTIBLES():
 	def __init__(self,): 
 		self.name = "COMESTIBLES"
+		self.definitions = [u'things that are for eating']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

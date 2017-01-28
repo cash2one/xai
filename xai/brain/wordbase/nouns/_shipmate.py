@@ -4,11 +4,12 @@
 class _SHIPMATE():
 	def __init__(self,): 
 		self.name = "SHIPMATE"
+		self.definitions = [u"A sailor's shipmate is another sailor who works on the same ship as they do."]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

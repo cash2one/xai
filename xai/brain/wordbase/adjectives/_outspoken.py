@@ -4,11 +4,12 @@
 class _OUTSPOKEN():
 	def __init__(self,): 
 		self.name = "OUTSPOKEN"
+		self.definitions = [u'expressing strong opinions very directly without worrying if other people are offended: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CAUSELESS():
 	def __init__(self,): 
 		self.name = "CAUSELESS"
+		self.definitions = [u'without any good reason: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

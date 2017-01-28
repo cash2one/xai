@@ -4,11 +4,12 @@
 class _FUDDLE():
 	def __init__(self,): 
 		self.name = "FUDDLE"
+		self.definitions = [u'a confused state: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

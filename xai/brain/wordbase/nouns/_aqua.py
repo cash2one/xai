@@ -4,11 +4,12 @@
 class _AQUA():
 	def __init__(self,): 
 		self.name = "AQUA"
+		self.definitions = [u'water, when it is used in make-up and beauty products', u'a greenish-blue colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

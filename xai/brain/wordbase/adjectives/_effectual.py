@@ -4,11 +4,12 @@
 class _EFFECTUAL():
 	def __init__(self,): 
 		self.name = "EFFECTUAL"
+		self.definitions = [u'effective and successful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

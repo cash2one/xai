@@ -4,11 +4,12 @@
 class _AKIN():
 	def __init__(self,): 
 		self.name = "AKIN"
+		self.definitions = [u'having some of the same qualities: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

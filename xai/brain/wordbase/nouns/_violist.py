@@ -4,11 +4,12 @@
 class _VIOLIST():
 	def __init__(self,): 
 		self.name = "VIOLIST"
+		self.definitions = [u'someone who plays the viola', u'someone who plays the viol']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

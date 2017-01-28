@@ -4,11 +4,12 @@
 class _AV():
 	def __init__(self,): 
 		self.name = "AV"
+		self.definitions = [u'abbreviation for  audiovisual : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

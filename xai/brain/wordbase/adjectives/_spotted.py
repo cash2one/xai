@@ -4,11 +4,12 @@
 class _SPOTTED():
 	def __init__(self,): 
 		self.name = "SPOTTED"
+		self.definitions = [u'covered in small, usually round areas of colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

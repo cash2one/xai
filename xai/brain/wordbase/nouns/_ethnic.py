@@ -4,11 +4,12 @@
 class _ETHNIC():
 	def __init__(self,): 
 		self.name = "ETHNIC"
+		self.definitions = [u'a person belonging to an ethnic group']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

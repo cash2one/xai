@@ -4,11 +4,12 @@
 class _COURTESY():
 	def __init__(self,): 
 		self.name = "COURTESY"
+		self.definitions = [u'polite behaviour, or a polite action or remark: ', u'by permission of: ', u'because of: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _HEADSTRONG():
 	def __init__(self,): 
 		self.name = "HEADSTRONG"
+		self.definitions = [u'very determined to do what you want without listening to others: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

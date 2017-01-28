@@ -4,11 +4,12 @@
 class _OVERAGE():
 	def __init__(self,): 
 		self.name = "OVERAGE"
+		self.definitions = [u'older than a particular age and therefore no longer allowed to do or have particular things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

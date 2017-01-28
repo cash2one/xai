@@ -4,11 +4,12 @@
 class _PATHOLOGY():
 	def __init__(self,): 
 		self.name = "PATHOLOGY"
+		self.definitions = [u'the scientific study of disease']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

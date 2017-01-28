@@ -4,11 +4,12 @@
 class _FAUCET():
 	def __init__(self,): 
 		self.name = "FAUCET"
+		self.definitions = [u'a device that controls the flow of liquid, especially water, from a pipe: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

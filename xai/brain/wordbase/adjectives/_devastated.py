@@ -4,11 +4,12 @@
 class _DEVASTATED():
 	def __init__(self,): 
 		self.name = "DEVASTATED"
+		self.definitions = [u'completely destroyed: ', u'very shocked and upset: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

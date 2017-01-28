@@ -4,11 +4,12 @@
 class _JOEY():
 	def __init__(self,): 
 		self.name = "JOEY"
+		self.definitions = [u'a young kangaroo']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

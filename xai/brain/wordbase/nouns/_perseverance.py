@@ -4,11 +4,12 @@
 class _PERSEVERANCE():
 	def __init__(self,): 
 		self.name = "PERSEVERANCE"
+		self.definitions = [u'continued effort and determination: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

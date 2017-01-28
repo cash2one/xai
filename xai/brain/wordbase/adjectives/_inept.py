@@ -4,11 +4,12 @@
 class _INEPT():
 	def __init__(self,): 
 		self.name = "INEPT"
+		self.definitions = [u'not skilled or effective: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

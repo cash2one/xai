@@ -4,11 +4,12 @@
 class _SPATTERED():
 	def __init__(self,): 
 		self.name = "SPATTERED"
+		self.definitions = [u'covered with small drops of a liquid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

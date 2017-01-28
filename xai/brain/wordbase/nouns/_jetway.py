@@ -4,11 +4,12 @@
 class _JETWAY():
 	def __init__(self,): 
 		self.name = "JETWAY"
+		self.definitions = [u'a raised closed passage through which passengers walk from an airport building to an aircraft']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

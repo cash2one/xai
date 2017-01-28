@@ -4,11 +4,12 @@
 class _DEFIANT():
 	def __init__(self,): 
 		self.name = "DEFIANT"
+		self.definitions = [u'proudly refusing to obey authority: ', u'not willing to accept criticism or disapproval: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

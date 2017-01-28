@@ -4,11 +4,12 @@
 class _HUSBANDRY():
 	def __init__(self,): 
 		self.name = "HUSBANDRY"
+		self.definitions = [u'farming: ', u'the careful use of money, food, supplies, etc.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

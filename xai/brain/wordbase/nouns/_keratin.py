@@ -4,11 +4,12 @@
 class _KERATIN():
 	def __init__(self,): 
 		self.name = "KERATIN"
+		self.definitions = [u'a strong natural protein, the main substance that forms hair, nails, hoofs, horns, feathers, etc.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

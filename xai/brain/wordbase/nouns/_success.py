@@ -4,11 +4,12 @@
 class _SUCCESS():
 	def __init__(self,): 
 		self.name = "SUCCESS"
+		self.definitions = [u'the achieving of the results wanted or hoped for: ', u'something that achieves positive results: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

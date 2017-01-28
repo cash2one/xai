@@ -4,11 +4,12 @@
 class _OVERPRICED():
 	def __init__(self,): 
 		self.name = "OVERPRICED"
+		self.definitions = [u'too expensive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

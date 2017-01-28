@@ -4,11 +4,12 @@
 class _ANTISEPTIC():
 	def __init__(self,): 
 		self.name = "ANTISEPTIC"
+		self.definitions = [u'completely free from infection: ', u'too clean and showing no imagination and character: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

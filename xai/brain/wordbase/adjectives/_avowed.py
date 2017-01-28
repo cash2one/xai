@@ -4,11 +4,12 @@
 class _AVOWED():
 	def __init__(self,): 
 		self.name = "AVOWED"
+		self.definitions = [u'stated: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNGRAMMATICAL():
 	def __init__(self,): 
 		self.name = "UNGRAMMATICAL"
+		self.definitions = [u'not grammatical']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CALLIPERS():
 	def __init__(self,): 
 		self.name = "CALLIPERS"
+		self.definitions = [u'UK spelling of  calipers ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

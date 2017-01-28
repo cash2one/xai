@@ -4,11 +4,12 @@
 class _SOMBRE():
 	def __init__(self,): 
 		self.name = "SOMBRE"
+		self.definitions = [u'serious, sad, and without humour or entertainment: ', u'dark and plain: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

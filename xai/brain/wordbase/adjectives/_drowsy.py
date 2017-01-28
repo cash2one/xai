@@ -4,11 +4,12 @@
 class _DROWSY():
 	def __init__(self,): 
 		self.name = "DROWSY"
+		self.definitions = [u'being in a state between sleeping and being awake: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

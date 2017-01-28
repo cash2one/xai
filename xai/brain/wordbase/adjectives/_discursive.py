@@ -4,11 +4,12 @@
 class _DISCURSIVE():
 	def __init__(self,): 
 		self.name = "DISCURSIVE"
+		self.definitions = [u'involving discussion: ', u'talking about or dealing with subjects that are only slightly connected with the main subject for longer than necessary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LITIGANT():
 	def __init__(self,): 
 		self.name = "LITIGANT"
+		self.definitions = [u'a person who is fighting a legal case']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

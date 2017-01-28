@@ -4,11 +4,12 @@
 class _WORSE():
 	def __init__(self,): 
 		self.name = "WORSE"
+		self.definitions = [u'comparative of  badly : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

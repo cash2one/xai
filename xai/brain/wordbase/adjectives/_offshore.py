@@ -4,11 +4,12 @@
 class _OFFSHORE():
 	def __init__(self,): 
 		self.name = "OFFSHORE"
+		self.definitions = [u'away from or at a distance from the coast: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

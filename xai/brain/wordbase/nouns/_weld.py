@@ -4,11 +4,12 @@
 class _WELD():
 	def __init__(self,): 
 		self.name = "WELD"
+		self.definitions = [u'a joint made by welding']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

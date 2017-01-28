@@ -4,11 +4,12 @@
 class _TEXTILE():
 	def __init__(self,): 
 		self.name = "TEXTILE"
+		self.definitions = [u'a cloth made by hand or machine: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

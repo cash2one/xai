@@ -4,11 +4,12 @@
 class _SEMIAUTOMATIC():
 	def __init__(self,): 
 		self.name = "SEMIAUTOMATIC"
+		self.definitions = [u'partly automatic: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

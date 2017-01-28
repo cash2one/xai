@@ -4,11 +4,12 @@
 class _RECUMBENT():
 	def __init__(self,): 
 		self.name = "RECUMBENT"
+		self.definitions = [u'lying down: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

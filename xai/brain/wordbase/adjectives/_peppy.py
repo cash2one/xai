@@ -4,11 +4,12 @@
 class _PEPPY():
 	def __init__(self,): 
 		self.name = "PEPPY"
+		self.definitions = [u'having a lot of energy or activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNTRUSTWORTHY():
 	def __init__(self,): 
 		self.name = "UNTRUSTWORTHY"
+		self.definitions = [u'not able to be trusted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

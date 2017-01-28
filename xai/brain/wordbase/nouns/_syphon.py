@@ -4,11 +4,12 @@
 class _SYPHON():
 	def __init__(self,): 
 		self.name = "SYPHON"
+		self.definitions = [u'a  siphon noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

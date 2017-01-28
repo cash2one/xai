@@ -4,11 +4,12 @@
 class _JAMMED():
 	def __init__(self,): 
 		self.name = "JAMMED"
+		self.definitions = [u'unable to move: ', u'full of people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ABBOT():
 	def __init__(self,): 
 		self.name = "ABBOT"
+		self.definitions = [u'a man who is in charge of a monastery']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

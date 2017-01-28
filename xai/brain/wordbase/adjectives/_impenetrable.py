@@ -4,11 +4,12 @@
 class _IMPENETRABLE():
 	def __init__(self,): 
 		self.name = "IMPENETRABLE"
+		self.definitions = [u'impossible to see through or go through: ', u'impossible to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

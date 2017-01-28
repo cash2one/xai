@@ -4,11 +4,12 @@
 class _REPUTE():
 	def __init__(self,): 
 		self.name = "REPUTE"
+		self.definitions = [u'a bad, good, etc. reputation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _GIGGLY():
 	def __init__(self,): 
 		self.name = "GIGGLY"
+		self.definitions = [u'giggling a lot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

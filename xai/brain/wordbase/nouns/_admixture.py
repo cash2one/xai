@@ -4,11 +4,12 @@
 class _ADMIXTURE():
 	def __init__(self,): 
 		self.name = "ADMIXTURE"
+		self.definitions = [u'something that is added to something else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

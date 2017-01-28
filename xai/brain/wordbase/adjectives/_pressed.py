@@ -4,11 +4,12 @@
 class _PRESSED():
 	def __init__(self,): 
 		self.name = "PRESSED"
+		self.definitions = [u'to be in a difficult situation because you do not have enough time, money, space, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

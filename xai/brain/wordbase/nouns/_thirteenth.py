@@ -4,11 +4,12 @@
 class _THIRTEENTH():
 	def __init__(self,): 
 		self.name = "THIRTEENTH"
+		self.definitions = [u'one of thirteen equal parts of something']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

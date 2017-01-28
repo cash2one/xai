@@ -4,11 +4,12 @@
 class _FEROCIOUS():
 	def __init__(self,): 
 		self.name = "FEROCIOUS"
+		self.definitions = [u'frightening and violent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

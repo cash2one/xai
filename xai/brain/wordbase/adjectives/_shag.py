@@ -4,11 +4,12 @@
 class _SHAG():
 	def __init__(self,): 
 		self.name = "SHAG"
+		self.definitions = [u'(of a carpet) made of long thick threads: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _OVERBEARING():
 	def __init__(self,): 
 		self.name = "OVERBEARING"
+		self.definitions = [u'too confident and too determined to tell other people what to do, in a way that is unpleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

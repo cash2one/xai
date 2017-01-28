@@ -4,11 +4,12 @@
 class _REPAYMENT():
 	def __init__(self,): 
 		self.name = "REPAYMENT"
+		self.definitions = [u'the act of repaying someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

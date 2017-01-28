@@ -4,11 +4,12 @@
 class _VANILLA():
 	def __init__(self,): 
 		self.name = "VANILLA"
+		self.definitions = [u'used to describe a product or service that is basic and has no special features: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HUMUS():
 	def __init__(self,): 
 		self.name = "HUMUS"
+		self.definitions = [u'dark earth made of organic material such as decayed leaves and plants']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

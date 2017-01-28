@@ -4,11 +4,12 @@
 class _STOCHASTIC():
 	def __init__(self,): 
 		self.name = "STOCHASTIC"
+		self.definitions = [u'A stochastic process or system is connected with random probability.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

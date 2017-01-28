@@ -4,11 +4,12 @@
 class _BUDGET():
 	def __init__(self,): 
 		self.name = "BUDGET"
+		self.definitions = [u'very cheap: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

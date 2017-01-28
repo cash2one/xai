@@ -4,11 +4,12 @@
 class _GRUNGY():
 	def __init__(self,): 
 		self.name = "GRUNGY"
+		self.definitions = [u'(of a person) feeling tired and dirty, or (of a thing) dirty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

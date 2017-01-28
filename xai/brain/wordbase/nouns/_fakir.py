@@ -4,11 +4,12 @@
 class _FAKIR():
 	def __init__(self,): 
 		self.name = "FAKIR"
+		self.definitions = [u'a member of an Islamic religious group, or a Hindu holy man']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

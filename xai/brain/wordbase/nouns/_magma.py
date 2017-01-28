@@ -4,11 +4,12 @@
 class _MAGMA():
 	def __init__(self,): 
 		self.name = "MAGMA"
+		self.definitions = [u'hot liquid rock found just below the surface of the earth']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

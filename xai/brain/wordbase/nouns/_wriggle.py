@@ -4,11 +4,12 @@
 class _WRIGGLE():
 	def __init__(self,): 
 		self.name = "WRIGGLE"
+		self.definitions = [u'an act of wriggling: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

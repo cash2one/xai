@@ -4,11 +4,12 @@
 class _SUNDOWN():
 	def __init__(self,): 
 		self.name = "SUNDOWN"
+		self.definitions = [u'the time in the evening when you last see the sun in the sky: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

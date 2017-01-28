@@ -4,11 +4,12 @@
 class _JUNGIAN():
 	def __init__(self,): 
 		self.name = "JUNGIAN"
+		self.definitions = [u'of or connected with the ideas of the Swiss psychoanalyst Carl Gustav Jung: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

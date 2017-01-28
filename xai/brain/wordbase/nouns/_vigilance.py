@@ -4,11 +4,12 @@
 class _VIGILANCE():
 	def __init__(self,): 
 		self.name = "VIGILANCE"
+		self.definitions = [u'more careful attention, especially in order to notice possible danger: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _VAULTED():
 	def __init__(self,): 
 		self.name = "VAULTED"
+		self.definitions = [u'related to or having a vault: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

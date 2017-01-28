@@ -4,11 +4,12 @@
 class _EXPRESSLY():
 	def __init__(self,): 
 		self.name = "EXPRESSLY"
+		self.definitions = [u'in a way that is clear: ', u'for a particular purpose: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

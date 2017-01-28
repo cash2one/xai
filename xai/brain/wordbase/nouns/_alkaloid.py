@@ -4,11 +4,12 @@
 class _ALKALOID():
 	def __init__(self,): 
 		self.name = "ALKALOID"
+		self.definitions = [u'a type of chemical found in plants that often acts as a drug or poison, or is used in medicines: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

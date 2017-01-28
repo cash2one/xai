@@ -4,11 +4,12 @@
 class _ADJUSTABLE():
 	def __init__(self,): 
 		self.name = "ADJUSTABLE"
+		self.definitions = [u'able to be changed to suit particular needs: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

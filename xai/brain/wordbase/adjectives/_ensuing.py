@@ -4,11 +4,12 @@
 class _ENSUING():
 	def __init__(self,): 
 		self.name = "ENSUING"
+		self.definitions = [u'happening after something and because of it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

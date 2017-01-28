@@ -4,11 +4,12 @@
 class _INSTANTLY():
 	def __init__(self,): 
 		self.name = "INSTANTLY"
+		self.definitions = [u'immediately: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

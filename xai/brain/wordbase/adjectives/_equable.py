@@ -4,11 +4,12 @@
 class _EQUABLE():
 	def __init__(self,): 
 		self.name = "EQUABLE"
+		self.definitions = [u'always being pleasant: ', u'not changing suddenly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

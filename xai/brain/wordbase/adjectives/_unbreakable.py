@@ -4,11 +4,12 @@
 class _UNBREAKABLE():
 	def __init__(self,): 
 		self.name = "UNBREAKABLE"
+		self.definitions = [u'impossible to break: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

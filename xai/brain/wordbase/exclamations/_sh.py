@@ -4,11 +4,12 @@
 class _SH():
 	def __init__(self,): 
 		self.name = "SH"
+		self.definitions = [u'used to tell someone to be quiet: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

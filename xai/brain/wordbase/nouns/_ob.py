@@ -4,11 +4,12 @@
 class _OB():
 	def __init__(self,): 
 		self.name = "OB"
+		self.definitions = [u'informal for  obstetrician ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

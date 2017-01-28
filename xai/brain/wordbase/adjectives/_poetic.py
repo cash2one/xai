@@ -4,11 +4,12 @@
 class _POETIC():
 	def __init__(self,): 
 		self.name = "POETIC"
+		self.definitions = [u'like or relating to poetry or poets: ', u'very beautiful or expressing emotion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

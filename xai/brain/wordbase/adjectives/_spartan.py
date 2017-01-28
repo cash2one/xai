@@ -4,11 +4,12 @@
 class _SPARTAN():
 	def __init__(self,): 
 		self.name = "SPARTAN"
+		self.definitions = [u'simple and severe with no comfort: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

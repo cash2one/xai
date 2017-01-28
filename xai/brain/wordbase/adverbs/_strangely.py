@@ -4,11 +4,12 @@
 class _STRANGELY():
 	def __init__(self,): 
 		self.name = "STRANGELY"
+		self.definitions = [u'in a way that is unusual, unexpected, or difficult to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _INSISTENT():
 	def __init__(self,): 
 		self.name = "INSISTENT"
+		self.definitions = [u'firmly saying that something must be true or done: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

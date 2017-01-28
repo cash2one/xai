@@ -4,11 +4,12 @@
 class _OPPORTUNIST():
 	def __init__(self,): 
 		self.name = "OPPORTUNIST"
+		self.definitions = [u'using a situation to get power or an advantage: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _TRIVIA():
 	def __init__(self,): 
 		self.name = "TRIVIA"
+		self.definitions = [u'details or information that are not important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

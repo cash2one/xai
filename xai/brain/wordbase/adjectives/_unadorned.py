@@ -4,11 +4,12 @@
 class _UNADORNED():
 	def __init__(self,): 
 		self.name = "UNADORNED"
+		self.definitions = [u'plain and simple, with little or no decoration: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

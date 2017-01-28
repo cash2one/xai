@@ -4,11 +4,12 @@
 class _RINGLET():
 	def __init__(self,): 
 		self.name = "RINGLET"
+		self.definitions = [u'a curled piece of long hair: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

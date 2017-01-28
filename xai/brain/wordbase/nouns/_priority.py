@@ -4,11 +4,12 @@
 class _PRIORITY():
 	def __init__(self,): 
 		self.name = "PRIORITY"
+		self.definitions = [u'something that is very important and must be dealt with before other things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

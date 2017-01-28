@@ -5,6 +5,7 @@ class Update_class():
     '''
     add new data: replace the old __init__()
     add new function: replace the old function
+
     '''
     def __init__(self, ):
         '''
@@ -13,6 +14,7 @@ class Update_class():
         self.filename = None
         self.jsondata = {}
         self.lines = []
+        self.functions = {}
     #
     def update(self, filename=None, jsondata=None):
         '''
@@ -21,26 +23,25 @@ class Update_class():
             self.filename = filename
         if jsondata:
             self.jsondata = jsondata
-
+        # print(self.filename)
         with open(self.filename, 'r') as file:
             self.lines = file.readlines()
         file.close()
-
+        #
+        self.summary_function()
         if 'properties' in self.jsondata.keys():
             self.add_data()
     #
     def add_data(self, ):
         '''
         '''
-        func_body = self.get_function('__init__')
-        # print(self.filename)
-        # print(func_body)
-        func_body.append('''
+        function = self.functions['__init__']
+        function['body'].append('''
 \t\tself.properties.append('{0}')
 '''.format(self.jsondata['properties']))
-        # print(func_body)
         self.remove_function('__init__')
-        self.lines += func_body
+        self.lines += function['body']
+        # self.print_class()
         with open(self.filename, 'w') as file:
             for line in self.lines:
                 file.write(line)
@@ -57,54 +58,81 @@ class Update_class():
         '''
         func_body = None
         self.summary_function()
-        # print(self.functions)
-        index = self.functions['name'].index(funcname)
-        
-        if index==(len(self.functions['index']) - 1):
-            end = -1
-        else:
-            # print(index, len(self.functions['index']))
-            end = self.functions['index'][index+1]
-        func_body = self.lines[self.functions['index'][index]:end]
+        func_body = self.functions[funcname]
         return func_body
     #
     def remove_function(self, funcname):
         '''
         '''
-        index = self.functions['name'].index(funcname)
-        if index==(len(self.functions['index']) - 1):
-            end = -1
-        else:
-            end = self.functions['index'][index+1]
-        del self.lines[self.functions['index'][index]:end]
+        index = self.functions[funcname]['index']
+        del self.lines[index[0]:index[1]]
+        self.summary_function()
+        # self.print_function()
     #
     def summary_function(self, lines=None):
         '''
+        functions{
+        "__init__":{
+                "body": [],
+                "index": [start, end]
+                },
+        }
         '''
+        self.functions = {}
         if lines:
             self.lines = lines
-        functions = {}
-        index = []
-        funcname = []
-        for i, line in enumerate(self.lines):
+        function = {}
+        nline = len(self.lines)
+        i = 0
+        #
+        while i < nline:
+            line = self.lines[i]
             if 'def' in line[0:7]:
-                text = re.split('def', line)
-                text = re.split('\(', text[1])
-                funcname.append(text[0].replace(' ',''))
+                # print(i, line)
+                index = []
+                func_body = []
                 index.append(i)
-        functions['index'] = index
-        functions['name'] = funcname
-        # print(functions)
-        self.functions = functions
-
+                #
+                text = re.split('def', line)[1]
+                text = re.split('\(', text)[0]
+                funcname = text.replace(' ','')
+                i += 1
+                while 'def' not in self.lines[i][0:7] and i < nline - 1:
+                    i += 1
+                #
+                if i==nline - 1:
+                    end = None
+                else:
+                    end = i
+                index.append(end)
+                func_body = self.lines[index[0]:index[1]]
+                function['body'] = func_body
+                function['index'] = index
+                self.functions[funcname] = function
+                i -= 1
+            i += 1
+        #
+    #
     def clear(self, ):
         '''
         clear old function
         '''
         pass
+    #
+    def print_class(self, ):
+        '''
+        '''
+        for line in self.lines:
+            print(line)
+    #
+    def print_function(self, funcname = None):
+        '''
+        '''
+        for line in self.functions[funcname]['body']:
+            print(line)
 
     
 # Run main function by default
 if __name__ == "__main__":
     myupdate = Update_class()
-    myupdate.add_data()
+    # myupdate.add_data()

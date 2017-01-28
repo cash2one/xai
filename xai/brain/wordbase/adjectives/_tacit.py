@@ -4,11 +4,12 @@
 class _TACIT():
 	def __init__(self,): 
 		self.name = "TACIT"
+		self.definitions = [u'understood without being expressed directly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

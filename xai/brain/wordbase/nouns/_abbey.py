@@ -4,11 +4,12 @@
 class _ABBEY():
 	def __init__(self,): 
 		self.name = "ABBEY"
+		self.definitions = [u'a building where monks or nuns live or used to live. Some abbeys are now used as churches: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

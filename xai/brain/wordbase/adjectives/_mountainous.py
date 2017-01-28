@@ -4,11 +4,12 @@
 class _MOUNTAINOUS():
 	def __init__(self,): 
 		self.name = "MOUNTAINOUS"
+		self.definitions = [u'having a lot of mountains: ', u'very big: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _THIEF():
 	def __init__(self,): 
 		self.name = "THIEF"
+		self.definitions = [u'a person who steals: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

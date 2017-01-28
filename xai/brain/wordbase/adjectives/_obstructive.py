@@ -4,11 +4,12 @@
 class _OBSTRUCTIVE():
 	def __init__(self,): 
 		self.name = "OBSTRUCTIVE"
+		self.definitions = [u'trying to stop someone from doing something by causing problems for them: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

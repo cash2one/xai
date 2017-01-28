@@ -4,11 +4,12 @@
 class _ASSIDUOUS():
 	def __init__(self,): 
 		self.name = "ASSIDUOUS"
+		self.definitions = [u'showing hard work, care, and attention to detail: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

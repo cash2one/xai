@@ -4,11 +4,12 @@
 class _SLAUGHTERED():
 	def __init__(self,): 
 		self.name = "SLAUGHTERED"
+		self.definitions = [u'to get very drunk']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

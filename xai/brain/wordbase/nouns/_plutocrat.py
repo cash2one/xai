@@ -4,11 +4,12 @@
 class _PLUTOCRAT():
 	def __init__(self,): 
 		self.name = "PLUTOCRAT"
+		self.definitions = [u'someone who becomes powerful because they are rich: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

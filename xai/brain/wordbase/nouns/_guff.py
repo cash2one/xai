@@ -4,11 +4,12 @@
 class _GUFF():
 	def __init__(self,): 
 		self.name = "GUFF"
+		self.definitions = [u'speech or writing that is nonsense']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

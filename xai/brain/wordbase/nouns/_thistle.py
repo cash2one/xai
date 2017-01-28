@@ -4,11 +4,12 @@
 class _THISTLE():
 	def __init__(self,): 
 		self.name = "THISTLE"
+		self.definitions = [u'a wild plant with sharp points on the leaves and, typically, purple flowers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DELAYED():
 	def __init__(self,): 
 		self.name = "DELAYED"
+		self.definitions = [u'happening at a later time than expected or intended: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

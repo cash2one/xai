@@ -4,11 +4,12 @@
 class _SCAPULA():
 	def __init__(self,): 
 		self.name = "SCAPULA"
+		self.definitions = [u'the  shoulder blade ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

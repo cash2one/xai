@@ -4,11 +4,12 @@
 class _BOTANICAL():
 	def __init__(self,): 
 		self.name = "BOTANICAL"
+		self.definitions = [u'involving or relating to plants or the study of plants: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

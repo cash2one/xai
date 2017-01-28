@@ -4,11 +4,12 @@
 class _PENDING():
 	def __init__(self,): 
 		self.name = "PENDING"
+		self.definitions = [u'about to happen or waiting to happen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

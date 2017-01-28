@@ -4,11 +4,12 @@
 class _JOT():
 	def __init__(self,): 
 		self.name = "JOT"
+		self.definitions = [u'not at all or not even a small amount: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

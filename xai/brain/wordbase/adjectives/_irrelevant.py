@@ -4,11 +4,12 @@
 class _IRRELEVANT():
 	def __init__(self,): 
 		self.name = "IRRELEVANT"
+		self.definitions = [u'not related to what is being discussed or considered and therefore not important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

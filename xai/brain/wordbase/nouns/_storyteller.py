@@ -4,11 +4,12 @@
 class _STORYTELLER():
 	def __init__(self,): 
 		self.name = "STORYTELLER"
+		self.definitions = [u'a person who writes, tells, or reads stories']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

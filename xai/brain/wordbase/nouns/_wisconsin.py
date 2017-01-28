@@ -4,11 +4,12 @@
 class _WISCONSIN():
 	def __init__(self,): 
 		self.name = "WISCONSIN"
+		self.definitions = [u'a state in the northern United States, whose capital city is Madison']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

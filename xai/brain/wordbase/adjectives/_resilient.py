@@ -4,11 +4,12 @@
 class _RESILIENT():
 	def __init__(self,): 
 		self.name = "RESILIENT"
+		self.definitions = [u'able to quickly return to a previous good condition: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

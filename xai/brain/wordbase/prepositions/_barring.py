@@ -4,11 +4,12 @@
 class _BARRING():
 	def __init__(self,): 
 		self.name = "BARRING"
+		self.definitions = [u'except if a particular thing happens: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

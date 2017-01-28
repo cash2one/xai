@@ -4,11 +4,12 @@
 class _VARNISHED():
 	def __init__(self,): 
 		self.name = "VARNISHED"
+		self.definitions = [u'covered with varnish: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

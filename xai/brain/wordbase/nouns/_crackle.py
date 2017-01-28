@@ -4,11 +4,12 @@
 class _CRACKLE():
 	def __init__(self,): 
 		self.name = "CRACKLE"
+		self.definitions = [u'a short, dry, sharp sound: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _GREENERY():
 	def __init__(self,): 
 		self.name = "GREENERY"
+		self.definitions = [u'green plants or branches, especially when cut and used as decoration']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

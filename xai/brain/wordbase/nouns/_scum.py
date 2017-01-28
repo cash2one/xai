@@ -4,11 +4,12 @@
 class _SCUM():
 	def __init__(self,): 
 		self.name = "SCUM"
+		self.definitions = [u'a layer of unpleasant or unwanted material that has formed on the top of a liquid: ', u'a very bad or immoral person or group of people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _REVENGEFUL():
 	def __init__(self,): 
 		self.name = "REVENGEFUL"
+		self.definitions = [u'wanting revenge']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNENVIABLE():
 	def __init__(self,): 
 		self.name = "UNENVIABLE"
+		self.definitions = [u'An unenviable duty or necessary action is unpleasant or difficult: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

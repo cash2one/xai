@@ -4,11 +4,12 @@
 class _THURSDAY():
 	def __init__(self,): 
 		self.name = "THURSDAY"
+		self.definitions = [u'the day of the week after Wednesday and before Friday: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

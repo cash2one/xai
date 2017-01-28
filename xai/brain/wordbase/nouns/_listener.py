@@ -4,11 +4,12 @@
 class _LISTENER():
 	def __init__(self,): 
 		self.name = "LISTENER"
+		self.definitions = [u'someone who listens: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

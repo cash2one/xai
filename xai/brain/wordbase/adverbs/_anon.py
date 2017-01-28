@@ -4,11 +4,12 @@
 class _ANON():
 	def __init__(self,): 
 		self.name = "ANON"
+		self.definitions = [u'soon or in the near future: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

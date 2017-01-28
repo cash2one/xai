@@ -4,11 +4,12 @@
 class _FORTNIGHT():
 	def __init__(self,): 
 		self.name = "FORTNIGHT"
+		self.definitions = [u'a period of two weeks: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _KILLING():
 	def __init__(self,): 
 		self.name = "KILLING"
+		self.definitions = [u'making you feel extremely tired: ', u'extremely funny: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

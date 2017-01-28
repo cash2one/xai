@@ -4,11 +4,12 @@
 class _EPIGRAM():
 	def __init__(self,): 
 		self.name = "EPIGRAM"
+		self.definitions = [u'a short saying or poem that expresses an idea in a clever, funny way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

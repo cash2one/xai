@@ -4,11 +4,12 @@
 class _HOMELESS():
 	def __init__(self,): 
 		self.name = "HOMELESS"
+		self.definitions = [u'without a home: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CAMBER():
 	def __init__(self,): 
 		self.name = "CAMBER"
+		self.definitions = [u'a gradual slope down from the middle of a road to each edge, designed to make water to flow off it']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

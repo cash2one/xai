@@ -4,11 +4,12 @@
 class _FULL():
 	def __init__(self,): 
 		self.name = "FULL"
+		self.definitions = [u'as much or as well as possible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

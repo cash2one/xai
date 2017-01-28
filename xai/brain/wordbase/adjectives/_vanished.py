@@ -4,11 +4,12 @@
 class _VANISHED():
 	def __init__(self,): 
 		self.name = "VANISHED"
+		self.definitions = [u'not now present or existing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

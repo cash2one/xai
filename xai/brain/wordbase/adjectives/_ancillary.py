@@ -4,11 +4,12 @@
 class _ANCILLARY():
 	def __init__(self,): 
 		self.name = "ANCILLARY"
+		self.definitions = [u'providing support or help: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -1,0 +1,7 @@
+{
+    "color": "_color",
+    "geometry": "_geometry",
+    "size": "_size",
+    "space": "_space",
+    "time": "_time"
+}

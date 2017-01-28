@@ -4,11 +4,12 @@
 class _HUMBLY():
 	def __init__(self,): 
 		self.name = "HUMBLY"
+		self.definitions = [u'in a way that shows that you do not think you are important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

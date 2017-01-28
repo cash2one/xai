@@ -4,11 +4,12 @@
 class _BUFFALO():
 	def __init__(self,): 
 		self.name = "BUFFALO"
+		self.definitions = [u'a large animal of the cattle family, with long, curved horns']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PASTEL():
 	def __init__(self,): 
 		self.name = "PASTEL"
+		self.definitions = [u'having a pale soft colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

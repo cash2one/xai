@@ -4,11 +4,12 @@
 class _DOGGED():
 	def __init__(self,): 
 		self.name = "DOGGED"
+		self.definitions = [u'very determined to do something, even if it is very difficult: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

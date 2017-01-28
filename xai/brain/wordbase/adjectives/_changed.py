@@ -4,11 +4,12 @@
 class _CHANGED():
 	def __init__(self,): 
 		self.name = "CHANGED"
+		self.definitions = [u'someone whose behaviour and character has changed a lot, especially improved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _AUTOMOTIVE():
 	def __init__(self,): 
 		self.name = "AUTOMOTIVE"
+		self.definitions = [u'relating to road vehicles: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

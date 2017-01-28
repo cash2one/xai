@@ -4,11 +4,12 @@
 class _NOVELLA():
 	def __init__(self,): 
 		self.name = "NOVELLA"
+		self.definitions = [u'a short novel']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

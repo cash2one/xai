@@ -4,11 +4,12 @@
 class _UNRIPE():
 	def __init__(self,): 
 		self.name = "UNRIPE"
+		self.definitions = [u'(of food or crops) not yet ready to be eaten or collected; not yet ripe: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

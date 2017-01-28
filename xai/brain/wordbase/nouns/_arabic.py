@@ -4,11 +4,12 @@
 class _ARABIC():
 	def __init__(self,): 
 		self.name = "ARABIC"
+		self.definitions = [u'a language spoken in Western Asia and North Africa: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

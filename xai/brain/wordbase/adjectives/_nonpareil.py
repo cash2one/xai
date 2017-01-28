@@ -4,11 +4,12 @@
 class _NONPAREIL():
 	def __init__(self,): 
 		self.name = "NONPAREIL"
+		self.definitions = [u'better than any other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

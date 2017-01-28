@@ -4,11 +4,12 @@
 class _BRILLIANT():
 	def __init__(self,): 
 		self.name = "BRILLIANT"
+		self.definitions = [u'extremely intelligent or skilled: ', u'full of light, shining, or bright in colour: ', u'very good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _YELLOWISH():
 	def __init__(self,): 
 		self.name = "YELLOWISH"
+		self.definitions = [u'slightly yellow: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

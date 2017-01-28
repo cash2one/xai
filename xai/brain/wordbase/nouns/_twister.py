@@ -4,11 +4,12 @@
 class _TWISTER():
 	def __init__(self,): 
 		self.name = "TWISTER"
+		self.definitions = [u'a  tornado  or a  whirlwind noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

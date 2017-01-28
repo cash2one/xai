@@ -4,11 +4,12 @@
 class _DOUGHY():
 	def __init__(self,): 
 		self.name = "DOUGHY"
+		self.definitions = [u'soft, thick, and sticky, like dough']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

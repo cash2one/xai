@@ -4,11 +4,12 @@
 class _TRUSTED():
 	def __init__(self,): 
 		self.name = "TRUSTED"
+		self.definitions = [u'deserving of trust, or able to be depended on : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

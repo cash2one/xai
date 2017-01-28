@@ -4,11 +4,12 @@
 class _UNFETTERED():
 	def __init__(self,): 
 		self.name = "UNFETTERED"
+		self.definitions = [u'not limited by rules or any other controlling influence: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

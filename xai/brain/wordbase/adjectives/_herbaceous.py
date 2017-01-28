@@ -4,11 +4,12 @@
 class _HERBACEOUS():
 	def __init__(self,): 
 		self.name = "HERBACEOUS"
+		self.definitions = [u'(of plants) soft and not woody']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

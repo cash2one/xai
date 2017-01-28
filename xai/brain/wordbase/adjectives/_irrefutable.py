@@ -4,11 +4,12 @@
 class _IRREFUTABLE():
 	def __init__(self,): 
 		self.name = "IRREFUTABLE"
+		self.definitions = [u'impossible to prove wrong: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

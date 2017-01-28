@@ -4,11 +4,12 @@
 class _FLIPPING():
 	def __init__(self,): 
 		self.name = "FLIPPING"
+		self.definitions = [u'used to emphasize what is being said, or to express anger: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

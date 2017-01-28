@@ -4,11 +4,12 @@
 class _AMUSING():
 	def __init__(self,): 
 		self.name = "AMUSING"
+		self.definitions = [u'entertaining: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

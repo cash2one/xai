@@ -4,11 +4,12 @@
 class _KEY():
 	def __init__(self,): 
 		self.name = "KEY"
+		self.definitions = [u'very important and having a lot of influence on other people or things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

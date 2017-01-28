@@ -4,11 +4,12 @@
 class _EFFULGENT():
 	def __init__(self,): 
 		self.name = "EFFULGENT"
+		self.definitions = [u'shining brightly: ', u'looking very beautiful or full of goodness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

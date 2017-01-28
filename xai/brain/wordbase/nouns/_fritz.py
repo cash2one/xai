@@ -4,11 +4,12 @@
 class _FRITZ():
 	def __init__(self,): 
 		self.name = "FRITZ"
+		self.definitions = [u'broken or not working: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

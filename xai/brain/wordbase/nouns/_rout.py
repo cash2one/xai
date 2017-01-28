@@ -4,11 +4,12 @@
 class _ROUT():
 	def __init__(self,): 
 		self.name = "ROUT"
+		self.definitions = [u'defeat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

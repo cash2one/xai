@@ -4,11 +4,12 @@
 class _TRUE():
 	def __init__(self,): 
 		self.name = "TRUE"
+		self.definitions = [u'straight and without moving to either side: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

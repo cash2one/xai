@@ -4,11 +4,12 @@
 class _IDENTITY():
 	def __init__(self,): 
 		self.name = "IDENTITY"
+		self.definitions = [u'who a person is, or the qualities of a person or group that make them different from others: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

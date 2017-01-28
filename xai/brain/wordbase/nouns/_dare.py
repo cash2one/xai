@@ -4,11 +4,12 @@
 class _DARE():
 	def __init__(self,): 
 		self.name = "DARE"
+		self.definitions = [u'something you do because someone dares you to: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

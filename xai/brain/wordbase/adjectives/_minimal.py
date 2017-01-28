@@ -4,11 +4,12 @@
 class _MINIMAL():
 	def __init__(self,): 
 		self.name = "MINIMAL"
+		self.definitions = [u'very small in amount: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

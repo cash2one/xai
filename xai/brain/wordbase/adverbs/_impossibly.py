@@ -4,11 +4,12 @@
 class _IMPOSSIBLY():
 	def __init__(self,): 
 		self.name = "IMPOSSIBLY"
+		self.definitions = [u'extremely or more than is usual: ', u'in a way that cannot happen or be expected to happen']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

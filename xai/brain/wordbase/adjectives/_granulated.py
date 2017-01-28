@@ -4,11 +4,12 @@
 class _GRANULATED():
 	def __init__(self,): 
 		self.name = "GRANULATED"
+		self.definitions = [u'in small grains: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

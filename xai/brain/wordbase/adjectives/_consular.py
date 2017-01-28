@@ -4,11 +4,12 @@
 class _CONSULAR():
 	def __init__(self,): 
 		self.name = "CONSULAR"
+		self.definitions = [u'relating to a consul or a consulate: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

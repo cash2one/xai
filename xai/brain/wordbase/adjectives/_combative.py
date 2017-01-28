@@ -4,11 +4,12 @@
 class _COMBATIVE():
 	def __init__(self,): 
 		self.name = "COMBATIVE"
+		self.definitions = [u'eager to fight or argue: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

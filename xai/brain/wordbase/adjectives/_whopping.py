@@ -4,11 +4,12 @@
 class _WHOPPING():
 	def __init__(self,): 
 		self.name = "WHOPPING"
+		self.definitions = [u'extremely large: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

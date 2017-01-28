@@ -4,11 +4,12 @@
 class _ASTRIDE():
 	def __init__(self,): 
 		self.name = "ASTRIDE"
+		self.definitions = [u'with a leg on each side of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

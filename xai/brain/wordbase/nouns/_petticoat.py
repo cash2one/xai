@@ -4,11 +4,12 @@
 class _PETTICOAT():
 	def __init__(self,): 
 		self.name = "PETTICOAT"
+		self.definitions = [u'a  slip noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

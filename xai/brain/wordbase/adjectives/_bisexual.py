@@ -4,11 +4,12 @@
 class _BISEXUAL():
 	def __init__(self,): 
 		self.name = "BISEXUAL"
+		self.definitions = [u'sexually attracted to both men and women: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

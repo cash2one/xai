@@ -4,11 +4,12 @@
 class _POSH():
 	def __init__(self,): 
 		self.name = "POSH"
+		self.definitions = [u'as though from a high social class: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

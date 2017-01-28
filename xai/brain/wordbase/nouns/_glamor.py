@@ -4,11 +4,12 @@
 class _GLAMOR():
 	def __init__(self,): 
 		self.name = "GLAMOR"
+		self.definitions = [u'US spelling of  glamour ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

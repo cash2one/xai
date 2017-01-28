@@ -4,11 +4,12 @@
 class _OFFICIOUS():
 	def __init__(self,): 
 		self.name = "OFFICIOUS"
+		self.definitions = [u'too eager to tell people what to do and having too high an opinion of your own importance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

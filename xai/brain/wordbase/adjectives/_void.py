@@ -4,11 +4,12 @@
 class _VOID():
 	def __init__(self,): 
 		self.name = "VOID"
+		self.definitions = [u'having no legal authority and therefore unacceptable: ', u'without; lacking in: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

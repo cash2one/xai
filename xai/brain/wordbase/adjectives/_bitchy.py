@@ -4,11 +4,12 @@
 class _BITCHY():
 	def __init__(self,): 
 		self.name = "BITCHY"
+		self.definitions = [u'often talking unkindly about other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

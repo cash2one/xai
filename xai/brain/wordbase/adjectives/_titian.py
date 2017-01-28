@@ -4,11 +4,12 @@
 class _TITIAN():
 	def __init__(self,): 
 		self.name = "TITIAN"
+		self.definitions = [u'(of hair) reddish-gold in colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNTHINKING():
 	def __init__(self,): 
 		self.name = "UNTHINKING"
+		self.definitions = [u'not based on serious thought or an examination of the information: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

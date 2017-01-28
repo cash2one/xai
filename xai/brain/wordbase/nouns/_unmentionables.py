@@ -4,11 +4,12 @@
 class _UNMENTIONABLES():
 	def __init__(self,): 
 		self.name = "UNMENTIONABLES"
+		self.definitions = [u'underwear']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

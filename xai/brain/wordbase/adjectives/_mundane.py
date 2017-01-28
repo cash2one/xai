@@ -4,11 +4,12 @@
 class _MUNDANE():
 	def __init__(self,): 
 		self.name = "MUNDANE"
+		self.definitions = [u'very ordinary and therefore not interesting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

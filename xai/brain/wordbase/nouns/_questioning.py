@@ -4,11 +4,12 @@
 class _QUESTIONING():
 	def __init__(self,): 
 		self.name = "QUESTIONING"
+		self.definitions = [u'the situation in which the police ask someone questions about a crime: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

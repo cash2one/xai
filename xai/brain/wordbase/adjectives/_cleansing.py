@@ -4,11 +4,12 @@
 class _CLEANSING():
 	def __init__(self,): 
 		self.name = "CLEANSING"
+		self.definitions = [u'used to describe something that cleans or is used for cleaning: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

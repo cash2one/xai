@@ -4,11 +4,12 @@
 class _PRICK():
 	def __init__(self,): 
 		self.name = "PRICK"
+		self.definitions = [u'a penis', u'a stupid man: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

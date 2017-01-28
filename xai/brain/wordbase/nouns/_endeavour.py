@@ -4,11 +4,12 @@
 class _ENDEAVOUR():
 	def __init__(self,): 
 		self.name = "ENDEAVOUR"
+		self.definitions = [u'an attempt to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

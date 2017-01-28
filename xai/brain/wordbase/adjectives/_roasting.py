@@ -4,11 +4,12 @@
 class _ROASTING():
 	def __init__(self,): 
 		self.name = "ROASTING"
+		self.definitions = [u'very hot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

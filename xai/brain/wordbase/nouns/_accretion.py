@@ -4,11 +4,12 @@
 class _ACCRETION():
 	def __init__(self,): 
 		self.name = "ACCRETION"
+		self.definitions = [u'a gradual increase or growth by the addition of new layers or parts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

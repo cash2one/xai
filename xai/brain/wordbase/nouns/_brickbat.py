@@ -4,11 +4,12 @@
 class _BRICKBAT():
 	def __init__(self,): 
 		self.name = "BRICKBAT"
+		self.definitions = [u'a spoken attack: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

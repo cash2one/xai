@@ -4,11 +4,12 @@
 class _OSTENTATIOUS():
 	def __init__(self,): 
 		self.name = "OSTENTATIOUS"
+		self.definitions = [u'too obviously showing your money, possessions, or power, in an attempt to make other people notice and admire you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

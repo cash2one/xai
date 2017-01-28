@@ -4,11 +4,12 @@
 class _ABYSMAL():
 	def __init__(self,): 
 		self.name = "ABYSMAL"
+		self.definitions = [u'very bad: ', u'very deep: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

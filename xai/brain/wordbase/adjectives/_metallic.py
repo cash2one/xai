@@ -4,11 +4,12 @@
 class _METALLIC():
 	def __init__(self,): 
 		self.name = "METALLIC"
+		self.definitions = [u'A metallic sound, appearance, or taste is like metal: ', u'consisting of, or partly consisting of, metal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

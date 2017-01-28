@@ -4,11 +4,12 @@
 class _EXCLAMATORY():
 	def __init__(self,): 
 		self.name = "EXCLAMATORY"
+		self.definitions = [u'(of language) expressing surprise, emotion, or pain by means of an exclamation or exclamations: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DEJECTED():
 	def __init__(self,): 
 		self.name = "DEJECTED"
+		self.definitions = [u'unhappy, disappointed, or without hope: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

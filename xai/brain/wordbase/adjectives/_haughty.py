@@ -4,11 +4,12 @@
 class _HAUGHTY():
 	def __init__(self,): 
 		self.name = "HAUGHTY"
+		self.definitions = [u'unfriendly and seeming to consider yourself better than other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

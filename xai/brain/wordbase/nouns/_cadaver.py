@@ -4,11 +4,12 @@
 class _CADAVER():
 	def __init__(self,): 
 		self.name = "CADAVER"
+		self.definitions = [u'a dead human body']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

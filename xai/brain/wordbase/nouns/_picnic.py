@@ -4,11 +4,12 @@
 class _PICNIC():
 	def __init__(self,): 
 		self.name = "PICNIC"
+		self.definitions = [u'an occasion when you have an informal meal of sandwiches, etc. outside, or the food itself: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

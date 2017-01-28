@@ -4,11 +4,12 @@
 class _FILTHY():
 	def __init__(self,): 
 		self.name = "FILTHY"
+		self.definitions = [u'extremely or unpleasantly dirty: ', u'containing sexually offensive words or pictures: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

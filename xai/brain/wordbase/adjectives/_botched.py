@@ -4,11 +4,12 @@
 class _BOTCHED():
 	def __init__(self,): 
 		self.name = "BOTCHED"
+		self.definitions = [u'used to describe something, usually a job, that is done badly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

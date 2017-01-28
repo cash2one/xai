@@ -4,11 +4,12 @@
 class _ORNAMENTATION():
 	def __init__(self,): 
 		self.name = "ORNAMENTATION"
+		self.definitions = [u'decoration: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

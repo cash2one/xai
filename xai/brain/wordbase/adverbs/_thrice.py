@@ -4,11 +4,12 @@
 class _THRICE():
 	def __init__(self,): 
 		self.name = "THRICE"
+		self.definitions = [u'three times']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

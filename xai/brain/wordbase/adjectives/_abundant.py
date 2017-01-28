@@ -4,11 +4,12 @@
 class _ABUNDANT():
 	def __init__(self,): 
 		self.name = "ABUNDANT"
+		self.definitions = [u'more than enough: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

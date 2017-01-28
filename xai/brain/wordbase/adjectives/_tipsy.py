@@ -4,11 +4,12 @@
 class _TIPSY():
 	def __init__(self,): 
 		self.name = "TIPSY"
+		self.definitions = [u'slightly drunk: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _COUNSEL():
 	def __init__(self,): 
 		self.name = "COUNSEL"
+		self.definitions = [u'advice: ', u'one or more of the lawyers taking part in a legal case: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

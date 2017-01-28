@@ -4,11 +4,12 @@
 class _TORRENTIAL():
 	def __init__(self,): 
 		self.name = "TORRENTIAL"
+		self.definitions = [u'used to refer to very heavy rain: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

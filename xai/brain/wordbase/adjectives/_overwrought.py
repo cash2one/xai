@@ -4,11 +4,12 @@
 class _OVERWROUGHT():
 	def __init__(self,): 
 		self.name = "OVERWROUGHT"
+		self.definitions = [u'in a state of being upset, nervous, and worried: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

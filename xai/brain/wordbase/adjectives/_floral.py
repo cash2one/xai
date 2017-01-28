@@ -4,11 +4,12 @@
 class _FLORAL():
 	def __init__(self,): 
 		self.name = "FLORAL"
+		self.definitions = [u'made of flowers, or decorated with pictures of flowers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

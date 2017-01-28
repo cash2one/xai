@@ -4,11 +4,12 @@
 class _OFFENDER():
 	def __init__(self,): 
 		self.name = "OFFENDER"
+		self.definitions = [u'a person who is guilty of a crime: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

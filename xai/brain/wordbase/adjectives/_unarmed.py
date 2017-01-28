@@ -4,11 +4,12 @@
 class _UNARMED():
 	def __init__(self,): 
 		self.name = "UNARMED"
+		self.definitions = [u'not armed']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DECKING():
 	def __init__(self,): 
 		self.name = "DECKING"
+		self.definitions = [u'a floor outside made of wood, or the long pieces of wood used to make this floor']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

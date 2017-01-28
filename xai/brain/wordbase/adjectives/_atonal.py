@@ -4,11 +4,12 @@
 class _ATONAL():
 	def __init__(self,): 
 		self.name = "ATONAL"
+		self.definitions = [u'Atonal music is written in a way that is not based on any particular key.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

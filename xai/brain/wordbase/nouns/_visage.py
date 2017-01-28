@@ -4,11 +4,12 @@
 class _VISAGE():
 	def __init__(self,): 
 		self.name = "VISAGE"
+		self.definitions = [u'the face']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

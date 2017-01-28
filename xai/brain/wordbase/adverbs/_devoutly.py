@@ -4,11 +4,12 @@
 class _DEVOUTLY():
 	def __init__(self,): 
 		self.name = "DEVOUTLY"
+		self.definitions = [u'in a very religious way: ', u'sincerely and strongly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

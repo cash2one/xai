@@ -4,11 +4,12 @@
 class _HARMLESS():
 	def __init__(self,): 
 		self.name = "HARMLESS"
+		self.definitions = [u'not able or not likely to cause harm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

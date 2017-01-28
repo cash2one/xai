@@ -4,11 +4,12 @@
 class _BULLETPROOF():
 	def __init__(self,): 
 		self.name = "BULLETPROOF"
+		self.definitions = [u'Something that is bulletproof prevents bullets from going through it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

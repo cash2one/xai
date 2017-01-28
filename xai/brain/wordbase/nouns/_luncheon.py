@@ -4,11 +4,12 @@
 class _LUNCHEON():
 	def __init__(self,): 
 		self.name = "LUNCHEON"
+		self.definitions = [u'formal for  lunch noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

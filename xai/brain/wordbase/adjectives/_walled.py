@@ -4,11 +4,12 @@
 class _WALLED():
 	def __init__(self,): 
 		self.name = "WALLED"
+		self.definitions = [u'surrounded by a wall: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

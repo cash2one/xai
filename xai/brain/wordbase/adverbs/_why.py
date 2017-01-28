@@ -4,11 +4,12 @@
 class _WHY():
 	def __init__(self,): 
 		self.name = "WHY"
+		self.definitions = [u'for what reason: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _THINKER():
 	def __init__(self,): 
 		self.name = "THINKER"
+		self.definitions = [u'someone who considers important subjects or produces new ideas: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

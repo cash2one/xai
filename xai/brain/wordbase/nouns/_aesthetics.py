@@ -4,11 +4,12 @@
 class _AESTHETICS():
 	def __init__(self,): 
 		self.name = "AESTHETICS"
+		self.definitions = [u'the formal study of art, especially in relation to the idea of beauty']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _MOCK():
 	def __init__(self,): 
 		self.name = "MOCK"
+		self.definitions = [u'not real but appearing or pretending to be exactly like something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SOCIAL():
 	def __init__(self,): 
 		self.name = "SOCIAL"
+		self.definitions = [u'an occasion when the members of a group or organization meet informally to enjoy themselves: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

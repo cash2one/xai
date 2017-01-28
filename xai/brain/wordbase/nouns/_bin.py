@@ -4,11 +4,12 @@
 class _BIN():
 	def __init__(self,): 
 		self.name = "BIN"
+		self.definitions = [u'a container for waste: ', u'a large container used for storing things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

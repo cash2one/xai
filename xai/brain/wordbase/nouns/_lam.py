@@ -4,11 +4,12 @@
 class _LAM():
 	def __init__(self,): 
 		self.name = "LAM"
+		self.definitions = [u'escaping, especially from the police: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

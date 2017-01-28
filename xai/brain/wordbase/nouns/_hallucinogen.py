@@ -4,11 +4,12 @@
 class _HALLUCINOGEN():
 	def __init__(self,): 
 		self.name = "HALLUCINOGEN"
+		self.definitions = [u'a drug that makes people hallucinate: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

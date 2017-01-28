@@ -4,11 +4,12 @@
 class _UNWED():
 	def __init__(self,): 
 		self.name = "UNWED"
+		self.definitions = [u'(used especially in newspapers) not married: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

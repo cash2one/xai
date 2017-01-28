@@ -4,11 +4,12 @@
 class _EARTHENWARE():
 	def __init__(self,): 
 		self.name = "EARTHENWARE"
+		self.definitions = [u'made of quite rough clay, often shaped with the hands: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

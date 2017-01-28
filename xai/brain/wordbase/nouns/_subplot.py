@@ -4,11 +4,12 @@
 class _SUBPLOT():
 	def __init__(self,): 
 		self.name = "SUBPLOT"
+		self.definitions = [u'a part of the story of a book or play that develops separately from the main story']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

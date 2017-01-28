@@ -4,11 +4,12 @@
 class _VILLAINOUS():
 	def __init__(self,): 
 		self.name = "VILLAINOUS"
+		self.definitions = [u'A villainous person or an action is evil: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

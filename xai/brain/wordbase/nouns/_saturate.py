@@ -4,11 +4,12 @@
 class _SATURATE():
 	def __init__(self,): 
 		self.name = "SATURATE"
+		self.definitions = [u'a  saturated fat ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

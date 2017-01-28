@@ -4,11 +4,12 @@
 class _MULTITUDINOUS():
 	def __init__(self,): 
 		self.name = "MULTITUDINOUS"
+		self.definitions = [u'consisting of many things or parts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

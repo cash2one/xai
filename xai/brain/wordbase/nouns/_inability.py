@@ -4,11 +4,12 @@
 class _INABILITY():
 	def __init__(self,): 
 		self.name = "INABILITY"
+		self.definitions = [u'lack of ability to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

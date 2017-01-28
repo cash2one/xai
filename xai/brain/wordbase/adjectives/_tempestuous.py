@@ -4,11 +4,12 @@
 class _TEMPESTUOUS():
 	def __init__(self,): 
 		self.name = "TEMPESTUOUS"
+		self.definitions = [u'If something such as a relationship or time is tempestuous, it is full of strong emotions: ', u'of or relating to a tempest']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

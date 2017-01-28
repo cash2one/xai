@@ -4,11 +4,12 @@
 class _EXTERIOR():
 	def __init__(self,): 
 		self.name = "EXTERIOR"
+		self.definitions = [u'on or from the outside: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

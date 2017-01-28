@@ -4,11 +4,12 @@
 class _FIRSTBORN():
 	def __init__(self,): 
 		self.name = "FIRSTBORN"
+		self.definitions = [u'used to refer to the first child of a set of parents: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

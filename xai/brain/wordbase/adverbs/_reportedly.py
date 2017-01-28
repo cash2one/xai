@@ -4,11 +4,12 @@
 class _REPORTEDLY():
 	def __init__(self,): 
 		self.name = "REPORTEDLY"
+		self.definitions = [u'according to what many people say: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

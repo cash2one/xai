@@ -4,11 +4,12 @@
 class _TRIM():
 	def __init__(self,): 
 		self.name = "TRIM"
+		self.definitions = [u'thin in an attractive and healthy way: ', u'tidy and well ordered: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

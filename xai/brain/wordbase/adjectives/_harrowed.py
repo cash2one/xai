@@ -4,11 +4,12 @@
 class _HARROWED():
 	def __init__(self,): 
 		self.name = "HARROWED"
+		self.definitions = [u'looking as if you have suffered: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

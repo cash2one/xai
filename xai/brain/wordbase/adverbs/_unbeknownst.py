@@ -4,11 +4,12 @@
 class _UNBEKNOWNST():
 	def __init__(self,): 
 		self.name = "UNBEKNOWNST"
+		self.definitions = [u'without a particular person knowing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

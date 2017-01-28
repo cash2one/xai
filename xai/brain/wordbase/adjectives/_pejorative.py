@@ -4,11 +4,12 @@
 class _PEJORATIVE():
 	def __init__(self,): 
 		self.name = "PEJORATIVE"
+		self.definitions = [u'expressing disapproval, or suggesting that something is not good or is of no importance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

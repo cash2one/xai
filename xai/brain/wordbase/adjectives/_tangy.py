@@ -4,11 +4,12 @@
 class _TANGY():
 	def __init__(self,): 
 		self.name = "TANGY"
+		self.definitions = [u'A tangy flavour is pleasantly strong and sharp: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

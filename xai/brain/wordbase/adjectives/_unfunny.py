@@ -4,11 +4,12 @@
 class _UNFUNNY():
 	def __init__(self,): 
 		self.name = "UNFUNNY"
+		self.definitions = [u'not funny: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

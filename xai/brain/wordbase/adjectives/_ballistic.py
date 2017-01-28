@@ -4,11 +4,12 @@
 class _BALLISTIC():
 	def __init__(self,): 
 		self.name = "BALLISTIC"
+		self.definitions = [u'connected with ballistics', u'to become extremely angry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

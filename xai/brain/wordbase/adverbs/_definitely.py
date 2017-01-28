@@ -4,11 +4,12 @@
 class _DEFINITELY():
 	def __init__(self,): 
 		self.name = "DEFINITELY"
+		self.definitions = [u'without any doubt: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

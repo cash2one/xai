@@ -4,11 +4,12 @@
 class _CRASHING():
 	def __init__(self,): 
 		self.name = "CRASHING"
+		self.definitions = [u'loud noises made when things break or fall: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

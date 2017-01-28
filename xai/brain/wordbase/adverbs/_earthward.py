@@ -4,11 +4,12 @@
 class _EARTHWARD():
 	def __init__(self,): 
 		self.name = "EARTHWARD"
+		self.definitions = [u'towards the earth, from the air or from space: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _APPARENT():
 	def __init__(self,): 
 		self.name = "APPARENT"
+		self.definitions = [u'able to be seen or understood: ', u'seeming to exist or be true: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

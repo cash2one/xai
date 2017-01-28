@@ -4,11 +4,12 @@
 class _ARCHANGEL():
 	def __init__(self,): 
 		self.name = "ARCHANGEL"
+		self.definitions = [u'an angel of high rank: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

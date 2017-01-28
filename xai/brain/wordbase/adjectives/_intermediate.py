@@ -4,11 +4,12 @@
 class _INTERMEDIATE():
 	def __init__(self,): 
 		self.name = "INTERMEDIATE"
+		self.definitions = [u'being between two other related things, levels, or points: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

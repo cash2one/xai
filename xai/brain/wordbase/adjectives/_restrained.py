@@ -4,11 +4,12 @@
 class _RESTRAINED():
 	def __init__(self,): 
 		self.name = "RESTRAINED"
+		self.definitions = [u'acting in a calm and controlled way: ', u'controlled: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

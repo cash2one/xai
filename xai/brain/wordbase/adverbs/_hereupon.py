@@ -4,11 +4,12 @@
 class _HEREUPON():
 	def __init__(self,): 
 		self.name = "HEREUPON"
+		self.definitions = [u'at this point in time']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

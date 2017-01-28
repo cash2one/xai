@@ -4,11 +4,12 @@
 class _POX():
 	def __init__(self,): 
 		self.name = "POX"
+		self.definitions = [u'informal for  syphilis ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

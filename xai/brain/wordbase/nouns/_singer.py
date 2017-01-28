@@ -4,11 +4,12 @@
 class _SINGER():
 	def __init__(self,): 
 		self.name = "SINGER"
+		self.definitions = [u'a person who sings: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

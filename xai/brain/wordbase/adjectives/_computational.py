@@ -4,11 +4,12 @@
 class _COMPUTATIONAL():
 	def __init__(self,): 
 		self.name = "COMPUTATIONAL"
+		self.definitions = [u'involving the calculation of answers, amounts, results, etc.: ', u'using computers to study something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _KHAKI():
 	def __init__(self,): 
 		self.name = "KHAKI"
+		self.definitions = [u'of a dark yellowish-green colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _VASTLY():
 	def __init__(self,): 
 		self.name = "VASTLY"
+		self.definitions = [u'very much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

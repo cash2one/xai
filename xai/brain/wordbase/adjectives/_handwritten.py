@@ -4,11 +4,12 @@
 class _HANDWRITTEN():
 	def __init__(self,): 
 		self.name = "HANDWRITTEN"
+		self.definitions = [u'written using your hand rather than printed by a machine']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

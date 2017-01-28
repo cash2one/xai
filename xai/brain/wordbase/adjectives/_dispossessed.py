@@ -4,11 +4,12 @@
 class _DISPOSSESSED():
 	def __init__(self,): 
 		self.name = "DISPOSSESSED"
+		self.definitions = [u'Dispossessed people have had their property taken away from them.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

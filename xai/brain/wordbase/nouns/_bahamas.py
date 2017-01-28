@@ -4,11 +4,12 @@
 class _BAHAMAS():
 	def __init__(self,): 
 		self.name = "BAHAMAS"
+		self.definitions = [u'a country in the West Indies made up of around 700 small islands']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PINCHED():
 	def __init__(self,): 
 		self.name = "PINCHED"
+		self.definitions = [u'A pinched face is thin and pale: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MUSTARD():
 	def __init__(self,): 
 		self.name = "MUSTARD"
+		self.definitions = [u'brownish-yellow: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

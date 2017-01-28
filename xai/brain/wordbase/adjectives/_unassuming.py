@@ -4,11 +4,12 @@
 class _UNASSUMING():
 	def __init__(self,): 
 		self.name = "UNASSUMING"
+		self.definitions = [u'Someone who is unassuming is quiet and shows no wish for attention or admiration: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

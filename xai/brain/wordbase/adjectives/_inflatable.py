@@ -4,11 +4,12 @@
 class _INFLATABLE():
 	def __init__(self,): 
 		self.name = "INFLATABLE"
+		self.definitions = [u'able to be inflated: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

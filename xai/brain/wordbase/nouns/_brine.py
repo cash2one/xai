@@ -4,11 +4,12 @@
 class _BRINE():
 	def __init__(self,): 
 		self.name = "BRINE"
+		self.definitions = [u'water with salt in it, especially when used to preserve food: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

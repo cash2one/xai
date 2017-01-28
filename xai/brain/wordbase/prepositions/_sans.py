@@ -4,11 +4,12 @@
 class _SANS():
 	def __init__(self,): 
 		self.name = "SANS"
+		self.definitions = [u'without: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

@@ -4,11 +4,12 @@
 class _INCONSIDERABLE():
 	def __init__(self,): 
 		self.name = "INCONSIDERABLE"
+		self.definitions = [u'very small and therefore not important or not worth considering: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

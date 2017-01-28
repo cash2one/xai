@@ -4,11 +4,12 @@
 class _SURPASSING():
 	def __init__(self,): 
 		self.name = "SURPASSING"
+		self.definitions = [u'extremely great: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

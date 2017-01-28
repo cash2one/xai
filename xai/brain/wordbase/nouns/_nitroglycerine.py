@@ -4,11 +4,12 @@
 class _NITROGLYCERINE():
 	def __init__(self,): 
 		self.name = "NITROGLYCERINE"
+		self.definitions = [u'a very powerful liquid explosive']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

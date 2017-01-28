@@ -4,11 +4,12 @@
 class _FORESTED():
 	def __init__(self,): 
 		self.name = "FORESTED"
+		self.definitions = [u'covered in forest: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BONNY():
 	def __init__(self,): 
 		self.name = "BONNY"
+		self.definitions = [u'beautiful and healthy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _OH():
 	def __init__(self,): 
 		self.name = "OH"
+		self.definitions = [u'sometimes used in writing for the number zero: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

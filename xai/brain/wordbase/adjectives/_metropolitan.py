@@ -4,11 +4,12 @@
 class _METROPOLITAN():
 	def __init__(self,): 
 		self.name = "METROPOLITAN"
+		self.definitions = [u'relating to a large city: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SCHLOCK():
 	def __init__(self,): 
 		self.name = "SCHLOCK"
+		self.definitions = [u'goods or artistic works that are cheap or low in quality: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

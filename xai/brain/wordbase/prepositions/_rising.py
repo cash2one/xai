@@ -4,11 +4,12 @@
 class _RISING():
 	def __init__(self,): 
 		self.name = "RISING"
+		self.definitions = [u'about to become: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

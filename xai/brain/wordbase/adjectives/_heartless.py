@@ -4,11 +4,12 @@
 class _HEARTLESS():
 	def __init__(self,): 
 		self.name = "HEARTLESS"
+		self.definitions = [u'cruel and not worrying about other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

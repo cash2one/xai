@@ -4,11 +4,12 @@
 class _UNOPENED():
 	def __init__(self,): 
 		self.name = "UNOPENED"
+		self.definitions = [u'not having been opened: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

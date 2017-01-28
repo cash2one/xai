@@ -4,11 +4,12 @@
 class _DIRECTORSHIP():
 	def __init__(self,): 
 		self.name = "DIRECTORSHIP"
+		self.definitions = [u'the position of being the director of a company: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

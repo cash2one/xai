@@ -4,11 +4,12 @@
 class _CABINETMAKER():
 	def __init__(self,): 
 		self.name = "CABINETMAKER"
+		self.definitions = [u'a person who makes or repairs good quality furniture']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

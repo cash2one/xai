@@ -4,11 +4,12 @@
 class _FLIGHTLESS():
 	def __init__(self,): 
 		self.name = "FLIGHTLESS"
+		self.definitions = [u'not able to fly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

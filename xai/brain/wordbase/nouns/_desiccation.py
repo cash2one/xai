@@ -4,11 +4,12 @@
 class _DESICCATION():
 	def __init__(self,): 
 		self.name = "DESICCATION"
+		self.definitions = [u'the process of becoming completely dried']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

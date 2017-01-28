@@ -4,11 +4,12 @@
 class _CLOUDLESS():
 	def __init__(self,): 
 		self.name = "CLOUDLESS"
+		self.definitions = [u'with no clouds: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

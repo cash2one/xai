@@ -4,11 +4,12 @@
 class _GRANDEUR():
 	def __init__(self,): 
 		self.name = "GRANDEUR"
+		self.definitions = [u'the quality of being very large and special or beautiful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

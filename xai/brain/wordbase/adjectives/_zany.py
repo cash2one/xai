@@ -4,11 +4,12 @@
 class _ZANY():
 	def __init__(self,): 
 		self.name = "ZANY"
+		self.definitions = [u'strange, surprising, or uncontrolled in a humorous way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

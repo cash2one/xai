@@ -4,11 +4,12 @@
 class _NED():
 	def __init__(self,): 
 		self.name = "NED"
+		self.definitions = [u'a young person who behaves in a rude and sometimes violent or criminal way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _COLLATERAL():
 	def __init__(self,): 
 		self.name = "COLLATERAL"
+		self.definitions = [u'connected but less important, or of the same family although not directly related: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

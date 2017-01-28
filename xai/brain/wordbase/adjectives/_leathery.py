@@ -4,11 +4,12 @@
 class _LEATHERY():
 	def __init__(self,): 
 		self.name = "LEATHERY"
+		self.definitions = [u'with the look and feel of leather: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

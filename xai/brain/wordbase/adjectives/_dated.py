@@ -4,11 +4,12 @@
 class _DATED():
 	def __init__(self,): 
 		self.name = "DATED"
+		self.definitions = [u'old-fashioned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

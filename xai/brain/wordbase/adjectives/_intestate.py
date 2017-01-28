@@ -4,11 +4,12 @@
 class _INTESTATE():
 	def __init__(self,): 
 		self.name = "INTESTATE"
+		self.definitions = [u'If someone dies intestate, they have died without leaving instructions about who should receive their property: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SUBLIME():
 	def __init__(self,): 
 		self.name = "SUBLIME"
+		self.definitions = [u'something that is sublime: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

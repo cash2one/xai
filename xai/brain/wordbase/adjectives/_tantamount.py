@@ -4,11 +4,12 @@
 class _TANTAMOUNT():
 	def __init__(self,): 
 		self.name = "TANTAMOUNT"
+		self.definitions = [u'being almost the same or having the same effect as something, usually something bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

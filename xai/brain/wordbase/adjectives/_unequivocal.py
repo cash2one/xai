@@ -4,11 +4,12 @@
 class _UNEQUIVOCAL():
 	def __init__(self,): 
 		self.name = "UNEQUIVOCAL"
+		self.definitions = [u'total, or expressed in a clear and certain way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

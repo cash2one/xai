@@ -4,11 +4,12 @@
 class _APPARITION():
 	def __init__(self,): 
 		self.name = "APPARITION"
+		self.definitions = [u'the spirit of a dead person appearing in a form that can be seen']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

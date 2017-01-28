@@ -4,11 +4,12 @@
 class _AFT():
 	def __init__(self,): 
 		self.name = "AFT"
+		self.definitions = [u'in or towards the back part of a boat']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

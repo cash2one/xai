@@ -4,11 +4,12 @@
 class _EXTENSION():
 	def __init__(self,): 
 		self.name = "EXTENSION"
+		self.definitions = [u"intended to support students' learning by making them try different or more difficult things in addition to their basic work: ", u'offered by a university to people who are not studying for a degree there : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

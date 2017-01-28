@@ -4,11 +4,12 @@
 class _CARIBOU():
 	def __init__(self,): 
 		self.name = "CARIBOU"
+		self.definitions = [u'a large North American reindeer']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

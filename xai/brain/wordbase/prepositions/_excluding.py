@@ -4,11 +4,12 @@
 class _EXCLUDING():
 	def __init__(self,): 
 		self.name = "EXCLUDING"
+		self.definitions = [u'not including: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

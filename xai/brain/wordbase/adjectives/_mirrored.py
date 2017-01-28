@@ -4,11 +4,12 @@
 class _MIRRORED():
 	def __init__(self,): 
 		self.name = "MIRRORED"
+		self.definitions = [u'with a mirror, or pieces of mirror, on it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

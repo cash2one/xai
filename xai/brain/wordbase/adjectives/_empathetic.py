@@ -4,11 +4,12 @@
 class _EMPATHETIC():
 	def __init__(self,): 
 		self.name = "EMPATHETIC"
+		self.definitions = [u'having the ability to imagine how someone else feels: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

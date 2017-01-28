@@ -4,11 +4,12 @@
 class _WIFELY():
 	def __init__(self,): 
 		self.name = "WIFELY"
+		self.definitions = [u'like a wife or relating to a wife: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

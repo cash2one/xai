@@ -4,11 +4,12 @@
 class _SYNAPSE():
 	def __init__(self,): 
 		self.name = "SYNAPSE"
+		self.definitions = [u'the point at which electrical signals move from one nerve cell to another']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

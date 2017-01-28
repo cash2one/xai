@@ -4,11 +4,12 @@
 class _TERRIFIC():
 	def __init__(self,): 
 		self.name = "TERRIFIC"
+		self.definitions = [u'very good: ', u'used to emphasize the great amount or degree of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

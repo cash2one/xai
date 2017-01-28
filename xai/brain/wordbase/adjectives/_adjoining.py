@@ -4,11 +4,12 @@
 class _ADJOINING():
 	def __init__(self,): 
 		self.name = "ADJOINING"
+		self.definitions = [u'near, next to, or touching: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

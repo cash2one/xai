@@ -4,11 +4,12 @@
 class _SITCOM():
 	def __init__(self,): 
 		self.name = "SITCOM"
+		self.definitions = [u'a  situation comedy ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

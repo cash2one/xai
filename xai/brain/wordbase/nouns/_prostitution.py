@@ -4,11 +4,12 @@
 class _PROSTITUTION():
 	def __init__(self,): 
 		self.name = "PROSTITUTION"
+		self.definitions = [u'the work of a prostitute: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

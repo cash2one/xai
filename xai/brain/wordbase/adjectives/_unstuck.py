@@ -4,11 +4,12 @@
 class _UNSTUCK():
 	def __init__(self,): 
 		self.name = "UNSTUCK"
+		self.definitions = [u'no longer stuck: ', u'to experience difficulties and fail: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

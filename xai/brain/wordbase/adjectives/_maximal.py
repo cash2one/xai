@@ -4,11 +4,12 @@
 class _MAXIMAL():
 	def __init__(self,): 
 		self.name = "MAXIMAL"
+		self.definitions = [u'largest or greatest: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

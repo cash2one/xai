@@ -4,11 +4,12 @@
 class _DELECTABLE():
 	def __init__(self,): 
 		self.name = "DELECTABLE"
+		self.definitions = [u'looking or tasting extremely good, and giving great pleasure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

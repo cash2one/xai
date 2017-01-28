@@ -4,11 +4,12 @@
 class _BINGO():
 	def __init__(self,): 
 		self.name = "BINGO"
+		self.definitions = [u'an expression of surprise and, usually, pleasure, for example when something happens successfully: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

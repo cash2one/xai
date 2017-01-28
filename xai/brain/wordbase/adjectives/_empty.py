@@ -4,11 +4,12 @@
 class _EMPTY():
 	def __init__(self,): 
 		self.name = "EMPTY"
+		self.definitions = [u'not containing any things or people: ', u'not sincere or without any real meaning: ', u'without purpose or interest: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

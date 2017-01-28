@@ -4,11 +4,12 @@
 class _VALUED():
 	def __init__(self,): 
 		self.name = "VALUED"
+		self.definitions = [u'useful and important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

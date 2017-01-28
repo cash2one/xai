@@ -4,11 +4,12 @@
 class _NECESSARILY():
 	def __init__(self,): 
 		self.name = "NECESSARILY"
+		self.definitions = [u'used in negatives to mean "in every case" or "therefore": ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

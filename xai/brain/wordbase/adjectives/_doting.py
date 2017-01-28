@@ -4,11 +4,12 @@
 class _DOTING():
 	def __init__(self,): 
 		self.name = "DOTING"
+		self.definitions = [u'showing that you love someone very much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DRAINED():
 	def __init__(self,): 
 		self.name = "DRAINED"
+		self.definitions = [u'very tired: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

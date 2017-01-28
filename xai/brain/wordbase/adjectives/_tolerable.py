@@ -4,11 +4,12 @@
 class _TOLERABLE():
 	def __init__(self,): 
 		self.name = "TOLERABLE"
+		self.definitions = [u'of a quality that is acceptable, although certainly not good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

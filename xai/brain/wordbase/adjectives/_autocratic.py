@@ -4,11 +4,12 @@
 class _AUTOCRATIC():
 	def __init__(self,): 
 		self.name = "AUTOCRATIC"
+		self.definitions = [u'relating to an autocrat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

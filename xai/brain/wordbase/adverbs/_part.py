@@ -4,11 +4,12 @@
 class _PART():
 	def __init__(self,): 
 		self.name = "PART"
+		self.definitions = [u'partly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

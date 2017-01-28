@@ -4,11 +4,12 @@
 class _LACKLUSTRE():
 	def __init__(self,): 
 		self.name = "LACKLUSTRE"
+		self.definitions = [u'without energy and effort: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

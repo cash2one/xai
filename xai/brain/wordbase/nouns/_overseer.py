@@ -4,11 +4,12 @@
 class _OVERSEER():
 	def __init__(self,): 
 		self.name = "OVERSEER"
+		self.definitions = [u'a person whose job it is to make certain that employees are working or that an activity is being done correctly']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

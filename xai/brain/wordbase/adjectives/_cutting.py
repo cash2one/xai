@@ -4,11 +4,12 @@
 class _CUTTING():
 	def __init__(self,): 
 		self.name = "CUTTING"
+		self.definitions = [u'unkind and intending to upset someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

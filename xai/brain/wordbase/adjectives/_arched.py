@@ -4,11 +4,12 @@
 class _ARCHED():
 	def __init__(self,): 
 		self.name = "ARCHED"
+		self.definitions = [u'having a shape or structure with an curve at the top, like an arch: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

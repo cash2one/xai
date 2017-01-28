@@ -4,11 +4,12 @@
 class _ADOLESCENT():
 	def __init__(self,): 
 		self.name = "ADOLESCENT"
+		self.definitions = [u'a young person who is developing into an adult']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

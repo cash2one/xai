@@ -4,11 +4,12 @@
 class _NEFARIOUS():
 	def __init__(self,): 
 		self.name = "NEFARIOUS"
+		self.definitions = [u'(especially of activities) morally bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

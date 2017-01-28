@@ -4,11 +4,12 @@
 class _ADVERSARIAL():
 	def __init__(self,): 
 		self.name = "ADVERSARIAL"
+		self.definitions = [u'involving people opposing or disagreeing with each other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

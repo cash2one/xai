@@ -4,11 +4,12 @@
 class _SPRUNG():
 	def __init__(self,): 
 		self.name = "SPRUNG"
+		self.definitions = [u'(of furniture) using springs (= curved pieces of metal) to give support']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

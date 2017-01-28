@@ -4,11 +4,12 @@
 class _INCONCLUSIVE():
 	def __init__(self,): 
 		self.name = "INCONCLUSIVE"
+		self.definitions = [u'not giving or having a result or decision: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

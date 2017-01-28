@@ -4,11 +4,12 @@
 class _FATTY():
 	def __init__(self,): 
 		self.name = "FATTY"
+		self.definitions = [u'a fat person']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

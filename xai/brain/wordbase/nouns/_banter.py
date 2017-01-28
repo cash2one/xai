@@ -4,11 +4,12 @@
 class _BANTER():
 	def __init__(self,): 
 		self.name = "BANTER"
+		self.definitions = [u'conversation that is funny and not serious: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DISASTROUS():
 	def __init__(self,): 
 		self.name = "DISASTROUS"
+		self.definitions = [u'extremely bad or unsuccessful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

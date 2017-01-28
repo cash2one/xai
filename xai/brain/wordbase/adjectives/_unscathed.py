@@ -4,11 +4,12 @@
 class _UNSCATHED():
 	def __init__(self,): 
 		self.name = "UNSCATHED"
+		self.definitions = [u'without injuries or damage being caused: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

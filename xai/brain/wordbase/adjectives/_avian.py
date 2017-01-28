@@ -4,11 +4,12 @@
 class _AVIAN():
 	def __init__(self,): 
 		self.name = "AVIAN"
+		self.definitions = [u'of or relating to birds']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

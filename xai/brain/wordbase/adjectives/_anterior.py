@@ -4,11 +4,12 @@
 class _ANTERIOR():
 	def __init__(self,): 
 		self.name = "ANTERIOR"
+		self.definitions = [u'positioned at or towards the front: ', u'earlier in time']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

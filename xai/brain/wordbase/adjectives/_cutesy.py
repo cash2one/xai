@@ -4,11 +4,12 @@
 class _CUTESY():
 	def __init__(self,): 
 		self.name = "CUTESY"
+		self.definitions = [u'artificially attractive and pleasant, especially in a childish way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

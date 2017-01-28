@@ -4,11 +4,12 @@
 class _CATTY():
 	def __init__(self,): 
 		self.name = "CATTY"
+		self.definitions = [u'Catty words, especially speech, are unkind because they are intended to hurt someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _NORSE():
 	def __init__(self,): 
 		self.name = "NORSE"
+		self.definitions = [u'belonging or relating to the people who lived in Scandinavia in the past, especially the Vikings: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

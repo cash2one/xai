@@ -4,11 +4,12 @@
 class _STREP():
 	def __init__(self,): 
 		self.name = "STREP"
+		self.definitions = [u'informal for  streptococcus ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

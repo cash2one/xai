@@ -4,11 +4,12 @@
 class _BURGEONING():
 	def __init__(self,): 
 		self.name = "BURGEONING"
+		self.definitions = [u'developing quickly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ABEYANCE():
 	def __init__(self,): 
 		self.name = "ABEYANCE"
+		self.definitions = [u'a state of not happening or being used at present: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _INDEFATIGABLE():
 	def __init__(self,): 
 		self.name = "INDEFATIGABLE"
+		self.definitions = [u'always determined and energetic in trying to achieve something and never willing to admit defeat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

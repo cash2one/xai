@@ -4,11 +4,12 @@
 class _CRUDE():
 	def __init__(self,): 
 		self.name = "CRUDE"
+		self.definitions = [u'simple and not skilfully done or made: ', u'rude and offensive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

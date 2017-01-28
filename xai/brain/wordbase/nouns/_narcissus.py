@@ -4,11 +4,12 @@
 class _NARCISSUS():
 	def __init__(self,): 
 		self.name = "NARCISSUS"
+		self.definitions = [u'a yellow, white, or orange flower, similar to a daffodil']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

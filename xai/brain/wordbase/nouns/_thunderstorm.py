@@ -4,11 +4,12 @@
 class _THUNDERSTORM():
 	def __init__(self,): 
 		self.name = "THUNDERSTORM"
+		self.definitions = [u'a storm with thunder and lightning and usually heavy rain']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

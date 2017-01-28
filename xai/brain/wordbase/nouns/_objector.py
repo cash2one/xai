@@ -4,11 +4,12 @@
 class _OBJECTOR():
 	def __init__(self,): 
 		self.name = "OBJECTOR"
+		self.definitions = [u'someone who objects to something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

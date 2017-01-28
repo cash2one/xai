@@ -4,11 +4,12 @@
 class _HOWLER():
 	def __init__(self,): 
 		self.name = "HOWLER"
+		self.definitions = [u'a stupid and obvious mistake, especially in something that someone says or writes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

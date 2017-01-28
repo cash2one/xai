@@ -4,11 +4,12 @@
 class _BRIMFUL():
 	def __init__(self,): 
 		self.name = "BRIMFUL"
+		self.definitions = [u'full of something good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

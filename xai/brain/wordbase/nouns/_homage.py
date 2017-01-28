@@ -4,11 +4,12 @@
 class _HOMAGE():
 	def __init__(self,): 
 		self.name = "HOMAGE"
+		self.definitions = [u'deep respect and often praise shown for a person or god: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _TOUCHY():
 	def __init__(self,): 
 		self.name = "TOUCHY"
+		self.definitions = [u'easily offended or upset: ', u'needing to be dealt with carefully: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

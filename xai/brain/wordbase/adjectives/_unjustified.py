@@ -4,11 +4,12 @@
 class _UNJUSTIFIED():
 	def __init__(self,): 
 		self.name = "UNJUSTIFIED"
+		self.definitions = [u'wrong and/or not deserved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INTERCONTINENTAL():
 	def __init__(self,): 
 		self.name = "INTERCONTINENTAL"
+		self.definitions = [u'between continents: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

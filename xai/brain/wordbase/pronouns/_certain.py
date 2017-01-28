@@ -4,11 +4,12 @@
 class _CERTAIN():
 	def __init__(self,): 
 		self.name = "CERTAIN"
+		self.definitions = [u'some: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'pronouns'

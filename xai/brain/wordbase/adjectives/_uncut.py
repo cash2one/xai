@@ -4,11 +4,12 @@
 class _UNCUT():
 	def __init__(self,): 
 		self.name = "UNCUT"
+		self.definitions = [u'complete and in its original form: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PREHENSILE():
 	def __init__(self,): 
 		self.name = "PREHENSILE"
+		self.definitions = [u'(of parts of the body) able to hold on to things, especially by curling around them: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

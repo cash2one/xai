@@ -4,11 +4,12 @@
 class _AQUILINE():
 	def __init__(self,): 
 		self.name = "AQUILINE"
+		self.definitions = [u'of or like an eagle (= large bird): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

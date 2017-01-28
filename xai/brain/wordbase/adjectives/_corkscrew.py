@@ -4,11 +4,12 @@
 class _CORKSCREW():
 	def __init__(self,): 
 		self.name = "CORKSCREW"
+		self.definitions = [u'tightly twisted or curled: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

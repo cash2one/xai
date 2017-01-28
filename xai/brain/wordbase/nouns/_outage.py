@@ -4,11 +4,12 @@
 class _OUTAGE():
 	def __init__(self,): 
 		self.name = "OUTAGE"
+		self.definitions = [u'a period when a service, such as electricity, is not available: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

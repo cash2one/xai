@@ -4,11 +4,12 @@
 class _SLEET():
 	def __init__(self,): 
 		self.name = "SLEET"
+		self.definitions = [u'wet, partly melted falling snow: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

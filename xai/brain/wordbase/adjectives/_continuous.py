@@ -4,11 +4,12 @@
 class _CONTINUOUS():
 	def __init__(self,): 
 		self.name = "CONTINUOUS"
+		self.definitions = [u'without a pause or interruption: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

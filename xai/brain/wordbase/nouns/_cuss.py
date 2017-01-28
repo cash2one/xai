@@ -4,11 +4,12 @@
 class _CUSS():
 	def __init__(self,): 
 		self.name = "CUSS"
+		self.definitions = [u'a person of the bad type mentioned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

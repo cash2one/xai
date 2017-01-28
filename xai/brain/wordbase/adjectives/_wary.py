@@ -4,11 +4,12 @@
 class _WARY():
 	def __init__(self,): 
 		self.name = "WARY"
+		self.definitions = [u'not completely trusting or certain about something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

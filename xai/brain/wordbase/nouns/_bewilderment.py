@@ -4,11 +4,12 @@
 class _BEWILDERMENT():
 	def __init__(self,): 
 		self.name = "BEWILDERMENT"
+		self.definitions = [u'confusion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _MADDENING():
 	def __init__(self,): 
 		self.name = "MADDENING"
+		self.definitions = [u'making you angry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SOCIOECONOMIC():
 	def __init__(self,): 
 		self.name = "SOCIOECONOMIC"
+		self.definitions = [u'related to the differences between groups of people caused mainly by their financial situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

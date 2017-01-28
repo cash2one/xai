@@ -4,11 +4,12 @@
 class _ACCOMPLISHED():
 	def __init__(self,): 
 		self.name = "ACCOMPLISHED"
+		self.definitions = [u'skilled: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

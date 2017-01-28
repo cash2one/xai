@@ -4,11 +4,12 @@
 class _DROPLET():
 	def __init__(self,): 
 		self.name = "DROPLET"
+		self.definitions = [u'a small drop of liquid']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _UNSPOILED():
 	def __init__(self,): 
 		self.name = "UNSPOILED"
+		self.definitions = [u'An unspoiled place is beautiful because it has not been changed or damaged by people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

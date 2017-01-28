@@ -4,11 +4,12 @@
 class _PIXEL():
 	def __init__(self,): 
 		self.name = "PIXEL"
+		self.definitions = [u'the smallest unit of an image on a television or computer screen']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

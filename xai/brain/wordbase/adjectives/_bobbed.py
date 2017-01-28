@@ -4,11 +4,12 @@
 class _BOBBED():
 	def __init__(self,): 
 		self.name = "BOBBED"
+		self.definitions = [u"(of a style of women's hair) cut to neck length all around the head: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

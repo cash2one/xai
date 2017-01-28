@@ -4,11 +4,12 @@
 class _SWAMPY():
 	def __init__(self,): 
 		self.name = "SWAMPY"
+		self.definitions = [u'Swampy land is soft and very wet.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

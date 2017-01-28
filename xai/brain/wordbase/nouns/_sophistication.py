@@ -4,11 +4,12 @@
 class _SOPHISTICATION():
 	def __init__(self,): 
 		self.name = "SOPHISTICATION"
+		self.definitions = [u'the quality of being sophisticated: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

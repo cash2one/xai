@@ -4,11 +4,12 @@
 class _RATTLED():
 	def __init__(self,): 
 		self.name = "RATTLED"
+		self.definitions = [u'worried or nervous: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

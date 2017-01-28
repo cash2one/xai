@@ -4,11 +4,12 @@
 class _QUILTED():
 	def __init__(self,): 
 		self.name = "QUILTED"
+		self.definitions = [u'(especially of clothes) filled with thick soft material that is sewn in place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

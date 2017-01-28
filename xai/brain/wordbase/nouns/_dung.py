@@ -4,11 +4,12 @@
 class _DUNG():
 	def __init__(self,): 
 		self.name = "DUNG"
+		self.definitions = [u'solid waste from animals, especially cattle and horses']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

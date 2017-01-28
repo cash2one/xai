@@ -4,11 +4,12 @@
 class _MILDLY():
 	def __init__(self,): 
 		self.name = "MILDLY"
+		self.definitions = [u'slightly: ', u'in a gentle way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

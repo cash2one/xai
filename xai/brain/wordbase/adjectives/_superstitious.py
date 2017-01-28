@@ -4,11 +4,12 @@
 class _SUPERSTITIOUS():
 	def __init__(self,): 
 		self.name = "SUPERSTITIOUS"
+		self.definitions = [u'based on or believing in superstitions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

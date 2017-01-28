@@ -4,11 +4,12 @@
 class _TELLTALE():
 	def __init__(self,): 
 		self.name = "TELLTALE"
+		self.definitions = [u'allowing a secret to become known: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

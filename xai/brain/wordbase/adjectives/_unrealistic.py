@@ -4,11 +4,12 @@
 class _UNREALISTIC():
 	def __init__(self,): 
 		self.name = "UNREALISTIC"
+		self.definitions = [u'having a wrong idea of what is likely to happen or of what you can really do; not based on facts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

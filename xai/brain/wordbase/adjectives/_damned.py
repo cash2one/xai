@@ -4,11 +4,12 @@
 class _DAMNED():
 	def __init__(self,): 
 		self.name = "DAMNED"
+		self.definitions = [u'used to express anger with someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

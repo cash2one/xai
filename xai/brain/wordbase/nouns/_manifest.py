@@ -4,11 +4,12 @@
 class _MANIFEST():
 	def __init__(self,): 
 		self.name = "MANIFEST"
+		self.definitions = [u'a list of people and goods carried on a ship or plane: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

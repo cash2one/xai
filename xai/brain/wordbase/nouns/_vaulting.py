@@ -4,11 +4,12 @@
 class _VAULTING():
 	def __init__(self,): 
 		self.name = "VAULTING"
+		self.definitions = [u'arches that support a ceiling or room: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

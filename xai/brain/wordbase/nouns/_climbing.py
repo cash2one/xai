@@ -4,11 +4,12 @@
 class _CLIMBING():
 	def __init__(self,): 
 		self.name = "CLIMBING"
+		self.definitions = [u'the sport of climbing on rocks or in mountains: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

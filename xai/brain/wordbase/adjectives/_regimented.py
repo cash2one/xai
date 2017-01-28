@@ -4,11 +4,12 @@
 class _REGIMENTED():
 	def __init__(self,): 
 		self.name = "REGIMENTED"
+		self.definitions = [u'too organized and controlled: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

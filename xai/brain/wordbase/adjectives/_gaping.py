@@ -4,11 +4,12 @@
 class _GAPING():
 	def __init__(self,): 
 		self.name = "GAPING"
+		self.definitions = [u'A gaping hole or other opening is very large: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PLAYFUL():
 	def __init__(self,): 
 		self.name = "PLAYFUL"
+		self.definitions = [u'funny and not serious: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

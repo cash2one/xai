@@ -4,11 +4,12 @@
 class _VICTORIAN():
 	def __init__(self,): 
 		self.name = "VICTORIAN"
+		self.definitions = [u'a person who was alive while Queen Victoria was queen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

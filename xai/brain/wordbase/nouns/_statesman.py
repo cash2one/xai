@@ -4,11 +4,12 @@
 class _STATESMAN():
 	def __init__(self,): 
 		self.name = "STATESMAN"
+		self.definitions = [u'an experienced politician, especially one who is respected for making good judgments']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

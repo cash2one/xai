@@ -4,11 +4,12 @@
 class _INCURABLE():
 	def __init__(self,): 
 		self.name = "INCURABLE"
+		self.definitions = [u'not able to be cured: ', u"used to say that someone 's personality type does not change or cannot be changed: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

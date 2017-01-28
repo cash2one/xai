@@ -4,11 +4,12 @@
 class _INTENT():
 	def __init__(self,): 
 		self.name = "INTENT"
+		self.definitions = [u'giving all your attention to something: ', u'to be determined to do or achieve something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

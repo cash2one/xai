@@ -4,11 +4,12 @@
 class _HINDRANCE():
 	def __init__(self,): 
 		self.name = "HINDRANCE"
+		self.definitions = [u'something that makes it more difficult for you to do something or for something to develop: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

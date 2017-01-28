@@ -4,11 +4,12 @@
 class _CELEBRATED():
 	def __init__(self,): 
 		self.name = "CELEBRATED"
+		self.definitions = [u'famous for some special quality or ability: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _THEM():
 	def __init__(self,): 
 		self.name = "THEM"
+		self.definitions = [u'not standard for  those : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

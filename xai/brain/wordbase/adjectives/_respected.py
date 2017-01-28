@@ -4,11 +4,12 @@
 class _RESPECTED():
 	def __init__(self,): 
 		self.name = "RESPECTED"
+		self.definitions = [u'admired by many people for your qualities or achievements: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

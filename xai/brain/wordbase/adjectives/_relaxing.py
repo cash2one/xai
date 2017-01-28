@@ -4,11 +4,12 @@
 class _RELAXING():
 	def __init__(self,): 
 		self.name = "RELAXING"
+		self.definitions = [u'making you feel relaxed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

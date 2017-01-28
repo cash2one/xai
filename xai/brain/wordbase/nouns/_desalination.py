@@ -4,11 +4,12 @@
 class _DESALINATION():
 	def __init__(self,): 
 		self.name = "DESALINATION"
+		self.definitions = [u'the process of removing salt from sea water: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

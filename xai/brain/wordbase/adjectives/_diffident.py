@@ -4,11 +4,12 @@
 class _DIFFIDENT():
 	def __init__(self,): 
 		self.name = "DIFFIDENT"
+		self.definitions = [u'shy and not confident of your abilities: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

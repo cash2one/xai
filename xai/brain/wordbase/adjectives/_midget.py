@@ -4,11 +4,12 @@
 class _MIDGET():
 	def __init__(self,): 
 		self.name = "MIDGET"
+		self.definitions = [u'used to describe an object that is much smaller than usual: ', u'Midget sports are organized competitions for children: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DEWDROP():
 	def __init__(self,): 
 		self.name = "DEWDROP"
+		self.definitions = [u'a drop of dew']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

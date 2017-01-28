@@ -4,11 +4,12 @@
 class _AMITY():
 	def __init__(self,): 
 		self.name = "AMITY"
+		self.definitions = [u'a good relationship: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

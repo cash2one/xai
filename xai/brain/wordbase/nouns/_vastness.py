@@ -4,11 +4,12 @@
 class _VASTNESS():
 	def __init__(self,): 
 		self.name = "VASTNESS"
+		self.definitions = [u'the quality of being extremely big: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

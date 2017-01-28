@@ -4,11 +4,12 @@
 class _STRIFE():
 	def __init__(self,): 
 		self.name = "STRIFE"
+		self.definitions = [u'violent or angry disagreement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

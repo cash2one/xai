@@ -4,11 +4,12 @@
 class _SKILLED():
 	def __init__(self,): 
 		self.name = "SKILLED"
+		self.definitions = [u'people who have been trained for a job']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

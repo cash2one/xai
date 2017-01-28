@@ -4,11 +4,12 @@
 class _INSUFFERABLE():
 	def __init__(self,): 
 		self.name = "INSUFFERABLE"
+		self.definitions = [u'very annoying, unpleasant, or uncomfortable, and therefore extremely difficult to bear: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

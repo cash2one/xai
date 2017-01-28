@@ -4,11 +4,12 @@
 class _BALDLY():
 	def __init__(self,): 
 		self.name = "BALDLY"
+		self.definitions = [u'in plain or basic language, without unnecessary words or details: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

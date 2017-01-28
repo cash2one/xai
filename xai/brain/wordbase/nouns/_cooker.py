@@ -4,11 +4,12 @@
 class _COOKER():
 	def __init__(self,): 
 		self.name = "COOKER"
+		self.definitions = [u'a large box-shaped device that is used to cook and heat food, either by putting the food inside or by putting it on the top: ', u'a  cooking apple ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

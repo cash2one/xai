@@ -4,11 +4,12 @@
 class _CALLOUS():
 	def __init__(self,): 
 		self.name = "CALLOUS"
+		self.definitions = [u'unkind, cruel, and without sympathy or feeling for other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _OBSERVANT():
 	def __init__(self,): 
 		self.name = "OBSERVANT"
+		self.definitions = [u'good or quick at noticing things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PERIODICITY():
 	def __init__(self,): 
 		self.name = "PERIODICITY"
+		self.definitions = [u'the tendency of an event or series of events to happen repeatedly in a fixed pattern']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

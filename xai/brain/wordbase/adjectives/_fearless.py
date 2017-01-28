@@ -4,11 +4,12 @@
 class _FEARLESS():
 	def __init__(self,): 
 		self.name = "FEARLESS"
+		self.definitions = [u'having no fear: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

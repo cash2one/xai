@@ -4,11 +4,12 @@
 class _MAORI():
 	def __init__(self,): 
 		self.name = "MAORI"
+		self.definitions = [u'related to the culture, people, or language of the Maori: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

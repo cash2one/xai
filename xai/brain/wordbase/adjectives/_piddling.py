@@ -4,11 +4,12 @@
 class _PIDDLING():
 	def __init__(self,): 
 		self.name = "PIDDLING"
+		self.definitions = [u'very small or not important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

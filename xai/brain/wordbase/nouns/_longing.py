@@ -4,11 +4,12 @@
 class _LONGING():
 	def __init__(self,): 
 		self.name = "LONGING"
+		self.definitions = [u'a feeling of wanting something or someone very much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

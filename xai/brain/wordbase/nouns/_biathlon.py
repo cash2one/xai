@@ -4,11 +4,12 @@
 class _BIATHLON():
 	def __init__(self,): 
 		self.name = "BIATHLON"
+		self.definitions = [u'a sports competition that combines skiing and shooting a rifle (= gun)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

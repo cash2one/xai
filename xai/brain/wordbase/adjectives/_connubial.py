@@ -4,11 +4,12 @@
 class _CONNUBIAL():
 	def __init__(self,): 
 		self.name = "CONNUBIAL"
+		self.definitions = [u'connected with marriage: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

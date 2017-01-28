@@ -4,11 +4,12 @@
 class _SEEDLESS():
 	def __init__(self,): 
 		self.name = "SEEDLESS"
+		self.definitions = [u'without seeds: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

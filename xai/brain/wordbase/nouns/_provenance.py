@@ -4,11 +4,12 @@
 class _PROVENANCE():
 	def __init__(self,): 
 		self.name = "PROVENANCE"
+		self.definitions = [u'the place of origin of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

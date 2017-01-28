@@ -4,11 +4,12 @@
 class _ANNOYED():
 	def __init__(self,): 
 		self.name = "ANNOYED"
+		self.definitions = [u'angry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BURBERRY():
 	def __init__(self,): 
 		self.name = "BURBERRY"
+		self.definitions = [u'a light, high-quality coat that protects the wearer against rain']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

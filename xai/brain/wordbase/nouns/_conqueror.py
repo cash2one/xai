@@ -4,11 +4,12 @@
 class _CONQUEROR():
 	def __init__(self,): 
 		self.name = "CONQUEROR"
+		self.definitions = [u'someone who has conquered a country or its people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

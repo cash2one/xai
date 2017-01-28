@@ -4,11 +4,12 @@
 class _PHILHARMONIC():
 	def __init__(self,): 
 		self.name = "PHILHARMONIC"
+		self.definitions = [u'used in the names of musical groups, especially orchestras: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

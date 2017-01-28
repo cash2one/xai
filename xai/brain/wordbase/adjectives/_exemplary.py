@@ -4,11 +4,12 @@
 class _EXEMPLARY():
 	def __init__(self,): 
 		self.name = "EXEMPLARY"
+		self.definitions = [u'very good and suitable to be copied by other people: ', u'An exemplary punishment is severe and intended as a warning to others: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

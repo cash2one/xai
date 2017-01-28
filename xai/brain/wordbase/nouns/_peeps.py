@@ -4,11 +4,12 @@
 class _PEEPS():
 	def __init__(self,): 
 		self.name = "PEEPS"
+		self.definitions = [u'people or friends: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PILLAR():
 	def __init__(self,): 
 		self.name = "PILLAR"
+		self.definitions = [u'a strong column made of stone, metal, or wood that supports part of a building: ', u'a very important member or part of a group, organization, system, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

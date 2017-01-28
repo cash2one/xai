@@ -4,11 +4,12 @@
 class _CELLAR():
 	def __init__(self,): 
 		self.name = "CELLAR"
+		self.definitions = [u'a room under the ground floor of a building, usually used for storing things']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

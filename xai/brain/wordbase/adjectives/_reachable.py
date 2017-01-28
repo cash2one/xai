@@ -4,11 +4,12 @@
 class _REACHABLE():
 	def __init__(self,): 
 		self.name = "REACHABLE"
+		self.definitions = [u'If a place is reachable, it is possible to get to it: ', u'If a level, especially a high one, is reachable, it is possible to get to it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

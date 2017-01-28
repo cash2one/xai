@@ -4,11 +4,12 @@
 class _LOVABLE():
 	def __init__(self,): 
 		self.name = "LOVABLE"
+		self.definitions = [u'having qualities that make a person or animal easy to love: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

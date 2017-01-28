@@ -4,11 +4,12 @@
 class _FLEMISH():
 	def __init__(self,): 
 		self.name = "FLEMISH"
+		self.definitions = [u'the main language of northern Belgium']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

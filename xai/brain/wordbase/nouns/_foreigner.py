@@ -4,11 +4,12 @@
 class _FOREIGNER():
 	def __init__(self,): 
 		self.name = "FOREIGNER"
+		self.definitions = [u'a person who comes from another country']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

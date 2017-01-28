@@ -4,11 +4,12 @@
 class _LUTHERAN():
 	def __init__(self,): 
 		self.name = "LUTHERAN"
+		self.definitions = [u'of or relating to the part of Protestant Christianity that is based on the ideas of the German religious leader Martin Luther: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _YESTERYEAR():
 	def __init__(self,): 
 		self.name = "YESTERYEAR"
+		self.definitions = [u'a time in the past: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

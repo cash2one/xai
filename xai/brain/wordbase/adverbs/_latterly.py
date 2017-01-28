@@ -4,11 +4,12 @@
 class _LATTERLY():
 	def __init__(self,): 
 		self.name = "LATTERLY"
+		self.definitions = [u'recently: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

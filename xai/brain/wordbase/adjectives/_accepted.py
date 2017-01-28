@@ -4,11 +4,12 @@
 class _ACCEPTED():
 	def __init__(self,): 
 		self.name = "ACCEPTED"
+		self.definitions = [u'generally agreed to be satisfactory or right: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LUXURIANT():
 	def __init__(self,): 
 		self.name = "LUXURIANT"
+		self.definitions = [u'growing thickly, strongly, and well: ', u'pleasantly thick or full: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

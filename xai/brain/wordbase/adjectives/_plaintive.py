@@ -4,11 +4,12 @@
 class _PLAINTIVE():
 	def __init__(self,): 
 		self.name = "PLAINTIVE"
+		self.definitions = [u'used to describe something that sounds slightly sad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

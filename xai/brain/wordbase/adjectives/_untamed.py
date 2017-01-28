@@ -4,11 +4,12 @@
 class _UNTAMED():
 	def __init__(self,): 
 		self.name = "UNTAMED"
+		self.definitions = [u'left in a natural or wild state: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

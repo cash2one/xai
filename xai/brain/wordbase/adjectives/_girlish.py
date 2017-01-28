@@ -4,11 +4,12 @@
 class _GIRLISH():
 	def __init__(self,): 
 		self.name = "GIRLISH"
+		self.definitions = [u'Girlish behaviour or characteristics are typical of a girl: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

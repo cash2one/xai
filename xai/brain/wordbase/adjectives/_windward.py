@@ -4,11 +4,12 @@
 class _WINDWARD():
 	def __init__(self,): 
 		self.name = "WINDWARD"
+		self.definitions = [u'(on the side of a hill, etc.) facing the wind: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

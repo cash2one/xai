@@ -4,11 +4,12 @@
 class _PRISTINE():
 	def __init__(self,): 
 		self.name = "PRISTINE"
+		self.definitions = [u'new or almost new, and in very good condition: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

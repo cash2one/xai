@@ -4,11 +4,12 @@
 class _BLOODBATH():
 	def __init__(self,): 
 		self.name = "BLOODBATH"
+		self.definitions = [u'an extremely violent event in which a large number of people are killed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

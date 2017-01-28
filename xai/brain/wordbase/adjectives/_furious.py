@@ -4,11 +4,12 @@
 class _FURIOUS():
 	def __init__(self,): 
 		self.name = "FURIOUS"
+		self.definitions = [u'extremely angry: ', u'using a lot of effort or strength: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

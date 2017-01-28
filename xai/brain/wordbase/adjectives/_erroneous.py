@@ -4,11 +4,12 @@
 class _ERRONEOUS():
 	def __init__(self,): 
 		self.name = "ERRONEOUS"
+		self.definitions = [u'wrong or false: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

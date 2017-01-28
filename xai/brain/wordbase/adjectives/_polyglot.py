@@ -4,11 +4,12 @@
 class _POLYGLOT():
 	def __init__(self,): 
 		self.name = "POLYGLOT"
+		self.definitions = [u'speaking or using several different languages: ', u'containing people from many different and distant places: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

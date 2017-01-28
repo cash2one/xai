@@ -4,11 +4,12 @@
 class _LACRIMAL():
 	def __init__(self,): 
 		self.name = "LACRIMAL"
+		self.definitions = [u'relating to tears from the eyes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

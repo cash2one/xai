@@ -4,11 +4,12 @@
 class _EARTHWORK():
 	def __init__(self,): 
 		self.name = "EARTHWORK"
+		self.definitions = [u'a raised area of earth made, especially in the past, for defence against enemy attack']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

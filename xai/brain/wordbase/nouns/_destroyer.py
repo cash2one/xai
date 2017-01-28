@@ -4,11 +4,12 @@
 class _DESTROYER():
 	def __init__(self,): 
 		self.name = "DESTROYER"
+		self.definitions = [u'a small fast military ship', u'a person or thing that destroys something']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

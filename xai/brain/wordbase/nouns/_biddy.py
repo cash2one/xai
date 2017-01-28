@@ -4,11 +4,12 @@
 class _BIDDY():
 	def __init__(self,): 
 		self.name = "BIDDY"
+		self.definitions = [u'an old woman: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _CAMEROON():
 	def __init__(self,): 
 		self.name = "CAMEROON"
+		self.definitions = [u'a country in West Africa']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _COMPULSORY():
 	def __init__(self,): 
 		self.name = "COMPULSORY"
+		self.definitions = [u'If something is compulsory, you must do it because of a rule or law: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

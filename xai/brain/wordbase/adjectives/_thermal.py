@@ -4,11 +4,12 @@
 class _THERMAL():
 	def __init__(self,): 
 		self.name = "THERMAL"
+		self.definitions = [u'connected with heat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

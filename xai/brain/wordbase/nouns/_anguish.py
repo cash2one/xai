@@ -4,11 +4,12 @@
 class _ANGUISH():
 	def __init__(self,): 
 		self.name = "ANGUISH"
+		self.definitions = [u'extreme unhappiness caused by physical or mental suffering: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

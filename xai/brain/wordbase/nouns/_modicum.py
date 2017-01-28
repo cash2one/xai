@@ -4,11 +4,12 @@
 class _MODICUM():
 	def __init__(self,): 
 		self.name = "MODICUM"
+		self.definitions = [u'a small amount of something good such as truth or honesty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

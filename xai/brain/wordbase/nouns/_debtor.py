@@ -4,11 +4,12 @@
 class _DEBTOR():
 	def __init__(self,): 
 		self.name = "DEBTOR"
+		self.definitions = [u'someone who owes money']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

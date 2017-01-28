@@ -4,11 +4,12 @@
 class _AGLOW():
 	def __init__(self,): 
 		self.name = "AGLOW"
+		self.definitions = [u'shining with light and colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

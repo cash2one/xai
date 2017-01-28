@@ -4,11 +4,12 @@
 class _SUITABLE():
 	def __init__(self,): 
 		self.name = "SUITABLE"
+		self.definitions = [u'acceptable or right for someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DUSTY():
 	def __init__(self,): 
 		self.name = "DUSTY"
+		self.definitions = [u'covered in dust: ', u'slightly grey in colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

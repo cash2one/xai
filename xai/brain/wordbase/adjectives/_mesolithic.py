@@ -4,11 +4,12 @@
 class _MESOLITHIC():
 	def __init__(self,): 
 		self.name = "MESOLITHIC"
+		self.definitions = [u'relating to the middle part of the Stone Age (= the period when humans used tools and weapons made of stone): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INCUMBENT():
 	def __init__(self,): 
 		self.name = "INCUMBENT"
+		self.definitions = [u'the person who has or had a particular official position: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

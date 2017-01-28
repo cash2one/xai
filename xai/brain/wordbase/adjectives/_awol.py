@@ -4,11 +4,12 @@
 class _AWOL():
 	def __init__(self,): 
 		self.name = "AWOL"
+		self.definitions = [u'abbreviation for absent without leave: used to say that a member of the armed forces is away without permission: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

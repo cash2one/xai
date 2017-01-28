@@ -4,11 +4,12 @@
 class _WIDESPREAD():
 	def __init__(self,): 
 		self.name = "WIDESPREAD"
+		self.definitions = [u'existing or happening in many places and/or among many people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

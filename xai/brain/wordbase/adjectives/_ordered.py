@@ -4,11 +4,12 @@
 class _ORDERED():
 	def __init__(self,): 
 		self.name = "ORDERED"
+		self.definitions = [u'carefully arranged or controlled: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MOREOVER():
 	def __init__(self,): 
 		self.name = "MOREOVER"
+		self.definitions = [u'(used to add information) also and more importantly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

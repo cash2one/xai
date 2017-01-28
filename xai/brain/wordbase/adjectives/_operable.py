@@ -4,11 +4,12 @@
 class _OPERABLE():
 	def __init__(self,): 
 		self.name = "OPERABLE"
+		self.definitions = [u'able to be used: ', u'able to be treated by an operation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

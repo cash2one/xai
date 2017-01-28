@@ -4,11 +4,12 @@
 class _SIBLING():
 	def __init__(self,): 
 		self.name = "SIBLING"
+		self.definitions = [u'a brother or sister: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

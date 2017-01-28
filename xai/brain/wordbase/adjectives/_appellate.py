@@ -4,11 +4,12 @@
 class _APPELLATE():
 	def __init__(self,): 
 		self.name = "APPELLATE"
+		self.definitions = [u'involving an attempt to get a legal decision changed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

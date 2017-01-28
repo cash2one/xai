@@ -4,11 +4,12 @@
 class _ENTROPY():
 	def __init__(self,): 
 		self.name = "ENTROPY"
+		self.definitions = [u'the amount of order or lack of order in a system']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

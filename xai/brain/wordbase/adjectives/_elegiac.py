@@ -4,11 +4,12 @@
 class _ELEGIAC():
 	def __init__(self,): 
 		self.name = "ELEGIAC"
+		self.definitions = [u'relating to an elegy']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

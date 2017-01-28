@@ -4,11 +4,12 @@
 class _SAME():
 	def __init__(self,): 
 		self.name = "SAME"
+		self.definitions = [u'in the same way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

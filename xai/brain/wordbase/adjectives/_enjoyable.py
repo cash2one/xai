@@ -4,11 +4,12 @@
 class _ENJOYABLE():
 	def __init__(self,): 
 		self.name = "ENJOYABLE"
+		self.definitions = [u'An enjoyable event or experience gives you pleasure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

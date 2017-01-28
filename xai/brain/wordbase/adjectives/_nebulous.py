@@ -4,11 +4,12 @@
 class _NEBULOUS():
 	def __init__(self,): 
 		self.name = "NEBULOUS"
+		self.definitions = [u'(especially of ideas) not clear and having no form: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

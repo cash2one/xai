@@ -4,11 +4,12 @@
 class _DEW():
 	def __init__(self,): 
 		self.name = "DEW"
+		self.definitions = [u'drops of water that form on the ground and other surfaces outside during the night']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

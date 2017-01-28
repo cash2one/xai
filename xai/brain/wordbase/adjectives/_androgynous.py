@@ -4,11 +4,12 @@
 class _ANDROGYNOUS():
 	def __init__(self,): 
 		self.name = "ANDROGYNOUS"
+		self.definitions = [u'not clearly male or female: ', u'having both male and female features']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

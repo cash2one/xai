@@ -4,11 +4,12 @@
 class _REMORSEFUL():
 	def __init__(self,): 
 		self.name = "REMORSEFUL"
+		self.definitions = [u'feeling sad and guilty']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

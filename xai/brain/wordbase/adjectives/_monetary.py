@@ -4,11 +4,12 @@
 class _MONETARY():
 	def __init__(self,): 
 		self.name = "MONETARY"
+		self.definitions = [u'relating to the money in a country: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

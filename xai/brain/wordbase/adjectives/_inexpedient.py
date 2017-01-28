@@ -4,11 +4,12 @@
 class _INEXPEDIENT():
 	def __init__(self,): 
 		self.name = "INEXPEDIENT"
+		self.definitions = [u'not suitable or convenient: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

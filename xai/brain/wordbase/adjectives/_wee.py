@@ -4,11 +4,12 @@
 class _WEE():
 	def __init__(self,): 
 		self.name = "WEE"
+		self.definitions = [u'small; little: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

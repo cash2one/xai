@@ -4,11 +4,12 @@
 class _OPTIMISTIC():
 	def __init__(self,): 
 		self.name = "OPTIMISTIC"
+		self.definitions = [u'hoping or believing that good things will happen in the future: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

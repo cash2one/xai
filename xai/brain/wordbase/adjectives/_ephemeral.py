@@ -4,11 +4,12 @@
 class _EPHEMERAL():
 	def __init__(self,): 
 		self.name = "EPHEMERAL"
+		self.definitions = [u'lasting for only a short time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

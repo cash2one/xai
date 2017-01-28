@@ -4,11 +4,12 @@
 class _BENEFICIARY():
 	def __init__(self,): 
 		self.name = "BENEFICIARY"
+		self.definitions = [u'a person or group who receives money, advantages, etc. as a result of something else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _LOOKING():
 	def __init__(self,): 
 		self.name = "LOOKING"
+		self.definitions = [u'having the stated appearance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

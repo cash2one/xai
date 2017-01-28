@@ -4,11 +4,12 @@
 class _ARIGHT():
 	def __init__(self,): 
 		self.name = "ARIGHT"
+		self.definitions = [u'correctly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

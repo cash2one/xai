@@ -4,11 +4,12 @@
 class _OPHTHALMIC():
 	def __init__(self,): 
 		self.name = "OPHTHALMIC"
+		self.definitions = [u'relating to ophthalmology (= the scientific study of eyes and their diseases)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HULA():
 	def __init__(self,): 
 		self.name = "HULA"
+		self.definitions = [u'a traditional dance from Hawaii, performed by dancers wearing grass skirts']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

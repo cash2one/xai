@@ -4,11 +4,12 @@
 class _TWELFTH():
 	def __init__(self,): 
 		self.name = "TWELFTH"
+		self.definitions = [u'one of twelve equal parts of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

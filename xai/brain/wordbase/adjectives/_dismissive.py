@@ -4,11 +4,12 @@
 class _DISMISSIVE():
 	def __init__(self,): 
 		self.name = "DISMISSIVE"
+		self.definitions = [u'showing that you do not think something is worth considering: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _READABLE():
 	def __init__(self,): 
 		self.name = "READABLE"
+		self.definitions = [u'easy and enjoyable to read: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

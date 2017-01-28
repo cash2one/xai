@@ -4,11 +4,12 @@
 class _CONDEMNATION():
 	def __init__(self,): 
 		self.name = "CONDEMNATION"
+		self.definitions = [u'the act of condemning something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _MAGISTERIAL():
 	def __init__(self,): 
 		self.name = "MAGISTERIAL"
+		self.definitions = [u'having or seeming to have complete authority: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

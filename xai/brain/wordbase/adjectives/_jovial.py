@@ -4,11 +4,12 @@
 class _JOVIAL():
 	def __init__(self,): 
 		self.name = "JOVIAL"
+		self.definitions = [u'(of a person) friendly and in a good mood, or (of a situation) enjoyable because of being friendly and pleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _TOT():
 	def __init__(self,): 
 		self.name = "TOT"
+		self.definitions = [u'a young child: ', u'a small drink of alcohol: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

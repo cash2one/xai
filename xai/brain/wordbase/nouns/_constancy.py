@@ -4,11 +4,12 @@
 class _CONSTANCY():
 	def __init__(self,): 
 		self.name = "CONSTANCY"
+		self.definitions = [u'the quality of staying the same, not getting less or more', u'loyalty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

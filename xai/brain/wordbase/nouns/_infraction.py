@@ -4,11 +4,12 @@
 class _INFRACTION():
 	def __init__(self,): 
 		self.name = "INFRACTION"
+		self.definitions = [u'an occasion when someone breaks a rule or law: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

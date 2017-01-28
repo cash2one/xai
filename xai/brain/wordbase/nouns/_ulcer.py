@@ -4,11 +4,12 @@
 class _ULCER():
 	def __init__(self,): 
 		self.name = "ULCER"
+		self.definitions = [u'a break in the skin, or on the surface of an organ inside the body, that does not heal naturally: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PUTRID():
 	def __init__(self,): 
 		self.name = "PUTRID"
+		self.definitions = [u'decayed and having an unpleasant smell: ', u'very unpleasant or ugly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

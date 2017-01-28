@@ -4,11 +4,12 @@
 class _DRASTIC():
 	def __init__(self,): 
 		self.name = "DRASTIC"
+		self.definitions = [u'(especially of actions) severe and sudden or having very noticeable effects: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

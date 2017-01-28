@@ -4,11 +4,12 @@
 class _CRUD():
 	def __init__(self,): 
 		self.name = "CRUD"
+		self.definitions = [u'something dirty and unpleasant']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

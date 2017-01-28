@@ -4,11 +4,12 @@
 class _PHARYNGEAL():
 	def __init__(self,): 
 		self.name = "PHARYNGEAL"
+		self.definitions = [u'(of a speech sound) made by making the muscles in the pharynx tighter so that air cannot flow freely']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

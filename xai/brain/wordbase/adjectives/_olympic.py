@@ -4,11 +4,12 @@
 class _OLYMPIC():
 	def __init__(self,): 
 		self.name = "OLYMPIC"
+		self.definitions = [u'of or relating to the Olympics: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INFURIATING():
 	def __init__(self,): 
 		self.name = "INFURIATING"
+		self.definitions = [u'extremely annoying: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

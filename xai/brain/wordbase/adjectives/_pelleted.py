@@ -4,11 +4,12 @@
 class _PELLETED():
 	def __init__(self,): 
 		self.name = "PELLETED"
+		self.definitions = [u'made into a pellet: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

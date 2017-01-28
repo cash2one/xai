@@ -4,11 +4,12 @@
 class _TURGID():
 	def __init__(self,): 
 		self.name = "TURGID"
+		self.definitions = [u'(of speech, writing, style, etc.) too serious about its subject matter; boring: ', u'(of water) not flowing easily: ', u'(of an organ or living tissue) swollen']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _KNOW():
 	def __init__(self,): 
 		self.name = "KNOW"
+		self.definitions = [u'to have knowledge about something that most people do not have: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

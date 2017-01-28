@@ -4,11 +4,12 @@
 class _TIDY():
 	def __init__(self,): 
 		self.name = "TIDY"
+		self.definitions = [u'having everything ordered and arranged in the right place, or liking to keep things like this: ', u'(of amounts of money) large: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _TORTURED():
 	def __init__(self,): 
 		self.name = "TORTURED"
+		self.definitions = [u'involving suffering and difficulty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

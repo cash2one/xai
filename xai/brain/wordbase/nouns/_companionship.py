@@ -4,11 +4,12 @@
 class _COMPANIONSHIP():
 	def __init__(self,): 
 		self.name = "COMPANIONSHIP"
+		self.definitions = [u'the enjoyment of spending time with other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _INCESSANT():
 	def __init__(self,): 
 		self.name = "INCESSANT"
+		self.definitions = [u'never stopping, especially in an annoying or unpleasant way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

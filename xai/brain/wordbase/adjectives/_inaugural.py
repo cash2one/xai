@@ -4,11 +4,12 @@
 class _INAUGURAL():
 	def __init__(self,): 
 		self.name = "INAUGURAL"
+		self.definitions = [u'An inaugural speech is the first speech someone gives when starting an important new job: ', u'An inaugural event is the first in a series of planned events: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DOMED():
 	def __init__(self,): 
 		self.name = "DOMED"
+		self.definitions = [u'shaped like a dome or covered with a dome']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

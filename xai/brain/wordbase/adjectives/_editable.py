@@ -4,11 +4,12 @@
 class _EDITABLE():
 	def __init__(self,): 
 		self.name = "EDITABLE"
+		self.definitions = [u'an editable text, document, etc. can be changed : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

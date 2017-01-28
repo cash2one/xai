@@ -4,11 +4,12 @@
 class _POLLSTER():
 	def __init__(self,): 
 		self.name = "POLLSTER"
+		self.definitions = [u'a person who does opinion polls']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

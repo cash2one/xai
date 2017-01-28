@@ -4,11 +4,12 @@
 class _INCREDIBLY():
 	def __init__(self,): 
 		self.name = "INCREDIBLY"
+		self.definitions = [u'used for saying that something is very difficult to believe: ', u'extremely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

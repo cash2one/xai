@@ -4,11 +4,12 @@
 class _COVERTLY():
 	def __init__(self,): 
 		self.name = "COVERTLY"
+		self.definitions = [u'secretly, or in a hidden way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

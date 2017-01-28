@@ -4,11 +4,12 @@
 class _THOROUGH():
 	def __init__(self,): 
 		self.name = "THOROUGH"
+		self.definitions = [u'detailed and careful: ', u'complete, very great, or very much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

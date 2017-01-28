@@ -4,11 +4,12 @@
 class _GRASPING():
 	def __init__(self,): 
 		self.name = "GRASPING"
+		self.definitions = [u'(of people) always trying to get and keep more of something, especially money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

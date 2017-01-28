@@ -4,11 +4,12 @@
 class _UPCOMING():
 	def __init__(self,): 
 		self.name = "UPCOMING"
+		self.definitions = [u'happening soon: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

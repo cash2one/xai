@@ -4,11 +4,12 @@
 class _RULING():
 	def __init__(self,): 
 		self.name = "RULING"
+		self.definitions = [u'being in control and making all the decisions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

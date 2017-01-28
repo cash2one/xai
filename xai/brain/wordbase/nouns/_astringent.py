@@ -4,11 +4,12 @@
 class _ASTRINGENT():
 	def __init__(self,): 
 		self.name = "ASTRINGENT"
+		self.definitions = [u'a drug or cream that causes the skin or other tissue to tighten: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

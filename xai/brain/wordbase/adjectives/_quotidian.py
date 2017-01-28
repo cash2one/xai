@@ -4,11 +4,12 @@
 class _QUOTIDIAN():
 	def __init__(self,): 
 		self.name = "QUOTIDIAN"
+		self.definitions = [u'ordinary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

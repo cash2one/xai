@@ -4,11 +4,12 @@
 class _INELUCTABLE():
 	def __init__(self,): 
 		self.name = "INELUCTABLE"
+		self.definitions = [u'impossible to avoid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

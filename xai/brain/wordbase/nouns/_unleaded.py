@@ -4,11 +4,12 @@
 class _UNLEADED():
 	def __init__(self,): 
 		self.name = "UNLEADED"
+		self.definitions = [u'unleaded petrol: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

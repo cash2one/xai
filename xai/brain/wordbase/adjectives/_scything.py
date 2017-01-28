@@ -4,11 +4,12 @@
 class _SCYTHING():
 	def __init__(self,): 
 		self.name = "SCYTHING"
+		self.definitions = [u'moving sideways quickly, as if to cut through something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

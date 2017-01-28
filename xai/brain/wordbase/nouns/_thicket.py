@@ -4,11 +4,12 @@
 class _THICKET():
 	def __init__(self,): 
 		self.name = "THICKET"
+		self.definitions = [u'an area of trees and bushes growing closely together']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

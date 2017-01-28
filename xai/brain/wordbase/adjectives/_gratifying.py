@@ -4,11 +4,12 @@
 class _GRATIFYING():
 	def __init__(self,): 
 		self.name = "GRATIFYING"
+		self.definitions = [u'pleasing and satisfying: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

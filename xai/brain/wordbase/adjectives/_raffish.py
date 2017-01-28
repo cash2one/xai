@@ -4,11 +4,12 @@
 class _RAFFISH():
 	def __init__(self,): 
 		self.name = "RAFFISH"
+		self.definitions = [u'not following usual social standards of behaviour or appearance, especially in a careless and attractive way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

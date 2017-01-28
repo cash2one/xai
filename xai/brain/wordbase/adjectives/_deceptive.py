@@ -4,11 +4,12 @@
 class _DECEPTIVE():
 	def __init__(self,): 
 		self.name = "DECEPTIVE"
+		self.definitions = [u'making you believe something that is not true: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

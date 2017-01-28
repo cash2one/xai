@@ -4,11 +4,12 @@
 class _UNDERSIZED():
 	def __init__(self,): 
 		self.name = "UNDERSIZED"
+		self.definitions = [u'smaller than average, or smaller than the correct size: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

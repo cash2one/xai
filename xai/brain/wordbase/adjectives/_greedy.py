@@ -4,11 +4,12 @@
 class _GREEDY():
 	def __init__(self,): 
 		self.name = "GREEDY"
+		self.definitions = [u'wanting a lot more food, money, etc. than you need: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

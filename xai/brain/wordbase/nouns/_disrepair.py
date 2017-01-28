@@ -4,11 +4,12 @@
 class _DISREPAIR():
 	def __init__(self,): 
 		self.name = "DISREPAIR"
+		self.definitions = [u'the state of being broken or old and needing to be repaired: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

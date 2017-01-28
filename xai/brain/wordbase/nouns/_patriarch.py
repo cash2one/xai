@@ -4,11 +4,12 @@
 class _PATRIARCH():
 	def __init__(self,): 
 		self.name = "PATRIARCH"
+		self.definitions = [u'a bishop in certain Eastern Churches', u'the male leader of a family']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

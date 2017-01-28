@@ -4,11 +4,12 @@
 class _WIZENED():
 	def __init__(self,): 
 		self.name = "WIZENED"
+		self.definitions = [u'small and having dry skin with lines in it, especially because of old age: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

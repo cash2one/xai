@@ -4,11 +4,12 @@
 class _INAPPLICABLE():
 	def __init__(self,): 
 		self.name = "INAPPLICABLE"
+		self.definitions = [u'not directed at, intended for, or suitable for someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

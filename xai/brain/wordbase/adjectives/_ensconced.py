@@ -4,11 +4,12 @@
 class _ENSCONCED():
 	def __init__(self,): 
 		self.name = "ENSCONCED"
+		self.definitions = [u'positioned safely or comfortably somewhere: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _NEIGHBOURLY():
 	def __init__(self,): 
 		self.name = "NEIGHBOURLY"
+		self.definitions = [u'friendly or helpful to your neighbours: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

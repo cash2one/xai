@@ -4,11 +4,12 @@
 class _PARSIMONIOUS():
 	def __init__(self,): 
 		self.name = "PARSIMONIOUS"
+		self.definitions = [u'not willing to spend money or give something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

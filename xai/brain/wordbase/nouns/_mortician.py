@@ -4,11 +4,12 @@
 class _MORTICIAN():
 	def __init__(self,): 
 		self.name = "MORTICIAN"
+		self.definitions = [u'an  undertaker ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

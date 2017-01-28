@@ -4,11 +4,12 @@
 class _MONOLINGUAL():
 	def __init__(self,): 
 		self.name = "MONOLINGUAL"
+		self.definitions = [u'speaking or using only one language: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

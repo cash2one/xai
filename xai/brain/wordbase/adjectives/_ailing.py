@@ -4,11 +4,12 @@
 class _AILING():
 	def __init__(self,): 
 		self.name = "AILING"
+		self.definitions = [u'experiencing difficulty and problems: ', u'weak and suffering from illness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INSTITUTIONAL():
 	def __init__(self,): 
 		self.name = "INSTITUTIONAL"
+		self.definitions = [u'relating to an institution: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

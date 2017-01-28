@@ -4,11 +4,12 @@
 class _PACT():
 	def __init__(self,): 
 		self.name = "PACT"
+		self.definitions = [u'a formal agreement between two people or groups of people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

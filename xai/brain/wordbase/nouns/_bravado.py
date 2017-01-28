@@ -4,11 +4,12 @@
 class _BRAVADO():
 	def __init__(self,): 
 		self.name = "BRAVADO"
+		self.definitions = [u'a show of courage, especially when unnecessary and dangerous, to make people admire you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

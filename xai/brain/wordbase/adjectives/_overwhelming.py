@@ -4,11 +4,12 @@
 class _OVERWHELMING():
 	def __init__(self,): 
 		self.name = "OVERWHELMING"
+		self.definitions = [u'difficult to fight against: ', u'very great or very large: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

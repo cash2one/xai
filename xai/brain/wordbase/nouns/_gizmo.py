@@ -4,11 +4,12 @@
 class _GIZMO():
 	def __init__(self,): 
 		self.name = "GIZMO"
+		self.definitions = [u'any small device with a particular purpose: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

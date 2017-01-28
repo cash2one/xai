@@ -4,11 +4,12 @@
 class _CONSUMMATE():
 	def __init__(self,): 
 		self.name = "CONSUMMATE"
+		self.definitions = [u'perfect, or complete in every way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

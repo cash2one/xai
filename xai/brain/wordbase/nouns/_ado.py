@@ -4,11 +4,12 @@
 class _ADO():
 	def __init__(self,): 
 		self.name = "ADO"
+		self.definitions = [u'without wasting more time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

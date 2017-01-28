@@ -4,11 +4,12 @@
 class _PREDESTINED():
 	def __init__(self,): 
 		self.name = "PREDESTINED"
+		self.definitions = [u'If an action or event is predestined, it is controlled by God or by fate: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

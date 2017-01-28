@@ -4,11 +4,12 @@
 class _SPAGHETTI():
 	def __init__(self,): 
 		self.name = "SPAGHETTI"
+		self.definitions = [u'pasta made in the form of long, thin strings']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

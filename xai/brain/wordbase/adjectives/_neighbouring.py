@@ -4,11 +4,12 @@
 class _NEIGHBOURING():
 	def __init__(self,): 
 		self.name = "NEIGHBOURING"
+		self.definitions = [u'Neighbouring places are next to or near each other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

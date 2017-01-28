@@ -4,11 +4,12 @@
 class _ASSERTIVE():
 	def __init__(self,): 
 		self.name = "ASSERTIVE"
+		self.definitions = [u'Someone who is assertive behaves confidently and is not frightened to say what they want or believe: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

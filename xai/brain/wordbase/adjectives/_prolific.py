@@ -4,11 +4,12 @@
 class _PROLIFIC():
 	def __init__(self,): 
 		self.name = "PROLIFIC"
+		self.definitions = [u'producing a great number or amount of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

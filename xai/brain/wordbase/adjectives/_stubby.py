@@ -4,11 +4,12 @@
 class _STUBBY():
 	def __init__(self,): 
 		self.name = "STUBBY"
+		self.definitions = [u'short and thick: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

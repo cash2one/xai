@@ -4,11 +4,12 @@
 class _INSOLENT():
 	def __init__(self,): 
 		self.name = "INSOLENT"
+		self.definitions = [u'rude and not showing respect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

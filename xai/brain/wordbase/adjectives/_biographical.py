@@ -4,11 +4,12 @@
 class _BIOGRAPHICAL():
 	def __init__(self,): 
 		self.name = "BIOGRAPHICAL"
+		self.definitions = [u"about someone's life: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

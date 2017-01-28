@@ -4,11 +4,12 @@
 class _ERRANT():
 	def __init__(self,): 
 		self.name = "ERRANT"
+		self.definitions = [u'behaving wrongly in some way, especially by leaving home: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

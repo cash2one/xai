@@ -4,11 +4,12 @@
 class _NONCOMMITTAL():
 	def __init__(self,): 
 		self.name = "NONCOMMITTAL"
+		self.definitions = [u'not expressing an opinion or decision: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

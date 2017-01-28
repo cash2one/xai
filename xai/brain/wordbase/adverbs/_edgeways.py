@@ -4,11 +4,12 @@
 class _EDGEWAYS():
 	def __init__(self,): 
 		self.name = "EDGEWAYS"
+		self.definitions = [u'with the narrowest part going first: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

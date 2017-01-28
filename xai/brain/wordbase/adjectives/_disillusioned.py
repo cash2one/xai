@@ -4,11 +4,12 @@
 class _DISILLUSIONED():
 	def __init__(self,): 
 		self.name = "DISILLUSIONED"
+		self.definitions = [u'disappointed and unhappy because of discovering the truth about something or someone that you liked or respected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

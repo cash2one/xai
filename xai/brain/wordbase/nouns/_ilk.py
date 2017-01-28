@@ -4,11 +4,12 @@
 class _ILK():
 	def __init__(self,): 
 		self.name = "ILK"
+		self.definitions = [u'a particular type: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

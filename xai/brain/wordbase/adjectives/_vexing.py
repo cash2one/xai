@@ -4,11 +4,12 @@
 class _VEXING():
 	def __init__(self,): 
 		self.name = "VEXING"
+		self.definitions = [u'annoying, worrying, or causing problems : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

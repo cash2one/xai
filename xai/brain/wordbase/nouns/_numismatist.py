@@ -4,11 +4,12 @@
 class _NUMISMATIST():
 	def __init__(self,): 
 		self.name = "NUMISMATIST"
+		self.definitions = [u'someone who studies or collects coins, paper money, and medals']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

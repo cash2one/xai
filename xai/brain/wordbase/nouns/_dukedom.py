@@ -4,11 +4,12 @@
 class _DUKEDOM():
 	def __init__(self,): 
 		self.name = "DUKEDOM"
+		self.definitions = [u'the rank of a duke, or the land owned by a duke']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

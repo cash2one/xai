@@ -4,11 +4,12 @@
 class _ACCOLADE():
 	def __init__(self,): 
 		self.name = "ACCOLADE"
+		self.definitions = [u'praise and approval: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

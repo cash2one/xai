@@ -4,11 +4,12 @@
 class _SCHMUCK():
 	def __init__(self,): 
 		self.name = "SCHMUCK"
+		self.definitions = [u'a stupid or silly person: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _NIGGARDLY():
 	def __init__(self,): 
 		self.name = "NIGGARDLY"
+		self.definitions = [u'slight in amount, quality, or effort: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

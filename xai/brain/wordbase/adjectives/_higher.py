@@ -4,11 +4,12 @@
 class _HIGHER():
 	def __init__(self,): 
 		self.name = "HIGHER"
+		self.definitions = [u'comparative of  high adjective ', u'used to refer to an advanced level of education: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

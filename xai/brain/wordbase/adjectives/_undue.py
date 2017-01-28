@@ -4,11 +4,12 @@
 class _UNDUE():
 	def __init__(self,): 
 		self.name = "UNDUE"
+		self.definitions = [u'to a level that is more than is necessary, acceptable, or reasonable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

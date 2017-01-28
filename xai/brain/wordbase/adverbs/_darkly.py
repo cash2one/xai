@@ -4,11 +4,12 @@
 class _DARKLY():
 	def __init__(self,): 
 		self.name = "DARKLY"
+		self.definitions = [u'in a way that is threatening or frightening: ', u'in a way that has little or no light: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

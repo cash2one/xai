@@ -4,11 +4,12 @@
 class _PANAMA():
 	def __init__(self,): 
 		self.name = "PANAMA"
+		self.definitions = [u"a man's hat made from straw and usually worn in hot weather"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

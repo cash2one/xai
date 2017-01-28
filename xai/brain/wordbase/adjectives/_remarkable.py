@@ -4,11 +4,12 @@
 class _REMARKABLE():
 	def __init__(self,): 
 		self.name = "REMARKABLE"
+		self.definitions = [u'unusual or special and therefore surprising and worth mentioning: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

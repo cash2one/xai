@@ -4,11 +4,12 @@
 class _CARNIVORE():
 	def __init__(self,): 
 		self.name = "CARNIVORE"
+		self.definitions = [u'an animal that eats meat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

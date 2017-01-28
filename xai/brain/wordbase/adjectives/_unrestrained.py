@@ -4,11 +4,12 @@
 class _UNRESTRAINED():
 	def __init__(self,): 
 		self.name = "UNRESTRAINED"
+		self.definitions = [u'not limited or controlled: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

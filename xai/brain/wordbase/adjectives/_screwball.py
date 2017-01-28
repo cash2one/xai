@@ -4,11 +4,12 @@
 class _SCREWBALL():
 	def __init__(self,): 
 		self.name = "SCREWBALL"
+		self.definitions = [u'used to describe a type of film in which there are funny characters and silly situations: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MIDWIFE():
 	def __init__(self,): 
 		self.name = "MIDWIFE"
+		self.definitions = [u'a person, usually a woman, who is trained to help women when they are giving birth']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

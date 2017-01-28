@@ -4,11 +4,12 @@
 class _CAD():
 	def __init__(self,): 
 		self.name = "CAD"
+		self.definitions = [u'a man who behaves badly or dishonestly, especially to women: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

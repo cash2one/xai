@@ -4,11 +4,12 @@
 class _UNAWARE():
 	def __init__(self,): 
 		self.name = "UNAWARE"
+		self.definitions = [u'not understanding or realizing something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _IRONCLAD():
 	def __init__(self,): 
 		self.name = "IRONCLAD"
+		self.definitions = [u'very certain and unlikely to be changed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

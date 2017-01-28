@@ -4,11 +4,12 @@
 class _SEDITION():
 	def __init__(self,): 
 		self.name = "SEDITION"
+		self.definitions = [u'language or behaviour that is intended to persuade other people to oppose their government']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

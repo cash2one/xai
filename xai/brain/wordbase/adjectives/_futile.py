@@ -4,11 +4,12 @@
 class _FUTILE():
 	def __init__(self,): 
 		self.name = "FUTILE"
+		self.definitions = [u'(of actions) having no effect or achieving nothing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

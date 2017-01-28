@@ -4,11 +4,12 @@
 class _EFFUSIVE():
 	def __init__(self,): 
 		self.name = "EFFUSIVE"
+		self.definitions = [u'expressing welcome, approval, or pleasure in a way that shows very strong feeling: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

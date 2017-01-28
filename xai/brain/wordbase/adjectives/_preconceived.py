@@ -4,11 +4,12 @@
 class _PRECONCEIVED():
 	def __init__(self,): 
 		self.name = "PRECONCEIVED"
+		self.definitions = [u'(of an idea or an opinion) formed too early, especially without enough thought or knowledge: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

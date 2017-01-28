@@ -4,11 +4,12 @@
 class _IMMENSITY():
 	def __init__(self,): 
 		self.name = "IMMENSITY"
+		self.definitions = [u'the extremely large size of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

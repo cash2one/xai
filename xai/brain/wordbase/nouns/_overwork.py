@@ -4,11 +4,12 @@
 class _OVERWORK():
 	def __init__(self,): 
 		self.name = "OVERWORK"
+		self.definitions = [u'doing too much work: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _COY():
 	def __init__(self,): 
 		self.name = "COY"
+		self.definitions = [u'intentionally keeping something secret: ', u'(especially of women) being or pretending to be shy, or like a child: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _OLYMPIAN():
 	def __init__(self,): 
 		self.name = "OLYMPIAN"
+		self.definitions = [u'having the qualities of a god: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

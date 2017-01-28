@@ -4,11 +4,12 @@
 class _POROUS():
 	def __init__(self,): 
 		self.name = "POROUS"
+		self.definitions = [u'Something that is porous has many small holes, so liquid or air can pass through, especially slowly: ', u'not protected enough to stop people going through: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

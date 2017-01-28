@@ -4,11 +4,12 @@
 class _WHIRLWIND():
 	def __init__(self,): 
 		self.name = "WHIRLWIND"
+		self.definitions = [u'A whirlwind event happens very fast, and often unexpectedly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

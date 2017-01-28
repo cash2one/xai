@@ -4,11 +4,12 @@
 class _CERTIFIABLE():
 	def __init__(self,): 
 		self.name = "CERTIFIABLE"
+		self.definitions = [u'mentally ill', u'behaving in a silly or stupid way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

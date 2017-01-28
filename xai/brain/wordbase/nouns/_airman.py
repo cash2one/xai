@@ -4,11 +4,12 @@
 class _AIRMAN():
 	def __init__(self,): 
 		self.name = "AIRMAN"
+		self.definitions = [u'a member of the British or US air force with a low rank']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

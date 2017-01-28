@@ -4,11 +4,12 @@
 class _NEWBIE():
 	def __init__(self,): 
 		self.name = "NEWBIE"
+		self.definitions = [u'someone who has just started doing an activity, a job, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

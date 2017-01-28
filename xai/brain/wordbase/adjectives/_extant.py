@@ -4,11 +4,12 @@
 class _EXTANT():
 	def __init__(self,): 
 		self.name = "EXTANT"
+		self.definitions = [u'used to refer to something very old that is still existing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LOOTING():
 	def __init__(self,): 
 		self.name = "LOOTING"
+		self.definitions = [u'the activity of stealing from shops during a violent event: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

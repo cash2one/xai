@@ -4,11 +4,12 @@
 class _PINPOINT():
 	def __init__(self,): 
 		self.name = "PINPOINT"
+		self.definitions = [u'very exact: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

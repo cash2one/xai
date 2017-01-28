@@ -4,11 +4,12 @@
 class _OVERDONE():
 	def __init__(self,): 
 		self.name = "OVERDONE"
+		self.definitions = [u'(especially of meat) cooked too long: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

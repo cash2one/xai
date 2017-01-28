@@ -4,11 +4,12 @@
 class _CUCKOO():
 	def __init__(self,): 
 		self.name = "CUCKOO"
+		self.definitions = [u'silly or crazy']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

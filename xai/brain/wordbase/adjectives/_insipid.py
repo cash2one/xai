@@ -4,11 +4,12 @@
 class _INSIPID():
 	def __init__(self,): 
 		self.name = "INSIPID"
+		self.definitions = [u'not having a strong taste or character, or having no interest or energy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MULTICULTURAL():
 	def __init__(self,): 
 		self.name = "MULTICULTURAL"
+		self.definitions = [u'including people who have many different customs and beliefs: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

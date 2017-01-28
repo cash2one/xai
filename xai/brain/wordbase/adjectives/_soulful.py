@@ -4,11 +4,12 @@
 class _SOULFUL():
 	def __init__(self,): 
 		self.name = "SOULFUL"
+		self.definitions = [u'expressing deep feelings, often sadness: ', u'having a deep understanding of and being proud of black culture']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

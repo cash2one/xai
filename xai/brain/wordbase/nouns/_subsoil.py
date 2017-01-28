@@ -4,11 +4,12 @@
 class _SUBSOIL():
 	def __init__(self,): 
 		self.name = "SUBSOIL"
+		self.definitions = [u'the layer of soil that is under the surface level']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DREARY():
 	def __init__(self,): 
 		self.name = "DREARY"
+		self.definitions = [u'boring and making you feel unhappy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

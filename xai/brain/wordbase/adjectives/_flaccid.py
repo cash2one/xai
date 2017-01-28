@@ -4,11 +4,12 @@
 class _FLACCID():
 	def __init__(self,): 
 		self.name = "FLACCID"
+		self.definitions = [u'soft or weak rather than firm: ', u'weak and not effective: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

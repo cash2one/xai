@@ -4,11 +4,12 @@
 class _WOLFHOUND():
 	def __init__(self,): 
 		self.name = "WOLFHOUND"
+		self.definitions = [u'a type of very large dog: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

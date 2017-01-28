@@ -4,11 +4,12 @@
 class _HUSH():
 	def __init__(self,): 
 		self.name = "HUSH"
+		self.definitions = [u'a sudden, calm silence: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

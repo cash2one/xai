@@ -4,11 +4,12 @@
 class _BAREFOOT():
 	def __init__(self,): 
 		self.name = "BAREFOOT"
+		self.definitions = [u'not wearing any shoes or socks: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SUBNORMAL():
 	def __init__(self,): 
 		self.name = "SUBNORMAL"
+		self.definitions = [u'below an average or expected standard, especially of intelligence: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

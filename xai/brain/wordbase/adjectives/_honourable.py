@@ -4,11 +4,12 @@
 class _HONOURABLE():
 	def __init__(self,): 
 		self.name = "HONOURABLE"
+		self.definitions = [u'honest and fair, or deserving praise and respect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

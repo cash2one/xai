@@ -4,11 +4,12 @@
 class _UNCONNECTED():
 	def __init__(self,): 
 		self.name = "UNCONNECTED"
+		self.definitions = [u'not connected; not related: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

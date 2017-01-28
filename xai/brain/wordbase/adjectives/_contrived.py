@@ -4,11 +4,12 @@
 class _CONTRIVED():
 	def __init__(self,): 
 		self.name = "CONTRIVED"
+		self.definitions = [u'artificial and difficult to believe: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

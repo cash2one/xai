@@ -4,11 +4,12 @@
 class _SANDSTORM():
 	def __init__(self,): 
 		self.name = "SANDSTORM"
+		self.definitions = [u'a strong wind in a desert carrying a large amount of sand']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

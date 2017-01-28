@@ -4,11 +4,12 @@
 class _INCREMENT():
 	def __init__(self,): 
 		self.name = "INCREMENT"
+		self.definitions = [u'one of a series of increases: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

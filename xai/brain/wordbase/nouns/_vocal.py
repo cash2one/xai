@@ -4,11 +4,12 @@
 class _VOCAL():
 	def __init__(self,): 
 		self.name = "VOCAL"
+		self.definitions = [u'the singing in a piece of popular music: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

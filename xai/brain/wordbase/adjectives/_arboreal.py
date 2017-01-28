@@ -4,11 +4,12 @@
 class _ARBOREAL():
 	def __init__(self,): 
 		self.name = "ARBOREAL"
+		self.definitions = [u'of or living in trees: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

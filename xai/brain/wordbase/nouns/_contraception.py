@@ -4,11 +4,12 @@
 class _CONTRACEPTION():
 	def __init__(self,): 
 		self.name = "CONTRACEPTION"
+		self.definitions = [u'(the use of) any of various methods intended to prevent a woman becoming pregnant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _WITHDRAWN():
 	def __init__(self,): 
 		self.name = "WITHDRAWN"
+		self.definitions = [u'shy and quiet and preferring to be alone rather than with other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

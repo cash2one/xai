@@ -4,11 +4,12 @@
 class _GUERRILLA():
 	def __init__(self,): 
 		self.name = "GUERRILLA"
+		self.definitions = [u'using unusual methods to get attention for your ideas, products, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

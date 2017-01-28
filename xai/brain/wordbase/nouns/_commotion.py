@@ -4,11 +4,12 @@
 class _COMMOTION():
 	def __init__(self,): 
 		self.name = "COMMOTION"
+		self.definitions = [u'a sudden, short period of noise, confusion, or excited movement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

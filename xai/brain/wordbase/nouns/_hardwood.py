@@ -4,11 +4,12 @@
 class _HARDWOOD():
 	def __init__(self,): 
 		self.name = "HARDWOOD"
+		self.definitions = [u'strong, heavy wood or the tree it comes from']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _ELEMENTAL():
 	def __init__(self,): 
 		self.name = "ELEMENTAL"
+		self.definitions = [u'showing the strong power of nature: ', u'basic or most simple, but strong: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

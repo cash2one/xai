@@ -4,11 +4,12 @@
 class _FIB():
 	def __init__(self,): 
 		self.name = "FIB"
+		self.definitions = [u'a small lie that does not cause any harm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

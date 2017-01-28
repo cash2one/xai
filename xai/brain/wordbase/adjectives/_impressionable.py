@@ -4,11 +4,12 @@
 class _IMPRESSIONABLE():
 	def __init__(self,): 
 		self.name = "IMPRESSIONABLE"
+		self.definitions = [u'easily influenced by other people, especially because you are young: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

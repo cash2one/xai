@@ -4,11 +4,12 @@
 class _RECOIL():
 	def __init__(self,): 
 		self.name = "RECOIL"
+		self.definitions = [u'the sudden backward movement that a gun makes when it is fired']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

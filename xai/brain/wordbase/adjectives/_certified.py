@@ -4,11 +4,12 @@
 class _CERTIFIED():
 	def __init__(self,): 
 		self.name = "CERTIFIED"
+		self.definitions = [u'having a document that proves that you have successfully finished a course of training: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

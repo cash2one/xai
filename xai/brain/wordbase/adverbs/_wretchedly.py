@@ -4,11 +4,12 @@
 class _WRETCHEDLY():
 	def __init__(self,): 
 		self.name = "WRETCHEDLY"
+		self.definitions = [u'extremely, when referring to something unpleasant or of low quality: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

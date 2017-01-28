@@ -4,11 +4,12 @@
 class _DWARF():
 	def __init__(self,): 
 		self.name = "DWARF"
+		self.definitions = [u'very small: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

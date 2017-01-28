@@ -4,11 +4,12 @@
 class _UNSETTLING():
 	def __init__(self,): 
 		self.name = "UNSETTLING"
+		self.definitions = [u'causing change', u'causing worry or anxiety: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

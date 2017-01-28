@@ -4,11 +4,12 @@
 class _TUMBLE():
 	def __init__(self,): 
 		self.name = "TUMBLE"
+		self.definitions = [u'a sudden fall: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

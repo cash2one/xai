@@ -4,11 +4,12 @@
 class _BATTLEGROUND():
 	def __init__(self,): 
 		self.name = "BATTLEGROUND"
+		self.definitions = [u'a  battlefield ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

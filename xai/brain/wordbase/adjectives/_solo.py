@@ -4,11 +4,12 @@
 class _SOLO():
 	def __init__(self,): 
 		self.name = "SOLO"
+		self.definitions = [u'alone; without other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SLIPCOVER():
 	def __init__(self,): 
 		self.name = "SLIPCOVER"
+		self.definitions = [u'a cover for a chair or sofa']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

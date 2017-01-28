@@ -4,11 +4,12 @@
 class _IMPARTIAL():
 	def __init__(self,): 
 		self.name = "IMPARTIAL"
+		self.definitions = [u'not supporting any of the sides involved in an argument: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _REPRODUCIBLE():
 	def __init__(self,): 
 		self.name = "REPRODUCIBLE"
+		self.definitions = [u'able to be shown, done, or made again: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

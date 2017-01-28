@@ -4,11 +4,12 @@
 class _BUREAUCRAT():
 	def __init__(self,): 
 		self.name = "BUREAUCRAT"
+		self.definitions = [u'someone working in a bureaucracy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

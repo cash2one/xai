@@ -4,11 +4,12 @@
 class _UPSIDE():
 	def __init__(self,): 
 		self.name = "UPSIDE"
+		self.definitions = [u'the advantage of a situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

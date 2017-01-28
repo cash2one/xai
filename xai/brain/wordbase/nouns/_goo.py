@@ -4,11 +4,12 @@
 class _GOO():
 	def __init__(self,): 
 		self.name = "GOO"
+		self.definitions = [u'an unpleasantly sticky substance']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _WROUGHT():
 	def __init__(self,): 
 		self.name = "WROUGHT"
+		self.definitions = [u'made or done in a careful or decorative way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

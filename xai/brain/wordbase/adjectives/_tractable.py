@@ -4,11 +4,12 @@
 class _TRACTABLE():
 	def __init__(self,): 
 		self.name = "TRACTABLE"
+		self.definitions = [u'easily dealt with, controlled, or persuaded: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

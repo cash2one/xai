@@ -4,11 +4,12 @@
 class _EVERYTHING():
 	def __init__(self,): 
 		self.name = "EVERYTHING"
+		self.definitions = [u'all things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'pronouns'

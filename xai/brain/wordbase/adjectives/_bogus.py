@@ -4,11 +4,12 @@
 class _BOGUS():
 	def __init__(self,): 
 		self.name = "BOGUS"
+		self.definitions = [u'false, not real, or not legal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

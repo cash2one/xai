@@ -4,11 +4,12 @@
 class _ADVANTAGEOUS():
 	def __init__(self,): 
 		self.name = "ADVANTAGEOUS"
+		self.definitions = [u'giving advantages or helping to make you more successful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

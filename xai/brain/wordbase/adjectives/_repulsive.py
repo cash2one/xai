@@ -4,11 +4,12 @@
 class _REPULSIVE():
 	def __init__(self,): 
 		self.name = "REPULSIVE"
+		self.definitions = [u'extremely unpleasant or unacceptable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

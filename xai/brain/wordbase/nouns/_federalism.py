@@ -4,11 +4,12 @@
 class _FEDERALISM():
 	def __init__(self,): 
 		self.name = "FEDERALISM"
+		self.definitions = [u'the system of giving power to a central authority']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

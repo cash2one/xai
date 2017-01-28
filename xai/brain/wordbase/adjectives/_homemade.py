@@ -4,11 +4,12 @@
 class _HOMEMADE():
 	def __init__(self,): 
 		self.name = "HOMEMADE"
+		self.definitions = [u'made at home and not bought from a shop: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

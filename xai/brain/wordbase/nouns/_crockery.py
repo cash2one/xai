@@ -4,11 +4,12 @@
 class _CROCKERY():
 	def __init__(self,): 
 		self.name = "CROCKERY"
+		self.definitions = [u'cups, plates, bowls, etc., used to serve food and drink, especially made of china']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

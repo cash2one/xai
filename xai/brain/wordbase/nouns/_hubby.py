@@ -4,11 +4,12 @@
 class _HUBBY():
 	def __init__(self,): 
 		self.name = "HUBBY"
+		self.definitions = [u'informal for husband: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

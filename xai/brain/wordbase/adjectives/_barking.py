@@ -4,11 +4,12 @@
 class _BARKING():
 	def __init__(self,): 
 		self.name = "BARKING"
+		self.definitions = [u'crazy or extremely silly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

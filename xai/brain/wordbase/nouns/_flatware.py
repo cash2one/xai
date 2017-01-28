@@ -4,11 +4,12 @@
 class _FLATWARE():
 	def __init__(self,): 
 		self.name = "FLATWARE"
+		self.definitions = [u'\u2192\xa0 cutlery ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

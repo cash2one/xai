@@ -4,11 +4,12 @@
 class _ORNITHOLOGIST():
 	def __init__(self,): 
 		self.name = "ORNITHOLOGIST"
+		self.definitions = [u'a person who studies birds']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

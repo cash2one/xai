@@ -4,11 +4,12 @@
 class _MANDATORY():
 	def __init__(self,): 
 		self.name = "MANDATORY"
+		self.definitions = [u'Something that is mandatory must be done, or is demanded by law: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

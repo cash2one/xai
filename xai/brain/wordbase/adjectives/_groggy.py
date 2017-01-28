@@ -4,11 +4,12 @@
 class _GROGGY():
 	def __init__(self,): 
 		self.name = "GROGGY"
+		self.definitions = [u'weak and unable to think clearly or walk correctly, usually because of tiredness or illness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

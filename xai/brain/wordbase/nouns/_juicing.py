@@ -4,11 +4,12 @@
 class _JUICING():
 	def __init__(self,): 
 		self.name = "JUICING"
+		self.definitions = [u'the process of getting the juice out of fruit and vegetables: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DIGEST():
 	def __init__(self,): 
 		self.name = "DIGEST"
+		self.definitions = [u'a short written report providing the most important parts of a larger piece of writing, or one containing recent news: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

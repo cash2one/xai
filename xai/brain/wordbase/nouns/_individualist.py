@@ -4,11 +4,12 @@
 class _INDIVIDUALIST():
 	def __init__(self,): 
 		self.name = "INDIVIDUALIST"
+		self.definitions = [u'someone who is different or original']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

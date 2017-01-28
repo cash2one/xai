@@ -4,11 +4,12 @@
 class _CHANUKAH():
 	def __init__(self,): 
 		self.name = "CHANUKAH"
+		self.definitions = [u'\u2192\xa0 Hanukkah ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

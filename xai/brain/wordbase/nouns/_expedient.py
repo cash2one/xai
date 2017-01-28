@@ -4,11 +4,12 @@
 class _EXPEDIENT():
 	def __init__(self,): 
 		self.name = "EXPEDIENT"
+		self.definitions = [u'an action that is expedient: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

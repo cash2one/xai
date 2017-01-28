@@ -4,11 +4,12 @@
 class _PETULANT():
 	def __init__(self,): 
 		self.name = "PETULANT"
+		self.definitions = [u'easily annoyed and complaining in a rude way like a child']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

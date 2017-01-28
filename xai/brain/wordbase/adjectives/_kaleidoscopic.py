@@ -4,11 +4,12 @@
 class _KALEIDOSCOPIC():
 	def __init__(self,): 
 		self.name = "KALEIDOSCOPIC"
+		self.definitions = [u'quickly changing from one thing to another']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

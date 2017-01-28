@@ -4,11 +4,12 @@
 class _GOALTENDER():
 	def __init__(self,): 
 		self.name = "GOALTENDER"
+		self.definitions = [u'a  goalkeeper , especially in ice hockey (= a game played by two teams on ice) ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

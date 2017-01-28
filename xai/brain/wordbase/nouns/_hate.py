@@ -4,11 +4,12 @@
 class _HATE():
 	def __init__(self,): 
 		self.name = "HATE"
+		self.definitions = [u'an extremely strong dislike: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

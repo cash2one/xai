@@ -4,11 +4,12 @@
 class _OMNIPOTENT():
 	def __init__(self,): 
 		self.name = "OMNIPOTENT"
+		self.definitions = [u'having unlimited power and able to do anything: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

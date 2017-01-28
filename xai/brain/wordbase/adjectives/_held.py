@@ -4,11 +4,12 @@
 class _HELD():
 	def __init__(self,): 
 		self.name = "HELD"
+		self.definitions = [u'kept or maintained: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

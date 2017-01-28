@@ -4,11 +4,12 @@
 class _BULKY():
 	def __init__(self,): 
 		self.name = "BULKY"
+		self.definitions = [u'too big and taking up too much space: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

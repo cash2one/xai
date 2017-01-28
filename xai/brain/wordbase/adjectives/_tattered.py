@@ -4,11 +4,12 @@
 class _TATTERED():
 	def __init__(self,): 
 		self.name = "TATTERED"
+		self.definitions = [u'(especially of cloth or paper) badly torn: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

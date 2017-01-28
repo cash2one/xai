@@ -4,11 +4,12 @@
 class _TRUSTING():
 	def __init__(self,): 
 		self.name = "TRUSTING"
+		self.definitions = [u'always believing that other people are good or honest and will not harm or deceive you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

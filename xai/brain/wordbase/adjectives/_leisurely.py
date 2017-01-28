@@ -4,11 +4,12 @@
 class _LEISURELY():
 	def __init__(self,): 
 		self.name = "LEISURELY"
+		self.definitions = [u'used to describe an action that is done in a relaxed way, without hurrying: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

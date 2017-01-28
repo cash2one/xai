@@ -4,11 +4,12 @@
 class _VICARAGE():
 	def __init__(self,): 
 		self.name = "VICARAGE"
+		self.definitions = [u'the house in which a vicar lives']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

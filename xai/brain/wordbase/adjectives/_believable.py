@@ -4,11 +4,12 @@
 class _BELIEVABLE():
 	def __init__(self,): 
 		self.name = "BELIEVABLE"
+		self.definitions = [u'If something is believable, it seems possible, real, or true: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

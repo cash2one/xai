@@ -4,11 +4,12 @@
 class _LEGISLATIVE():
 	def __init__(self,): 
 		self.name = "LEGISLATIVE"
+		self.definitions = [u'relating to laws or the making of laws: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

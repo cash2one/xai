@@ -4,11 +4,12 @@
 class _BUSHED():
 	def __init__(self,): 
 		self.name = "BUSHED"
+		self.definitions = [u'very tired', u'lost or confused']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

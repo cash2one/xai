@@ -4,11 +4,12 @@
 class _WEARY():
 	def __init__(self,): 
 		self.name = "WEARY"
+		self.definitions = [u'very tired, especially after working hard for a long time: ', u'bored with something because you have experienced too much of it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

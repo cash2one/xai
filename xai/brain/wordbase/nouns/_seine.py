@@ -4,11 +4,12 @@
 class _SEINE():
 	def __init__(self,): 
 		self.name = "SEINE"
+		self.definitions = [u'a type of large net that hangs in water with weights at the bottom, used for catching fish']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

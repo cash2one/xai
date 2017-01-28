@@ -4,11 +4,12 @@
 class _PAINED():
 	def __init__(self,): 
 		self.name = "PAINED"
+		self.definitions = [u'If you look or sound pained, you show that you are upset or offended: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

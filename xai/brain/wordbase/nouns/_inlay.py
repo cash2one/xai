@@ -4,11 +4,12 @@
 class _INLAY():
 	def __init__(self,): 
 		self.name = "INLAY"
+		self.definitions = [u'a decorative pattern put into the surface of an object: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

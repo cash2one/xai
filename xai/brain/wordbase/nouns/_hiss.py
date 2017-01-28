@@ -4,11 +4,12 @@
 class _HISS():
 	def __init__(self,): 
 		self.name = "HISS"
+		self.definitions = [u'a sound like the letter s: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

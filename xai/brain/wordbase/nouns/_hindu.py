@@ -4,11 +4,12 @@
 class _HINDU():
 	def __init__(self,): 
 		self.name = "HINDU"
+		self.definitions = [u'someone who believes in Hinduism']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

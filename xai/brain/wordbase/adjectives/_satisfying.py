@@ -4,11 +4,12 @@
 class _SATISFYING():
 	def __init__(self,): 
 		self.name = "SATISFYING"
+		self.definitions = [u'making you feel pleased by providing what you need or want: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

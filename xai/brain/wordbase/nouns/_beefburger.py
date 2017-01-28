@@ -4,11 +4,12 @@
 class _BEEFBURGER():
 	def __init__(self,): 
 		self.name = "BEEFBURGER"
+		self.definitions = [u'a  hamburger ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

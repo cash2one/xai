@@ -4,11 +4,12 @@
 class _SAILBOAT():
 	def __init__(self,): 
 		self.name = "SAILBOAT"
+		self.definitions = [u'a small boat with sails']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _UNWAVERING():
 	def __init__(self,): 
 		self.name = "UNWAVERING"
+		self.definitions = [u'never moving or looking away from something: ', u'never changing or becoming weaker: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

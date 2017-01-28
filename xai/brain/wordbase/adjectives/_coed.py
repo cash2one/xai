@@ -4,11 +4,12 @@
 class _COED():
 	def __init__(self,): 
 		self.name = "COED"
+		self.definitions = [u'informal for  coeducational ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

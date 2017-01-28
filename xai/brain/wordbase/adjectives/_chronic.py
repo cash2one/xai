@@ -4,11 +4,12 @@
 class _CHRONIC():
 	def __init__(self,): 
 		self.name = "CHRONIC"
+		self.definitions = [u'(especially of a disease or something bad) continuing for a long time: ', u'very bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INATTENTIVE():
 	def __init__(self,): 
 		self.name = "INATTENTIVE"
+		self.definitions = [u'not giving attention to someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

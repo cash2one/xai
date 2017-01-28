@@ -4,11 +4,12 @@
 class _PASCAL():
 	def __init__(self,): 
 		self.name = "PASCAL"
+		self.definitions = [u'the standard unit for measuring pressure']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

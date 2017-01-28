@@ -4,11 +4,12 @@
 class _SCURVY():
 	def __init__(self,): 
 		self.name = "SCURVY"
+		self.definitions = [u'an illness of the body tissues that is caused by not having enough vitamin C']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

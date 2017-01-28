@@ -4,11 +4,12 @@
 class _ADVERSE():
 	def __init__(self,): 
 		self.name = "ADVERSE"
+		self.definitions = [u'having a negative or harmful effect on something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

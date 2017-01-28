@@ -4,11 +4,12 @@
 class _PROGENITOR():
 	def __init__(self,): 
 		self.name = "PROGENITOR"
+		self.definitions = [u'a person who first thinks of something and causes it to happen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

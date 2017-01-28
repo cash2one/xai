@@ -4,11 +4,12 @@
 class _EXPLANATORY():
 	def __init__(self,): 
 		self.name = "EXPLANATORY"
+		self.definitions = [u'giving an explanation about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SEPARATE():
 	def __init__(self,): 
 		self.name = "SEPARATE"
+		self.definitions = [u'existing or happening independently or in a different physical space: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

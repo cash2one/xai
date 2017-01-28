@@ -4,11 +4,12 @@
 class _ADIEU():
 	def __init__(self,): 
 		self.name = "ADIEU"
+		self.definitions = [u'goodbye: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

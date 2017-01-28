@@ -4,11 +4,12 @@
 class _HUSHED():
 	def __init__(self,): 
 		self.name = "HUSHED"
+		self.definitions = [u'quiet: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

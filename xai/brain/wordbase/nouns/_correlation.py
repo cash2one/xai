@@ -4,11 +4,12 @@
 class _CORRELATION():
 	def __init__(self,): 
 		self.name = "CORRELATION"
+		self.definitions = [u'a connection or relationship between two or more facts, numbers, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

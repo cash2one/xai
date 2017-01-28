@@ -4,11 +4,12 @@
 class _SINFUL():
 	def __init__(self,): 
 		self.name = "SINFUL"
+		self.definitions = [u'against the rules of a religion or morally wrong: ', u'used to refer to something that is very pleasant, but very bad for you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

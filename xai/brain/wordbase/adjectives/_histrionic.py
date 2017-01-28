@@ -4,11 +4,12 @@
 class _HISTRIONIC():
 	def __init__(self,): 
 		self.name = "HISTRIONIC"
+		self.definitions = [u'very emotional and energetic, but not sincere or without real meaning: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

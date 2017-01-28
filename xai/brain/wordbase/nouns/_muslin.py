@@ -4,11 +4,12 @@
 class _MUSLIN():
 	def __init__(self,): 
 		self.name = "MUSLIN"
+		self.definitions = [u'a very thin cotton material: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

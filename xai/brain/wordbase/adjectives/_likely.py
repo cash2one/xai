@@ -4,11 +4,12 @@
 class _LIKELY():
 	def __init__(self,): 
 		self.name = "LIKELY"
+		self.definitions = [u'If something is likely, it will probably happen or is expected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

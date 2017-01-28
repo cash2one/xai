@@ -4,11 +4,12 @@
 class _COLORFUL():
 	def __init__(self,): 
 		self.name = "COLORFUL"
+		self.definitions = [u'US spelling of  colourful ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

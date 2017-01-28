@@ -4,11 +4,12 @@
 class _HAEMOPHILIAC():
 	def __init__(self,): 
 		self.name = "HAEMOPHILIAC"
+		self.definitions = [u'a person who suffers from haemophilia']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

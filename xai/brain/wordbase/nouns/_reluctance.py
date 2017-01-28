@@ -4,11 +4,12 @@
 class _RELUCTANCE():
 	def __init__(self,): 
 		self.name = "RELUCTANCE"
+		self.definitions = [u'an unwillingness to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

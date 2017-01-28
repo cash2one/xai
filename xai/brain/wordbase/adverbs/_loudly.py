@@ -4,11 +4,12 @@
 class _LOUDLY():
 	def __init__(self,): 
 		self.name = "LOUDLY"
+		self.definitions = [u'making a lot of noise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

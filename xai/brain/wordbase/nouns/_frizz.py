@@ -4,11 +4,12 @@
 class _FRIZZ():
 	def __init__(self,): 
 		self.name = "FRIZZ"
+		self.definitions = [u'the quality of hair being frizzy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

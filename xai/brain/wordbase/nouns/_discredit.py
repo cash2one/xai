@@ -4,11 +4,12 @@
 class _DISCREDIT():
 	def __init__(self,): 
 		self.name = "DISCREDIT"
+		self.definitions = [u'loss of respect for or belief in someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

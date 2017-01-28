@@ -4,11 +4,12 @@
 class _HAPPINESS():
 	def __init__(self,): 
 		self.name = "HAPPINESS"
+		self.definitions = [u'the feeling of being happy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

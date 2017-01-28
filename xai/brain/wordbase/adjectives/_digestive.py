@@ -4,11 +4,12 @@
 class _DIGESTIVE():
 	def __init__(self,): 
 		self.name = "DIGESTIVE"
+		self.definitions = [u'relating to the digestion of food: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

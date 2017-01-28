@@ -4,11 +4,12 @@
 class _HEEDLESS():
 	def __init__(self,): 
 		self.name = "HEEDLESS"
+		self.definitions = [u'not giving attention to a risk or possible difficulty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

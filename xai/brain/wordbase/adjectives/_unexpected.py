@@ -4,11 +4,12 @@
 class _UNEXPECTED():
 	def __init__(self,): 
 		self.name = "UNEXPECTED"
+		self.definitions = [u'not expected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

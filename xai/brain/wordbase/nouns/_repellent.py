@@ -4,11 +4,12 @@
 class _REPELLENT():
 	def __init__(self,): 
 		self.name = "REPELLENT"
+		self.definitions = [u'a substance used to repel something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

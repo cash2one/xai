@@ -4,11 +4,12 @@
 class _SYSTEMATIC():
 	def __init__(self,): 
 		self.name = "SYSTEMATIC"
+		self.definitions = [u'according to an agreed set of methods or organized plan: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

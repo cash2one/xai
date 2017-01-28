@@ -4,11 +4,12 @@
 class _WANTING():
 	def __init__(self,): 
 		self.name = "WANTING"
+		self.definitions = [u'not having something; lacking: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

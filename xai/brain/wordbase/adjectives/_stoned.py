@@ -4,11 +4,12 @@
 class _STONED():
 	def __init__(self,): 
 		self.name = "STONED"
+		self.definitions = [u'experiencing the effects of a drug, such as cannabis: ', u'with the stone (= seed) removed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

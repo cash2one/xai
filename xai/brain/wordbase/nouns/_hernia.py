@@ -4,11 +4,12 @@
 class _HERNIA():
 	def __init__(self,): 
 		self.name = "HERNIA"
+		self.definitions = [u'a medical condition in which an organ pushes through the muscle which surrounds it']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

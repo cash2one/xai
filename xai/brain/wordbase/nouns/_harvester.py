@@ -4,11 +4,12 @@
 class _HARVESTER():
 	def __init__(self,): 
 		self.name = "HARVESTER"
+		self.definitions = [u'a machine for harvesting crops', u'a person who harvests crops']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

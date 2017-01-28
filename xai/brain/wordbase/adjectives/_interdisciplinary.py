@@ -4,11 +4,12 @@
 class _INTERDISCIPLINARY():
 	def __init__(self,): 
 		self.name = "INTERDISCIPLINARY"
+		self.definitions = [u'involving two or more different subjects or areas of knowledge: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

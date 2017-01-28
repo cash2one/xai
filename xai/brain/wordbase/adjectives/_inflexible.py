@@ -4,11 +4,12 @@
 class _INFLEXIBLE():
 	def __init__(self,): 
 		self.name = "INFLEXIBLE"
+		self.definitions = [u'(especially of opinions and rules) fixed and unable or unwilling to change: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

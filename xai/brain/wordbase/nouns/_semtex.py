@@ -4,11 +4,12 @@
 class _SEMTEX():
 	def __init__(self,): 
 		self.name = "SEMTEX"
+		self.definitions = [u'a powerful explosive, used especially to make illegal bombs']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

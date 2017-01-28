@@ -4,11 +4,12 @@
 class _ADVANCEMENT():
 	def __init__(self,): 
 		self.name = "ADVANCEMENT"
+		self.definitions = [u'the development or improvement of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

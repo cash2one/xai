@@ -4,11 +4,12 @@
 class _GHOSTLY():
 	def __init__(self,): 
 		self.name = "GHOSTLY"
+		self.definitions = [u'pale and transparent: ', u'not loud or clear: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

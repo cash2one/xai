@@ -4,11 +4,12 @@
 class _ORBITAL():
 	def __init__(self,): 
 		self.name = "ORBITAL"
+		self.definitions = [u'relating to the orbit (= curved path) of an object in space: ', u'relating to the eye socket (= the bone around the eye)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

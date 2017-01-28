@@ -4,11 +4,12 @@
 class _RAVISHING():
 	def __init__(self,): 
 		self.name = "RAVISHING"
+		self.definitions = [u'very beautiful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CARPAL():
 	def __init__(self,): 
 		self.name = "CARPAL"
+		self.definitions = [u'relating to the carpus (= the wrist bones): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

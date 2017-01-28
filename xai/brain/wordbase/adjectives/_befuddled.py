@@ -4,11 +4,12 @@
 class _BEFUDDLED():
 	def __init__(self,): 
 		self.name = "BEFUDDLED"
+		self.definitions = [u'confused: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

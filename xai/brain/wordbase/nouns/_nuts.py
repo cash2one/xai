@@ -4,11 +4,12 @@
 class _NUTS():
 	def __init__(self,): 
 		self.name = "NUTS"
+		self.definitions = [u'offensive for  testicle ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

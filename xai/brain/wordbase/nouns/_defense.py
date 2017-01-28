@@ -4,11 +4,12 @@
 class _DEFENSE():
 	def __init__(self,): 
 		self.name = "DEFENSE"
+		self.definitions = [u'US spelling of  defence ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

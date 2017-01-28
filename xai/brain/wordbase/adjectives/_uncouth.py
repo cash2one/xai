@@ -4,11 +4,12 @@
 class _UNCOUTH():
 	def __init__(self,): 
 		self.name = "UNCOUTH"
+		self.definitions = [u'behaving in a rude, unpleasant way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

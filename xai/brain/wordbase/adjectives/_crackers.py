@@ -4,11 +4,12 @@
 class _CRACKERS():
 	def __init__(self,): 
 		self.name = "CRACKERS"
+		self.definitions = [u'silly, stupid, or slightly mentally ill']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INEBRIATED():
 	def __init__(self,): 
 		self.name = "INEBRIATED"
+		self.definitions = [u'having drunk too much alcohol: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

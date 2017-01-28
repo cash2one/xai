@@ -4,11 +4,12 @@
 class _GASP():
 	def __init__(self,): 
 		self.name = "GASP"
+		self.definitions = [u'an act of gasping: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

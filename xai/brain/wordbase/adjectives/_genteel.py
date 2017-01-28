@@ -4,11 +4,12 @@
 class _GENTEEL():
 	def __init__(self,): 
 		self.name = "GENTEEL"
+		self.definitions = [u'typical of a high social class: ', u'being very polite, gentle, or graceful: ', u'calm and gentle: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

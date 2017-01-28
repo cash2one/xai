@@ -4,11 +4,12 @@
 class _VAINLY():
 	def __init__(self,): 
 		self.name = "VAINLY"
+		self.definitions = [u'unsuccessfully: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

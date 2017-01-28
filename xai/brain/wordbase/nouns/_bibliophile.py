@@ -4,11 +4,12 @@
 class _BIBLIOPHILE():
 	def __init__(self,): 
 		self.name = "BIBLIOPHILE"
+		self.definitions = [u'a person who loves or collects books']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

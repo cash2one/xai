@@ -4,11 +4,12 @@
 class _REQUIEM():
 	def __init__(self,): 
 		self.name = "REQUIEM"
+		self.definitions = [u'a mass (= a Christian ceremony) at which people honour and pray for a dead person: ', u'a piece of music written for this ceremony: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

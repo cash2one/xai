@@ -4,11 +4,12 @@
 class _MANX():
 	def __init__(self,): 
 		self.name = "MANX"
+		self.definitions = [u'of the Isle of Man, the people who live there, or their language']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

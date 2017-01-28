@@ -4,11 +4,12 @@
 class _GRUDGING():
 	def __init__(self,): 
 		self.name = "GRUDGING"
+		self.definitions = [u'A grudging action or feeling is one that you do or have unwillingly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

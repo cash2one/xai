@@ -4,11 +4,12 @@
 class _DEGENERATE():
 	def __init__(self,): 
 		self.name = "DEGENERATE"
+		self.definitions = [u'having low standards of behaviour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

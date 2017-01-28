@@ -4,11 +4,12 @@
 class _UNFRIENDLY():
 	def __init__(self,): 
 		self.name = "UNFRIENDLY"
+		self.definitions = [u'showing dislike and no sympathy']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

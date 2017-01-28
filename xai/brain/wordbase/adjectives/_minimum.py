@@ -4,11 +4,12 @@
 class _MINIMUM():
 	def __init__(self,): 
 		self.name = "MINIMUM"
+		self.definitions = [u'used to describe something that is the smallest or least allowed or possible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _AEROSPACE():
 	def __init__(self,): 
 		self.name = "AEROSPACE"
+		self.definitions = [u'producing or operating aircraft or spacecraft: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

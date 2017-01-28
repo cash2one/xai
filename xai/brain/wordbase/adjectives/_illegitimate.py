@@ -4,11 +4,12 @@
 class _ILLEGITIMATE():
 	def __init__(self,): 
 		self.name = "ILLEGITIMATE"
+		self.definitions = [u'born of parents not married to each other', u'not legal or fair: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

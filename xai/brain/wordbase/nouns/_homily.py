@@ -4,11 +4,12 @@
 class _HOMILY():
 	def __init__(self,): 
 		self.name = "HOMILY"
+		self.definitions = [u'a piece of spoken or written advice about how someone should behave: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _TALKATIVE():
 	def __init__(self,): 
 		self.name = "TALKATIVE"
+		self.definitions = [u'talking a lot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

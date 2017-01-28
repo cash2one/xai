@@ -4,11 +4,12 @@
 class _SCRAPPY():
 	def __init__(self,): 
 		self.name = "SCRAPPY"
+		self.definitions = [u'badly organized or put together: ', u'untidy and not very attractive or well developed: ', u'having a strong, determined character, and willing to argue or fight for what you want: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

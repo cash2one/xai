@@ -4,11 +4,12 @@
 class _KERB():
 	def __init__(self,): 
 		self.name = "KERB"
+		self.definitions = [u'the edge of a raised path nearest the road']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

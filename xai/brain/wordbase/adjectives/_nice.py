@@ -4,11 +4,12 @@
 class _NICE():
 	def __init__(self,): 
 		self.name = "NICE"
+		self.definitions = [u'pleasant, enjoyable, or satisfactory: ', u'pleasantly: ', u'kind, friendly, or polite: ', u'based on very slight differences: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

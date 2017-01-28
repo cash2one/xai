@@ -4,11 +4,12 @@
 class _SHOCKING():
 	def __init__(self,): 
 		self.name = "SHOCKING"
+		self.definitions = [u'offensive, upsetting, or immoral: ', u'extremely bad or unpleasant, or of very low quality: ', u'extremely surprising: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

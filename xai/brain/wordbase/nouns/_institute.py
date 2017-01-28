@@ -4,11 +4,12 @@
 class _INSTITUTE():
 	def __init__(self,): 
 		self.name = "INSTITUTE"
+		self.definitions = [u'an organization where people do a particular type of scientific, educational, or social work, or the buildings that it uses: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

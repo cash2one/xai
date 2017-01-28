@@ -4,11 +4,12 @@
 class _SCHIZOID():
 	def __init__(self,): 
 		self.name = "SCHIZOID"
+		self.definitions = [u'suffering from or behaving as if suffering from schizophrenia: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

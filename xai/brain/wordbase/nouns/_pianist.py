@@ -4,11 +4,12 @@
 class _PIANIST():
 	def __init__(self,): 
 		self.name = "PIANIST"
+		self.definitions = [u'someone who plays the piano: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

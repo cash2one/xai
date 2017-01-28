@@ -4,11 +4,12 @@
 class _JAILER():
 	def __init__(self,): 
 		self.name = "JAILER"
+		self.definitions = [u'a prison guard']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _GARISH():
 	def __init__(self,): 
 		self.name = "GARISH"
+		self.definitions = [u'unpleasantly bright: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

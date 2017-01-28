@@ -4,11 +4,12 @@
 class _THEOREM():
 	def __init__(self,): 
 		self.name = "THEOREM"
+		self.definitions = [u'(especially in mathematics) a formal statement that can be shown to be true by logic: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

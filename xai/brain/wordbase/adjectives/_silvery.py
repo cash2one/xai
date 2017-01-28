@@ -4,11 +4,12 @@
 class _SILVERY():
 	def __init__(self,): 
 		self.name = "SILVERY"
+		self.definitions = [u'like silver: ', u'having a pleasant, clear musical sound: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

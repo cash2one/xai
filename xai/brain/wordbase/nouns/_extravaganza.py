@@ -4,11 +4,12 @@
 class _EXTRAVAGANZA():
 	def __init__(self,): 
 		self.name = "EXTRAVAGANZA"
+		self.definitions = [u'a large, exciting, and expensive event or entertainment: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

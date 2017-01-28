@@ -4,11 +4,12 @@
 class _PEDANTIC():
 	def __init__(self,): 
 		self.name = "PEDANTIC"
+		self.definitions = [u'giving too much attention to formal rules or small details: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

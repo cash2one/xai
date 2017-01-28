@@ -4,11 +4,12 @@
 class _HUGELY():
 	def __init__(self,): 
 		self.name = "HUGELY"
+		self.definitions = [u'to a great degree: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

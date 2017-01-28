@@ -4,11 +4,12 @@
 class _INFATUATED():
 	def __init__(self,): 
 		self.name = "INFATUATED"
+		self.definitions = [u'having a very strong but not usually lasting feeling of love or attraction for someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HUNDREDFOLD():
 	def __init__(self,): 
 		self.name = "HUNDREDFOLD"
+		self.definitions = [u'a hundred times as big or as much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

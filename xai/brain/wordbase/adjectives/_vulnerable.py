@@ -4,11 +4,12 @@
 class _VULNERABLE():
 	def __init__(self,): 
 		self.name = "VULNERABLE"
+		self.definitions = [u'able to be easily physically, emotionally, or mentally hurt, influenced, or attacked: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

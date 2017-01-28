@@ -4,11 +4,12 @@
 class _QUINTESSENCE():
 	def __init__(self,): 
 		self.name = "QUINTESSENCE"
+		self.definitions = [u'the most typical example: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

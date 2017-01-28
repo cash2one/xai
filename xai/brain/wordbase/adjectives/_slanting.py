@@ -4,11 +4,12 @@
 class _SLANTING():
 	def __init__(self,): 
 		self.name = "SLANTING"
+		self.definitions = [u'sloping in one direction: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

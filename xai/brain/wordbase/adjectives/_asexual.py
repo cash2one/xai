@@ -4,11 +4,12 @@
 class _ASEXUAL():
 	def __init__(self,): 
 		self.name = "ASEXUAL"
+		self.definitions = [u'without sex or sexual organs', u'having no interest in sexual relationships: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

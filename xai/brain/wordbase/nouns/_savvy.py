@@ -4,11 +4,12 @@
 class _SAVVY():
 	def __init__(self,): 
 		self.name = "SAVVY"
+		self.definitions = [u'practical knowledge and ability: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

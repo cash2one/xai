@@ -4,11 +4,12 @@
 class _ANTEDILUVIAN():
 	def __init__(self,): 
 		self.name = "ANTEDILUVIAN"
+		self.definitions = [u'extremely old-fashioned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

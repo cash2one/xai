@@ -4,11 +4,12 @@
 class _RESOLUTE():
 	def __init__(self,): 
 		self.name = "RESOLUTE"
+		self.definitions = [u'determined in character, action, or ideas: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

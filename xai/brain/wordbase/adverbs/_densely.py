@@ -4,11 +4,12 @@
 class _DENSELY():
 	def __init__(self,): 
 		self.name = "DENSELY"
+		self.definitions = [u'with a lot of things close together: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

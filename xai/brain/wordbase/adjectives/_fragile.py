@@ -4,11 +4,12 @@
 class _FRAGILE():
 	def __init__(self,): 
 		self.name = "FRAGILE"
+		self.definitions = [u'easily damaged, broken, or harmed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

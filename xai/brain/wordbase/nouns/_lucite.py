@@ -4,11 +4,12 @@
 class _LUCITE():
 	def __init__(self,): 
 		self.name = "LUCITE"
+		self.definitions = [u'a type of transparent plastic used to make paints and decorative objects such as picture frames']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

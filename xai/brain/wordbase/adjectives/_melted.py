@@ -4,11 +4,12 @@
 class _MELTED():
 	def __init__(self,): 
 		self.name = "MELTED"
+		self.definitions = [u'having turned soft or into a liquid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

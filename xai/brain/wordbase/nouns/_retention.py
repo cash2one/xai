@@ -4,11 +4,12 @@
 class _RETENTION():
 	def __init__(self,): 
 		self.name = "RETENTION"
+		self.definitions = [u'the continued use, existence, or possession of something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

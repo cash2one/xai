@@ -4,11 +4,12 @@
 class _IMPERCEPTIBLE():
 	def __init__(self,): 
 		self.name = "IMPERCEPTIBLE"
+		self.definitions = [u'unable to be noticed or felt because of being very slight: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

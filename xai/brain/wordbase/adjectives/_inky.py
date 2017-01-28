@@ -4,11 +4,12 @@
 class _INKY():
 	def __init__(self,): 
 		self.name = "INKY"
+		self.definitions = [u'covered with ink: ', u'very dark: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

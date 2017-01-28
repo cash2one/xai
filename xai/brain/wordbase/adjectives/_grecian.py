@@ -4,11 +4,12 @@
 class _GRECIAN():
 	def __init__(self,): 
 		self.name = "GRECIAN"
+		self.definitions = [u"(especially of building styles or a person's appearance) beautiful and simple, in the style of Ancient Greece: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

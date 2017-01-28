@@ -4,11 +4,12 @@
 class _TOED():
 	def __init__(self,): 
 		self.name = "TOED"
+		self.definitions = [u'having toes as described: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'conjunctions'

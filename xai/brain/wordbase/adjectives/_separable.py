@@ -4,11 +4,12 @@
 class _SEPARABLE():
 	def __init__(self,): 
 		self.name = "SEPARABLE"
+		self.definitions = [u'able to be separated from each other']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LINKAGE():
 	def __init__(self,): 
 		self.name = "LINKAGE"
+		self.definitions = [u'the existence or forming of connections between things']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

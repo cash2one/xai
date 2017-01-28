@@ -4,11 +4,12 @@
 class _APHRODISIAC():
 	def __init__(self,): 
 		self.name = "APHRODISIAC"
+		self.definitions = [u'belonging or relating to an aphrodisiac: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _NIFTY():
 	def __init__(self,): 
 		self.name = "NIFTY"
+		self.definitions = [u'good, pleasing, or effective: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

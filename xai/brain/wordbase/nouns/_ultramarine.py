@@ -4,11 +4,12 @@
 class _ULTRAMARINE():
 	def __init__(self,): 
 		self.name = "ULTRAMARINE"
+		self.definitions = [u'a bright blue colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _HANDMADE():
 	def __init__(self,): 
 		self.name = "HANDMADE"
+		self.definitions = [u'made using the hands rather than a machine: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

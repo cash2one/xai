@@ -4,11 +4,12 @@
 class _DASTARDLY():
 	def __init__(self,): 
 		self.name = "DASTARDLY"
+		self.definitions = [u'evil and cruel: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

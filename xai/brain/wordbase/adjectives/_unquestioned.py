@@ -4,11 +4,12 @@
 class _UNQUESTIONED():
 	def __init__(self,): 
 		self.name = "UNQUESTIONED"
+		self.definitions = [u'accepted as true or right by everyone, or trusted and respected by everyone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

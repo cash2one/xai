@@ -4,11 +4,12 @@
 class _CHIEF():
 	def __init__(self,): 
 		self.name = "CHIEF"
+		self.definitions = [u'most important or main: ', u'highest in rank: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

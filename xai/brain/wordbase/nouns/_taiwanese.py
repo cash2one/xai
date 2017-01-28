@@ -4,11 +4,12 @@
 class _TAIWANESE():
 	def __init__(self,): 
 		self.name = "TAIWANESE"
+		self.definitions = [u'a person from Taiwan']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

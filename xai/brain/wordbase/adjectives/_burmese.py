@@ -4,11 +4,12 @@
 class _BURMESE():
 	def __init__(self,): 
 		self.name = "BURMESE"
+		self.definitions = [u'belonging to or relating to Burma']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

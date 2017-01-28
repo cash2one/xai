@@ -4,11 +4,12 @@
 class _EROTIC():
 	def __init__(self,): 
 		self.name = "EROTIC"
+		self.definitions = [u'relating to sexual desire and pleasure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

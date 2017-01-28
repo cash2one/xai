@@ -4,11 +4,12 @@
 class _HALLOWED():
 	def __init__(self,): 
 		self.name = "HALLOWED"
+		self.definitions = [u'very respected and praised because of great importance or great age: ', u'holy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

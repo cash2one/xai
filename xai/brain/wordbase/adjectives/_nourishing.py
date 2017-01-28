@@ -4,11 +4,12 @@
 class _NOURISHING():
 	def __init__(self,): 
 		self.name = "NOURISHING"
+		self.definitions = [u'A nourishing drink or food makes you healthy and strong: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

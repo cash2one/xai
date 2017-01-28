@@ -4,11 +4,12 @@
 class _NONPLUSSED():
 	def __init__(self,): 
 		self.name = "NONPLUSSED"
+		self.definitions = [u'surprised, confused, and not certain how to react: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

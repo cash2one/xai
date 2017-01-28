@@ -4,11 +4,12 @@
 class _GOPHER():
 	def __init__(self,): 
 		self.name = "GOPHER"
+		self.definitions = [u'a North American animal that lives in holes that it makes in the ground']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

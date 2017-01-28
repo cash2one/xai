@@ -4,11 +4,12 @@
 class _SPECIFIC():
 	def __init__(self,): 
 		self.name = "SPECIFIC"
+		self.definitions = [u'relating to one thing and not others; particular: ', u'clear and exact: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

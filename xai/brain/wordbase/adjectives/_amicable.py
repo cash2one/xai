@@ -4,11 +4,12 @@
 class _AMICABLE():
 	def __init__(self,): 
 		self.name = "AMICABLE"
+		self.definitions = [u'relating to behaviour between people that is pleasant and friendly, often despite a difficult situation: ', u'relating to an agreement or decision that is achieved without people arguing or being unpleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

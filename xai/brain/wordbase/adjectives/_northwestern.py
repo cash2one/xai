@@ -4,11 +4,12 @@
 class _NORTHWESTERN():
 	def __init__(self,): 
 		self.name = "NORTHWESTERN"
+		self.definitions = [u'in or from the northwest: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

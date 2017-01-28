@@ -4,11 +4,12 @@
 class _CREASED():
 	def __init__(self,): 
 		self.name = "CREASED"
+		self.definitions = [u'with a crease or creases: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

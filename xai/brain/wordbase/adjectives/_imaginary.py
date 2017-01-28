@@ -4,11 +4,12 @@
 class _IMAGINARY():
 	def __init__(self,): 
 		self.name = "IMAGINARY"
+		self.definitions = [u'Something that is imaginary is created by and exists only in the mind: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LIGHTER():
 	def __init__(self,): 
 		self.name = "LIGHTER"
+		self.definitions = [u'a small device for providing a flame for a cigarette, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

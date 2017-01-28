@@ -4,11 +4,12 @@
 class _EXPOSITORY():
 	def __init__(self,): 
 		self.name = "EXPOSITORY"
+		self.definitions = [u'explaining or describing something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

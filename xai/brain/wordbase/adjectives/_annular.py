@@ -4,11 +4,12 @@
 class _ANNULAR():
 	def __init__(self,): 
 		self.name = "ANNULAR"
+		self.definitions = [u'shaped like a ring: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

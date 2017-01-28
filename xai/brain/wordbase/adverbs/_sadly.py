@@ -4,11 +4,12 @@
 class _SADLY():
 	def __init__(self,): 
 		self.name = "SADLY"
+		self.definitions = [u'in an unhappy way: ', u'in a way that is not satisfactory: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

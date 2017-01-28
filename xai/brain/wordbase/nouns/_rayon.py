@@ -4,11 +4,12 @@
 class _RAYON():
 	def __init__(self,): 
 		self.name = "RAYON"
+		self.definitions = [u'a smooth cloth used to make clothes']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

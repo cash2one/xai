@@ -4,11 +4,12 @@
 class _PHILOSOPHER():
 	def __init__(self,): 
 		self.name = "PHILOSOPHER"
+		self.definitions = [u'someone who studies or writes about the meaning of life: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _EIGHT():
 	def __init__(self,): 
 		self.name = "EIGHT"
+		self.definitions = [u'the number 8: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'numbers'

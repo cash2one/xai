@@ -4,11 +4,12 @@
 class _TASTELESS():
 	def __init__(self,): 
 		self.name = "TASTELESS"
+		self.definitions = [u'likely to upset someone: ', u'having no flavour: ', u'not stylish: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

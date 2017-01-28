@@ -4,11 +4,12 @@
 class _FREESTANDING():
 	def __init__(self,): 
 		self.name = "FREESTANDING"
+		self.definitions = [u'standing alone and not attached to a wall, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

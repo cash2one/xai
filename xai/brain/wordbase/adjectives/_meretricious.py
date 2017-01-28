@@ -4,11 +4,12 @@
 class _MERETRICIOUS():
 	def __init__(self,): 
 		self.name = "MERETRICIOUS"
+		self.definitions = [u'seeming attractive but really false or of little value: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

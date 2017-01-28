@@ -4,11 +4,12 @@
 class _GOOP():
 	def __init__(self,): 
 		self.name = "GOOP"
+		self.definitions = [u'any thick liquid or sticky substance']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

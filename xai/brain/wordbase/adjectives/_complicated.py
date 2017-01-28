@@ -4,11 +4,12 @@
 class _COMPLICATED():
 	def __init__(self,): 
 		self.name = "COMPLICATED"
+		self.definitions = [u'involving a lot of different parts, in a way that is difficult to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

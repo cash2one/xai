@@ -4,11 +4,12 @@
 class _LADEN():
 	def __init__(self,): 
 		self.name = "LADEN"
+		self.definitions = [u'carrying or holding a lot of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

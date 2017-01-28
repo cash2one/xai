@@ -4,11 +4,12 @@
 class _COLLOQUIALISM():
 	def __init__(self,): 
 		self.name = "COLLOQUIALISM"
+		self.definitions = [u'an informal word or expression that is more suitable for use in speech than in writing']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

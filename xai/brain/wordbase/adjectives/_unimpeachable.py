@@ -4,11 +4,12 @@
 class _UNIMPEACHABLE():
 	def __init__(self,): 
 		self.name = "UNIMPEACHABLE"
+		self.definitions = [u'of such a high standard of honesty and moral goodness that it cannot be doubted or criticized: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

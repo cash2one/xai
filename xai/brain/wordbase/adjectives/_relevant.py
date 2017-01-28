@@ -4,11 +4,12 @@
 class _RELEVANT():
 	def __init__(self,): 
 		self.name = "RELEVANT"
+		self.definitions = [u'connected with what is happening or being discussed: ', u'correct or suitable for a particular purpose: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _NORMATIVE():
 	def __init__(self,): 
 		self.name = "NORMATIVE"
+		self.definitions = [u'relating to rules, or making people obey rules, especially rules of behaviour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

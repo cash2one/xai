@@ -4,11 +4,12 @@
 class _GRATIS():
 	def __init__(self,): 
 		self.name = "GRATIS"
+		self.definitions = [u'free: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _ENVIRONMENTAL():
 	def __init__(self,): 
 		self.name = "ENVIRONMENTAL"
+		self.definitions = [u'relating to the environment: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

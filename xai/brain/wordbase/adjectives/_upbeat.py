@@ -4,11 +4,12 @@
 class _UPBEAT():
 	def __init__(self,): 
 		self.name = "UPBEAT"
+		self.definitions = [u'full of hope, happiness, and good feelings: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

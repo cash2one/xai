@@ -4,11 +4,12 @@
 class _VASCULAR():
 	def __init__(self,): 
 		self.name = "VASCULAR"
+		self.definitions = [u'relating to the tubes that carry blood or other liquids in animals and plants: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

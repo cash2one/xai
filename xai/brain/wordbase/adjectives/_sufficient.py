@@ -4,11 +4,12 @@
 class _SUFFICIENT():
 	def __init__(self,): 
 		self.name = "SUFFICIENT"
+		self.definitions = [u'enough for a particular purpose: ', u'to have eaten enough: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

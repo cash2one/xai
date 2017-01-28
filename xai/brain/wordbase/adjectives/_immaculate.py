@@ -4,11 +4,12 @@
 class _IMMACULATE():
 	def __init__(self,): 
 		self.name = "IMMACULATE"
+		self.definitions = [u'perfectly clean or tidy: ', u'perfect and without any mistakes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

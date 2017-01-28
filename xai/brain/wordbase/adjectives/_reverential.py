@@ -4,11 +4,12 @@
 class _REVERENTIAL():
 	def __init__(self,): 
 		self.name = "REVERENTIAL"
+		self.definitions = [u'caused by, or full of respect and admiration: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _AROUND():
 	def __init__(self,): 
 		self.name = "AROUND"
+		self.definitions = [u'approximately: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

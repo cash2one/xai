@@ -4,11 +4,12 @@
 class _DOUBLY():
 	def __init__(self,): 
 		self.name = "DOUBLY"
+		self.definitions = [u'twice as much, or very much more: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

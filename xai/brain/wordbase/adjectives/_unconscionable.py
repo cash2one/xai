@@ -4,11 +4,12 @@
 class _UNCONSCIONABLE():
 	def __init__(self,): 
 		self.name = "UNCONSCIONABLE"
+		self.definitions = [u'morally unacceptable: ', u'unacceptably great in amount: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

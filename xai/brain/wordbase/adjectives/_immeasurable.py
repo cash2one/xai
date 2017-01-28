@@ -4,11 +4,12 @@
 class _IMMEASURABLE():
 	def __init__(self,): 
 		self.name = "IMMEASURABLE"
+		self.definitions = [u'so large or great that it cannot be measured or known exactly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

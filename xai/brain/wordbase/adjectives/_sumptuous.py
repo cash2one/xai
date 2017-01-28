@@ -4,11 +4,12 @@
 class _SUMPTUOUS():
 	def __init__(self,): 
 		self.name = "SUMPTUOUS"
+		self.definitions = [u'luxurious and showing that you are rich: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

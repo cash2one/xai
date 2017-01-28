@@ -4,11 +4,12 @@
 class _DASHING():
 	def __init__(self,): 
 		self.name = "DASHING"
+		self.definitions = [u'attractive in a confident, exciting, and stylish way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

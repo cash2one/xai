@@ -4,11 +4,12 @@
 class _BREAD():
 	def __init__(self,): 
 		self.name = "BREAD"
+		self.definitions = [u'a food made from flour, water, and usually yeast, mixed together and baked: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

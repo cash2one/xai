@@ -4,11 +4,12 @@
 class _CUDDLY():
 	def __init__(self,): 
 		self.name = "CUDDLY"
+		self.definitions = [u'liking to cuddle, or making you want to cuddle: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

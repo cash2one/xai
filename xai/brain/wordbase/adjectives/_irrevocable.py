@@ -4,11 +4,12 @@
 class _IRREVOCABLE():
 	def __init__(self,): 
 		self.name = "IRREVOCABLE"
+		self.definitions = [u'impossible to change: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

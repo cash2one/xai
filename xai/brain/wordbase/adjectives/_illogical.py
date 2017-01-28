@@ -4,11 +4,12 @@
 class _ILLOGICAL():
 	def __init__(self,): 
 		self.name = "ILLOGICAL"
+		self.definitions = [u'not reasonable, wise, or practical, usually because directed by the emotions rather than by careful thought: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

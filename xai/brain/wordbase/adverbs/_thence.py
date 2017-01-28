@@ -4,11 +4,12 @@
 class _THENCE():
 	def __init__(self,): 
 		self.name = "THENCE"
+		self.definitions = [u'from there: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

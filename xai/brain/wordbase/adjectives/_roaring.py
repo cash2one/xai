@@ -4,11 +4,12 @@
 class _ROARING():
 	def __init__(self,): 
 		self.name = "ROARING"
+		self.definitions = [u'loud and powerful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

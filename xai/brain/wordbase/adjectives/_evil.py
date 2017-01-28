@@ -4,11 +4,12 @@
 class _EVIL():
 	def __init__(self,): 
 		self.name = "EVIL"
+		self.definitions = [u'morally bad, cruel, or very unpleasant: ', u'If the weather or a smell is evil, it is very unpleasant.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

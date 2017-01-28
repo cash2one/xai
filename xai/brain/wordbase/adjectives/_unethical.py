@@ -4,11 +4,12 @@
 class _UNETHICAL():
 	def __init__(self,): 
 		self.name = "UNETHICAL"
+		self.definitions = [u'not ethical (= based on moral beliefs)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

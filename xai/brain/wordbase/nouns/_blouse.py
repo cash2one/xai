@@ -4,11 +4,12 @@
 class _BLOUSE():
 	def __init__(self,): 
 		self.name = "BLOUSE"
+		self.definitions = [u'a shirt for a woman or girl: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _TRANSCENDENT():
 	def __init__(self,): 
 		self.name = "TRANSCENDENT"
+		self.definitions = [u'greater, better, more important, or going past or above all others: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

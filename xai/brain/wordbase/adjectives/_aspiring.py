@@ -4,11 +4,12 @@
 class _ASPIRING():
 	def __init__(self,): 
 		self.name = "ASPIRING"
+		self.definitions = [u'someone who is trying to become a successful actor, politician, writer, etc.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

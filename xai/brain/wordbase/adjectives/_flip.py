@@ -4,11 +4,12 @@
 class _FLIP():
 	def __init__(self,): 
 		self.name = "FLIP"
+		self.definitions = [u'informal for  flippant ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BANAL():
 	def __init__(self,): 
 		self.name = "BANAL"
+		self.definitions = [u'boring, ordinary, and not original: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

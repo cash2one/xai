@@ -4,11 +4,12 @@
 class _TRADITIONALLY():
 	def __init__(self,): 
 		self.name = "TRADITIONALLY"
+		self.definitions = [u'according to tradition; in a traditional way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

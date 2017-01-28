@@ -4,11 +4,12 @@
 class _CLASSICISM():
 	def __init__(self,): 
 		self.name = "CLASSICISM"
+		self.definitions = [u'a style in painting, sculpture, and building, based on particular standards in Greek and Roman art: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

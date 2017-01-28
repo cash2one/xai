@@ -4,11 +4,12 @@
 class _FIREFLY():
 	def __init__(self,): 
 		self.name = "FIREFLY"
+		self.definitions = [u'an insect that is active during the night and whose tail produces light']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _OBTRUSIVE():
 	def __init__(self,): 
 		self.name = "OBTRUSIVE"
+		self.definitions = [u'too noticeable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

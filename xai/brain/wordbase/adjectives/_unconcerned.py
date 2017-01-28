@@ -4,11 +4,12 @@
 class _UNCONCERNED():
 	def __init__(self,): 
 		self.name = "UNCONCERNED"
+		self.definitions = [u'not worried or not interested, especially when you should be worried or interested: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

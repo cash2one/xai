@@ -4,11 +4,12 @@
 class _ENGAGING():
 	def __init__(self,): 
 		self.name = "ENGAGING"
+		self.definitions = [u'pleasant, attractive, and charming: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FOGGY():
 	def __init__(self,): 
 		self.name = "FOGGY"
+		self.definitions = [u'with fog: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

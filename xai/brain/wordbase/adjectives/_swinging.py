@@ -4,11 +4,12 @@
 class _SWINGING():
 	def __init__(self,): 
 		self.name = "SWINGING"
+		self.definitions = [u'exciting and fashionable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

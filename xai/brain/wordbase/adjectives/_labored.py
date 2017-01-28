@@ -4,11 +4,12 @@
 class _LABORED():
 	def __init__(self,): 
 		self.name = "LABORED"
+		self.definitions = [u'US spelling of  laboured ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

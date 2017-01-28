@@ -4,11 +4,12 @@
 class _JOTTINGS():
 	def __init__(self,): 
 		self.name = "JOTTINGS"
+		self.definitions = [u'quickly written short notes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

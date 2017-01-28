@@ -4,11 +4,12 @@
 class _LONE():
 	def __init__(self,): 
 		self.name = "LONE"
+		self.definitions = [u'alone: ', u'someone who has children but no partner living with them']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

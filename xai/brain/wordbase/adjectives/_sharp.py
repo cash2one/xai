@@ -4,11 +4,12 @@
 class _SHARP():
 	def __init__(self,): 
 		self.name = "SHARP"
+		self.definitions = [u'higher than the correct or stated musical note: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

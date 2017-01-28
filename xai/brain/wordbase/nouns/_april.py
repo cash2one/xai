@@ -4,11 +4,12 @@
 class _APRIL():
 	def __init__(self,): 
 		self.name = "APRIL"
+		self.definitions = [u'the fourth month of the year, after March and before May: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

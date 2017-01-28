@@ -4,11 +4,12 @@
 class _IMPRESSIONISTIC():
 	def __init__(self,): 
 		self.name = "IMPRESSIONISTIC"
+		self.definitions = [u'giving a general view or idea of something instead of particular details or facts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SUBSIDIARY():
 	def __init__(self,): 
 		self.name = "SUBSIDIARY"
+		self.definitions = [u'a company that is owned by a larger company']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

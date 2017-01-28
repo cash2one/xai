@@ -4,11 +4,12 @@
 class _STATE():
 	def __init__(self,): 
 		self.name = "STATE"
+		self.definitions = [u'provided, created, or done by the state (= government of a country): ', u'State events are formal official ceremonies that involve a leader of a country or someone who represents the government: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

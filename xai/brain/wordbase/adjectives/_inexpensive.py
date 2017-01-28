@@ -4,11 +4,12 @@
 class _INEXPENSIVE():
 	def __init__(self,): 
 		self.name = "INEXPENSIVE"
+		self.definitions = [u'not costing a lot of money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

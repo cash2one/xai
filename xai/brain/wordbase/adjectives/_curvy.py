@@ -4,11 +4,12 @@
 class _CURVY():
 	def __init__(self,): 
 		self.name = "CURVY"
+		self.definitions = [u'containing a lot of curves: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

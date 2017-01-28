@@ -4,11 +4,12 @@
 class _RAKED():
 	def __init__(self,): 
 		self.name = "RAKED"
+		self.definitions = [u'sloping: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

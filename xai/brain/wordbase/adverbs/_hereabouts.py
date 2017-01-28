@@ -4,11 +4,12 @@
 class _HEREABOUTS():
 	def __init__(self,): 
 		self.name = "HEREABOUTS"
+		self.definitions = [u'in this area, or near this place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

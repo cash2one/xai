@@ -4,11 +4,12 @@
 class _RURAL():
 	def __init__(self,): 
 		self.name = "RURAL"
+		self.definitions = [u'in, of, or like the countryside: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

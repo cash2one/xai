@@ -4,11 +4,12 @@
 class _ARROWHEAD():
 	def __init__(self,): 
 		self.name = "ARROWHEAD"
+		self.definitions = [u'the sharp point at the end of an arrow']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

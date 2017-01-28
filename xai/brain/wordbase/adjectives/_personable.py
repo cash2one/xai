@@ -4,11 +4,12 @@
 class _PERSONABLE():
 	def __init__(self,): 
 		self.name = "PERSONABLE"
+		self.definitions = [u'having a pleasant appearance and character: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

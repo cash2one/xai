@@ -4,11 +4,12 @@
 class _HYGIENE():
 	def __init__(self,): 
 		self.name = "HYGIENE"
+		self.definitions = [u'the degree to which people keep themselves or their environment clean, especially to prevent disease: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

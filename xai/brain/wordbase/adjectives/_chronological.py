@@ -4,11 +4,12 @@
 class _CHRONOLOGICAL():
 	def __init__(self,): 
 		self.name = "CHRONOLOGICAL"
+		self.definitions = [u'following the order in which a series of events happened: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

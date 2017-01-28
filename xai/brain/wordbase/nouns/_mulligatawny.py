@@ -4,11 +4,12 @@
 class _MULLIGATAWNY():
 	def __init__(self,): 
 		self.name = "MULLIGATAWNY"
+		self.definitions = [u'a spicy soup that has curry powder in it']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

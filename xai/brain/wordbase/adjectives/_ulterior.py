@@ -4,11 +4,12 @@
 class _ULTERIOR():
 	def __init__(self,): 
 		self.name = "ULTERIOR"
+		self.definitions = [u'a secret purpose or reason for doing something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

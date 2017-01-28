@@ -4,11 +4,12 @@
 class _BOUNCE():
 	def __init__(self,): 
 		self.name = "BOUNCE"
+		self.definitions = [u'the act of bouncing, or the quality that makes something able to bounce: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

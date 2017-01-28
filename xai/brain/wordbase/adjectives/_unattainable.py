@@ -4,11 +4,12 @@
 class _UNATTAINABLE():
 	def __init__(self,): 
 		self.name = "UNATTAINABLE"
+		self.definitions = [u'not able to be achieved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _VOW():
 	def __init__(self,): 
 		self.name = "VOW"
+		self.definitions = [u'a serious promise or decision: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

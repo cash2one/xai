@@ -4,11 +4,12 @@
 class _INDUCEMENT():
 	def __init__(self,): 
 		self.name = "INDUCEMENT"
+		self.definitions = [u'an act or thing that is intended to persuade someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

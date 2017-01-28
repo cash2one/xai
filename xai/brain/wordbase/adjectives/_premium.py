@@ -4,11 +4,12 @@
 class _PREMIUM():
 	def __init__(self,): 
 		self.name = "PREMIUM"
+		self.definitions = [u'used to refer to something that is of higher than usual quality: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

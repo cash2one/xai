@@ -4,11 +4,12 @@
 class _OPENLY():
 	def __init__(self,): 
 		self.name = "OPENLY"
+		self.definitions = [u'without hiding any of your thoughts or feelings: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

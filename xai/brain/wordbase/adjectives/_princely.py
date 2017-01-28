@@ -4,11 +4,12 @@
 class _PRINCELY():
 	def __init__(self,): 
 		self.name = "PRINCELY"
+		self.definitions = [u'used to refer to a surprisingly small amount of money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

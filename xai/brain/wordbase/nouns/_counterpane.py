@@ -4,11 +4,12 @@
 class _COUNTERPANE():
 	def __init__(self,): 
 		self.name = "COUNTERPANE"
+		self.definitions = [u'a  bedspread ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

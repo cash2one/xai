@@ -4,11 +4,12 @@
 class _UNABATED():
 	def __init__(self,): 
 		self.name = "UNABATED"
+		self.definitions = [u'without becoming weaker in strength or force: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

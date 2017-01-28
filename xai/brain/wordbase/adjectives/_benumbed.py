@@ -4,11 +4,12 @@
 class _BENUMBED():
 	def __init__(self,): 
 		self.name = "BENUMBED"
+		self.definitions = [u'unable to feel because of cold, shock, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

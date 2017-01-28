@@ -4,11 +4,12 @@
 class _UNFEASIBLE():
 	def __init__(self,): 
 		self.name = "UNFEASIBLE"
+		self.definitions = [u'not feasible (= able to be done or achieved)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

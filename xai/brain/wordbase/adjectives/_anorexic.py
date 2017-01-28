@@ -4,11 +4,12 @@
 class _ANOREXIC():
 	def __init__(self,): 
 		self.name = "ANOREXIC"
+		self.definitions = [u'suffering from or relating to anorexia: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

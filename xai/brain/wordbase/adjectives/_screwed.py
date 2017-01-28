@@ -4,11 +4,12 @@
 class _SCREWED():
 	def __init__(self,): 
 		self.name = "SCREWED"
+		self.definitions = [u'in very bad trouble or difficulty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

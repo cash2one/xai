@@ -4,11 +4,12 @@
 class _YUMMY():
 	def __init__(self,): 
 		self.name = "YUMMY"
+		self.definitions = [u'tasting extremely good: ', u'sexually attractive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

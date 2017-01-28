@@ -4,11 +4,12 @@
 class _CARIES():
 	def __init__(self,): 
 		self.name = "CARIES"
+		self.definitions = [u'decay in the teeth or bones']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

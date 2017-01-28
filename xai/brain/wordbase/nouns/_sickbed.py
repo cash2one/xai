@@ -4,11 +4,12 @@
 class _SICKBED():
 	def __init__(self,): 
 		self.name = "SICKBED"
+		self.definitions = [u'the bed of a person who is ill: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

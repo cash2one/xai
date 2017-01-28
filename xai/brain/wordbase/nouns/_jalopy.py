@@ -4,11 +4,12 @@
 class _JALOPY():
 	def __init__(self,): 
 		self.name = "JALOPY"
+		self.definitions = [u'an old car: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

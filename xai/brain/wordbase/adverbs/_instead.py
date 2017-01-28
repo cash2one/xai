@@ -4,11 +4,12 @@
 class _INSTEAD():
 	def __init__(self,): 
 		self.name = "INSTEAD"
+		self.definitions = [u'in place of someone or something else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

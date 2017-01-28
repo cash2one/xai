@@ -4,11 +4,12 @@
 class _TIGHTWAD():
 	def __init__(self,): 
 		self.name = "TIGHTWAD"
+		self.definitions = [u'a person who is not willing to spend money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

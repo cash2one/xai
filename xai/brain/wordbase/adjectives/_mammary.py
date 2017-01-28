@@ -4,11 +4,12 @@
 class _MAMMARY():
 	def __init__(self,): 
 		self.name = "MAMMARY"
+		self.definitions = [u'relating to the breasts or milk organs']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

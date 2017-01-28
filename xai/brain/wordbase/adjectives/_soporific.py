@@ -4,11 +4,12 @@
 class _SOPORIFIC():
 	def __init__(self,): 
 		self.name = "SOPORIFIC"
+		self.definitions = [u'causing sleep or making a person want to sleep: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

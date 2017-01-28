@@ -4,11 +4,12 @@
 class _DUTIFUL():
 	def __init__(self,): 
 		self.name = "DUTIFUL"
+		self.definitions = [u'doing everything that you should do: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

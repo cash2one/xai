@@ -4,11 +4,12 @@
 class _FRENETIC():
 	def __init__(self,): 
 		self.name = "FRENETIC"
+		self.definitions = [u'involving a lot of excited movement or activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

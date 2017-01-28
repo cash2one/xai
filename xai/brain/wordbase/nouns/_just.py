@@ -4,11 +4,12 @@
 class _JUST():
 	def __init__(self,): 
 		self.name = "JUST"
+		self.definitions = [u'people who behave in a morally correct way']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

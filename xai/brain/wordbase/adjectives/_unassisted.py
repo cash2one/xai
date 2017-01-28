@@ -4,11 +4,12 @@
 class _UNASSISTED():
 	def __init__(self,): 
 		self.name = "UNASSISTED"
+		self.definitions = [u'without being helped by anyone or anything: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

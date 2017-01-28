@@ -4,11 +4,12 @@
 class _COMMISSARIAT():
 	def __init__(self,): 
 		self.name = "COMMISSARIAT"
+		self.definitions = [u'a military department that supplies food and equipment']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

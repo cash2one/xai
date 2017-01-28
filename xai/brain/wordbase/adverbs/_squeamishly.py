@@ -4,11 +4,12 @@
 class _SQUEAMISHLY():
 	def __init__(self,): 
 		self.name = "SQUEAMISHLY"
+		self.definitions = [u'in a way that shows how easily upset or shocked you are by something']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

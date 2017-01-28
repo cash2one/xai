@@ -4,11 +4,12 @@
 class _SCORCHING():
 	def __init__(self,): 
 		self.name = "SCORCHING"
+		self.definitions = [u'very hot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

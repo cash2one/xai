@@ -4,11 +4,12 @@
 class _SATIRIST():
 	def __init__(self,): 
 		self.name = "SATIRIST"
+		self.definitions = [u'a person who writes satire']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _QUID():
 	def __init__(self,): 
 		self.name = "QUID"
+		self.definitions = [u'a pound: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

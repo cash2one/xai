@@ -4,11 +4,12 @@
 class _SURRENDER():
 	def __init__(self,): 
 		self.name = "SURRENDER"
+		self.definitions = [u'the act of stopping fighting and officially admitting defeat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

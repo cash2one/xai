@@ -4,11 +4,12 @@
 class _MOVABLE():
 	def __init__(self,): 
 		self.name = "MOVABLE"
+		self.definitions = [u'able to be moved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

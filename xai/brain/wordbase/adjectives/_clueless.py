@@ -4,11 +4,12 @@
 class _CLUELESS():
 	def __init__(self,): 
 		self.name = "CLUELESS"
+		self.definitions = [u'having no knowledge of something, or of things in general: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

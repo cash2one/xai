@@ -4,11 +4,12 @@
 class _CROOK():
 	def __init__(self,): 
 		self.name = "CROOK"
+		self.definitions = [u'bad or ill: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

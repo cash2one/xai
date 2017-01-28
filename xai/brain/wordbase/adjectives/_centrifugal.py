@@ -4,11 +4,12 @@
 class _CENTRIFUGAL():
 	def __init__(self,): 
 		self.name = "CENTRIFUGAL"
+		self.definitions = [u'(of a turning object) moving away from the point around which it is turning: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

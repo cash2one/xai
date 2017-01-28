@@ -4,11 +4,12 @@
 class _MANUALLY():
 	def __init__(self,): 
 		self.name = "MANUALLY"
+		self.definitions = [u'by hand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

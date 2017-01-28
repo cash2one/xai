@@ -4,11 +4,12 @@
 class _SAID():
 	def __init__(self,): 
 		self.name = "SAID"
+		self.definitions = [u'used before the name of a person or thing you have already mentioned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

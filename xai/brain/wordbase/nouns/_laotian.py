@@ -4,11 +4,12 @@
 class _LAOTIAN():
 	def __init__(self,): 
 		self.name = "LAOTIAN"
+		self.definitions = [u'a person from Laos', u'the main language spoken in Laos']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

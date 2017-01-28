@@ -4,11 +4,12 @@
 class _PREMIERE():
 	def __init__(self,): 
 		self.name = "PREMIERE"
+		self.definitions = [u'the first public performance of a play or any other type of entertainment: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

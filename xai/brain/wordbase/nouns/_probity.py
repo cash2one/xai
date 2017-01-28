@@ -4,11 +4,12 @@
 class _PROBITY():
 	def __init__(self,): 
 		self.name = "PROBITY"
+		self.definitions = [u'complete honesty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

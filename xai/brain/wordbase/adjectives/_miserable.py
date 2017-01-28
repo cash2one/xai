@@ -4,11 +4,12 @@
 class _MISERABLE():
 	def __init__(self,): 
 		self.name = "MISERABLE"
+		self.definitions = [u'very unhappy: ', u'unpleasant and causing unhappiness: ', u'used to emphasize the low quality of value of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

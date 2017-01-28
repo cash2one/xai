@@ -4,11 +4,12 @@
 class _SCABBY():
 	def __init__(self,): 
 		self.name = "SCABBY"
+		self.definitions = [u'covered in scabs or scab: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

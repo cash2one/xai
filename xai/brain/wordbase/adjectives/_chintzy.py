@@ -4,11 +4,12 @@
 class _CHINTZY():
 	def __init__(self,): 
 		self.name = "CHINTZY"
+		self.definitions = [u'decorated with a lot of chintz: ', u'cheap and of low quality: ', u'not willing to spend money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

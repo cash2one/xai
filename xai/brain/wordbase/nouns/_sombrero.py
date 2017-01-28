@@ -4,11 +4,12 @@
 class _SOMBRERO():
 	def __init__(self,): 
 		self.name = "SOMBRERO"
+		self.definitions = [u'a hat with a wide brim, worn especially by men in Mexico']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

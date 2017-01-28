@@ -4,11 +4,12 @@
 class _GRANDPA():
 	def __init__(self,): 
 		self.name = "GRANDPA"
+		self.definitions = [u'a grandfather: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

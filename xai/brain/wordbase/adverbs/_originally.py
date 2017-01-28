@@ -4,11 +4,12 @@
 class _ORIGINALLY():
 	def __init__(self,): 
 		self.name = "ORIGINALLY"
+		self.definitions = [u'first of all: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

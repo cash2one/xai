@@ -4,11 +4,12 @@
 class _EGOCENTRIC():
 	def __init__(self,): 
 		self.name = "EGOCENTRIC"
+		self.definitions = [u'thinking only about yourself and what is good for you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

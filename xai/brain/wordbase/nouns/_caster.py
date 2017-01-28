@@ -4,11 +4,12 @@
 class _CASTER():
 	def __init__(self,): 
 		self.name = "CASTER"
+		self.definitions = [u'US spelling of  castor ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

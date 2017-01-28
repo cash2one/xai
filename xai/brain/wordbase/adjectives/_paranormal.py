@@ -4,11 +4,12 @@
 class _PARANORMAL():
 	def __init__(self,): 
 		self.name = "PARANORMAL"
+		self.definitions = [u'impossible to explain by known natural forces or by science: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

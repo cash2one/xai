@@ -4,11 +4,12 @@
 class _GASEOUS():
 	def __init__(self,): 
 		self.name = "GASEOUS"
+		self.definitions = [u'consisting of gas or gases, or like gas: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

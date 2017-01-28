@@ -4,11 +4,12 @@
 class _BARBARIC():
 	def __init__(self,): 
 		self.name = "BARBARIC"
+		self.definitions = [u'extremely cruel and unpleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

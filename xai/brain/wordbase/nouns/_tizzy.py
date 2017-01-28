@@ -4,11 +4,12 @@
 class _TIZZY():
 	def __init__(self,): 
 		self.name = "TIZZY"
+		self.definitions = [u'a temporary state of worry and confusion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

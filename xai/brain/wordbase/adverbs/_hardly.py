@@ -4,11 +4,12 @@
 class _HARDLY():
 	def __init__(self,): 
 		self.name = "HARDLY"
+		self.definitions = [u'only just; almost not: ', u'certainly not: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

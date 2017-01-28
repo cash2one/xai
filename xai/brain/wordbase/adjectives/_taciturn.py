@@ -4,11 +4,12 @@
 class _TACITURN():
 	def __init__(self,): 
 		self.name = "TACITURN"
+		self.definitions = [u'tending not to speak much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

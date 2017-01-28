@@ -4,11 +4,12 @@
 class _STARVED():
 	def __init__(self,): 
 		self.name = "STARVED"
+		self.definitions = [u'very hungry', u'dangerously thin: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CANNY():
 	def __init__(self,): 
 		self.name = "CANNY"
+		self.definitions = [u'thinking quickly and cleverly, especially in business or financial matters: ', u'good or pleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

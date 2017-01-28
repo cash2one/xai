@@ -4,11 +4,12 @@
 class _POIGNANT():
 	def __init__(self,): 
 		self.name = "POIGNANT"
+		self.definitions = [u'causing or having a very sharp feeling of sadness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

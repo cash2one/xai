@@ -4,11 +4,12 @@
 class _VIANDS():
 	def __init__(self,): 
 		self.name = "VIANDS"
+		self.definitions = [u'items of food: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

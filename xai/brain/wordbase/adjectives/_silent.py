@@ -4,11 +4,12 @@
 class _SILENT():
 	def __init__(self,): 
 		self.name = "SILENT"
+		self.definitions = [u'without any sound: ', u'without talking: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

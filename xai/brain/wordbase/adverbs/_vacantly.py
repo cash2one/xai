@@ -4,11 +4,12 @@
 class _VACANTLY():
 	def __init__(self,): 
 		self.name = "VACANTLY"
+		self.definitions = [u'showing no interest or mental activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

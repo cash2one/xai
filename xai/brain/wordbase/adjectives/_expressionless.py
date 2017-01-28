@@ -4,11 +4,12 @@
 class _EXPRESSIONLESS():
 	def __init__(self,): 
 		self.name = "EXPRESSIONLESS"
+		self.definitions = [u'not showing what someone thinks or feels: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

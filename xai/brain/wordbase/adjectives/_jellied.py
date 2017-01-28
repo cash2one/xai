@@ -4,11 +4,12 @@
 class _JELLIED():
 	def __init__(self,): 
 		self.name = "JELLIED"
+		self.definitions = [u'Jellied meat or fish is cooked and then served in its own juices that become firm when cold: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

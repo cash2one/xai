@@ -4,11 +4,12 @@
 class _ONSLAUGHT():
 	def __init__(self,): 
 		self.name = "ONSLAUGHT"
+		self.definitions = [u'a very powerful attack: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

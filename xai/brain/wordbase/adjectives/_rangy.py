@@ -4,11 +4,12 @@
 class _RANGY():
 	def __init__(self,): 
 		self.name = "RANGY"
+		self.definitions = [u'having long thin legs and arms: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

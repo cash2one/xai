@@ -4,11 +4,12 @@
 class _WHOLE():
 	def __init__(self,): 
 		self.name = "WHOLE"
+		self.definitions = [u'as a single object and not in pieces: ', u'completely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

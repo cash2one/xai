@@ -4,11 +4,12 @@
 class _CEPHALIC():
 	def __init__(self,): 
 		self.name = "CEPHALIC"
+		self.definitions = [u'relating to the head: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BUGBEAR():
 	def __init__(self,): 
 		self.name = "BUGBEAR"
+		self.definitions = [u'a particular thing that annoys or upsets you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

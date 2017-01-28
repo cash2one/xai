@@ -4,11 +4,12 @@
 class _MONTHLY():
 	def __init__(self,): 
 		self.name = "MONTHLY"
+		self.definitions = [u'happening or produced once a month: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

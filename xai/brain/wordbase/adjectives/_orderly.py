@@ -4,11 +4,12 @@
 class _ORDERLY():
 	def __init__(self,): 
 		self.name = "ORDERLY"
+		self.definitions = [u'well arranged or organized: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

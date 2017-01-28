@@ -4,11 +4,12 @@
 class _PEONY():
 	def __init__(self,): 
 		self.name = "PEONY"
+		self.definitions = [u'a garden plant with large red, pink, or white flowers']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

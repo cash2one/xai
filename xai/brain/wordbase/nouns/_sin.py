@@ -4,11 +4,12 @@
 class _SIN():
 	def __init__(self,): 
 		self.name = "SIN"
+		self.definitions = [u'the offence of breaking, or the breaking of, a religious or moral law: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

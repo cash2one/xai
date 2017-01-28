@@ -4,11 +4,12 @@
 class _WAXY():
 	def __init__(self,): 
 		self.name = "WAXY"
+		self.definitions = [u'slightly shiny; looking like wax']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

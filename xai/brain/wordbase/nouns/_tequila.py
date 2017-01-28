@@ -4,11 +4,12 @@
 class _TEQUILA():
 	def __init__(self,): 
 		self.name = "TEQUILA"
+		self.definitions = [u'a strong alcoholic drink originally from Mexico']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

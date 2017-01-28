@@ -4,11 +4,12 @@
 class _RITZY():
 	def __init__(self,): 
 		self.name = "RITZY"
+		self.definitions = [u'expensive and fashionable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

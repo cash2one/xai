@@ -4,11 +4,12 @@
 class _SUBORDINATION():
 	def __init__(self,): 
 		self.name = "SUBORDINATION"
+		self.definitions = [u'the act of giving someone or something less importance or power: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

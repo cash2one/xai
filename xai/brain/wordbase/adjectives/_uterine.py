@@ -4,11 +4,12 @@
 class _UTERINE():
 	def __init__(self,): 
 		self.name = "UTERINE"
+		self.definitions = [u'relating to the uterus: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _VANISHING():
 	def __init__(self,): 
 		self.name = "VANISHING"
+		self.definitions = [u'beginning to disappear: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ADVISER():
 	def __init__(self,): 
 		self.name = "ADVISER"
+		self.definitions = [u'someone whose job is to give advice about a subject: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

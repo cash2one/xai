@@ -4,11 +4,12 @@
 class _BEELINE():
 	def __init__(self,): 
 		self.name = "BEELINE"
+		self.definitions = [u'to go directly and quickly towards someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

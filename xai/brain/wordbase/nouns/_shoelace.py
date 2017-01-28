@@ -4,11 +4,12 @@
 class _SHOELACE():
 	def __init__(self,): 
 		self.name = "SHOELACE"
+		self.definitions = [u'a thin string or strip of leather used to fasten shoes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

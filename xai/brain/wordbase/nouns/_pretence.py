@@ -4,11 +4,12 @@
 class _PRETENCE():
 	def __init__(self,): 
 		self.name = "PRETENCE"
+		self.definitions = [u'a way of behaving that is intended to deceive people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _FOCAL():
 	def __init__(self,): 
 		self.name = "FOCAL"
+		self.definitions = [u'central and important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

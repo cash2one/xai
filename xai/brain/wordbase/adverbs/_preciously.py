@@ -4,11 +4,12 @@
 class _PRECIOUSLY():
 	def __init__(self,): 
 		self.name = "PRECIOUSLY"
+		self.definitions = [u'in a way that is too formal and unnatural: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

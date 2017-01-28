@@ -4,11 +4,12 @@
 class _SALACIOUS():
 	def __init__(self,): 
 		self.name = "SALACIOUS"
+		self.definitions = [u'causing or showing a strong interest in sexual matters: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

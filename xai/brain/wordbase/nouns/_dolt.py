@@ -4,11 +4,12 @@
 class _DOLT():
 	def __init__(self,): 
 		self.name = "DOLT"
+		self.definitions = [u'a stupid person']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

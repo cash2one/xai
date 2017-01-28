@@ -4,11 +4,12 @@
 class _TAD():
 	def __init__(self,): 
 		self.name = "TAD"
+		self.definitions = [u'a little, slightly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

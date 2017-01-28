@@ -4,11 +4,12 @@
 class _SENTIENT():
 	def __init__(self,): 
 		self.name = "SENTIENT"
+		self.definitions = [u'able to experience feelings: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

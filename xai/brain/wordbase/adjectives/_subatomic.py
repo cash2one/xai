@@ -4,11 +4,12 @@
 class _SUBATOMIC():
 	def __init__(self,): 
 		self.name = "SUBATOMIC"
+		self.definitions = [u'smaller than or within an atom']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

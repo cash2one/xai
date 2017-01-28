@@ -4,11 +4,12 @@
 class _DROUGHT():
 	def __init__(self,): 
 		self.name = "DROUGHT"
+		self.definitions = [u'a long period when there is little or no rain: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

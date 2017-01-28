@@ -4,11 +4,12 @@
 class _LOCALLY():
 	def __init__(self,): 
 		self.name = "LOCALLY"
+		self.definitions = [u'in the particular small area that you are talking about: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

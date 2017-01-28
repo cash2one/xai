@@ -4,11 +4,12 @@
 class _RISIBLE():
 	def __init__(self,): 
 		self.name = "RISIBLE"
+		self.definitions = [u'not effective or useful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

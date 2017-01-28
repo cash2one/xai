@@ -4,11 +4,12 @@
 class _FAVOURITE():
 	def __init__(self,): 
 		self.name = "FAVOURITE"
+		self.definitions = [u'best liked or most enjoyed: ', u'liked or enjoyed the least: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

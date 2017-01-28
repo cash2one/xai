@@ -4,11 +4,12 @@
 class _SHE():
 	def __init__(self,): 
 		self.name = "SHE"
+		self.definitions = [u'a female: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

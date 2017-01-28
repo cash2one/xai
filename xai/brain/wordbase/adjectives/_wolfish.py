@@ -4,11 +4,12 @@
 class _WOLFISH():
 	def __init__(self,): 
 		self.name = "WOLFISH"
+		self.definitions = [u'like a wolf: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

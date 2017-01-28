@@ -4,11 +4,12 @@
 class _PROPRIETRESS():
 	def __init__(self,): 
 		self.name = "PROPRIETRESS"
+		self.definitions = [u'a woman who is a proprietor']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DEVOTIONAL():
 	def __init__(self,): 
 		self.name = "DEVOTIONAL"
+		self.definitions = [u'connected with the act of religious worship: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

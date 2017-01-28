@@ -4,11 +4,12 @@
 class _SUBMARINE():
 	def __init__(self,): 
 		self.name = "SUBMARINE"
+		self.definitions = [u'a ship that can travel underwater: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

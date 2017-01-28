@@ -4,11 +4,12 @@
 class _SITUATED():
 	def __init__(self,): 
 		self.name = "SITUATED"
+		self.definitions = [u'in a particular position: ', u'in a particular situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HUT():
 	def __init__(self,): 
 		self.name = "HUT"
+		self.definitions = [u'a small, simple building, usually consisting of one room: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

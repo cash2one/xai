@@ -4,11 +4,12 @@
 class _GUNNERY():
 	def __init__(self,): 
 		self.name = "GUNNERY"
+		self.definitions = [u'the skill or activity of shooting with artillery (= very large guns)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

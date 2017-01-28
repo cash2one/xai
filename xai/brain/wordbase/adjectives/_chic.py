@@ -4,11 +4,12 @@
 class _CHIC():
 	def __init__(self,): 
 		self.name = "CHIC"
+		self.definitions = [u'stylish and fashionable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

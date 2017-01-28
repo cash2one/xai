@@ -4,11 +4,12 @@
 class _BUTTERSCOTCH():
 	def __init__(self,): 
 		self.name = "BUTTERSCOTCH"
+		self.definitions = [u'a hard, light-brown coloured, sweet food made by boiling butter and sugar together']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

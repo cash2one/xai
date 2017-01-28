@@ -4,11 +4,12 @@
 class _DEEPENING():
 	def __init__(self,): 
 		self.name = "DEEPENING"
+		self.definitions = [u'increasing or becoming darker: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

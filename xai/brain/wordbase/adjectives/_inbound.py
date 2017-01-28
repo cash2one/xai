@@ -4,11 +4,12 @@
 class _INBOUND():
 	def __init__(self,): 
 		self.name = "INBOUND"
+		self.definitions = [u'travelling towards a particular point: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

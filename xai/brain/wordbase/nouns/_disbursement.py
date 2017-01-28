@@ -4,11 +4,12 @@
 class _DISBURSEMENT():
 	def __init__(self,): 
 		self.name = "DISBURSEMENT"
+		self.definitions = [u'an amount of money given for a particular purpose']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DYSFUNCTIONAL():
 	def __init__(self,): 
 		self.name = "DYSFUNCTIONAL"
+		self.definitions = [u'not behaving or working normally: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

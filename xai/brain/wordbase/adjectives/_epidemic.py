@@ -4,11 +4,12 @@
 class _EPIDEMIC():
 	def __init__(self,): 
 		self.name = "EPIDEMIC"
+		self.definitions = [u'happening a lot and affecting many people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

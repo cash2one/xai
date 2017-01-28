@@ -4,11 +4,12 @@
 class _OCEANOGRAPHY():
 	def __init__(self,): 
 		self.name = "OCEANOGRAPHY"
+		self.definitions = [u'the scientific study of the sea']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

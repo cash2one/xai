@@ -4,11 +4,12 @@
 class _COMPACTION():
 	def __init__(self,): 
 		self.name = "COMPACTION"
+		self.definitions = [u'the process by which the pressure on buried solid material causes the material to stick together and change to rock']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

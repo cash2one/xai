@@ -4,11 +4,12 @@
 class _CURLY():
 	def __init__(self,): 
 		self.name = "CURLY"
+		self.definitions = [u'having curls or a curved shape: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

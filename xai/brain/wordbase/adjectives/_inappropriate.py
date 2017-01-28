@@ -4,11 +4,12 @@
 class _INAPPROPRIATE():
 	def __init__(self,): 
 		self.name = "INAPPROPRIATE"
+		self.definitions = [u'unsuitable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

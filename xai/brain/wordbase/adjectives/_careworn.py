@@ -4,11 +4,12 @@
 class _CAREWORN():
 	def __init__(self,): 
 		self.name = "CAREWORN"
+		self.definitions = [u'appearing tired, worried, and unhappy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

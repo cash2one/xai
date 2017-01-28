@@ -4,11 +4,12 @@
 class _FORGIVENESS():
 	def __init__(self,): 
 		self.name = "FORGIVENESS"
+		self.definitions = [u'the act of forgiving or the willingness to forgive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

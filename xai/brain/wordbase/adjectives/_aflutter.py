@@ -4,11 +4,12 @@
 class _AFLUTTER():
 	def __init__(self,): 
 		self.name = "AFLUTTER"
+		self.definitions = [u'excited and nervous: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

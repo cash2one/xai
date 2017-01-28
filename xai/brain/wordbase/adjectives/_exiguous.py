@@ -4,11 +4,12 @@
 class _EXIGUOUS():
 	def __init__(self,): 
 		self.name = "EXIGUOUS"
+		self.definitions = [u'very small in size or amount: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DIVISIBLE():
 	def __init__(self,): 
 		self.name = "DIVISIBLE"
+		self.definitions = [u'that can be divided by another number: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

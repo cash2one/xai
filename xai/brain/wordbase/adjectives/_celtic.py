@@ -4,11 +4,12 @@
 class _CELTIC():
 	def __init__(self,): 
 		self.name = "CELTIC"
+		self.definitions = [u'of an ancient European people who are related to the Irish, Scots, Welsh, and Bretons, or of their language or culture: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

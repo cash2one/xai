@@ -4,11 +4,12 @@
 class _SCINTILLA():
 	def __init__(self,): 
 		self.name = "SCINTILLA"
+		self.definitions = [u'a very small amount of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

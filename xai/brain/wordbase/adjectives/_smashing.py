@@ -4,11 +4,12 @@
 class _SMASHING():
 	def __init__(self,): 
 		self.name = "SMASHING"
+		self.definitions = [u'extremely good, attractive, enjoyable, or pleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

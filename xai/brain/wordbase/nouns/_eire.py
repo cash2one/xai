@@ -4,11 +4,12 @@
 class _EIRE():
 	def __init__(self,): 
 		self.name = "EIRE"
+		self.definitions = [u'the name for  Ireland  in Irish']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

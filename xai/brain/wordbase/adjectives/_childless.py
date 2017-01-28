@@ -4,11 +4,12 @@
 class _CHILDLESS():
 	def __init__(self,): 
 		self.name = "CHILDLESS"
+		self.definitions = [u'without children: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _EARTHEN():
 	def __init__(self,): 
 		self.name = "EARTHEN"
+		self.definitions = [u'made of earth or of baked clay: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

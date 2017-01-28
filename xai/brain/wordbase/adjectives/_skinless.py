@@ -4,11 +4,12 @@
 class _SKINLESS():
 	def __init__(self,): 
 		self.name = "SKINLESS"
+		self.definitions = [u'without a skin: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

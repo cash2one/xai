@@ -4,11 +4,12 @@
 class _IFFY():
 	def __init__(self,): 
 		self.name = "IFFY"
+		self.definitions = [u'not certain or decided: ', u'not completely good, honest, or suitable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

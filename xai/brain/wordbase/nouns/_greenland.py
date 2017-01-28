@@ -4,11 +4,12 @@
 class _GREENLAND():
 	def __init__(self,): 
 		self.name = "GREENLAND"
+		self.definitions = [u'an island country between the Arctic and Atlantic Oceans']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

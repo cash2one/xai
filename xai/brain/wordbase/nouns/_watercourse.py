@@ -4,11 +4,12 @@
 class _WATERCOURSE():
 	def __init__(self,): 
 		self.name = "WATERCOURSE"
+		self.definitions = [u'a stream of water such as a river or canal, or the channel along which it flows']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

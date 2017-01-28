@@ -4,11 +4,12 @@
 class _RESPECTIVE():
 	def __init__(self,): 
 		self.name = "RESPECTIVE"
+		self.definitions = [u'relating or belonging to each of the separate people or things you have just mentioned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _EVASION():
 	def __init__(self,): 
 		self.name = "EVASION"
+		self.definitions = [u'the act of avoiding something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

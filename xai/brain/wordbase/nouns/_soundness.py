@@ -4,11 +4,12 @@
 class _SOUNDNESS():
 	def __init__(self,): 
 		self.name = "SOUNDNESS"
+		self.definitions = [u'the fact of being in good condition', u'the quality of having good judgment']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

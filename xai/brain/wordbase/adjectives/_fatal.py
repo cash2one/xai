@@ -4,11 +4,12 @@
 class _FATAL():
 	def __init__(self,): 
 		self.name = "FATAL"
+		self.definitions = [u'A fatal illness, accident, etc. causes death: ', u'very serious and having an important bad effect in the future: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

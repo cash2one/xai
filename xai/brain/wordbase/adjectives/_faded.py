@@ -4,11 +4,12 @@
 class _FADED():
 	def __init__(self,): 
 		self.name = "FADED"
+		self.definitions = [u'less bright in colour than before: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

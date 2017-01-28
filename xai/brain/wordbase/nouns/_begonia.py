@@ -4,11 +4,12 @@
 class _BEGONIA():
 	def __init__(self,): 
 		self.name = "BEGONIA"
+		self.definitions = [u'a garden plant with brightly coloured flowers']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

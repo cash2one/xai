@@ -4,11 +4,12 @@
 class _BONKERS():
 	def __init__(self,): 
 		self.name = "BONKERS"
+		self.definitions = [u'silly or stupid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

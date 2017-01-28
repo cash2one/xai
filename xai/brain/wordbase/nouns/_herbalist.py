@@ -4,11 +4,12 @@
 class _HERBALIST():
 	def __init__(self,): 
 		self.name = "HERBALIST"
+		self.definitions = [u'a person who grows or sells herbs for use as medicine']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

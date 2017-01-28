@@ -4,11 +4,12 @@
 class _SHARED():
 	def __init__(self,): 
 		self.name = "SHARED"
+		self.definitions = [u'owned, divided, felt, or experienced by more than one person: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

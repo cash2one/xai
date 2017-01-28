@@ -4,11 +4,12 @@
 class _ANGELIC():
 	def __init__(self,): 
 		self.name = "ANGELIC"
+		self.definitions = [u'very beautiful and very good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

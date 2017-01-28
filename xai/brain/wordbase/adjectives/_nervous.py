@@ -4,11 +4,12 @@
 class _NERVOUS():
 	def __init__(self,): 
 		self.name = "NERVOUS"
+		self.definitions = [u'worried and anxious: ', u'relating to the nerves: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

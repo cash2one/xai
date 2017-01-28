@@ -4,11 +4,12 @@
 class _UNSALTED():
 	def __init__(self,): 
 		self.name = "UNSALTED"
+		self.definitions = [u'with no salt added: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

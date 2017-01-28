@@ -4,11 +4,12 @@
 class _STOIC():
 	def __init__(self,): 
 		self.name = "STOIC"
+		self.definitions = [u'someone who does not complain or show their emotions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

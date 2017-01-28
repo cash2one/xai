@@ -4,11 +4,12 @@
 class _UNBORN():
 	def __init__(self,): 
 		self.name = "UNBORN"
+		self.definitions = [u"not yet born; in the mother's womb: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

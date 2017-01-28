@@ -4,11 +4,12 @@
 class _ENCHANTING():
 	def __init__(self,): 
 		self.name = "ENCHANTING"
+		self.definitions = [u'very pleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

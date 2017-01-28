@@ -4,11 +4,12 @@
 class _INTERGALACTIC():
 	def __init__(self,): 
 		self.name = "INTERGALACTIC"
+		self.definitions = [u'between galaxies (= large groups of stars and other matter): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

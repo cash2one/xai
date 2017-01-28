@@ -4,11 +4,12 @@
 class _STRAPPED():
 	def __init__(self,): 
 		self.name = "STRAPPED"
+		self.definitions = [u'not having enough money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

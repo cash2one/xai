@@ -4,11 +4,12 @@
 class _IGUANA():
 	def __init__(self,): 
 		self.name = "IGUANA"
+		self.definitions = [u'a large greyish-green lizard of tropical America']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _SUBMERSIBLE():
 	def __init__(self,): 
 		self.name = "SUBMERSIBLE"
+		self.definitions = [u'able to be used or to travel underwater: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PULSATING():
 	def __init__(self,): 
 		self.name = "PULSATING"
+		self.definitions = [u'very interesting and exciting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

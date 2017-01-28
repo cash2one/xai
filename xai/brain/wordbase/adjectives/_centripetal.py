@@ -4,11 +4,12 @@
 class _CENTRIPETAL():
 	def __init__(self,): 
 		self.name = "CENTRIPETAL"
+		self.definitions = [u'(of a turning object) moving towards the point around which it is turning: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

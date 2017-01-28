@@ -4,11 +4,12 @@
 class _ASSUREDLY():
 	def __init__(self,): 
 		self.name = "ASSUREDLY"
+		self.definitions = [u'confidently: ', u'certainly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

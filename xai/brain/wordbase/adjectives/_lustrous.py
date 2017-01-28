@@ -4,11 +4,12 @@
 class _LUSTROUS():
 	def __init__(self,): 
 		self.name = "LUSTROUS"
+		self.definitions = [u'very shiny: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

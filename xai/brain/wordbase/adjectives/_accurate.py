@@ -4,11 +4,12 @@
 class _ACCURATE():
 	def __init__(self,): 
 		self.name = "ACCURATE"
+		self.definitions = [u'correct, exact, and without any mistakes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

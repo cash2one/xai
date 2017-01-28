@@ -4,11 +4,12 @@
 class _FLIRTATIOUS():
 	def __init__(self,): 
 		self.name = "FLIRTATIOUS"
+		self.definitions = [u'behaving as if you are sexually attracted to someone, especially not in a serious way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

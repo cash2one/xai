@@ -4,11 +4,12 @@
 class _SLUMBER():
 	def __init__(self,): 
 		self.name = "SLUMBER"
+		self.definitions = [u'sleep: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

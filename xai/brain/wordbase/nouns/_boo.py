@@ -4,11 +4,12 @@
 class _BOO():
 	def __init__(self,): 
 		self.name = "BOO"
+		self.definitions = [u'the act of booing']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

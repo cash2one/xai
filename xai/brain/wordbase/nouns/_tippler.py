@@ -4,11 +4,12 @@
 class _TIPPLER():
 	def __init__(self,): 
 		self.name = "TIPPLER"
+		self.definitions = [u'someone who often drinks alcohol']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

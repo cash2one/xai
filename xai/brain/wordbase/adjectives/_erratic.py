@@ -4,11 +4,12 @@
 class _ERRATIC():
 	def __init__(self,): 
 		self.name = "ERRATIC"
+		self.definitions = [u'moving or behaving in a way that is not regular, certain, or expected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

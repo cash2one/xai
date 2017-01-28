@@ -4,11 +4,12 @@
 class _DEROGATORY():
 	def __init__(self,): 
 		self.name = "DEROGATORY"
+		self.definitions = [u'showing strong disapproval and not showing respect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

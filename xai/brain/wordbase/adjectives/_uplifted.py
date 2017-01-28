@@ -4,11 +4,12 @@
 class _UPLIFTED():
 	def __init__(self,): 
 		self.name = "UPLIFTED"
+		self.definitions = [u'raised: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

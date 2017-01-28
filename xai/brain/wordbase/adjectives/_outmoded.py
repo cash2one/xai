@@ -4,11 +4,12 @@
 class _OUTMODED():
 	def __init__(self,): 
 		self.name = "OUTMODED"
+		self.definitions = [u'no longer modern, useful, or necessary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

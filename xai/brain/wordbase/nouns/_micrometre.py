@@ -4,11 +4,12 @@
 class _MICROMETRE():
 	def __init__(self,): 
 		self.name = "MICROMETRE"
+		self.definitions = [u'a  micron ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

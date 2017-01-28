@@ -4,11 +4,12 @@
 class _UNDERGRAD():
 	def __init__(self,): 
 		self.name = "UNDERGRAD"
+		self.definitions = [u'an undergraduate']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

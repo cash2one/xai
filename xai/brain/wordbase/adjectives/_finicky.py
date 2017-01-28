@@ -4,11 +4,12 @@
 class _FINICKY():
 	def __init__(self,): 
 		self.name = "FINICKY"
+		self.definitions = [u'difficult to please: ', u'needing a lot of attention to detail: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

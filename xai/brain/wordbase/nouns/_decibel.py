@@ -4,11 +4,12 @@
 class _DECIBEL():
 	def __init__(self,): 
 		self.name = "DECIBEL"
+		self.definitions = [u'a unit for measuring the loudness of sound: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

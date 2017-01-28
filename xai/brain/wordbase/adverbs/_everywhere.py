@@ -4,11 +4,12 @@
 class _EVERYWHERE():
 	def __init__(self,): 
 		self.name = "EVERYWHERE"
+		self.definitions = [u'to, at, or in all places or the whole of a place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

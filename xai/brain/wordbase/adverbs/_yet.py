@@ -4,11 +4,12 @@
 class _YET():
 	def __init__(self,): 
 		self.name = "YET"
+		self.definitions = [u'(and) despite that; used to add something that seems surprising because of what you have just said: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

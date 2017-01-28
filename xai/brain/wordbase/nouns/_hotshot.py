@@ -4,11 +4,12 @@
 class _HOTSHOT():
 	def __init__(self,): 
 		self.name = "HOTSHOT"
+		self.definitions = [u'someone who is skilful and successful at something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

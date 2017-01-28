@@ -4,11 +4,12 @@
 class _BUCOLIC():
 	def __init__(self,): 
 		self.name = "BUCOLIC"
+		self.definitions = [u'relating to the countryside: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

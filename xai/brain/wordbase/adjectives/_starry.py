@@ -4,11 +4,12 @@
 class _STARRY():
 	def __init__(self,): 
 		self.name = "STARRY"
+		self.definitions = [u'lit by stars or shining like a star: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

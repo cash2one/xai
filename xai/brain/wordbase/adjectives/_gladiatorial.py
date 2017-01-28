@@ -4,11 +4,12 @@
 class _GLADIATORIAL():
 	def __init__(self,): 
 		self.name = "GLADIATORIAL"
+		self.definitions = [u'relating to violent fighting in which only one person or group can win: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

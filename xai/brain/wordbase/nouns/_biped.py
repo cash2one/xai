@@ -4,11 +4,12 @@
 class _BIPED():
 	def __init__(self,): 
 		self.name = "BIPED"
+		self.definitions = [u'an animal that walks on two legs']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

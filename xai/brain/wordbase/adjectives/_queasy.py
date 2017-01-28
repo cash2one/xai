@@ -4,11 +4,12 @@
 class _QUEASY():
 	def __init__(self,): 
 		self.name = "QUEASY"
+		self.definitions = [u'likely to vomit: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

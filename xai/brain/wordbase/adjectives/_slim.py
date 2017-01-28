@@ -4,11 +4,12 @@
 class _SLIM():
 	def __init__(self,): 
 		self.name = "SLIM"
+		self.definitions = [u'(especially of people) attractively thin: ', u'very small: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

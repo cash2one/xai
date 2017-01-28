@@ -4,11 +4,12 @@
 class _VISIONARY():
 	def __init__(self,): 
 		self.name = "VISIONARY"
+		self.definitions = [u'with the ability to imagine how a country, society, industry, etc. will develop in the future: ', u'relating to a religious vision']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

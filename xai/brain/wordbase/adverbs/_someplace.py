@@ -4,11 +4,12 @@
 class _SOMEPLACE():
 	def __init__(self,): 
 		self.name = "SOMEPLACE"
+		self.definitions = [u'somewhere: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

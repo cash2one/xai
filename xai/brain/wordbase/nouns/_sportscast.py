@@ -4,11 +4,12 @@
 class _SPORTSCAST():
 	def __init__(self,): 
 		self.name = "SPORTSCAST"
+		self.definitions = [u'a radio or television broadcast giving only sports news']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

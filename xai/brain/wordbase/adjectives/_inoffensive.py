@@ -4,11 +4,12 @@
 class _INOFFENSIVE():
 	def __init__(self,): 
 		self.name = "INOFFENSIVE"
+		self.definitions = [u'not causing any harm or offence: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

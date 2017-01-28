@@ -4,11 +4,12 @@
 class _SCANTILY():
 	def __init__(self,): 
 		self.name = "SCANTILY"
+		self.definitions = [u'wearing very little clothing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

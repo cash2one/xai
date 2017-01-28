@@ -4,11 +4,12 @@
 class _UNOFFICIAL():
 	def __init__(self,): 
 		self.name = "UNOFFICIAL"
+		self.definitions = [u'not official; not from a person in authority, the government, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

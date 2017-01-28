@@ -4,11 +4,12 @@
 class _CALIPH():
 	def __init__(self,): 
 		self.name = "CALIPH"
+		self.definitions = [u'a Muslim ruler']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

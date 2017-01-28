@@ -4,11 +4,12 @@
 class _SATED():
 	def __init__(self,): 
 		self.name = "SATED"
+		self.definitions = [u'having had more of something than you can easily have at one time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

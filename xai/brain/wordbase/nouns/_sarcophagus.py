@@ -4,11 +4,12 @@
 class _SARCOPHAGUS():
 	def __init__(self,): 
 		self.name = "SARCOPHAGUS"
+		self.definitions = [u'a stone coffin, often decorated, that was used in ancient times ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

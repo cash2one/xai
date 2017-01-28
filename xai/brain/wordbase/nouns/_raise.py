@@ -4,11 +4,12 @@
 class _RAISE():
 	def __init__(self,): 
 		self.name = "RAISE"
+		self.definitions = [u'an increase in the amount that you are paid for the work you do: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

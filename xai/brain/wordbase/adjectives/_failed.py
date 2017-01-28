@@ -4,11 +4,12 @@
 class _FAILED():
 	def __init__(self,): 
 		self.name = "FAILED"
+		self.definitions = [u'having not succeeded: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

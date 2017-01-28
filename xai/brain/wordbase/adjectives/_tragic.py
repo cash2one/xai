@@ -4,11 +4,12 @@
 class _TRAGIC():
 	def __init__(self,): 
 		self.name = "TRAGIC"
+		self.definitions = [u'very sad, often involving death and suffering: ', u'belonging or relating to literature about death or suffering: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

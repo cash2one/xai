@@ -4,11 +4,12 @@
 class _CONSTERNATION():
 	def __init__(self,): 
 		self.name = "CONSTERNATION"
+		self.definitions = [u'a feeling of worry, shock, or confusion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

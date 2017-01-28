@@ -4,11 +4,12 @@
 class _PUNY():
 	def __init__(self,): 
 		self.name = "PUNY"
+		self.definitions = [u'small; weak; not effective: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

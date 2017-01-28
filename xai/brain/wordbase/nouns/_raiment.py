@@ -4,11 +4,12 @@
 class _RAIMENT():
 	def __init__(self,): 
 		self.name = "RAIMENT"
+		self.definitions = [u'clothes']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

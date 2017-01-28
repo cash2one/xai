@@ -4,11 +4,12 @@
 class _CRACK():
 	def __init__(self,): 
 		self.name = "CRACK"
+		self.definitions = [u'excellent, or of the highest quality: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

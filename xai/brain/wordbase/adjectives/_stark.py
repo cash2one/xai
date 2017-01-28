@@ -4,11 +4,12 @@
 class _STARK():
 	def __init__(self,): 
 		self.name = "STARK"
+		self.definitions = [u'empty, simple, or obvious, especially without decoration or anything that is not necessary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

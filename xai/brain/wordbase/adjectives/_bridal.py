@@ -4,11 +4,12 @@
 class _BRIDAL():
 	def __init__(self,): 
 		self.name = "BRIDAL"
+		self.definitions = [u'of a woman about to be married, or of a marriage ceremony: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

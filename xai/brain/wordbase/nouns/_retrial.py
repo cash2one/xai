@@ -4,11 +4,12 @@
 class _RETRIAL():
 	def __init__(self,): 
 		self.name = "RETRIAL"
+		self.definitions = [u'a new trial of a law case: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

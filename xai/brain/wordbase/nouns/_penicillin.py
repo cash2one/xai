@@ -4,11 +4,12 @@
 class _PENICILLIN():
 	def __init__(self,): 
 		self.name = "PENICILLIN"
+		self.definitions = [u'a type of antibiotic (= a medicine that kills bacteria)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

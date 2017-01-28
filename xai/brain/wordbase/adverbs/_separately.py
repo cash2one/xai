@@ -4,11 +4,12 @@
 class _SEPARATELY():
 	def __init__(self,): 
 		self.name = "SEPARATELY"
+		self.definitions = [u'not together: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

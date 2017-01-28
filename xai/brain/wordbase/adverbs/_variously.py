@@ -4,11 +4,12 @@
 class _VARIOUSLY():
 	def __init__(self,): 
 		self.name = "VARIOUSLY"
+		self.definitions = [u'in several different ways, at several different times, or by several different people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

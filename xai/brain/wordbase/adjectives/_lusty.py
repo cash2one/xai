@@ -4,11 +4,12 @@
 class _LUSTY():
 	def __init__(self,): 
 		self.name = "LUSTY"
+		self.definitions = [u'healthy, energetic, and full of strength and power: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

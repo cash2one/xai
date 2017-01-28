@@ -4,11 +4,12 @@
 class _AGAPE():
 	def __init__(self,): 
 		self.name = "AGAPE"
+		self.definitions = [u'with the mouth open, especially showing surprise or shock: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BURTON():
 	def __init__(self,): 
 		self.name = "BURTON"
+		self.definitions = [u'spoiled or lost: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

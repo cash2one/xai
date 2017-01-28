@@ -4,11 +4,12 @@
 class _COBALT():
 	def __init__(self,): 
 		self.name = "COBALT"
+		self.definitions = [u'having a deep blue or greenish-blue colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

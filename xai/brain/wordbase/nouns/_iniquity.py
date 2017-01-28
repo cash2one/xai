@@ -4,11 +4,12 @@
 class _INIQUITY():
 	def __init__(self,): 
 		self.name = "INIQUITY"
+		self.definitions = [u'a very wrong and unfair action or situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

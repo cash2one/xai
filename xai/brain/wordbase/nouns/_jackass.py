@@ -4,11 +4,12 @@
 class _JACKASS():
 	def __init__(self,): 
 		self.name = "JACKASS"
+		self.definitions = [u'a person who behaves in a silly way', u'a  kookaburra ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

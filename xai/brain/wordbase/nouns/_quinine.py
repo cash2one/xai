@@ -4,11 +4,12 @@
 class _QUININE():
 	def __init__(self,): 
 		self.name = "QUININE"
+		self.definitions = [u'a drug used to treat fevers such as malaria']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

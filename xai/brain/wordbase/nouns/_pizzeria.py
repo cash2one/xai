@@ -4,11 +4,12 @@
 class _PIZZERIA():
 	def __init__(self,): 
 		self.name = "PIZZERIA"
+		self.definitions = [u'a restaurant that sells pizza']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DENTURE():
 	def __init__(self,): 
 		self.name = "DENTURE"
+		self.definitions = [u'for or relating to dentures: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

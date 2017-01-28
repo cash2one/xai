@@ -4,11 +4,12 @@
 class _SCOTS():
 	def __init__(self,): 
 		self.name = "SCOTS"
+		self.definitions = [u'a language spoken in Scotland that is related to English, but has some important differences: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

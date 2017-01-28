@@ -4,11 +4,12 @@
 class _EXORBITANT():
 	def __init__(self,): 
 		self.name = "EXORBITANT"
+		self.definitions = [u'Exorbitant prices, demands, etc. are much too large: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

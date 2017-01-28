@@ -4,11 +4,12 @@
 class _JEWRY():
 	def __init__(self,): 
 		self.name = "JEWRY"
+		self.definitions = [u'all the Jews']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

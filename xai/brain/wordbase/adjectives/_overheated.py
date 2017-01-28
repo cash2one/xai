@@ -4,11 +4,12 @@
 class _OVERHEATED():
 	def __init__(self,): 
 		self.name = "OVERHEATED"
+		self.definitions = [u'If a situation is/gets overheated, strong feelings, especially anger, are expressed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

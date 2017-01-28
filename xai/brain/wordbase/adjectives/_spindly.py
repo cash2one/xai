@@ -4,11 +4,12 @@
 class _SPINDLY():
 	def __init__(self,): 
 		self.name = "SPINDLY"
+		self.definitions = [u'long or tall and thin, and looking weak: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

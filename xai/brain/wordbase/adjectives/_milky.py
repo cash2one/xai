@@ -4,11 +4,12 @@
 class _MILKY():
 	def __init__(self,): 
 		self.name = "MILKY"
+		self.definitions = [u'A milky liquid contains milk or is made with a lot of milk: ', u'white, pale, or not transparent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BLONDIE():
 	def __init__(self,): 
 		self.name = "BLONDIE"
+		self.definitions = [u'a brownie (= small, square cake) made with white chocolate or without chocolate', u'a person, especially a woman, with blonde hair']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PRIOR():
 	def __init__(self,): 
 		self.name = "PRIOR"
+		self.definitions = [u'a man who is in charge of a priory or who is second in charge of an abbey']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

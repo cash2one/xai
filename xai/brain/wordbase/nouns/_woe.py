@@ -4,11 +4,12 @@
 class _WOE():
 	def __init__(self,): 
 		self.name = "WOE"
+		self.definitions = [u'big problems or troubles: ', u'extreme sadness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

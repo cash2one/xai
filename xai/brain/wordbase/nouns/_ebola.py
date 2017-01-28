@@ -4,11 +4,12 @@
 class _EBOLA():
 	def __init__(self,): 
 		self.name = "EBOLA"
+		self.definitions = [u'a very serious infectious disease with fever and bleeding inside the body: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

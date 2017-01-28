@@ -4,11 +4,12 @@
 class _MONEYED():
 	def __init__(self,): 
 		self.name = "MONEYED"
+		self.definitions = [u'rich: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

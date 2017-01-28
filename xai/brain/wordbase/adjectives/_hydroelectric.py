@@ -4,11 +4,12 @@
 class _HYDROELECTRIC():
 	def __init__(self,): 
 		self.name = "HYDROELECTRIC"
+		self.definitions = [u'producing electricity by the force of fast moving water such as rivers or waterfalls: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

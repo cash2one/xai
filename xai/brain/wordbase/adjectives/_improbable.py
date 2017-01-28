@@ -4,11 +4,12 @@
 class _IMPROBABLE():
 	def __init__(self,): 
 		self.name = "IMPROBABLE"
+		self.definitions = [u'not likely to happen or be true: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

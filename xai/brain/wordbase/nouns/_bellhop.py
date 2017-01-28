@@ -4,11 +4,12 @@
 class _BELLHOP():
 	def __init__(self,): 
 		self.name = "BELLHOP"
+		self.definitions = [u'a  bellboy ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _EMINENTLY():
 	def __init__(self,): 
 		self.name = "EMINENTLY"
+		self.definitions = [u'very and obviously: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

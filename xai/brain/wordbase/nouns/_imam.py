@@ -4,11 +4,12 @@
 class _IMAM():
 	def __init__(self,): 
 		self.name = "IMAM"
+		self.definitions = [u'a leader in the Islamic religion']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

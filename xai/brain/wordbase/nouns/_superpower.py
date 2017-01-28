@@ -4,11 +4,12 @@
 class _SUPERPOWER():
 	def __init__(self,): 
 		self.name = "SUPERPOWER"
+		self.definitions = [u'a country that has very great political and military power: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

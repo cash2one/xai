@@ -4,11 +4,12 @@
 class _SEDGE():
 	def __init__(self,): 
 		self.name = "SEDGE"
+		self.definitions = [u'a plant like grass that grows on wet ground, often next to rivers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

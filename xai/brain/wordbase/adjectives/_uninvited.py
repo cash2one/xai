@@ -4,11 +4,12 @@
 class _UNINVITED():
 	def __init__(self,): 
 		self.name = "UNINVITED"
+		self.definitions = [u'not invited: ', u'not wanted or asked for: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

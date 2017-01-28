@@ -4,11 +4,12 @@
 class _IMMEDIATELY():
 	def __init__(self,): 
 		self.name = "IMMEDIATELY"
+		self.definitions = [u'as soon as: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'conjunctions'

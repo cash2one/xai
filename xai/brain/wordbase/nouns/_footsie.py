@@ -4,11 +4,12 @@
 class _FOOTSIE():
 	def __init__(self,): 
 		self.name = "FOOTSIE"
+		self.definitions = [u' play footsie , see at  play verb ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

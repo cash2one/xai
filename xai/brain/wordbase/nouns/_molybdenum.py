@@ -4,11 +4,12 @@
 class _MOLYBDENUM():
 	def __init__(self,): 
 		self.name = "MOLYBDENUM"
+		self.definitions = [u'a chemical element that is a very hard, silver-coloured metal, used especially to make steel stronger']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

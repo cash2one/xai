@@ -4,11 +4,12 @@
 class _MILD():
 	def __init__(self,): 
 		self.name = "MILD"
+		self.definitions = [u'a dark beer that does not have a very strong or bitter taste']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PETTY():
 	def __init__(self,): 
 		self.name = "PETTY"
+		self.definitions = [u'not important and not worth giving attention to: ', u'complaining too much about things that are not important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

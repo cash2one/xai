@@ -4,11 +4,12 @@
 class _UNJUST():
 	def __init__(self,): 
 		self.name = "UNJUST"
+		self.definitions = [u'not fair: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

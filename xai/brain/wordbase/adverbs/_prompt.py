@@ -4,11 +4,12 @@
 class _PROMPT():
 	def __init__(self,): 
 		self.name = "PROMPT"
+		self.definitions = [u'at the time stated and no later: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

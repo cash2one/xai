@@ -4,11 +4,12 @@
 class _MEASURABLE():
 	def __init__(self,): 
 		self.name = "MEASURABLE"
+		self.definitions = [u'able to be measured, or large enough to be noticed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

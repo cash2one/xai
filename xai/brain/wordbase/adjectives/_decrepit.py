@@ -4,11 +4,12 @@
 class _DECREPIT():
 	def __init__(self,): 
 		self.name = "DECREPIT"
+		self.definitions = [u'in very bad condition because of being old, or not having been cared for, or having been used a lot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

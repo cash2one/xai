@@ -4,11 +4,12 @@
 class _LONDONER():
 	def __init__(self,): 
 		self.name = "LONDONER"
+		self.definitions = [u'a person from London']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

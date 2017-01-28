@@ -4,11 +4,12 @@
 class _FIRM():
 	def __init__(self,): 
 		self.name = "FIRM"
+		self.definitions = [u'a company or business: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

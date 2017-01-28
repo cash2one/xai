@@ -4,11 +4,12 @@
 class _CINEMATOGRAPHY():
 	def __init__(self,): 
 		self.name = "CINEMATOGRAPHY"
+		self.definitions = [u'the art and methods of film photography']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

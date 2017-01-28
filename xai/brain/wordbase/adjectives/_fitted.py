@@ -4,11 +4,12 @@
 class _FITTED():
 	def __init__(self,): 
 		self.name = "FITTED"
+		self.definitions = [u'made to fit the shape of someone or something: ', u'permanently fixed in position: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

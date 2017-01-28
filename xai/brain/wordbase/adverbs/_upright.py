@@ -4,11 +4,12 @@
 class _UPRIGHT():
 	def __init__(self,): 
 		self.name = "UPRIGHT"
+		self.definitions = [u'vertical and as straight as possible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

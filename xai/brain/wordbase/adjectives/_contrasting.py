@@ -4,11 +4,12 @@
 class _CONTRASTING():
 	def __init__(self,): 
 		self.name = "CONTRASTING"
+		self.definitions = [u'very different: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

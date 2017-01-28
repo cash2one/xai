@@ -4,11 +4,12 @@
 class _NOTIONAL():
 	def __init__(self,): 
 		self.name = "NOTIONAL"
+		self.definitions = [u'existing only as an idea, not as something real: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ABORTIONIST():
 	def __init__(self,): 
 		self.name = "ABORTIONIST"
+		self.definitions = [u'a person who performs abortions to end unwanted pregnancies, often illegally and for money']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

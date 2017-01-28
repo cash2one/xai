@@ -4,11 +4,12 @@
 class _WIDELY():
 	def __init__(self,): 
 		self.name = "WIDELY"
+		self.definitions = [u'including a lot of different places, people, subjects, etc.: ', u'to be very different: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

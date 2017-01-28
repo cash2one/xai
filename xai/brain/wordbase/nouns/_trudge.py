@@ -4,11 +4,12 @@
 class _TRUDGE():
 	def __init__(self,): 
 		self.name = "TRUDGE"
+		self.definitions = [u'a long walk that makes you feel very tired: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _BELGIAN():
 	def __init__(self,): 
 		self.name = "BELGIAN"
+		self.definitions = [u'a person from Belgium']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

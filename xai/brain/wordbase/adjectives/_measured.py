@@ -4,11 +4,12 @@
 class _MEASURED():
 	def __init__(self,): 
 		self.name = "MEASURED"
+		self.definitions = [u'careful and controlled, or not fast: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

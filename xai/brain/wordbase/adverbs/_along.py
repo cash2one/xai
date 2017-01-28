@@ -4,11 +4,12 @@
 class _ALONG():
 	def __init__(self,): 
 		self.name = "ALONG"
+		self.definitions = [u'moving forward: ', u'with you: ', u'in addition to someone or something else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

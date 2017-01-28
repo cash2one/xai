@@ -4,11 +4,12 @@
 class _PHLEGMATIC():
 	def __init__(self,): 
 		self.name = "PHLEGMATIC"
+		self.definitions = [u'A phlegmatic person does not usually get emotional or excited about things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

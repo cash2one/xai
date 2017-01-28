@@ -4,11 +4,12 @@
 class _STRAY():
 	def __init__(self,): 
 		self.name = "STRAY"
+		self.definitions = [u'Stray things have moved apart from similar things and are not in their expected or intended place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

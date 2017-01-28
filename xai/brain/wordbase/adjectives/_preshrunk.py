@@ -4,11 +4,12 @@
 class _PRESHRUNK():
 	def __init__(self,): 
 		self.name = "PRESHRUNK"
+		self.definitions = [u'(of clothes) shrunk (= made smaller) by washing before being sold: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

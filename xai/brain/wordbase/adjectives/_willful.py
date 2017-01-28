@@ -4,11 +4,12 @@
 class _WILLFUL():
 	def __init__(self,): 
 		self.name = "WILLFUL"
+		self.definitions = [u'US spelling of  wilful ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

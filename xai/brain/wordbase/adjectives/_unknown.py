@@ -4,11 +4,12 @@
 class _UNKNOWN():
 	def __init__(self,): 
 		self.name = "UNKNOWN"
+		self.definitions = [u'not known or familiar: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

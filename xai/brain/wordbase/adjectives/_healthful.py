@@ -4,11 +4,12 @@
 class _HEALTHFUL():
 	def __init__(self,): 
 		self.name = "HEALTHFUL"
+		self.definitions = [u'helping to produce good health: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

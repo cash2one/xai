@@ -4,11 +4,12 @@
 class _INJUSTICE():
 	def __init__(self,): 
 		self.name = "INJUSTICE"
+		self.definitions = [u'(an example of) a situation in which there is no fairness and justice: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

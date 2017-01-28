@@ -4,11 +4,12 @@
 class _ADHESIVE():
 	def __init__(self,): 
 		self.name = "ADHESIVE"
+		self.definitions = [u'glue: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

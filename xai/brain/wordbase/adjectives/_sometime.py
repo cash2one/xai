@@ -4,11 +4,12 @@
 class _SOMETIME():
 	def __init__(self,): 
 		self.name = "SOMETIME"
+		self.definitions = [u'(especially of a job or position) in the past but not any longer: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

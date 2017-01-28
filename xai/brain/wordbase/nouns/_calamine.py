@@ -4,11 +4,12 @@
 class _CALAMINE():
 	def __init__(self,): 
 		self.name = "CALAMINE"
+		self.definitions = [u'a pink liquid used to reduce pain on sore skin']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

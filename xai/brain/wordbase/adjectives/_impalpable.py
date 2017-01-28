@@ -4,11 +4,12 @@
 class _IMPALPABLE():
 	def __init__(self,): 
 		self.name = "IMPALPABLE"
+		self.definitions = [u'difficult to feel or understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

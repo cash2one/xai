@@ -4,11 +4,12 @@
 class _INAMORATA():
 	def __init__(self,): 
 		self.name = "INAMORATA"
+		self.definitions = [u'a woman someone is in love with: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

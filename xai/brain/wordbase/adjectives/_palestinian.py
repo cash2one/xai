@@ -4,11 +4,12 @@
 class _PALESTINIAN():
 	def __init__(self,): 
 		self.name = "PALESTINIAN"
+		self.definitions = [u'belonging to or relating to Palestine: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

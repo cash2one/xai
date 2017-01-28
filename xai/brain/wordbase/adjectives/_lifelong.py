@@ -4,11 +4,12 @@
 class _LIFELONG():
 	def __init__(self,): 
 		self.name = "LIFELONG"
+		self.definitions = [u"lasting for the whole of a person's life: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

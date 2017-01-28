@@ -4,11 +4,12 @@
 class _FORFEIT():
 	def __init__(self,): 
 		self.name = "FORFEIT"
+		self.definitions = [u'taken away from someone as a punishment']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

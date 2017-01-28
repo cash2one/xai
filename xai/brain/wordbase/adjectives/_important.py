@@ -4,11 +4,12 @@
 class _IMPORTANT():
 	def __init__(self,): 
 		self.name = "IMPORTANT"
+		self.definitions = [u'necessary or of great value: ', u'having great effect or influence: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

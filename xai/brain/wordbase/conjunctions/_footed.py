@@ -4,11 +4,12 @@
 class _FOOTED():
 	def __init__(self,): 
 		self.name = "FOOTED"
+		self.definitions = [u'with feet of the stated type or number: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'conjunctions'

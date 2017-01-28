@@ -4,11 +4,12 @@
 class _EBB():
 	def __init__(self,): 
 		self.name = "EBB"
+		self.definitions = [u'the tide when it is moving away from the coast: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

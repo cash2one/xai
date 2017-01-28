@@ -4,11 +4,12 @@
 class _LAZYBONES():
 	def __init__(self,): 
 		self.name = "LAZYBONES"
+		self.definitions = [u'someone who is lazy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

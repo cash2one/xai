@@ -4,11 +4,12 @@
 class _HONORIFIC():
 	def __init__(self,): 
 		self.name = "HONORIFIC"
+		self.definitions = [u'showing or giving honour or respect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

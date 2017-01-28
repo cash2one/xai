@@ -4,11 +4,12 @@
 class _INFRARED():
 	def __init__(self,): 
 		self.name = "INFRARED"
+		self.definitions = [u'Infrared light is a type of light that feels warm but cannot be seen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

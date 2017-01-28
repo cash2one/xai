@@ -4,11 +4,12 @@
 class _GLAZE():
 	def __init__(self,): 
 		self.name = "GLAZE"
+		self.definitions = [u'a substance used to glaze something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

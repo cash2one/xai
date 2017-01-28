@@ -4,11 +4,12 @@
 class _BENIGHTED():
 	def __init__(self,): 
 		self.name = "BENIGHTED"
+		self.definitions = [u'without knowledge or morals: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

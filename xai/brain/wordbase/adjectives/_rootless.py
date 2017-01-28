@@ -4,11 +4,12 @@
 class _ROOTLESS():
 	def __init__(self,): 
 		self.name = "ROOTLESS"
+		self.definitions = [u'A rootless person does not have a home to return to.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

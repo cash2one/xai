@@ -4,11 +4,12 @@
 class _WINDOWPANE():
 	def __init__(self,): 
 		self.name = "WINDOWPANE"
+		self.definitions = [u'a single piece of glass in the window of a building']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

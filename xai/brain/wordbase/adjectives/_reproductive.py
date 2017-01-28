@@ -4,11 +4,12 @@
 class _REPRODUCTIVE():
 	def __init__(self,): 
 		self.name = "REPRODUCTIVE"
+		self.definitions = [u'relating to the process of reproduction: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

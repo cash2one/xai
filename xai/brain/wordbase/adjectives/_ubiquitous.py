@@ -4,11 +4,12 @@
 class _UBIQUITOUS():
 	def __init__(self,): 
 		self.name = "UBIQUITOUS"
+		self.definitions = [u'seeming to be everywhere: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

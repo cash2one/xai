@@ -4,11 +4,12 @@
 class _SKYWARD():
 	def __init__(self,): 
 		self.name = "SKYWARD"
+		self.definitions = [u'in the direction of the sky: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

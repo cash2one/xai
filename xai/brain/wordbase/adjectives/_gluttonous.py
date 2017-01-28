@@ -4,11 +4,12 @@
 class _GLUTTONOUS():
 	def __init__(self,): 
 		self.name = "GLUTTONOUS"
+		self.definitions = [u'eating and drinking more than you need', u'using more than you need: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

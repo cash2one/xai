@@ -4,11 +4,12 @@
 class _CURIE():
 	def __init__(self,): 
 		self.name = "CURIE"
+		self.definitions = [u'a unit, used especially in the past, for measuring radioactivity']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

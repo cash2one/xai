@@ -4,11 +4,12 @@
 class _RESTRICTION():
 	def __init__(self,): 
 		self.name = "RESTRICTION"
+		self.definitions = [u'an official limit on something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

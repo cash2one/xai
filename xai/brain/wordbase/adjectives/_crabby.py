@@ -4,11 +4,12 @@
 class _CRABBY():
 	def __init__(self,): 
 		self.name = "CRABBY"
+		self.definitions = [u'easily annoyed and complaining: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

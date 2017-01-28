@@ -4,11 +4,12 @@
 class _TRILATERAL():
 	def __init__(self,): 
 		self.name = "TRILATERAL"
+		self.definitions = [u'involving three groups or countries: ', u'having three sides: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

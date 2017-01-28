@@ -4,11 +4,12 @@
 class _CRAPE():
 	def __init__(self,): 
 		self.name = "CRAPE"
+		self.definitions = [u'UK spelling of  crepe ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

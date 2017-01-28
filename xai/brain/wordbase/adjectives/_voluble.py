@@ -4,11 +4,12 @@
 class _VOLUBLE():
 	def __init__(self,): 
 		self.name = "VOLUBLE"
+		self.definitions = [u'speaking a lot, with confidence and enthusiasm: ', u'involving a lot of words spoken confidently and forcefully: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

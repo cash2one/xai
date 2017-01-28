@@ -4,11 +4,12 @@
 class _FIXATED():
 	def __init__(self,): 
 		self.name = "FIXATED"
+		self.definitions = [u'unable to stop thinking about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

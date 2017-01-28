@@ -4,11 +4,12 @@
 class _UNCONSTITUTIONAL():
 	def __init__(self,): 
 		self.name = "UNCONSTITUTIONAL"
+		self.definitions = [u'not allowed by the constitution (= set of rules for government) of a country or organization: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

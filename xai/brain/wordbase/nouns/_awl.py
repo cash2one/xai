@@ -4,11 +4,12 @@
 class _AWL():
 	def __init__(self,): 
 		self.name = "AWL"
+		self.definitions = [u'a pointed tool for making small holes in wood or leather']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

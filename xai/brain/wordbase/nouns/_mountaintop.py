@@ -4,11 +4,12 @@
 class _MOUNTAINTOP():
 	def __init__(self,): 
 		self.name = "MOUNTAINTOP"
+		self.definitions = [u'the top of a mountain']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

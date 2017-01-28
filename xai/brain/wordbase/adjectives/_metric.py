@@ -4,11 +4,12 @@
 class _METRIC():
 	def __init__(self,): 
 		self.name = "METRIC"
+		self.definitions = [u'using or relating to a system of measurement that uses metres, centimetres, litres, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

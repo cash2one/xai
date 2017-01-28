@@ -4,11 +4,12 @@
 class _CONFIDENTIALITY():
 	def __init__(self,): 
 		self.name = "CONFIDENTIALITY"
+		self.definitions = [u'the state of being confidential: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

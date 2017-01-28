@@ -4,11 +4,12 @@
 class _PLASTERED():
 	def __init__(self,): 
 		self.name = "PLASTERED"
+		self.definitions = [u'extremely drunk: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

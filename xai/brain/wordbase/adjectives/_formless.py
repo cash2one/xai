@@ -4,11 +4,12 @@
 class _FORMLESS():
 	def __init__(self,): 
 		self.name = "FORMLESS"
+		self.definitions = [u'without clear shape or structure']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PARAPLEGIC():
 	def __init__(self,): 
 		self.name = "PARAPLEGIC"
+		self.definitions = [u'someone who is unable to move or feel the legs or lower part of the body: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

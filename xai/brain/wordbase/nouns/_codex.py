@@ -4,11 +4,12 @@
 class _CODEX():
 	def __init__(self,): 
 		self.name = "CODEX"
+		self.definitions = [u'an ancient book that was written by hand']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

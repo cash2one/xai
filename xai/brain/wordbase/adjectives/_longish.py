@@ -4,11 +4,12 @@
 class _LONGISH():
 	def __init__(self,): 
 		self.name = "LONGISH"
+		self.definitions = [u'quite long']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

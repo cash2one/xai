@@ -4,11 +4,12 @@
 class _ALIKE():
 	def __init__(self,): 
 		self.name = "ALIKE"
+		self.definitions = [u'in a similar way: ', u'used after referring to two groups of people or things to show that both groups are included: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

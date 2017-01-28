@@ -4,11 +4,12 @@
 class _BANEFUL():
 	def __init__(self,): 
 		self.name = "BANEFUL"
+		self.definitions = [u'causing harm or trouble: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

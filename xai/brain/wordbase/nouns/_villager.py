@@ -4,11 +4,12 @@
 class _VILLAGER():
 	def __init__(self,): 
 		self.name = "VILLAGER"
+		self.definitions = [u'a person who lives in a village']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

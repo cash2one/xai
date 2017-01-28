@@ -4,11 +4,12 @@
 class _DEVELOPED():
 	def __init__(self,): 
 		self.name = "DEVELOPED"
+		self.definitions = [u'advanced or powerful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

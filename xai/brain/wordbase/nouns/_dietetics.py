@@ -4,11 +4,12 @@
 class _DIETETICS():
 	def __init__(self,): 
 		self.name = "DIETETICS"
+		self.definitions = [u'the scientific study of the food that people eat and its effects on health']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

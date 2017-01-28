@@ -4,11 +4,12 @@
 class _PRECEPT():
 	def __init__(self,): 
 		self.name = "PRECEPT"
+		self.definitions = [u'a rule for action or behaviour, especially obtained from moral thought: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

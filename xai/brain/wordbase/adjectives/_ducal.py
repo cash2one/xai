@@ -4,11 +4,12 @@
 class _DUCAL():
 	def __init__(self,): 
 		self.name = "DUCAL"
+		self.definitions = [u'of or connected with a duke']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

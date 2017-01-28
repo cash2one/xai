@@ -4,11 +4,12 @@
 class _UNCHARITABLE():
 	def __init__(self,): 
 		self.name = "UNCHARITABLE"
+		self.definitions = [u'unkind and unfair: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

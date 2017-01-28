@@ -4,11 +4,12 @@
 class _TRIPLE():
 	def __init__(self,): 
 		self.name = "TRIPLE"
+		self.definitions = [u'having three parts of the same type, or happening three times: ', u'three times as large as something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

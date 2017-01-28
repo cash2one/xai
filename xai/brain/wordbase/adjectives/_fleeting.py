@@ -4,11 +4,12 @@
 class _FLEETING():
 	def __init__(self,): 
 		self.name = "FLEETING"
+		self.definitions = [u'short or quick: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

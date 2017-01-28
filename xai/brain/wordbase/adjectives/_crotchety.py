@@ -4,11 +4,12 @@
 class _CROTCHETY():
 	def __init__(self,): 
 		self.name = "CROTCHETY"
+		self.definitions = [u'often in a bad mood and easily annoyed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

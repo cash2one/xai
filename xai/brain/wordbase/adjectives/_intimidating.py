@@ -4,11 +4,12 @@
 class _INTIMIDATING():
 	def __init__(self,): 
 		self.name = "INTIMIDATING"
+		self.definitions = [u'making you feel frightened or nervous: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

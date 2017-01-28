@@ -4,11 +4,12 @@
 class _TRICKSTER():
 	def __init__(self,): 
 		self.name = "TRICKSTER"
+		self.definitions = [u'a person who deceives people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

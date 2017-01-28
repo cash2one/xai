@@ -4,11 +4,12 @@
 class _CURRENT():
 	def __init__(self,): 
 		self.name = "CURRENT"
+		self.definitions = [u'of the present time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

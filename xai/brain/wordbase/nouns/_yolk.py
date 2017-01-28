@@ -4,11 +4,12 @@
 class _YOLK():
 	def __init__(self,): 
 		self.name = "YOLK"
+		self.definitions = [u'the yellow, middle part of an egg: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

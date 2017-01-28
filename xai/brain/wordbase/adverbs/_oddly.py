@@ -4,11 +4,12 @@
 class _ODDLY():
 	def __init__(self,): 
 		self.name = "ODDLY"
+		self.definitions = [u'in a strange or surprising way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

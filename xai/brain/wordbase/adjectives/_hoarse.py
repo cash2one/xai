@@ -4,11 +4,12 @@
 class _HOARSE():
 	def __init__(self,): 
 		self.name = "HOARSE"
+		self.definitions = [u'(of a voice or a person) having a rough voice, often because of a sore throat or a cold: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

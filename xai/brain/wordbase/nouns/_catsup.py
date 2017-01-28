@@ -4,11 +4,12 @@
 class _CATSUP():
 	def __init__(self,): 
 		self.name = "CATSUP"
+		self.definitions = [u'\u2192\xa0 ketchup ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

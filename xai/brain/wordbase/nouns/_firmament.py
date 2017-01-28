@@ -4,11 +4,12 @@
 class _FIRMAMENT():
 	def __init__(self,): 
 		self.name = "FIRMAMENT"
+		self.definitions = [u'the sky: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

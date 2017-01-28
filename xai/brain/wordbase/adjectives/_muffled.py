@@ -4,11 +4,12 @@
 class _MUFFLED():
 	def __init__(self,): 
 		self.name = "MUFFLED"
+		self.definitions = [u'A muffled sound is quiet or not clear: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PANTHEON():
 	def __init__(self,): 
 		self.name = "PANTHEON"
+		self.definitions = [u'a small group of people who are the most famous, important, and admired in their particular area of activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

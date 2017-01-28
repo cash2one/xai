@@ -4,11 +4,12 @@
 class _LYNCHPIN():
 	def __init__(self,): 
 		self.name = "LYNCHPIN"
+		self.definitions = [u'a  linchpin ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

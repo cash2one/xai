@@ -4,11 +4,12 @@
 class _PREFATORY():
 	def __init__(self,): 
 		self.name = "PREFATORY"
+		self.definitions = [u'coming at the beginning of a piece of writing or a speech: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

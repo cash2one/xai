@@ -4,11 +4,12 @@
 class _OVERSENSITIVE():
 	def __init__(self,): 
 		self.name = "OVERSENSITIVE"
+		self.definitions = [u'too easily upset: ', u'damaged, changed, or harmed by something that would not affect most people or things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

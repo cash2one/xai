@@ -4,11 +4,12 @@
 class _DOCTRINAIRE():
 	def __init__(self,): 
 		self.name = "DOCTRINAIRE"
+		self.definitions = [u'based on and following fixed beliefs rather than considering practical problems: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

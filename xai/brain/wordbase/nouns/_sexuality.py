@@ -4,11 +4,12 @@
 class _SEXUALITY():
 	def __init__(self,): 
 		self.name = "SEXUALITY"
+		self.definitions = [u"someone's ability to experience or express sexual feelings: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

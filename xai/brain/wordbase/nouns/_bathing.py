@@ -4,11 +4,12 @@
 class _BATHING():
 	def __init__(self,): 
 		self.name = "BATHING"
+		self.definitions = [u'the activity of going for a swim: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

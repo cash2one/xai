@@ -4,11 +4,12 @@
 class _BEAU():
 	def __init__(self,): 
 		self.name = "BEAU"
+		self.definitions = [u'a boyfriend']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

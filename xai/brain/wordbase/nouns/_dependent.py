@@ -4,11 +4,12 @@
 class _DEPENDENT():
 	def __init__(self,): 
 		self.name = "DEPENDENT"
+		self.definitions = [u'US spelling of  dependant ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

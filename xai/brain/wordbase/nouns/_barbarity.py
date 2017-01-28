@@ -4,11 +4,12 @@
 class _BARBARITY():
 	def __init__(self,): 
 		self.name = "BARBARITY"
+		self.definitions = [u'behaviour that is very cruel, or a very cruel act: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

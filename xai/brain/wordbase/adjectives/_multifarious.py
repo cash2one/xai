@@ -4,11 +4,12 @@
 class _MULTIFARIOUS():
 	def __init__(self,): 
 		self.name = "MULTIFARIOUS"
+		self.definitions = [u'of many different types: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

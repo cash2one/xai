@@ -4,11 +4,12 @@
 class _KETTLEDRUM():
 	def __init__(self,): 
 		self.name = "KETTLEDRUM"
+		self.definitions = [u'a very large drum with a round bottom that is played especially in an orchestra']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

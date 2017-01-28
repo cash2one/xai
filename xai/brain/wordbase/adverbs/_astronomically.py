@@ -4,11 +4,12 @@
 class _ASTRONOMICALLY():
 	def __init__(self,): 
 		self.name = "ASTRONOMICALLY"
+		self.definitions = [u'in a way that is connected with astronomy: ', u'by a very large amount: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

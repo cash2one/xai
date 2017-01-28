@@ -4,11 +4,12 @@
 class _STAFFING():
 	def __init__(self,): 
 		self.name = "STAFFING"
+		self.definitions = [u'relating to the staff (= employees) of an organization: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

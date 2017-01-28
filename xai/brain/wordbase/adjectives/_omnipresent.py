@@ -4,11 +4,12 @@
 class _OMNIPRESENT():
 	def __init__(self,): 
 		self.name = "OMNIPRESENT"
+		self.definitions = [u'present or having an effect everywhere at the same time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SIROCCO():
 	def __init__(self,): 
 		self.name = "SIROCCO"
+		self.definitions = [u'a hot wind that blows from the Sahara Desert to southern Europe']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

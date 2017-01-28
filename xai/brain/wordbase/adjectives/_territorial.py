@@ -4,11 +4,12 @@
 class _TERRITORIAL():
 	def __init__(self,): 
 		self.name = "TERRITORIAL"
+		self.definitions = [u'relating to territory: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

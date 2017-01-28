@@ -4,11 +4,12 @@
 class _RHOMBOID():
 	def __init__(self,): 
 		self.name = "RHOMBOID"
+		self.definitions = [u'shaped like a rhomboid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

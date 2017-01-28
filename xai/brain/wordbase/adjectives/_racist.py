@@ -4,11 +4,12 @@
 class _RACIST():
 	def __init__(self,): 
 		self.name = "RACIST"
+		self.definitions = [u'believing that other races are not as good as your own and therefore treating them unfairly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

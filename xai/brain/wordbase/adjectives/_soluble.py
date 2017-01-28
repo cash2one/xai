@@ -4,11 +4,12 @@
 class _SOLUBLE():
 	def __init__(self,): 
 		self.name = "SOLUBLE"
+		self.definitions = [u'able to be dissolved to form a solution: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

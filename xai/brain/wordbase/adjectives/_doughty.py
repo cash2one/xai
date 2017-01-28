@@ -4,11 +4,12 @@
 class _DOUGHTY():
 	def __init__(self,): 
 		self.name = "DOUGHTY"
+		self.definitions = [u'determined, brave, and unwilling ever to stop trying to achieve something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

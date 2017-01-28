@@ -4,11 +4,12 @@
 class _HYPERCRITICAL():
 	def __init__(self,): 
 		self.name = "HYPERCRITICAL"
+		self.definitions = [u'extremely critical (= too eager to find mistakes in everything)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

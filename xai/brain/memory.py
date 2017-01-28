@@ -108,8 +108,21 @@ class Word():
                          'verbs':None,
                          'numbers':None,
                          'exclamations':None,
-                         'basics':None,}
-        self.otherform = {}
+                         'otherforms':None,}
+        self.basicbase = {'adjectives':None, 
+                         'adverbs':None,
+                         'conjunctions':None,
+                         'interjections':None,
+                         'nouns':None,
+                         'prepositions':None,
+                         'pronouns':None,
+                         'verbs':None,
+                         'numbers':None,
+                         'exclamations':None,
+                         'otherforms':None,}
+        self.otherforms = {}
+        #
+        self.build_word_basic()
         #
         self.load_wordbase()
         pass
@@ -137,12 +150,34 @@ class Word():
             with open(filename, 'w') as file:
                 file.write(jsonword)
             file.close()
-            if specie == 'basics':
+            if specie == 'otherforms':
                 filename = self.file.pwd + '/xai/brain/wordbase/{0}/{0}_1.dat'.format(specie)
-                jsonword = json.dumps(self.otherform, indent=4, sort_keys=True, separators=(',', ': '))
+                jsonword = json.dumps(self.otherforms, indent=4, sort_keys=True, separators=(',', ': '))
                 with open(filename, 'w') as file:
                     file.write(jsonword)
                 file.close()
+    #
+    def build_word_basic(self, ):
+        '''
+        '''
+        import json
+        # read basicbase
+        for specie in self.basicbase:
+            filename = self.file.pwd + '/xai/brain/basicbase/{0}/{0}.dat'.format(specie)
+            if not os.path.exists(filename):
+                self.basicbase[specie] = {}
+            else:
+                with open(filename) as file:
+                    print(filename)
+                    self.basicbase[specie] = json.load(file)
+                file.close()
+        #update
+        for specie in self.wordbase:
+            self.wordbase[specie] = self.basicbase[specie]
+        #
+        # print(self.wordbase)
+
+
     #
     def build_word(self,jsonword):
         '''
@@ -156,28 +191,29 @@ class Word():
                 # print(specie)
                 # print(self.definitions)
                 self.builder()
-                if specie == 'basic':
-                    self.otherform[self.word]  = self.definitions
+                if specie == 'otherform':
+                    self.otherforms[self.word]  = self.definitions
         self.save_wordbase()
     #
-    def build_word_basic(self, ):
+    def build_word_otherform(self, ):
         '''
         '''
         # read otherform
         import json
-        specie = 'basics'
+        specie = 'otherforms'
         filename = self.file.pwd + '/xai/brain/wordbase/{0}/{0}_1.dat'.format(specie)
         if not os.path.exists(filename):
-            self.otherform = {}
+            self.otherforms = {}
         else:
             with open(filename) as file:
-                self.otherform = json.load(file)
+                self.otherforms = json.load(file)
             file.close()
+        # print(self.otherforms)
         i = 0
-        for word in self.otherform:
+        for word in self.otherforms:
             i += 1
             self.word = word
-            wordbasic = self.otherform[word]
+            wordbasic = self.otherforms[word]
             species = self.find_word(wordbasic)
             for specie in species:
                 self.specie = specie
@@ -209,7 +245,7 @@ class _{3}(_{2}, ):
         '''
         species = []
         for specie in self.wordbase:
-            if specie == 'basics':
+            if specie == 'otherforms':
                 continue
             if word in self.wordbase[specie]:
                 species.append(specie)
@@ -236,13 +272,14 @@ class _{3}(_{2}, ):
 class _{0}():
 \tdef __init__(self,): 
 \t\tself.name = "{0}"
+\t\tself.definitions = {1}
+
 \t\tself.parents = []
 \t\tself.childen = []
 \t\tself.properties = []
 \t\tself.jsondata = {{}}
 
-
-'''.format(self.word.upper()) + class_body
+'''.format(self.word.upper(), self.definitions) + class_body
     #
         filename = self.file.pwd + '/xai/brain/wordbase/{0}/_{1}.py'.format(self.specie, self.word)
         with open(filename, 'w') as file:
@@ -280,7 +317,7 @@ class _{0}():
             self.specie = 'numbers'
             self.builder = self.builder_numb
         elif 'basi' in specie[0:4]:
-            self.specie = 'basics'
+            self.specie = 'otherforms'
             self.builder = self.builder_basi
         elif 'excl' in specie[0:4]:
             self.specie = 'exclamations'
@@ -294,7 +331,6 @@ class _{0}():
         # self.build_class()
         class_body = '''
 \t\tself.specie = 'verbs'
-
 
 \tdef run(self, obj1 = [], obj2 = []):
 \t\treturn self.jsondata
@@ -438,14 +474,17 @@ if __name__ == "__main__":
     file = File()
     mymemory = Memory()
     #==========================================================
-    # # build word class
-    filename = file.pwd + '/xai/words/jsonword/cambtionary.dat'
-    jsonword = eye.read_json(filename)
-    mymemory.word.build_word(jsonword)
-    #==========================================================
-    # build word in basic
+    # build basic word
     # mymemory.word.build_word_basic()
     #==========================================================
+    # # build word class
+    # filename = file.pwd + '/xai/words/jsonword/cambtionary.dat'
+    # jsonword = eye.read_json(filename)
+    # mymemory.word.build_word(jsonword)
+    #==========================================================
+    # build otherform word
+    # mymemory.word.build_word_otherform()
+    #==========================================================
     # modify word
-    jsondata = {'': {'properties': 'inside'}, 'fruit': {'properties': 'long'}, 'skin': {'properties': 'yellow'}, 'inside': {'properties': 'white'}, 'long': {'properties': 'a'}}
-    mymemory.word.modify_word(jsondata)
+    # jsondata = { 'fruit': {'properties': 'long'}}
+    # mymemory.word.modify_word(jsondata)

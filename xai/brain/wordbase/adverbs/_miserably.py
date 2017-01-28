@@ -4,11 +4,12 @@
 class _MISERABLY():
 	def __init__(self,): 
 		self.name = "MISERABLY"
+		self.definitions = [u'feeling or showing unhappiness: ', u'in a way that is very unpleasant and makes you unhappy: ', u'having little value, in a way that is disappointing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

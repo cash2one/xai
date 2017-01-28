@@ -4,11 +4,12 @@
 class _DEBAUCHED():
 	def __init__(self,): 
 		self.name = "DEBAUCHED"
+		self.definitions = [u'made weaker or destroyed by bad sexual behaviour, drinking too much alcohol, taking drugs, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

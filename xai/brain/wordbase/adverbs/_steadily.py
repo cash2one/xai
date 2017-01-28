@@ -4,11 +4,12 @@
 class _STEADILY():
 	def __init__(self,): 
 		self.name = "STEADILY"
+		self.definitions = [u'gradually: ', u'calmly and in a controlled way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _BOXING():
 	def __init__(self,): 
 		self.name = "BOXING"
+		self.definitions = [u'a sport in which two competitors fight by hitting each other with their hands: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

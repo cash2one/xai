@@ -4,11 +4,12 @@
 class _PRECARIOUSLY():
 	def __init__(self,): 
 		self.name = "PRECARIOUSLY"
+		self.definitions = [u'in a way that is likely to fall, be damaged, fail, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

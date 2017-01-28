@@ -4,11 +4,12 @@
 class _SHIPBUILDER():
 	def __init__(self,): 
 		self.name = "SHIPBUILDER"
+		self.definitions = [u'a person or company that builds ships']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

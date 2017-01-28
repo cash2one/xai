@@ -4,11 +4,12 @@
 class _BACKHANDED():
 	def __init__(self,): 
 		self.name = "BACKHANDED"
+		self.definitions = [u'A backhanded remark seems pleasant but may really be a criticism or mean something unkind: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

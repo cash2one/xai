@@ -4,11 +4,12 @@
 class _PHILANTHROPIC():
 	def __init__(self,): 
 		self.name = "PHILANTHROPIC"
+		self.definitions = [u'helping poor people, especially by giving them money']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

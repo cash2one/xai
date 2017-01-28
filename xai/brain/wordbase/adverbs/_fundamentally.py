@@ -4,11 +4,12 @@
 class _FUNDAMENTALLY():
 	def __init__(self,): 
 		self.name = "FUNDAMENTALLY"
+		self.definitions = [u'in a basic and important way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

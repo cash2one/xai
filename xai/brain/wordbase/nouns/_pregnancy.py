@@ -4,11 +4,12 @@
 class _PREGNANCY():
 	def __init__(self,): 
 		self.name = "PREGNANCY"
+		self.definitions = [u'the state of being pregnant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PROFOUNDLY():
 	def __init__(self,): 
 		self.name = "PROFOUNDLY"
+		self.definitions = [u'deeply or extremely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

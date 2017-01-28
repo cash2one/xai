@@ -4,11 +4,12 @@
 class _TRITE():
 	def __init__(self,): 
 		self.name = "TRITE"
+		self.definitions = [u'expressed too often to be interesting or seem sincere: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

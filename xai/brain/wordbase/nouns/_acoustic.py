@@ -4,11 +4,12 @@
 class _ACOUSTIC():
 	def __init__(self,): 
 		self.name = "ACOUSTIC"
+		self.definitions = [u'the way in which the structure of a building or room affects the qualities of musical or spoken sound: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

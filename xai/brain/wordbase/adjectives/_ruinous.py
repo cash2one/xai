@@ -4,11 +4,12 @@
 class _RUINOUS():
 	def __init__(self,): 
 		self.name = "RUINOUS"
+		self.definitions = [u'causing great harm and destruction: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

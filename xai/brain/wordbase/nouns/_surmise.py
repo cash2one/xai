@@ -4,11 +4,12 @@
 class _SURMISE():
 	def __init__(self,): 
 		self.name = "SURMISE"
+		self.definitions = [u'a guess: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

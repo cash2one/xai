@@ -4,11 +4,12 @@
 class _SHIFTY():
 	def __init__(self,): 
 		self.name = "SHIFTY"
+		self.definitions = [u'looking or seeming dishonest: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

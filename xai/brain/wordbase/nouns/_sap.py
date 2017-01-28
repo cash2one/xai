@@ -4,11 +4,12 @@
 class _SAP():
 	def __init__(self,): 
 		self.name = "SAP"
+		self.definitions = [u'the liquid that carries food to all parts of a plant: ', u'a stupid person who can easily be tricked or persuaded to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

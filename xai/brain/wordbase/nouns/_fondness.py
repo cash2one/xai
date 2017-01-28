@@ -4,11 +4,12 @@
 class _FONDNESS():
 	def __init__(self,): 
 		self.name = "FONDNESS"
+		self.definitions = [u'a liking: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

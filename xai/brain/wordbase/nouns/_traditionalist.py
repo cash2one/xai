@@ -4,11 +4,12 @@
 class _TRADITIONALIST():
 	def __init__(self,): 
 		self.name = "TRADITIONALIST"
+		self.definitions = [u'someone who believes in and follows traditional ideas: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

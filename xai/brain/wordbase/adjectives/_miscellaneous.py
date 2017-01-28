@@ -4,11 +4,12 @@
 class _MISCELLANEOUS():
 	def __init__(self,): 
 		self.name = "MISCELLANEOUS"
+		self.definitions = [u'consisting of a mixture of various things that are not usually connected with each other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

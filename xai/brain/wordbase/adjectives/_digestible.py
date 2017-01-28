@@ -4,11 +4,12 @@
 class _DIGESTIBLE():
 	def __init__(self,): 
 		self.name = "DIGESTIBLE"
+		self.definitions = [u'easy to digest', u'easy to understand']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

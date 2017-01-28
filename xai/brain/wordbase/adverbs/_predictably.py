@@ -4,11 +4,12 @@
 class _PREDICTABLY():
 	def __init__(self,): 
 		self.name = "PREDICTABLY"
+		self.definitions = [u'as expected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

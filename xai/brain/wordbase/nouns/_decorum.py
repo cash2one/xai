@@ -4,11 +4,12 @@
 class _DECORUM():
 	def __init__(self,): 
 		self.name = "DECORUM"
+		self.definitions = [u'behaviour that is controlled, calm, and polite: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

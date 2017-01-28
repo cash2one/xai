@@ -4,11 +4,12 @@
 class _UTTER():
 	def __init__(self,): 
 		self.name = "UTTER"
+		self.definitions = [u'complete or extreme: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

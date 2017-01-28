@@ -4,11 +4,12 @@
 class _DELIBERATELY():
 	def __init__(self,): 
 		self.name = "DELIBERATELY"
+		self.definitions = [u'intentionally: ', u'slowly and carefully: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

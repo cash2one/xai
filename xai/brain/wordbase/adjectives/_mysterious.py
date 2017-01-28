@@ -4,11 +4,12 @@
 class _MYSTERIOUS():
 	def __init__(self,): 
 		self.name = "MYSTERIOUS"
+		self.definitions = [u'strange, not known, or not understood: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

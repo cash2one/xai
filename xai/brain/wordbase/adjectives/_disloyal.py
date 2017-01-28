@@ -4,11 +4,12 @@
 class _DISLOYAL():
 	def __init__(self,): 
 		self.name = "DISLOYAL"
+		self.definitions = [u'not supporting someone that you should support: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

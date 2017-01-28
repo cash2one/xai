@@ -4,11 +4,12 @@
 class _UNWELL():
 	def __init__(self,): 
 		self.name = "UNWELL"
+		self.definitions = [u'not well; ill: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

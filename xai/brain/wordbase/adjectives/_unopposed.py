@@ -4,11 +4,12 @@
 class _UNOPPOSED():
 	def __init__(self,): 
 		self.name = "UNOPPOSED"
+		self.definitions = [u'with no one trying to compete against you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

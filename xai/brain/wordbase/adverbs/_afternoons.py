@@ -4,11 +4,12 @@
 class _AFTERNOONS():
 	def __init__(self,): 
 		self.name = "AFTERNOONS"
+		self.definitions = [u'every afternoon or on many afternoons: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

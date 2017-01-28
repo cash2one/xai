@@ -4,11 +4,12 @@
 class _BECOMING():
 	def __init__(self,): 
 		self.name = "BECOMING"
+		self.definitions = [u'used to say that something is attractive and suits the person wearing or doing it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNRUFFLED():
 	def __init__(self,): 
 		self.name = "UNRUFFLED"
+		self.definitions = [u'calm; not nervous or worried, usually despite a difficult situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNDEMANDING():
 	def __init__(self,): 
 		self.name = "UNDEMANDING"
+		self.definitions = [u'not needing a lot of time, energy, or attention: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

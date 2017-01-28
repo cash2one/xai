@@ -4,11 +4,12 @@
 class _DIMINUTIVE():
 	def __init__(self,): 
 		self.name = "DIMINUTIVE"
+		self.definitions = [u'very small: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

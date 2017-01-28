@@ -4,11 +4,12 @@
 class _UNSPORTSMANLIKE():
 	def __init__(self,): 
 		self.name = "UNSPORTSMANLIKE"
+		self.definitions = [u'not showing fairness or respect to other people, especially towards the opposing team or player when playing sport ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

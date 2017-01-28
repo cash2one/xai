@@ -4,11 +4,12 @@
 class _YULETIDE():
 	def __init__(self,): 
 		self.name = "YULETIDE"
+		self.definitions = [u'the period around Christmas: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

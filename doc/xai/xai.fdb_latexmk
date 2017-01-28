@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex xai"] 1485358622 "xai.aux" "xai.bbl" "xai" 1485358623
+["bibtex xai"] 1485568406 "xai.aux" "xai.bbl" "xai" 1485568407
   "/usr/local/texlive/2016/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "refs.bib" 0 -1 0 ""
-  "xai.aux" 1485358623 1864 8c12af265aaba64ff6096332fac2abca ""
+  "xai.aux" 1485568407 1967 a571b53941fbf0b29ea491da61eb7e3a ""
   "xai.bcf" 0 -1 0 ""
   (generated)
   "xai.bbl"
   "xai.blg"
-["pdflatex"] 1485358622 "xai.tex" "xai.pdf" "xai" 1485358623
+["pdflatex"] 1485568406 "xai.tex" "xai.pdf" "xai" 1485568407
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136768653 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -143,17 +143,18 @@
   "XAIlogo.jpg" 1485357926 31855 04be079f89323bf72cf1cf1819e00685 ""
   "XAIlogo.sty" 1485357961 273 5587949e2edec9f4bfbc05cbfee0bd7b ""
   "appendix.tex" 1484901068 137 0cfa158d8ce788db7b2bdc3398fd7194 ""
-  "body/body.tex" 1485358400 297 61302f8f36947228304984e835837b6e ""
+  "body/body.tex" 1485568402 225 5179e708d27c726d05f319b2746c143c ""
+  "body/python.tex" 1485568280 740 877e3281a47e2ffc25760c5c9fd7b858 ""
   "code.sty" 1484901068 2483 c50f14a5c6707c0053cd6c8775459df2 ""
   "extrapackages.tex" 1484901068 1819 bca98a8add98d2e7d4d5e3c3d0dc692d ""
   "introduction.tex" 1485358563 288 f8c4430f2d8901beb1e960a2c28c565c ""
   "layoutsetup.tex" 1485358189 1737 a546a4da3a4c4a279e553afeefeba33a ""
   "macrosetup.tex" 1484901068 715 a1ddf6e00786b21534f8312de88c4feb ""
-  "xai.aux" 1485358623 1864 8c12af265aaba64ff6096332fac2abca ""
+  "xai.aux" 1485568407 1967 a571b53941fbf0b29ea491da61eb7e3a ""
   "xai.bbl" 0 -1 0 "bibtex xai"
-  "xai.out" 1485358623 235 369526a5dc360e63286c9c307e9b56ce ""
-  "xai.tex" 1485358617 3140 40b6590aa6b200fa50096665941e0917 ""
-  "xai.toc" 1485358623 435 28368923dca9f1815f4b2ee104c1f97d ""
+  "xai.out" 1485568407 395 7f327d1652896308b27a946628da92b9 ""
+  "xai.tex" 1485567867 3038 6371404855f319199d60ec306d0075f4 ""
+  "xai.toc" 1485568407 595 18350b8a29600d681332bfec9778d149 ""
   (generated)
   "xai.pdf"
   "xai.out"

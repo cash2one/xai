@@ -4,11 +4,12 @@
 class _TIMESCALE():
 	def __init__(self,): 
 		self.name = "TIMESCALE"
+		self.definitions = [u'the period of time over which something happens: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

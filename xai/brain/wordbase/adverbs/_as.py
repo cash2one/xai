@@ -4,11 +4,12 @@
 class _AS():
 	def __init__(self,): 
 		self.name = "AS"
+		self.definitions = [u'used in comparisons to refer to the degree of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

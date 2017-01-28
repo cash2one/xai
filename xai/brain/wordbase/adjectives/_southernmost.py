@@ -4,11 +4,12 @@
 class _SOUTHERNMOST():
 	def __init__(self,): 
 		self.name = "SOUTHERNMOST"
+		self.definitions = [u'furthest towards the south of an area: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

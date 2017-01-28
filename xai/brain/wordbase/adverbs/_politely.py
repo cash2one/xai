@@ -4,11 +4,12 @@
 class _POLITELY():
 	def __init__(self,): 
 		self.name = "POLITELY"
+		self.definitions = [u'in a polite way: ', u'without enthusiasm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

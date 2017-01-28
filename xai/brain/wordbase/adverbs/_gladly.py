@@ -4,11 +4,12 @@
 class _GLADLY():
 	def __init__(self,): 
 		self.name = "GLADLY"
+		self.definitions = [u'willingly or happily: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

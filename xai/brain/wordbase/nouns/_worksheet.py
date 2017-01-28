@@ -4,11 +4,12 @@
 class _WORKSHEET():
 	def __init__(self,): 
 		self.name = "WORKSHEET"
+		self.definitions = [u'a piece of paper with questions and exercises for students']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

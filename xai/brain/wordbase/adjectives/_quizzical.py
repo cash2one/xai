@@ -4,11 +4,12 @@
 class _QUIZZICAL():
 	def __init__(self,): 
 		self.name = "QUIZZICAL"
+		self.definitions = [u'seeming to ask a question without saying anything: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

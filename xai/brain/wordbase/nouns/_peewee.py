@@ -4,11 +4,12 @@
 class _PEEWEE():
 	def __init__(self,): 
 		self.name = "PEEWEE"
+		self.definitions = [u'someone or something very small: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

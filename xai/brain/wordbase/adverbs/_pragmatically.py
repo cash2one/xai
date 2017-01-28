@@ -4,11 +4,12 @@
 class _PRAGMATICALLY():
 	def __init__(self,): 
 		self.name = "PRAGMATICALLY"
+		self.definitions = [u'in a pragmatic way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

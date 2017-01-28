@@ -4,11 +4,12 @@
 class _WHALER():
 	def __init__(self,): 
 		self.name = "WHALER"
+		self.definitions = [u'a boat that is designed for hunting whales, or a person who works on such a boat']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

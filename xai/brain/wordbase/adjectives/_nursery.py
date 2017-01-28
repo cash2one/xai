@@ -4,11 +4,12 @@
 class _NURSERY():
 	def __init__(self,): 
 		self.name = "NURSERY"
+		self.definitions = [u'relating to the teaching of children who are between the ages of two or three to five years old: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

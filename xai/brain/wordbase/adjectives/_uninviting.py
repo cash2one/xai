@@ -4,11 +4,12 @@
 class _UNINVITING():
 	def __init__(self,): 
 		self.name = "UNINVITING"
+		self.definitions = [u'(especially of a place) not attractive']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

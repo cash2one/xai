@@ -4,11 +4,12 @@
 class _DISOBEDIENT():
 	def __init__(self,): 
 		self.name = "DISOBEDIENT"
+		self.definitions = [u'refusing to do what someone in authority tells you to do: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

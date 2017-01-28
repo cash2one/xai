@@ -4,11 +4,12 @@
 class _DEBATABLE():
 	def __init__(self,): 
 		self.name = "DEBATABLE"
+		self.definitions = [u'not clear or certain because different people may have different opinions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

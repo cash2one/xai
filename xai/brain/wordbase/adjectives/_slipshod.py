@@ -4,11 +4,12 @@
 class _SLIPSHOD():
 	def __init__(self,): 
 		self.name = "SLIPSHOD"
+		self.definitions = [u'(especially of a piece of work) showing little care, effort, or attention: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

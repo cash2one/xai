@@ -4,11 +4,12 @@
 class _MET():
 	def __init__(self,): 
 		self.name = "MET"
+		self.definitions = [u'informal for  meteorological ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

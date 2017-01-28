@@ -4,11 +4,12 @@
 class _NOVELIST():
 	def __init__(self,): 
 		self.name = "NOVELIST"
+		self.definitions = [u'a person who writes novels']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

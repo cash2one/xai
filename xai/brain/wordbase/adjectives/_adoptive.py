@@ -4,11 +4,12 @@
 class _ADOPTIVE():
 	def __init__(self,): 
 		self.name = "ADOPTIVE"
+		self.definitions = [u'An adoptive parent is one who has adopted a child.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

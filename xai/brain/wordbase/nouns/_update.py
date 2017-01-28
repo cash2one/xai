@@ -4,11 +4,12 @@
 class _UPDATE():
 	def __init__(self,): 
 		self.name = "UPDATE"
+		self.definitions = [u'an act of updating something or someone with new information: ', u'a new form of something that existed at an earlier time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

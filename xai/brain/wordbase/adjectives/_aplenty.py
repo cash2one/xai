@@ -4,11 +4,12 @@
 class _APLENTY():
 	def __init__(self,): 
 		self.name = "APLENTY"
+		self.definitions = [u'available in large amounts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

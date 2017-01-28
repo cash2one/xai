@@ -4,11 +4,12 @@
 class _DOLLOP():
 	def __init__(self,): 
 		self.name = "DOLLOP"
+		self.definitions = [u'a small amount of something soft, especially food: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

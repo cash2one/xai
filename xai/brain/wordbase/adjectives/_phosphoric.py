@@ -4,11 +4,12 @@
 class _PHOSPHORIC():
 	def __init__(self,): 
 		self.name = "PHOSPHORIC"
+		self.definitions = [u'of or containing phosphorus: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

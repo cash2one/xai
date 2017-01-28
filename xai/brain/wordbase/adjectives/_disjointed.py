@@ -4,11 +4,12 @@
 class _DISJOINTED():
 	def __init__(self,): 
 		self.name = "DISJOINTED"
+		self.definitions = [u'(especially of words or ideas) not well connected or well ordered: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

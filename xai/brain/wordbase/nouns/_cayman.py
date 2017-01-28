@@ -4,11 +4,12 @@
 class _CAYMAN():
 	def __init__(self,): 
 		self.name = "CAYMAN"
+		self.definitions = [u'an animal similar to an alligator']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

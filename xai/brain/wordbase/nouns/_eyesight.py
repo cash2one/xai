@@ -4,11 +4,12 @@
 class _EYESIGHT():
 	def __init__(self,): 
 		self.name = "EYESIGHT"
+		self.definitions = [u'the ability to see: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

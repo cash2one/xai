@@ -4,11 +4,12 @@
 class _PURR():
 	def __init__(self,): 
 		self.name = "PURR"
+		self.definitions = [u'a purring noise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

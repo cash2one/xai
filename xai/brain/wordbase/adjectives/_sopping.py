@@ -4,11 +4,12 @@
 class _SOPPING():
 	def __init__(self,): 
 		self.name = "SOPPING"
+		self.definitions = [u'extremely wet: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

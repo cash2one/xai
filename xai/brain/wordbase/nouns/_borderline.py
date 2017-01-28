@@ -4,11 +4,12 @@
 class _BORDERLINE():
 	def __init__(self,): 
 		self.name = "BORDERLINE"
+		self.definitions = [u'something that separates two different qualities: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

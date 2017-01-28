@@ -4,11 +4,12 @@
 class _LAVISH():
 	def __init__(self,): 
 		self.name = "LAVISH"
+		self.definitions = [u'large in quantity and expensive or impressive: ', u'very generous: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

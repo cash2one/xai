@@ -4,11 +4,12 @@
 class _DUSKY():
 	def __init__(self,): 
 		self.name = "DUSKY"
+		self.definitions = [u'dark in colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

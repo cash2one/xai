@@ -4,11 +4,12 @@
 class _EVERLASTING():
 	def __init__(self,): 
 		self.name = "EVERLASTING"
+		self.definitions = [u'lasting forever or for a long time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

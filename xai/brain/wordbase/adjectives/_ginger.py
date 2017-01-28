@@ -4,11 +4,12 @@
 class _GINGER():
 	def __init__(self,): 
 		self.name = "GINGER"
+		self.definitions = [u'having a red or orange-brown colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ORPHANAGE():
 	def __init__(self,): 
 		self.name = "ORPHANAGE"
+		self.definitions = [u'a home for children whose parents are dead or unable to care for them']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

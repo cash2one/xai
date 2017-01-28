@@ -4,11 +4,12 @@
 class _PICT():
 	def __init__(self,): 
 		self.name = "PICT"
+		self.definitions = [u'belonging or relating to the Picts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

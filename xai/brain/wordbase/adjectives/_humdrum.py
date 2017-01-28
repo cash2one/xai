@@ -4,11 +4,12 @@
 class _HUMDRUM():
 	def __init__(self,): 
 		self.name = "HUMDRUM"
+		self.definitions = [u'having no excitement, interest, or new and different events: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

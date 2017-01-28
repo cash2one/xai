@@ -4,11 +4,12 @@
 class _WEAPONRY():
 	def __init__(self,): 
 		self.name = "WEAPONRY"
+		self.definitions = [u'weapons in general: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

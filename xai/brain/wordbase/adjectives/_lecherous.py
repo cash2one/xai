@@ -4,11 +4,12 @@
 class _LECHEROUS():
 	def __init__(self,): 
 		self.name = "LECHEROUS"
+		self.definitions = [u'(especially of men) showing a strong sexual interest in someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

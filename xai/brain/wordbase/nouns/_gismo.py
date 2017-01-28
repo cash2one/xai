@@ -4,11 +4,12 @@
 class _GISMO():
 	def __init__(self,): 
 		self.name = "GISMO"
+		self.definitions = [u'another spelling of  gizmo ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

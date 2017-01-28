@@ -4,11 +4,12 @@
 class _STRANGE():
 	def __init__(self,): 
 		self.name = "STRANGE"
+		self.definitions = [u'unusual and unexpected, or difficult to understand: ', u'to feel uncomfortable and not normal or correct: ', u'not known or familiar: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CREATIVE():
 	def __init__(self,): 
 		self.name = "CREATIVE"
+		self.definitions = [u'producing or using original and unusual ideas: ', u'describing or explaining things in unusual ways in order to deceive or give a false impression: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

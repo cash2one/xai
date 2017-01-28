@@ -4,11 +4,12 @@
 class _BODILY():
 	def __init__(self,): 
 		self.name = "BODILY"
+		self.definitions = [u'relating to the human body: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

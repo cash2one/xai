@@ -4,11 +4,12 @@
 class _INDUBITABLE():
 	def __init__(self,): 
 		self.name = "INDUBITABLE"
+		self.definitions = [u'that cannot be doubted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

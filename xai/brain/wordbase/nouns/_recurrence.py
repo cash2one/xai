@@ -4,11 +4,12 @@
 class _RECURRENCE():
 	def __init__(self,): 
 		self.name = "RECURRENCE"
+		self.definitions = [u'the fact of happening again: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

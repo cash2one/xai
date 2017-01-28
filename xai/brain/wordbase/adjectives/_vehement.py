@@ -4,11 +4,12 @@
 class _VEHEMENT():
 	def __init__(self,): 
 		self.name = "VEHEMENT"
+		self.definitions = [u'expressing strong feelings, or shown by strong feelings or great energy or force: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

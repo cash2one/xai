@@ -4,11 +4,12 @@
 class _WAN():
 	def __init__(self,): 
 		self.name = "WAN"
+		self.definitions = [u"(of a person's face) more pale than usual and tired-looking"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

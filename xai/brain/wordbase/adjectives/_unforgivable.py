@@ -4,11 +4,12 @@
 class _UNFORGIVABLE():
 	def __init__(self,): 
 		self.name = "UNFORGIVABLE"
+		self.definitions = [u'(of behaviour) too bad to forgive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

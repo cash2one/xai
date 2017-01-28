@@ -4,11 +4,12 @@
 class _MALTA():
 	def __init__(self,): 
 		self.name = "MALTA"
+		self.definitions = [u'an island country in the Mediterranean Sea']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

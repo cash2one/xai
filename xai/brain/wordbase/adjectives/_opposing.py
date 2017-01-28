@@ -4,11 +4,12 @@
 class _OPPOSING():
 	def __init__(self,): 
 		self.name = "OPPOSING"
+		self.definitions = [u'competing or fighting against each other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

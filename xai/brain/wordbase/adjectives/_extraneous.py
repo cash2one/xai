@@ -4,11 +4,12 @@
 class _EXTRANEOUS():
 	def __init__(self,): 
 		self.name = "EXTRANEOUS"
+		self.definitions = [u'not directly connected with or related to something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

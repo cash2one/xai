@@ -4,11 +4,12 @@
 class _CARBONIFEROUS():
 	def __init__(self,): 
 		self.name = "CARBONIFEROUS"
+		self.definitions = [u'containing or producing carbon: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

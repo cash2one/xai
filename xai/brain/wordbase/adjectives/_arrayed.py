@@ -4,11 +4,12 @@
 class _ARRAYED():
 	def __init__(self,): 
 		self.name = "ARRAYED"
+		self.definitions = [u'dressed in a particular way, especially in beautiful clothes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

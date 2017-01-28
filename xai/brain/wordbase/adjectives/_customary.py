@@ -4,11 +4,12 @@
 class _CUSTOMARY():
 	def __init__(self,): 
 		self.name = "CUSTOMARY"
+		self.definitions = [u'usual: ', u'traditional: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

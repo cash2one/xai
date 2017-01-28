@@ -4,11 +4,12 @@
 class _THIRDLY():
 	def __init__(self,): 
 		self.name = "THIRDLY"
+		self.definitions = [u'used in order to introduce the third thing in a list: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

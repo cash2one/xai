@@ -4,11 +4,12 @@
 class _DERISIVE():
 	def __init__(self,): 
 		self.name = "DERISIVE"
+		self.definitions = [u'showing derision: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

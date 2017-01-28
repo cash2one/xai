@@ -4,11 +4,12 @@
 class _ACRIMONIOUS():
 	def __init__(self,): 
 		self.name = "ACRIMONIOUS"
+		self.definitions = [u'full of anger, arguments, and bad feeling: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

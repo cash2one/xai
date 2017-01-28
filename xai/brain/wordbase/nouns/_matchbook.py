@@ -4,11 +4,12 @@
 class _MATCHBOOK():
 	def __init__(self,): 
 		self.name = "MATCHBOOK"
+		self.definitions = [u'a small folded piece of cardboard containing cardboard matches']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

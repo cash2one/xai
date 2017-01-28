@@ -4,11 +4,12 @@
 class _DESCENDING():
 	def __init__(self,): 
 		self.name = "DESCENDING"
+		self.definitions = [u'used to refer to a body part that is in a downward direction: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

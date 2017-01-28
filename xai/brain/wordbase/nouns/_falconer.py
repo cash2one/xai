@@ -4,11 +4,12 @@
 class _FALCONER():
 	def __init__(self,): 
 		self.name = "FALCONER"
+		self.definitions = [u'a person who keeps and often trains falcons for hunting']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

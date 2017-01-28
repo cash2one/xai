@@ -4,11 +4,12 @@
 class _INANIMATE():
 	def __init__(self,): 
 		self.name = "INANIMATE"
+		self.definitions = [u'having none of the characteristics of life that an animal or plant has: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SEASONABLE():
 	def __init__(self,): 
 		self.name = "SEASONABLE"
+		self.definitions = [u'expected at or suitable for a particular time of the year: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

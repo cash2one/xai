@@ -4,11 +4,12 @@
 class _MICROCHIP():
 	def __init__(self,): 
 		self.name = "MICROCHIP"
+		self.definitions = [u'a  chip noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _CRAWFISH():
 	def __init__(self,): 
 		self.name = "CRAWFISH"
+		self.definitions = [u'a  crayfish ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

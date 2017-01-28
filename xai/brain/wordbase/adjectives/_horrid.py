@@ -4,11 +4,12 @@
 class _HORRID():
 	def __init__(self,): 
 		self.name = "HORRID"
+		self.definitions = [u'unpleasant or unkind: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

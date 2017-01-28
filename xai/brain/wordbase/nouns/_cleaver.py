@@ -4,11 +4,12 @@
 class _CLEAVER():
 	def __init__(self,): 
 		self.name = "CLEAVER"
+		self.definitions = [u'a heavy knife with a large square blade: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _UNLUCKY():
 	def __init__(self,): 
 		self.name = "UNLUCKY"
+		self.definitions = [u'not lucky: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WATCHMAN():
 	def __init__(self,): 
 		self.name = "WATCHMAN"
+		self.definitions = [u'a person who is employed to guard a building or several buildings']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

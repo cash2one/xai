@@ -4,11 +4,12 @@
 class _SQUEEZER():
 	def __init__(self,): 
 		self.name = "SQUEEZER"
+		self.definitions = [u'a device that removes the juice from fruit by pressing it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

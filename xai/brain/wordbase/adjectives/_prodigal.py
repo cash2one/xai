@@ -4,11 +4,12 @@
 class _PRODIGAL():
 	def __init__(self,): 
 		self.name = "PRODIGAL"
+		self.definitions = [u'spending large amounts of money without thinking of the future, in a way that is not wise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

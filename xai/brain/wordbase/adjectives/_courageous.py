@@ -4,11 +4,12 @@
 class _COURAGEOUS():
 	def __init__(self,): 
 		self.name = "COURAGEOUS"
+		self.definitions = [u'having or showing courage: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WIENER():
 	def __init__(self,): 
 		self.name = "WIENER"
+		self.definitions = [u'a frankfurter (= thin, red-brown sausage)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

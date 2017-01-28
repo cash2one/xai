@@ -4,11 +4,12 @@
 class _CONTENTED():
 	def __init__(self,): 
 		self.name = "CONTENTED"
+		self.definitions = [u'happy and satisfied: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

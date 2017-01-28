@@ -4,11 +4,12 @@
 class _INGENIOUS():
 	def __init__(self,): 
 		self.name = "INGENIOUS"
+		self.definitions = [u'(of a person) very intelligent and skilful, or (of a thing) skilfully made or planned and involving new ideas and methods: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

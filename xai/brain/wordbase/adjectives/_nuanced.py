@@ -4,11 +4,12 @@
 class _NUANCED():
 	def __init__(self,): 
 		self.name = "NUANCED"
+		self.definitions = [u'made slightly different in appearance, meaning, sound, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

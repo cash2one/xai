@@ -4,11 +4,12 @@
 class _NIX():
 	def __init__(self,): 
 		self.name = "NIX"
+		self.definitions = [u'nothing or no: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

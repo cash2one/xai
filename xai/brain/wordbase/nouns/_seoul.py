@@ -4,11 +4,12 @@
 class _SEOUL():
 	def __init__(self,): 
 		self.name = "SEOUL"
+		self.definitions = [u'the capital city of South Korea, situated in the northwest of the country ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _EXCEPTING():
 	def __init__(self,): 
 		self.name = "EXCEPTING"
+		self.definitions = [u'not including: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

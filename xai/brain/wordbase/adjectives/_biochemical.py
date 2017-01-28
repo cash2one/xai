@@ -4,11 +4,12 @@
 class _BIOCHEMICAL():
 	def __init__(self,): 
 		self.name = "BIOCHEMICAL"
+		self.definitions = [u'connected with the chemistry of living things']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

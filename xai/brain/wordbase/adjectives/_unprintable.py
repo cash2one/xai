@@ -4,11 +4,12 @@
 class _UNPRINTABLE():
 	def __init__(self,): 
 		self.name = "UNPRINTABLE"
+		self.definitions = [u'containing offensive language and therefore not acceptable in printed form, for example in a newspaper: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BRAVERY():
 	def __init__(self,): 
 		self.name = "BRAVERY"
+		self.definitions = [u'brave behaviour or actions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

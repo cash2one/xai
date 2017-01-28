@@ -4,11 +4,12 @@
 class _UNDERLYING():
 	def __init__(self,): 
 		self.name = "UNDERLYING"
+		self.definitions = [u'real but not immediately obvious: ', u'used to describe something on which something else is based: ', u'positioned under the surface of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

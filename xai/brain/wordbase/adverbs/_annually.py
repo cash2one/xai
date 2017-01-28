@@ -4,11 +4,12 @@
 class _ANNUALLY():
 	def __init__(self,): 
 		self.name = "ANNUALLY"
+		self.definitions = [u'once every year: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

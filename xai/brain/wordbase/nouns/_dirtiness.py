@@ -4,11 +4,12 @@
 class _DIRTINESS():
 	def __init__(self,): 
 		self.name = "DIRTINESS"
+		self.definitions = [u'the state of being dirty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

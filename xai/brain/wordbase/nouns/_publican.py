@@ -4,11 +4,12 @@
 class _PUBLICAN():
 	def __init__(self,): 
 		self.name = "PUBLICAN"
+		self.definitions = [u'the manager of a pub']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

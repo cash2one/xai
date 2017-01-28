@@ -4,11 +4,12 @@
 class _TOASTY():
 	def __init__(self,): 
 		self.name = "TOASTY"
+		self.definitions = [u'a sandwich that has been toasted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

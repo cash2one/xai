@@ -4,11 +4,12 @@
 class _RABID():
 	def __init__(self,): 
 		self.name = "RABID"
+		self.definitions = [u'suffering from rabies: ', u'having and expressing extreme and unreasonable feelings: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

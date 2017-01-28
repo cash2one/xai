@@ -4,11 +4,12 @@
 class _FORECASTER():
 	def __init__(self,): 
 		self.name = "FORECASTER"
+		self.definitions = [u'a person who tells you what particular conditions are expected to be like: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

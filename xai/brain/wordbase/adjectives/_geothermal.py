@@ -4,11 +4,12 @@
 class _GEOTHERMAL():
 	def __init__(self,): 
 		self.name = "GEOTHERMAL"
+		self.definitions = [u'of or connected with the heat inside the earth: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

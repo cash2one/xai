@@ -4,11 +4,12 @@
 class _SNOBBISH():
 	def __init__(self,): 
 		self.name = "SNOBBISH"
+		self.definitions = [u'like a snob: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

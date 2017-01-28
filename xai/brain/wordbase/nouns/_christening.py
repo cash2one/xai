@@ -4,11 +4,12 @@
 class _CHRISTENING():
 	def __init__(self,): 
 		self.name = "CHRISTENING"
+		self.definitions = [u'a Christian ceremony at which a baby is given a name and made a member of the Christian Church: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PULCHRITUDE():
 	def __init__(self,): 
 		self.name = "PULCHRITUDE"
+		self.definitions = [u"beauty, especially a woman's beauty"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

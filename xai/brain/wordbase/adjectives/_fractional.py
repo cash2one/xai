@@ -4,11 +4,12 @@
 class _FRACTIONAL():
 	def __init__(self,): 
 		self.name = "FRACTIONAL"
+		self.definitions = [u'extremely small: ', u'relating to only a part of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

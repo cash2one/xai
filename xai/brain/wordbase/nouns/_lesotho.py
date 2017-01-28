@@ -4,11 +4,12 @@
 class _LESOTHO():
 	def __init__(self,): 
 		self.name = "LESOTHO"
+		self.definitions = [u'a country in southern Africa']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

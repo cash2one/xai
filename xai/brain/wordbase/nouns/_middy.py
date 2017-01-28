@@ -4,11 +4,12 @@
 class _MIDDY():
 	def __init__(self,): 
 		self.name = "MIDDY"
+		self.definitions = [u'a beer glass of medium size, containing 285 ml']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

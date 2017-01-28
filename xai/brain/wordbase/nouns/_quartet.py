@@ -4,11 +4,12 @@
 class _QUARTET():
 	def __init__(self,): 
 		self.name = "QUARTET"
+		self.definitions = [u'a group of four people who play musical instruments or sing as a group: ', u'a piece of music written for four people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _GOVERNORSHIP():
 	def __init__(self,): 
 		self.name = "GOVERNORSHIP"
+		self.definitions = [u'the period of time that someone is a governor: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

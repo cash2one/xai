@@ -4,11 +4,12 @@
 class _TENTH():
 	def __init__(self,): 
 		self.name = "TENTH"
+		self.definitions = [u'one of ten equal parts of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

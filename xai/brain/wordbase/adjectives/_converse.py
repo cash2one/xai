@@ -4,11 +4,12 @@
 class _CONVERSE():
 	def __init__(self,): 
 		self.name = "CONVERSE"
+		self.definitions = [u'opposite: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

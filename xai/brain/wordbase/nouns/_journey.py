@@ -4,11 +4,12 @@
 class _JOURNEY():
 	def __init__(self,): 
 		self.name = "JOURNEY"
+		self.definitions = [u'the act of travelling from one place to another, especially in a vehicle: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PERTINENT():
 	def __init__(self,): 
 		self.name = "PERTINENT"
+		self.definitions = [u'relating directly to the subject being considered: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

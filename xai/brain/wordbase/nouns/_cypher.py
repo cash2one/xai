@@ -4,11 +4,12 @@
 class _CYPHER():
 	def __init__(self,): 
 		self.name = "CYPHER"
+		self.definitions = [u'another spelling of  cipher ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

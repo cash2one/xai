@@ -4,11 +4,12 @@
 class _SUBTOTAL():
 	def __init__(self,): 
 		self.name = "SUBTOTAL"
+		self.definitions = [u'the total of one set of numbers to which other numbers will be added: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

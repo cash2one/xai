@@ -4,11 +4,12 @@
 class _SO():
 	def __init__(self,): 
 		self.name = "SO"
+		self.definitions = [u'perfectly tidy and well arranged: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

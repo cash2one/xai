@@ -4,11 +4,12 @@
 class _HEREBY():
 	def __init__(self,): 
 		self.name = "HEREBY"
+		self.definitions = [u'with these words or with this action: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _SKIT():
 	def __init__(self,): 
 		self.name = "SKIT"
+		self.definitions = [u'a short, funny play that makes a joke of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

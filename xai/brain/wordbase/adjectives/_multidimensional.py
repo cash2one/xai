@@ -4,11 +4,12 @@
 class _MULTIDIMENSIONAL():
 	def __init__(self,): 
 		self.name = "MULTIDIMENSIONAL"
+		self.definitions = [u'having many different features: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

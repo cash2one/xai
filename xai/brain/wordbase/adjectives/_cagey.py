@@ -4,11 +4,12 @@
 class _CAGEY():
 	def __init__(self,): 
 		self.name = "CAGEY"
+		self.definitions = [u'unwilling to give information: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

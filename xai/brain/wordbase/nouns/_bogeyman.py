@@ -4,11 +4,12 @@
 class _BOGEYMAN():
 	def __init__(self,): 
 		self.name = "BOGEYMAN"
+		self.definitions = [u'an imaginary evil person who harms children: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

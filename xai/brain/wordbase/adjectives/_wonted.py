@@ -4,11 +4,12 @@
 class _WONTED():
 	def __init__(self,): 
 		self.name = "WONTED"
+		self.definitions = [u'usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

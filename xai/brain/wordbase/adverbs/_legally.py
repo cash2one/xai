@@ -4,11 +4,12 @@
 class _LEGALLY():
 	def __init__(self,): 
 		self.name = "LEGALLY"
+		self.definitions = [u'as stated by the law: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

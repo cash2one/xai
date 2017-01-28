@@ -4,11 +4,12 @@
 class _OCCULT():
 	def __init__(self,): 
 		self.name = "OCCULT"
+		self.definitions = [u'relating to magical powers and activities, such as those of witchcraft and astrology: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HISTOGRAM():
 	def __init__(self,): 
 		self.name = "HISTOGRAM"
+		self.definitions = [u'a  bar chart ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

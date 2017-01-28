@@ -4,11 +4,12 @@
 class _GLOWING():
 	def __init__(self,): 
 		self.name = "GLOWING"
+		self.definitions = [u'praising with enthusiasm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

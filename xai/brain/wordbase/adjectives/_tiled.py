@@ -4,11 +4,12 @@
 class _TILED():
 	def __init__(self,): 
 		self.name = "TILED"
+		self.definitions = [u'(of a surface) covered with tiles: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _REPENTANT():
 	def __init__(self,): 
 		self.name = "REPENTANT"
+		self.definitions = [u'feeling sorry for something that you have done']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

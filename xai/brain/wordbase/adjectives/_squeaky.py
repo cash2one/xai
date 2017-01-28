@@ -4,11 +4,12 @@
 class _SQUEAKY():
 	def __init__(self,): 
 		self.name = "SQUEAKY"
+		self.definitions = [u'making a very high sound', u'only just succeeding in a game, competition, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

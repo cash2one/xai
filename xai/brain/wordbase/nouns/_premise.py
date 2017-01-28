@@ -4,11 +4,12 @@
 class _PREMISE():
 	def __init__(self,): 
 		self.name = "PREMISE"
+		self.definitions = [u'an idea or theory on which a statement or action is based: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

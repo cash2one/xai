@@ -4,11 +4,12 @@
 class _PROPORTIONED():
 	def __init__(self,): 
 		self.name = "PROPORTIONED"
+		self.definitions = [u'having parts of the size or shape that is described: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

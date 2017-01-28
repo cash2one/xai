@@ -4,11 +4,12 @@
 class _ETHNOLOGICAL():
 	def __init__(self,): 
 		self.name = "ETHNOLOGICAL"
+		self.definitions = [u'relating to ethnology']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

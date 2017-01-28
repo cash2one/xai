@@ -4,11 +4,12 @@
 class _CARDIAC():
 	def __init__(self,): 
 		self.name = "CARDIAC"
+		self.definitions = [u'of the heart or heart disease']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WOMANKIND():
 	def __init__(self,): 
 		self.name = "WOMANKIND"
+		self.definitions = [u'female humans in general: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

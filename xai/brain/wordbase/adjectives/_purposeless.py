@@ -4,11 +4,12 @@
 class _PURPOSELESS():
 	def __init__(self,): 
 		self.name = "PURPOSELESS"
+		self.definitions = [u'done without a clear intention: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

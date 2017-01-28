@@ -4,11 +4,12 @@
 class _PAINSTAKINGLY():
 	def __init__(self,): 
 		self.name = "PAINSTAKINGLY"
+		self.definitions = [u'in a way that shows you have taken a lot of care or made a lot of effort: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

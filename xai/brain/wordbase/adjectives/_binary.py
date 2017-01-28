@@ -4,11 +4,12 @@
 class _BINARY():
 	def __init__(self,): 
 		self.name = "BINARY"
+		self.definitions = [u'consisting of two parts']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

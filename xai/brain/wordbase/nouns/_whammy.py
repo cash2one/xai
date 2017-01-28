@@ -4,11 +4,12 @@
 class _WHAMMY():
 	def __init__(self,): 
 		self.name = "WHAMMY"
+		self.definitions = [u'a magical spell or power that causes someone to have a difficult or unpleasant time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

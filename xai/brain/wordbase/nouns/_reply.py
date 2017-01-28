@@ -4,11 +4,12 @@
 class _REPLY():
 	def __init__(self,): 
 		self.name = "REPLY"
+		self.definitions = [u'an answer: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

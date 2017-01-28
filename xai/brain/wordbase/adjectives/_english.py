@@ -4,11 +4,12 @@
 class _ENGLISH():
 	def __init__(self,): 
 		self.name = "ENGLISH"
+		self.definitions = [u'in or relating to the English language: ', u'relating to or from England: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

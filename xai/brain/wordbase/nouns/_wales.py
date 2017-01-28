@@ -4,11 +4,12 @@
 class _WALES():
 	def __init__(self,): 
 		self.name = "WALES"
+		self.definitions = [u'a country that is part of the United Kingdom']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

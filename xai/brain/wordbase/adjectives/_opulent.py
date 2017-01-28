@@ -4,11 +4,12 @@
 class _OPULENT():
 	def __init__(self,): 
 		self.name = "OPULENT"
+		self.definitions = [u'expensive and luxurious: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

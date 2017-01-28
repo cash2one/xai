@@ -4,11 +4,12 @@
 class _STRUGGLING():
 	def __init__(self,): 
 		self.name = "STRUGGLING"
+		self.definitions = [u'unsuccessful but trying hard to succeed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

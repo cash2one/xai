@@ -4,11 +4,12 @@
 class _SALEABLE():
 	def __init__(self,): 
 		self.name = "SALEABLE"
+		self.definitions = [u'easy to sell or suitable for selling: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

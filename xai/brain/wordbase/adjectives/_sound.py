@@ -4,11 +4,12 @@
 class _SOUND():
 	def __init__(self,): 
 		self.name = "SOUND"
+		self.definitions = [u'not broken or damaged; healthy; in good condition: ', u'showing good judgment; able to be trusted: ', u'complete: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

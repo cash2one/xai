@@ -4,11 +4,12 @@
 class _JAZZY():
 	def __init__(self,): 
 		self.name = "JAZZY"
+		self.definitions = [u'very bright and colourful: ', u'in the style of jazz music']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

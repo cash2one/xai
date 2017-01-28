@@ -4,11 +4,12 @@
 class _CLIMATE():
 	def __init__(self,): 
 		self.name = "CLIMATE"
+		self.definitions = [u'relating to climate change: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

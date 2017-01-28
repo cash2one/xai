@@ -4,11 +4,12 @@
 class _LIFELESS():
 	def __init__(self,): 
 		self.name = "LIFELESS"
+		self.definitions = [u'dead: ', u'showing little energy or interest: ', u'not filled with or used by people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

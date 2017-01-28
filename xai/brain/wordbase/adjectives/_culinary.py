@@ -4,11 +4,12 @@
 class _CULINARY():
 	def __init__(self,): 
 		self.name = "CULINARY"
+		self.definitions = [u'connected with cooking or kitchens: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

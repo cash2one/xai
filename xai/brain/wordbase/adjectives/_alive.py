@@ -4,11 +4,12 @@
 class _ALIVE():
 	def __init__(self,): 
 		self.name = "ALIVE"
+		self.definitions = [u'living, not dead: ', u'If something is alive, it continues to exist: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

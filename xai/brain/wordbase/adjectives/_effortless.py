@@ -4,11 +4,12 @@
 class _EFFORTLESS():
 	def __init__(self,): 
 		self.name = "EFFORTLESS"
+		self.definitions = [u'seeming not to need any effort: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MICROCOMPUTER():
 	def __init__(self,): 
 		self.name = "MICROCOMPUTER"
+		self.definitions = [u'a small computer containing a microprocessor (= part that controls operations)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

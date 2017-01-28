@@ -4,11 +4,12 @@
 class _ROLLING():
 	def __init__(self,): 
 		self.name = "ROLLING"
+		self.definitions = [u'gradual: ', u'(of hills) gently rising and falling: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

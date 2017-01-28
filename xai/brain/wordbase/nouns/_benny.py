@@ -4,11 +4,12 @@
 class _BENNY():
 	def __init__(self,): 
 		self.name = "BENNY"
+		self.definitions = [u'a sudden period of uncontrolled anger']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

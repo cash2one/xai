@@ -4,11 +4,12 @@
 class _FOREFOOT():
 	def __init__(self,): 
 		self.name = "FOREFOOT"
+		self.definitions = [u'one of the two front feet of an animal with four legs']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

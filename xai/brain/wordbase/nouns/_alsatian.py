@@ -4,11 +4,12 @@
 class _ALSATIAN():
 	def __init__(self,): 
 		self.name = "ALSATIAN"
+		self.definitions = [u'a  German shepherd ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _FEASIBLE():
 	def __init__(self,): 
 		self.name = "FEASIBLE"
+		self.definitions = [u'able to be made, done, or achieved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

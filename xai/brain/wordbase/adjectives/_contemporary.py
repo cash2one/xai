@@ -4,11 +4,12 @@
 class _CONTEMPORARY():
 	def __init__(self,): 
 		self.name = "CONTEMPORARY"
+		self.definitions = [u'existing or happening now: ', u'belonging to the same or a stated period in the past: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

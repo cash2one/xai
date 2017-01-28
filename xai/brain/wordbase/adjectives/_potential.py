@@ -4,11 +4,12 @@
 class _POTENTIAL():
 	def __init__(self,): 
 		self.name = "POTENTIAL"
+		self.definitions = [u'possible when the necessary conditions exist: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

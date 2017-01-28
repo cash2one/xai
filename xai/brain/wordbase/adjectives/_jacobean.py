@@ -4,11 +4,12 @@
 class _JACOBEAN():
 	def __init__(self,): 
 		self.name = "JACOBEAN"
+		self.definitions = [u'relating to the period from 1603 to 1625 when James I was king of England: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

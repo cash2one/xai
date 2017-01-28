@@ -4,11 +4,12 @@
 class _GAUDY():
 	def __init__(self,): 
 		self.name = "GAUDY"
+		self.definitions = [u'unpleasantly bright in colour or decoration: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

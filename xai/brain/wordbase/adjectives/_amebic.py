@@ -4,11 +4,12 @@
 class _AMEBIC():
 	def __init__(self,): 
 		self.name = "AMEBIC"
+		self.definitions = [u'US spelling of  amoebic (amoeba) ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

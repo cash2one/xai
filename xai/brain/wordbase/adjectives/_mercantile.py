@@ -4,11 +4,12 @@
 class _MERCANTILE():
 	def __init__(self,): 
 		self.name = "MERCANTILE"
+		self.definitions = [u'related to trade or business']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

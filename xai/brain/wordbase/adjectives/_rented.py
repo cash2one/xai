@@ -4,11 +4,12 @@
 class _RENTED():
 	def __init__(self,): 
 		self.name = "RENTED"
+		self.definitions = [u'used to refer to something that you rent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

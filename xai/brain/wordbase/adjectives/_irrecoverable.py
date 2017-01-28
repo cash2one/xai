@@ -4,11 +4,12 @@
 class _IRRECOVERABLE():
 	def __init__(self,): 
 		self.name = "IRRECOVERABLE"
+		self.definitions = [u'impossible to get back: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

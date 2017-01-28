@@ -4,11 +4,12 @@
 class _SETBACK():
 	def __init__(self,): 
 		self.name = "SETBACK"
+		self.definitions = [u'something that happens that delays or prevents a process from developing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

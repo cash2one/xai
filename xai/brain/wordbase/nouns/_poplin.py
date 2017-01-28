@@ -4,11 +4,12 @@
 class _POPLIN():
 	def __init__(self,): 
 		self.name = "POPLIN"
+		self.definitions = [u'a type of slightly shiny cotton cloth: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _CERISE():
 	def __init__(self,): 
 		self.name = "CERISE"
+		self.definitions = [u'a dark reddish-pink colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

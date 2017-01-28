@@ -4,11 +4,12 @@
 class _PARAMOUNT():
 	def __init__(self,): 
 		self.name = "PARAMOUNT"
+		self.definitions = [u'more important than anything else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

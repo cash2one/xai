@@ -4,11 +4,12 @@
 class _CRAMMED():
 	def __init__(self,): 
 		self.name = "CRAMMED"
+		self.definitions = [u'very full of people or things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

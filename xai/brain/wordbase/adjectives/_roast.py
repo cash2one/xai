@@ -4,11 +4,12 @@
 class _ROAST():
 	def __init__(self,): 
 		self.name = "ROAST"
+		self.definitions = [u'Roast meat or vegetables have been cooked in an oven or over a fire: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

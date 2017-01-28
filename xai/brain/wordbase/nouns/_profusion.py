@@ -4,11 +4,12 @@
 class _PROFUSION():
 	def __init__(self,): 
 		self.name = "PROFUSION"
+		self.definitions = [u'an extremely large amount of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

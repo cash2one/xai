@@ -4,11 +4,12 @@
 class _FETLOCK():
 	def __init__(self,): 
 		self.name = "FETLOCK"
+		self.definitions = [u"the part of a horse's leg at the back, just above the foot, where longer hair grows"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _NEEDLESSLY():
 	def __init__(self,): 
 		self.name = "NEEDLESSLY"
+		self.definitions = [u'in a way that is not necessary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

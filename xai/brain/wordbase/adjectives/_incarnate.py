@@ -4,11 +4,12 @@
 class _INCARNATE():
 	def __init__(self,): 
 		self.name = "INCARNATE"
+		self.definitions = [u'in human form: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

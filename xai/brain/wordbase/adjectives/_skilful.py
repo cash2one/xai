@@ -4,11 +4,12 @@
 class _SKILFUL():
 	def __init__(self,): 
 		self.name = "SKILFUL"
+		self.definitions = [u'good at doing something, especially because you have practised doing it: ', u'done or made very well: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

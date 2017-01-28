@@ -4,11 +4,12 @@
 class _DEAD():
 	def __init__(self,): 
 		self.name = "DEAD"
+		self.definitions = [u'dead people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _CIRCUITOUS():
 	def __init__(self,): 
 		self.name = "CIRCUITOUS"
+		self.definitions = [u'not straight or direct: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

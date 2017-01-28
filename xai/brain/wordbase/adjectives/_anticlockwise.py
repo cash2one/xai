@@ -4,11 +4,12 @@
 class _ANTICLOCKWISE():
 	def __init__(self,): 
 		self.name = "ANTICLOCKWISE"
+		self.definitions = [u'in the opposite direction to the movement of the hands of a clock: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

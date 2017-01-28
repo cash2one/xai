@@ -4,11 +4,12 @@
 class _TYPEWRITTEN():
 	def __init__(self,): 
 		self.name = "TYPEWRITTEN"
+		self.definitions = [u'printed using a typewriter or computer: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

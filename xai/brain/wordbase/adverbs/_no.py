@@ -4,11 +4,12 @@
 class _NO():
 	def __init__(self,): 
 		self.name = "NO"
+		self.definitions = [u'used to give negative answers: ', u'not; not any: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

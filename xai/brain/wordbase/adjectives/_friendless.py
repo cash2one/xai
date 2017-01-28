@@ -4,11 +4,12 @@
 class _FRIENDLESS():
 	def __init__(self,): 
 		self.name = "FRIENDLESS"
+		self.definitions = [u'without friends: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

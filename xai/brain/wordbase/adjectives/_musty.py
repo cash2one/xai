@@ -4,11 +4,12 @@
 class _MUSTY():
 	def __init__(self,): 
 		self.name = "MUSTY"
+		self.definitions = [u'smelling unpleasantly old and slightly wet: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

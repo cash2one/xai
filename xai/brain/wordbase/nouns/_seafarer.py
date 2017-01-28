@@ -4,11 +4,12 @@
 class _SEAFARER():
 	def __init__(self,): 
 		self.name = "SEAFARER"
+		self.definitions = [u'a person who travels by sea: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _USABLE():
 	def __init__(self,): 
 		self.name = "USABLE"
+		self.definitions = [u'that can be used: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

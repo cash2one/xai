@@ -4,11 +4,12 @@
 class _IMPERISHABLE():
 	def __init__(self,): 
 		self.name = "IMPERISHABLE"
+		self.definitions = [u'lasting for ever, or never becoming weaker with age']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

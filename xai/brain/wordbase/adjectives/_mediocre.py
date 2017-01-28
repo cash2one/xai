@@ -4,11 +4,12 @@
 class _MEDIOCRE():
 	def __init__(self,): 
 		self.name = "MEDIOCRE"
+		self.definitions = [u'not very good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

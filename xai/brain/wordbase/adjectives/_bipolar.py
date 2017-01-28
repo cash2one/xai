@@ -4,11 +4,12 @@
 class _BIPOLAR():
 	def __init__(self,): 
 		self.name = "BIPOLAR"
+		self.definitions = [u'suffering from bipolar disorder']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

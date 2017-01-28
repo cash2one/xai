@@ -4,11 +4,12 @@
 class _CANDID():
 	def __init__(self,): 
 		self.name = "CANDID"
+		self.definitions = [u'honest and telling the truth, especially about something difficult or painful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

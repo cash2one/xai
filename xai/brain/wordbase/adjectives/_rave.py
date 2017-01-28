@@ -4,11 +4,12 @@
 class _RAVE():
 	def __init__(self,): 
 		self.name = "RAVE"
+		self.definitions = [u'admiring and giving a lot of praise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

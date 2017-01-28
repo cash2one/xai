@@ -4,11 +4,12 @@
 class _LACTIC():
 	def __init__(self,): 
 		self.name = "LACTIC"
+		self.definitions = [u'relating to milk']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

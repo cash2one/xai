@@ -4,11 +4,12 @@
 class _TOTAL():
 	def __init__(self,): 
 		self.name = "TOTAL"
+		self.definitions = [u'including everything: ', u'very great or of the largest degree possible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

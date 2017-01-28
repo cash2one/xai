@@ -4,11 +4,12 @@
 class _SALUTARY():
 	def __init__(self,): 
 		self.name = "SALUTARY"
+		self.definitions = [u'causing improvement of behaviour or character: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

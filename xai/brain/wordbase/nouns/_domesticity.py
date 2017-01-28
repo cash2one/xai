@@ -4,11 +4,12 @@
 class _DOMESTICITY():
 	def __init__(self,): 
 		self.name = "DOMESTICITY"
+		self.definitions = [u'life at home taking care of your house and family: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

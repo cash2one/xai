@@ -4,11 +4,12 @@
 class _PHALLIC():
 	def __init__(self,): 
 		self.name = "PHALLIC"
+		self.definitions = [u'representing, shaped like, or relating to the penis: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

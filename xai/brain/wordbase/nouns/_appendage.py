@@ -4,11 +4,12 @@
 class _APPENDAGE():
 	def __init__(self,): 
 		self.name = "APPENDAGE"
+		self.definitions = [u'something that exists as a smaller and less important part of something larger: ', u'an arm, leg, or other body part: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

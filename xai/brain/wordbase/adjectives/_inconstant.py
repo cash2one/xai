@@ -4,11 +4,12 @@
 class _INCONSTANT():
 	def __init__(self,): 
 		self.name = "INCONSTANT"
+		self.definitions = [u'not staying the same, especially in emotion, behaviour, or choice of sexual partner: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

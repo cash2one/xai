@@ -4,11 +4,12 @@
 class _HOTLY():
 	def __init__(self,): 
 		self.name = "HOTLY"
+		self.definitions = [u'in an angry or excited way: ', u'closely and with determination: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

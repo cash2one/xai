@@ -4,11 +4,12 @@
 class _BUDDING():
 	def __init__(self,): 
 		self.name = "BUDDING"
+		self.definitions = [u'beginning to develop or show signs of future success in a particular area: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

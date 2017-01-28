@@ -4,11 +4,12 @@
 class _PHILATELY():
 	def __init__(self,): 
 		self.name = "PHILATELY"
+		self.definitions = [u'the collecting or study of stamps as a hobby']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

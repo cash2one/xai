@@ -4,11 +4,12 @@
 class _DIET():
 	def __init__(self,): 
 		self.name = "DIET"
+		self.definitions = [u'Diet food or drink contains less sugar or fat than the usual type, and often contains an artificial sweetener: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

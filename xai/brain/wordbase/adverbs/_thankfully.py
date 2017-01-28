@@ -4,11 +4,12 @@
 class _THANKFULLY():
 	def __init__(self,): 
 		self.name = "THANKFULLY"
+		self.definitions = [u'used, usually at the beginning of a sentence, to show you are happy or grateful about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

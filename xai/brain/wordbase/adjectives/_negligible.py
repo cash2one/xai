@@ -4,11 +4,12 @@
 class _NEGLIGIBLE():
 	def __init__(self,): 
 		self.name = "NEGLIGIBLE"
+		self.definitions = [u'too slight or small in amount to be of importance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

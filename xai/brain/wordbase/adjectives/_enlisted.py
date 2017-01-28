@@ -4,11 +4,12 @@
 class _ENLISTED():
 	def __init__(self,): 
 		self.name = "ENLISTED"
+		self.definitions = [u'An enlisted man/woman is a member of the armed forces who is not an officer.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

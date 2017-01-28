@@ -4,11 +4,12 @@
 class _FLEECY():
 	def __init__(self,): 
 		self.name = "FLEECY"
+		self.definitions = [u"soft and like a sheep's wool, or looking like this: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MUCUS():
 	def __init__(self,): 
 		self.name = "MUCUS"
+		self.definitions = [u'a thick liquid produced inside the nose and other parts of the body: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

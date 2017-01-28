@@ -4,11 +4,12 @@
 class _DOMINANT():
 	def __init__(self,): 
 		self.name = "DOMINANT"
+		self.definitions = [u'more important, strong, or noticeable than anything else of the same type: ', u'A dominant gene is one that always produces a particular characteristic in a person, plant, or animal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

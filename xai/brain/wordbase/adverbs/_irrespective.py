@@ -4,11 +4,12 @@
 class _IRRESPECTIVE():
 	def __init__(self,): 
 		self.name = "IRRESPECTIVE"
+		self.definitions = [u'without considering; not needing to allow for: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

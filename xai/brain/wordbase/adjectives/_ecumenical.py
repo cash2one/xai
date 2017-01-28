@@ -4,11 +4,12 @@
 class _ECUMENICAL():
 	def __init__(self,): 
 		self.name = "ECUMENICAL"
+		self.definitions = [u'encouraging the different Christian Churches to unite: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

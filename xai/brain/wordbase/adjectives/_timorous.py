@@ -4,11 +4,12 @@
 class _TIMOROUS():
 	def __init__(self,): 
 		self.name = "TIMOROUS"
+		self.definitions = [u'nervous and without much confidence']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

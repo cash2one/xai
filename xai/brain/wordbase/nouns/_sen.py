@@ -4,11 +4,12 @@
 class _SEN():
 	def __init__(self,): 
 		self.name = "SEN"
+		self.definitions = [u'written abbreviation for  senator ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

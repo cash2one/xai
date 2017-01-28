@@ -4,11 +4,12 @@
 class _ADMIRABLE():
 	def __init__(self,): 
 		self.name = "ADMIRABLE"
+		self.definitions = [u'deserving respect or approval: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

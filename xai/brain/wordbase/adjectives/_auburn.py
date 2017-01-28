@@ -4,11 +4,12 @@
 class _AUBURN():
 	def __init__(self,): 
 		self.name = "AUBURN"
+		self.definitions = [u'(of hair) reddish-brown in colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ANTECHAMBER():
 	def __init__(self,): 
 		self.name = "ANTECHAMBER"
+		self.definitions = [u'an  anteroom ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

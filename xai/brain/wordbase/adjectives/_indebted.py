@@ -4,11 +4,12 @@
 class _INDEBTED():
 	def __init__(self,): 
 		self.name = "INDEBTED"
+		self.definitions = [u'grateful because of help given: ', u'owing money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

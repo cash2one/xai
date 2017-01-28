@@ -4,11 +4,12 @@
 class _VEDANTA():
 	def __init__(self,): 
 		self.name = "VEDANTA"
+		self.definitions = [u'one of the main systems of Hindu thought']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _AMBASSADORIAL():
 	def __init__(self,): 
 		self.name = "AMBASSADORIAL"
+		self.definitions = [u'belonging or relating to an ambassador: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

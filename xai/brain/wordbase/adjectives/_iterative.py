@@ -4,11 +4,12 @@
 class _ITERATIVE():
 	def __init__(self,): 
 		self.name = "ITERATIVE"
+		self.definitions = [u'doing something again and again, usually to improve it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

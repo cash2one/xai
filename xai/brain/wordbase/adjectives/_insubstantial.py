@@ -4,11 +4,12 @@
 class _INSUBSTANTIAL():
 	def __init__(self,): 
 		self.name = "INSUBSTANTIAL"
+		self.definitions = [u'not enough or not strong enough: ', u'not existing as a physical person or thing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

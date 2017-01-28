@@ -4,11 +4,12 @@
 class _MIASMA():
 	def __init__(self,): 
 		self.name = "MIASMA"
+		self.definitions = [u'an unpleasant fog that smells bad: ', u'a very unpleasant general feeling or character of a situation or place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

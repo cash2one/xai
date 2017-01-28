@@ -4,11 +4,12 @@
 class _SUGARY():
 	def __init__(self,): 
 		self.name = "SUGARY"
+		self.definitions = [u'containing sugar: ', u'too good or kind or expressing feelings of love in a way that is not sincere: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

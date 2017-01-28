@@ -4,11 +4,12 @@
 class _SCAM():
 	def __init__(self,): 
 		self.name = "SCAM"
+		self.definitions = [u'an illegal plan for making money, especially one that involves tricking people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

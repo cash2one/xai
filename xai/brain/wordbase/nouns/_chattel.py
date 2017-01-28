@@ -4,11 +4,12 @@
 class _CHATTEL():
 	def __init__(self,): 
 		self.name = "CHATTEL"
+		self.definitions = [u'a personal possession: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

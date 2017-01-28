@@ -4,11 +4,12 @@
 class _COATING():
 	def __init__(self,): 
 		self.name = "COATING"
+		self.definitions = [u'a layer of a particular substance that covers a surface: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

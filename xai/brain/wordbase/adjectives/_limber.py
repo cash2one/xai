@@ -4,11 +4,12 @@
 class _LIMBER():
 	def __init__(self,): 
 		self.name = "LIMBER"
+		self.definitions = [u'(of a person) able to bend and move easily and smoothly']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

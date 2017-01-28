@@ -4,11 +4,12 @@
 class _SURFEIT():
 	def __init__(self,): 
 		self.name = "SURFEIT"
+		self.definitions = [u'an amount that is too large, or is more than is needed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

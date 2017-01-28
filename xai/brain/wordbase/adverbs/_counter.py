@@ -4,11 +4,12 @@
 class _COUNTER():
 	def __init__(self,): 
 		self.name = "COUNTER"
+		self.definitions = [u'in a way that opposes something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

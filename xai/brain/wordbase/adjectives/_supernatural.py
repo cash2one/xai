@@ -4,11 +4,12 @@
 class _SUPERNATURAL():
 	def __init__(self,): 
 		self.name = "SUPERNATURAL"
+		self.definitions = [u'caused by forces that cannot be explained by science: ', u'things that cannot be explained by science: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

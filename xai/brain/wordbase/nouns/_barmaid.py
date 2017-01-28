@@ -4,11 +4,12 @@
 class _BARMAID():
 	def __init__(self,): 
 		self.name = "BARMAID"
+		self.definitions = [u'a woman who serves drinks in a bar']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

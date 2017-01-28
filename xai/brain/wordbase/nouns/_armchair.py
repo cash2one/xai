@@ -4,11 +4,12 @@
 class _ARMCHAIR():
 	def __init__(self,): 
 		self.name = "ARMCHAIR"
+		self.definitions = [u'a comfortable chair with sides that support your arms: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

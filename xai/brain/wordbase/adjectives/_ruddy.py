@@ -4,11 +4,12 @@
 class _RUDDY():
 	def __init__(self,): 
 		self.name = "RUDDY"
+		self.definitions = [u'used to avoid saying bloody to express anger: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

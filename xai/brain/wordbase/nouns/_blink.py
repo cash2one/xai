@@ -4,11 +4,12 @@
 class _BLINK():
 	def __init__(self,): 
 		self.name = "BLINK"
+		self.definitions = [u'the act of blinking']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

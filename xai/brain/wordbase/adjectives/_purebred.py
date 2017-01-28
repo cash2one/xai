@@ -4,11 +4,12 @@
 class _PUREBRED():
 	def __init__(self,): 
 		self.name = "PUREBRED"
+		self.definitions = [u'(of an animal or type of animal) with parents that are both of the same breed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNAPPEALING():
 	def __init__(self,): 
 		self.name = "UNAPPEALING"
+		self.definitions = [u'not attractive or interesting']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

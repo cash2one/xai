@@ -4,11 +4,12 @@
 class _YUGOSLAV():
 	def __init__(self,): 
 		self.name = "YUGOSLAV"
+		self.definitions = [u'belonging to or relating to the former country of Yugoslavia, its people, or its language']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

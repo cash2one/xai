@@ -4,11 +4,12 @@
 class _KNAVE():
 	def __init__(self,): 
 		self.name = "KNAVE"
+		self.definitions = [u'a dishonest man', u'a  jack noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

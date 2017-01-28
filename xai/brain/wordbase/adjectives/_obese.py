@@ -4,11 +4,12 @@
 class _OBESE():
 	def __init__(self,): 
 		self.name = "OBESE"
+		self.definitions = [u'extremely fat in a way that is dangerous for health: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

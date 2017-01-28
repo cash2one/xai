@@ -4,11 +4,12 @@
 class _AMATEURISH():
 	def __init__(self,): 
 		self.name = "AMATEURISH"
+		self.definitions = [u'having no skill, or showing no skill: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

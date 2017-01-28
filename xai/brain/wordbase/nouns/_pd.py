@@ -4,11 +4,12 @@
 class _PD():
 	def __init__(self,): 
 		self.name = "PD"
+		self.definitions = [u"abbreviation for Parkinson's disease"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

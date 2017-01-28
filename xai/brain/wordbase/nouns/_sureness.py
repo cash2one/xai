@@ -4,11 +4,12 @@
 class _SURENESS():
 	def __init__(self,): 
 		self.name = "SURENESS"
+		self.definitions = [u'confidence and control: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

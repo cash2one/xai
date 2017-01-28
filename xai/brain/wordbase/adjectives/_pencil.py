@@ -4,11 +4,12 @@
 class _PENCIL():
 	def __init__(self,): 
 		self.name = "PENCIL"
+		self.definitions = [u'used to describe something that has been drawn with a pencil: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

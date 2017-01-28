@@ -4,11 +4,12 @@
 class _EMOTIONALISM():
 	def __init__(self,): 
 		self.name = "EMOTIONALISM"
+		self.definitions = [u'showing too much emotion']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

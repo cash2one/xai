@@ -4,11 +4,12 @@
 class _UNSANITARY():
 	def __init__(self,): 
 		self.name = "UNSANITARY"
+		self.definitions = [u'dirty or unhealthy and therefore likely to cause disease: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HISTORIC():
 	def __init__(self,): 
 		self.name = "HISTORIC"
+		self.definitions = [u'important or likely to be important in history: ', u'A historic offence is one that was committed by someone in the past but that they were not charged with at the time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

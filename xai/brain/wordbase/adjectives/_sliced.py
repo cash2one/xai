@@ -4,11 +4,12 @@
 class _SLICED():
 	def __init__(self,): 
 		self.name = "SLICED"
+		self.definitions = [u'cut into thin, flat pieces: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

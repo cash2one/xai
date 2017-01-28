@@ -4,11 +4,12 @@
 class _INFLAMED():
 	def __init__(self,): 
 		self.name = "INFLAMED"
+		self.definitions = [u'(of a part of the body) red, painful, and swollen, especially because of infection: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BORING():
 	def __init__(self,): 
 		self.name = "BORING"
+		self.definitions = [u'not interesting or exciting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

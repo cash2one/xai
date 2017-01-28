@@ -4,11 +4,12 @@
 class _TRUCKER():
 	def __init__(self,): 
 		self.name = "TRUCKER"
+		self.definitions = [u'someone whose job is driving trucks']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

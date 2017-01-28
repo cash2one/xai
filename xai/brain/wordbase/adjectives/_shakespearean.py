@@ -4,11 +4,12 @@
 class _SHAKESPEAREAN():
 	def __init__(self,): 
 		self.name = "SHAKESPEAREAN"
+		self.definitions = [u'written by William Shakespeare, or relating to or typical of his work : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

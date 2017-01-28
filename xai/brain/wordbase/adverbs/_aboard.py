@@ -4,11 +4,12 @@
 class _ABOARD():
 	def __init__(self,): 
 		self.name = "ABOARD"
+		self.definitions = [u'on or onto a ship, aircraft, bus, or train: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

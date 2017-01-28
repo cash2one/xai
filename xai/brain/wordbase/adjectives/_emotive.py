@@ -4,11 +4,12 @@
 class _EMOTIVE():
 	def __init__(self,): 
 		self.name = "EMOTIVE"
+		self.definitions = [u'causing strong feelings: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

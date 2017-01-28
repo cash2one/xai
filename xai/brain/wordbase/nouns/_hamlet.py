@@ -4,11 +4,12 @@
 class _HAMLET():
 	def __init__(self,): 
 		self.name = "HAMLET"
+		self.definitions = [u'a small village, usually without a church']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

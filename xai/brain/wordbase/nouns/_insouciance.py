@@ -4,11 +4,12 @@
 class _INSOUCIANCE():
 	def __init__(self,): 
 		self.name = "INSOUCIANCE"
+		self.definitions = [u'a relaxed and happy way of behaving without feeling worried or guilty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

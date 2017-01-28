@@ -4,11 +4,12 @@
 class _INVIOLATE():
 	def __init__(self,): 
 		self.name = "INVIOLATE"
+		self.definitions = [u'(that must be) not harmed or damaged: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

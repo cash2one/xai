@@ -4,11 +4,12 @@
 class _SLANGY():
 	def __init__(self,): 
 		self.name = "SLANGY"
+		self.definitions = [u'Slangy language contains a lot of slang expressions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LEGLESS():
 	def __init__(self,): 
 		self.name = "LEGLESS"
+		self.definitions = [u'extremely drunk']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

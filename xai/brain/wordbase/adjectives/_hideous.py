@@ -4,11 +4,12 @@
 class _HIDEOUS():
 	def __init__(self,): 
 		self.name = "HIDEOUS"
+		self.definitions = [u'extremely ugly or bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

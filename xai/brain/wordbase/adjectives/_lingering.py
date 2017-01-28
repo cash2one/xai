@@ -4,11 +4,12 @@
 class _LINGERING():
 	def __init__(self,): 
 		self.name = "LINGERING"
+		self.definitions = [u'lasting a long time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

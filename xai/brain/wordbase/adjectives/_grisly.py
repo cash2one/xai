@@ -4,11 +4,12 @@
 class _GRISLY():
 	def __init__(self,): 
 		self.name = "GRISLY"
+		self.definitions = [u'extremely unpleasant, especially because death or blood is involved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PURPORTED():
 	def __init__(self,): 
 		self.name = "PURPORTED"
+		self.definitions = [u'that has been stated to be true or to have happened, although this may not be the case: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

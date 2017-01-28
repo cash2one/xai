@@ -4,11 +4,12 @@
 class _CHAGRIN():
 	def __init__(self,): 
 		self.name = "CHAGRIN"
+		self.definitions = [u'disappointment or anger, especially when caused by a failure or mistake: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

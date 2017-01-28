@@ -4,11 +4,12 @@
 class _OUTSTRETCHED():
 	def __init__(self,): 
 		self.name = "OUTSTRETCHED"
+		self.definitions = [u'reaching out as far as possible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

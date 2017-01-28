@@ -4,11 +4,12 @@
 class _PINKISH():
 	def __init__(self,): 
 		self.name = "PINKISH"
+		self.definitions = [u'slightly pink in colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FLOODLIT():
 	def __init__(self,): 
 		self.name = "FLOODLIT"
+		self.definitions = [u'lit by floodlights: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

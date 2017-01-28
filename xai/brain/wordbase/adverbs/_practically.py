@@ -4,11 +4,12 @@
 class _PRACTICALLY():
 	def __init__(self,): 
 		self.name = "PRACTICALLY"
+		self.definitions = [u'almost or very nearly: ', u'in a way that relates to real situations and actions rather than ideas: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

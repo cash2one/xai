@@ -4,11 +4,12 @@
 class _BLENDED():
 	def __init__(self,): 
 		self.name = "BLENDED"
+		self.definitions = [u'A blended drink contains two or more different types of the same product: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

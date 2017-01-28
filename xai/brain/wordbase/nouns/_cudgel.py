@@ -4,11 +4,12 @@
 class _CUDGEL():
 	def __init__(self,): 
 		self.name = "CUDGEL"
+		self.definitions = [u'a short, heavy stick used for hitting people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

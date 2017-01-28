@@ -4,11 +4,12 @@
 class _VALUELESS():
 	def __init__(self,): 
 		self.name = "VALUELESS"
+		self.definitions = [u'not worth any money: ', u'not important or helpful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

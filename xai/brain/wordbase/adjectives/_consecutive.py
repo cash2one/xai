@@ -4,11 +4,12 @@
 class _CONSECUTIVE():
 	def __init__(self,): 
 		self.name = "CONSECUTIVE"
+		self.definitions = [u'Consecutive events, numbers, etc. follow one after another without an interruption: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

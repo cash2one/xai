@@ -4,11 +4,12 @@
 class _SUBSTANTIALLY():
 	def __init__(self,): 
 		self.name = "SUBSTANTIALLY"
+		self.definitions = [u'to a large degree: ', u'generally: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

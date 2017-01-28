@@ -4,11 +4,12 @@
 class _INTERSTELLAR():
 	def __init__(self,): 
 		self.name = "INTERSTELLAR"
+		self.definitions = [u'between the stars: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

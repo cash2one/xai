@@ -4,11 +4,12 @@
 class _PRECOCIOUSLY():
 	def __init__(self,): 
 		self.name = "PRECOCIOUSLY"
+		self.definitions = [u'in a way that is unnaturally advanced or developed']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

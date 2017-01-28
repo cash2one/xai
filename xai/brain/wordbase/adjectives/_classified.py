@@ -4,11 +4,12 @@
 class _CLASSIFIED():
 	def __init__(self,): 
 		self.name = "CLASSIFIED"
+		self.definitions = [u'Classified information is officially stated to be secret: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

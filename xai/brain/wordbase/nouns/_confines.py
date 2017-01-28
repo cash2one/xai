@@ -4,11 +4,12 @@
 class _CONFINES():
 	def __init__(self,): 
 		self.name = "CONFINES"
+		self.definitions = [u'the outer limits of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

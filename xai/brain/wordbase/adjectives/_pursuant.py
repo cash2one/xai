@@ -4,11 +4,12 @@
 class _PURSUANT():
 	def __init__(self,): 
 		self.name = "PURSUANT"
+		self.definitions = [u'according to: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

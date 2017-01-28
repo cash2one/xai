@@ -4,11 +4,12 @@
 class _GRATE():
 	def __init__(self,): 
 		self.name = "GRATE"
+		self.definitions = [u'a metal structure that holds coal or wood in a fireplace']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

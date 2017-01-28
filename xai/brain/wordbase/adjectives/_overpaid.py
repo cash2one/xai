@@ -4,11 +4,12 @@
 class _OVERPAID():
 	def __init__(self,): 
 		self.name = "OVERPAID"
+		self.definitions = [u'paid too much or more than usual: ', u'paid more than necessary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

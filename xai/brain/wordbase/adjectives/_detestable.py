@@ -4,11 +4,12 @@
 class _DETESTABLE():
 	def __init__(self,): 
 		self.name = "DETESTABLE"
+		self.definitions = [u'used to refer to people or things that you hate very much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

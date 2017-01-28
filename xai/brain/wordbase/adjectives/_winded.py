@@ -4,11 +4,12 @@
 class _WINDED():
 	def __init__(self,): 
 		self.name = "WINDED"
+		self.definitions = [u'temporarily unable to breathe, either when hit in the stomach or after taking hard physical exercise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

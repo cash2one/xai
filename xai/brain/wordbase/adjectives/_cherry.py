@@ -4,11 +4,12 @@
 class _CHERRY():
 	def __init__(self,): 
 		self.name = "CHERRY"
+		self.definitions = [u'bright red: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _QUIZ():
 	def __init__(self,): 
 		self.name = "QUIZ"
+		self.definitions = [u'a game or competition in which you answer questions: ', u'a short informal test: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

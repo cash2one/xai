@@ -4,11 +4,12 @@
 class _ALLUSIVE():
 	def __init__(self,): 
 		self.name = "ALLUSIVE"
+		self.definitions = [u'containing a lot of allusions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

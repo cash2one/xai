@@ -4,11 +4,12 @@
 class _SWARTHY():
 	def __init__(self,): 
 		self.name = "SWARTHY"
+		self.definitions = [u'(of a person or their skin) dark: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

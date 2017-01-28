@@ -4,11 +4,12 @@
 class _CLINICIAN():
 	def __init__(self,): 
 		self.name = "CLINICIAN"
+		self.definitions = [u'someone, such as a doctor, who has qualifications in an area of very skilled health work']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

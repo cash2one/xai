@@ -4,11 +4,12 @@
 class _FEELINGLY():
 	def __init__(self,): 
 		self.name = "FEELINGLY"
+		self.definitions = [u'with deep and sincere emotion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

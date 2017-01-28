@@ -4,11 +4,12 @@
 class _SEMBLANCE():
 	def __init__(self,): 
 		self.name = "SEMBLANCE"
+		self.definitions = [u'a situation or condition that is similar to what is wanted or expected, but is not exactly as hoped for: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

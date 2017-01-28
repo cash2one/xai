@@ -4,11 +4,12 @@
 class _HUMDINGER():
 	def __init__(self,): 
 		self.name = "HUMDINGER"
+		self.definitions = [u'something or someone that is noticeable because it is a very good example of its type: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

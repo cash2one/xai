@@ -4,11 +4,12 @@
 class _CONFRONTATION():
 	def __init__(self,): 
 		self.name = "CONFRONTATION"
+		self.definitions = [u'a fight or argument: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

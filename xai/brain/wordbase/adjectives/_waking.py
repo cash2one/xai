@@ -4,11 +4,12 @@
 class _WAKING():
 	def __init__(self,): 
 		self.name = "WAKING"
+		self.definitions = [u'used to refer to a period of time or an experience during which you are awake: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

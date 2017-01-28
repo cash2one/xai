@@ -4,11 +4,12 @@
 class _BUMBLING():
 	def __init__(self,): 
 		self.name = "BUMBLING"
+		self.definitions = [u'confused and showing no skill: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

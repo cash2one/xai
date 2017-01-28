@@ -4,11 +4,12 @@
 class _ANTIQUE():
 	def __init__(self,): 
 		self.name = "ANTIQUE"
+		self.definitions = [u'made in an earlier period and considered to have value because of being beautiful, rare, old, or of high quality: ', u'trading or relating to antiques: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

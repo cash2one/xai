@@ -4,11 +4,12 @@
 class _RAPPORT():
 	def __init__(self,): 
 		self.name = "RAPPORT"
+		self.definitions = [u'a good understanding of someone and an ability to communicate well with them: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

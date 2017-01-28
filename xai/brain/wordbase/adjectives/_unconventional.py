@@ -4,11 +4,12 @@
 class _UNCONVENTIONAL():
 	def __init__(self,): 
 		self.name = "UNCONVENTIONAL"
+		self.definitions = [u'different from what is usual or from the way most people do things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

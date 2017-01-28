@@ -4,11 +4,12 @@
 class _HORSEMANSHIP():
 	def __init__(self,): 
 		self.name = "HORSEMANSHIP"
+		self.definitions = [u'skill at riding horses']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

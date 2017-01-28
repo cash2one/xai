@@ -4,11 +4,12 @@
 class _KIRK():
 	def __init__(self,): 
 		self.name = "KIRK"
+		self.definitions = [u'a church', u'the Church of Scotland']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

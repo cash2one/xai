@@ -4,11 +4,12 @@
 class _EXPOSED():
 	def __init__(self,): 
 		self.name = "EXPOSED"
+		self.definitions = [u'having no protection from bad weather: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

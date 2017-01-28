@@ -4,11 +4,12 @@
 class _DARLING():
 	def __init__(self,): 
 		self.name = "DARLING"
+		self.definitions = [u'a person who is very much loved or liked: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _RUSSET():
 	def __init__(self,): 
 		self.name = "RUSSET"
+		self.definitions = [u'a reddish-brown colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

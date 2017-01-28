@@ -4,11 +4,12 @@
 class _TORCHLIGHT():
 	def __init__(self,): 
 		self.name = "TORCHLIGHT"
+		self.definitions = [u'A torchlight event is one that is lit by burning torches: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

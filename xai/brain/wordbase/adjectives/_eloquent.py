@@ -4,11 +4,12 @@
 class _ELOQUENT():
 	def __init__(self,): 
 		self.name = "ELOQUENT"
+		self.definitions = [u'giving a clear, strong message: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

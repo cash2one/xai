@@ -4,11 +4,12 @@
 class _EPILEPTIC():
 	def __init__(self,): 
 		self.name = "EPILEPTIC"
+		self.definitions = [u'suffering from or caused by epilepsy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

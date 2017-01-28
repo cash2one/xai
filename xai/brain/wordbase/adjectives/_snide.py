@@ -4,11 +4,12 @@
 class _SNIDE():
 	def __init__(self,): 
 		self.name = "SNIDE"
+		self.definitions = [u'(especially of remarks) containing unpleasant criticism that is not clearly stated: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

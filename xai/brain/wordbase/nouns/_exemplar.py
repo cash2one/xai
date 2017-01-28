@@ -4,11 +4,12 @@
 class _EXEMPLAR():
 	def __init__(self,): 
 		self.name = "EXEMPLAR"
+		self.definitions = [u'a typical or good example of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

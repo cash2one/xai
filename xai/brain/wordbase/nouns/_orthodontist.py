@@ -4,11 +4,12 @@
 class _ORTHODONTIST():
 	def __init__(self,): 
 		self.name = "ORTHODONTIST"
+		self.definitions = [u'a person whose job is to correct the position of the teeth']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

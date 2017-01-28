@@ -4,11 +4,12 @@
 class _DISPOSSESSED():
 	def __init__(self,): 
 		self.name = "DISPOSSESSED"
+		self.definitions = [u'dispossessed people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

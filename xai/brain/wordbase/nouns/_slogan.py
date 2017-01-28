@@ -4,11 +4,12 @@
 class _SLOGAN():
 	def __init__(self,): 
 		self.name = "SLOGAN"
+		self.definitions = [u'a short easily remembered phrase, especially one used to advertise an idea or a product: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

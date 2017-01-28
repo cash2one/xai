@@ -4,11 +4,12 @@
 class _UNSEEN():
 	def __init__(self,): 
 		self.name = "UNSEEN"
+		self.definitions = [u'not seen or not able to be seen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

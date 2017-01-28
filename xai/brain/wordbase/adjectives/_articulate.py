@@ -4,11 +4,12 @@
 class _ARTICULATE():
 	def __init__(self,): 
 		self.name = "ARTICULATE"
+		self.definitions = [u'able to express thoughts and feelings easily and clearly, or showing this quality: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

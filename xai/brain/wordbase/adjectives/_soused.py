@@ -4,11 +4,12 @@
 class _SOUSED():
 	def __init__(self,): 
 		self.name = "SOUSED"
+		self.definitions = [u'(of fish) preserved in salty water or vinegar: ', u'drunk']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

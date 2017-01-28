@@ -4,11 +4,12 @@
 class _ENTRENCHED():
 	def __init__(self,): 
 		self.name = "ENTRENCHED"
+		self.definitions = [u'Entrenched ideas are so fixed or have existed for so long that they cannot be changed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

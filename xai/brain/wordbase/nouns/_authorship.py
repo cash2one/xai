@@ -4,11 +4,12 @@
 class _AUTHORSHIP():
 	def __init__(self,): 
 		self.name = "AUTHORSHIP"
+		self.definitions = [u'the state or fact of being the person who wrote a particular book, article, play, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

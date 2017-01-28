@@ -4,11 +4,12 @@
 class _REPAST():
 	def __init__(self,): 
 		self.name = "REPAST"
+		self.definitions = [u'a meal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

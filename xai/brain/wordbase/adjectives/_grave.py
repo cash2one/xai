@@ -4,11 +4,12 @@
 class _GRAVE():
 	def __init__(self,): 
 		self.name = "GRAVE"
+		self.definitions = [u'seriously bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

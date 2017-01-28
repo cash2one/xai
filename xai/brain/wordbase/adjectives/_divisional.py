@@ -4,11 +4,12 @@
 class _DIVISIONAL():
 	def __init__(self,): 
 		self.name = "DIVISIONAL"
+		self.definitions = [u'relating to a division (= part) of an army or large organization: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

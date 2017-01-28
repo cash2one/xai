@@ -4,11 +4,12 @@
 class _BOXCAR():
 	def __init__(self,): 
 		self.name = "BOXCAR"
+		self.definitions = [u'a railway carriage with a roof, used for carrying goods']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _UNSATISFIED():
 	def __init__(self,): 
 		self.name = "UNSATISFIED"
+		self.definitions = [u'feeling that something is not enough or not good enough: ', u'If you have an unsatisfied wish, you have not got what you wanted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

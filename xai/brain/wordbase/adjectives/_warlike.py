@@ -4,11 +4,12 @@
 class _WARLIKE():
 	def __init__(self,): 
 		self.name = "WARLIKE"
+		self.definitions = [u'often involved in and eager to start wars: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

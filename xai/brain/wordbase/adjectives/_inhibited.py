@@ -4,11 +4,12 @@
 class _INHIBITED():
 	def __init__(self,): 
 		self.name = "INHIBITED"
+		self.definitions = [u'not confident enough to say or do what you want: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

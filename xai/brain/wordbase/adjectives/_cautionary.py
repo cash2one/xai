@@ -4,11 +4,12 @@
 class _CAUTIONARY():
 	def __init__(self,): 
 		self.name = "CAUTIONARY"
+		self.definitions = [u'giving a warning']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INFORMANT():
 	def __init__(self,): 
 		self.name = "INFORMANT"
+		self.definitions = [u'someone who gives information to another person or organization: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

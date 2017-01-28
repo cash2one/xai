@@ -4,11 +4,12 @@
 class _GENERATIVE():
 	def __init__(self,): 
 		self.name = "GENERATIVE"
+		self.definitions = [u'able to produce or create something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

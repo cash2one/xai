@@ -4,11 +4,12 @@
 class _PHOTON():
 	def __init__(self,): 
 		self.name = "PHOTON"
+		self.definitions = [u'a single unit of light']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

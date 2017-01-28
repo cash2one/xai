@@ -4,11 +4,12 @@
 class _COEDUCATION():
 	def __init__(self,): 
 		self.name = "COEDUCATION"
+		self.definitions = [u'the teaching of male and female students together']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

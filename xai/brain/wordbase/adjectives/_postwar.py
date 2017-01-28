@@ -4,11 +4,12 @@
 class _POSTWAR():
 	def __init__(self,): 
 		self.name = "POSTWAR"
+		self.definitions = [u'happening or existing in the period after a war, especially the First or Second World War: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

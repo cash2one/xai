@@ -4,11 +4,12 @@
 class _BIRKENSTOCK():
 	def __init__(self,): 
 		self.name = "BIRKENSTOCK"
+		self.definitions = [u'a type of shoe that is very comfortable, often worn by people who care about the environment']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

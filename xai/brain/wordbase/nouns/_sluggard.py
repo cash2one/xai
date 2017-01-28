@@ -4,11 +4,12 @@
 class _SLUGGARD():
 	def __init__(self,): 
 		self.name = "SLUGGARD"
+		self.definitions = [u'a lazy person: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

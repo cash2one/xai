@@ -4,11 +4,12 @@
 class _INTERDEPENDENT():
 	def __init__(self,): 
 		self.name = "INTERDEPENDENT"
+		self.definitions = [u'depending on each other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

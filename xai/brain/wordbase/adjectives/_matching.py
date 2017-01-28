@@ -4,11 +4,12 @@
 class _MATCHING():
 	def __init__(self,): 
 		self.name = "MATCHING"
+		self.definitions = [u'having the same colour or pattern as something else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

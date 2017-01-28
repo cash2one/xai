@@ -4,11 +4,12 @@
 class _STRONGLY():
 	def __init__(self,): 
 		self.name = "STRONGLY"
+		self.definitions = [u'very much or in a very serious way: ', u'in a way or form that is difficult to break: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

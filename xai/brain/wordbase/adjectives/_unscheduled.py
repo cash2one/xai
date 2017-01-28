@@ -4,11 +4,12 @@
 class _UNSCHEDULED():
 	def __init__(self,): 
 		self.name = "UNSCHEDULED"
+		self.definitions = [u'not planned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

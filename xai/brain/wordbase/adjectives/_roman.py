@@ -4,11 +4,12 @@
 class _ROMAN():
 	def __init__(self,): 
 		self.name = "ROMAN"
+		self.definitions = [u'Roman letters are in the ordinary style of printed writing in which the letters are vertical.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

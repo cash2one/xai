@@ -4,11 +4,12 @@
 class _CODED():
 	def __init__(self,): 
 		self.name = "CODED"
+		self.definitions = [u'written or sent in code: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DUTIABLE():
 	def __init__(self,): 
 		self.name = "DUTIABLE"
+		self.definitions = [u'If good are dutiable, duty must be paid on them.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

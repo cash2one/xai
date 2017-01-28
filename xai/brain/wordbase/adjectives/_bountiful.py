@@ -4,11 +4,12 @@
 class _BOUNTIFUL():
 	def __init__(self,): 
 		self.name = "BOUNTIFUL"
+		self.definitions = [u'large in amount: ', u'generous in giving to others: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

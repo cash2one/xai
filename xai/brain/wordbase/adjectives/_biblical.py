@@ -4,11 +4,12 @@
 class _BIBLICAL():
 	def __init__(self,): 
 		self.name = "BIBLICAL"
+		self.definitions = [u'in or relating to the Bible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

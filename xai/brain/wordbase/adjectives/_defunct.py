@@ -4,11 +4,12 @@
 class _DEFUNCT():
 	def __init__(self,): 
 		self.name = "DEFUNCT"
+		self.definitions = [u'no longer existing, living, or working correctly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

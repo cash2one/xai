@@ -4,11 +4,12 @@
 class _SPACIOUS():
 	def __init__(self,): 
 		self.name = "SPACIOUS"
+		self.definitions = [u'large and with a lot of space: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

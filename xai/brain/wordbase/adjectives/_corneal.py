@@ -4,11 +4,12 @@
 class _CORNEAL():
 	def __init__(self,): 
 		self.name = "CORNEAL"
+		self.definitions = [u'concerning the cornea (= the transparent surface of the eyeball): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

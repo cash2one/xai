@@ -4,11 +4,12 @@
 class _MOORLAND():
 	def __init__(self,): 
 		self.name = "MOORLAND"
+		self.definitions = [u'an area of moor']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

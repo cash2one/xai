@@ -4,11 +4,12 @@
 class _THEORETICALLY():
 	def __init__(self,): 
 		self.name = "THEORETICALLY"
+		self.definitions = [u'in a way that obeys some rules but is not likely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

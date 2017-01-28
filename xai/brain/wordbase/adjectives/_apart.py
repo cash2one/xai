@@ -4,11 +4,12 @@
 class _APART():
 	def __init__(self,): 
 		self.name = "APART"
+		self.definitions = [u'living or staying in a different place from the person that you are married to or have a close relationship with: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

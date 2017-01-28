@@ -4,11 +4,12 @@
 class _TRIANGULAR():
 	def __init__(self,): 
 		self.name = "TRIANGULAR"
+		self.definitions = [u'shaped like a triangle: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

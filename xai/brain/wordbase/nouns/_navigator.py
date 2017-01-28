@@ -4,11 +4,12 @@
 class _NAVIGATOR():
 	def __init__(self,): 
 		self.name = "NAVIGATOR"
+		self.definitions = [u'a person in a vehicle who decides the direction in which the vehicle travels']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

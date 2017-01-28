@@ -4,11 +4,12 @@
 class _WIDOWED():
 	def __init__(self,): 
 		self.name = "WIDOWED"
+		self.definitions = [u'used to describe a person whose husband or wife has died: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

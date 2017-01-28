@@ -4,11 +4,12 @@
 class _MICRON():
 	def __init__(self,): 
 		self.name = "MICRON"
+		self.definitions = [u'one millionth of a metre']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

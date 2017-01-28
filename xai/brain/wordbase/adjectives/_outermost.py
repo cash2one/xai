@@ -4,11 +4,12 @@
 class _OUTERMOST():
 	def __init__(self,): 
 		self.name = "OUTERMOST"
+		self.definitions = [u'at the greatest distance from the centre: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

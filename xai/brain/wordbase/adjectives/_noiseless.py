@@ -4,11 +4,12 @@
 class _NOISELESS():
 	def __init__(self,): 
 		self.name = "NOISELESS"
+		self.definitions = [u'silent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CANDIED():
 	def __init__(self,): 
 		self.name = "CANDIED"
+		self.definitions = [u'preserved by boiling in sugar: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

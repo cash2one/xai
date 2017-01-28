@@ -4,11 +4,12 @@
 class _DAWNING():
 	def __init__(self,): 
 		self.name = "DAWNING"
+		self.definitions = [u'starting to happen or become obvious: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

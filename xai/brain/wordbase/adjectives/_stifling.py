@@ -4,11 +4,12 @@
 class _STIFLING():
 	def __init__(self,): 
 		self.name = "STIFLING"
+		self.definitions = [u'extremely hot and unpleasant: ', u'preventing something from happening: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

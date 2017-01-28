@@ -4,11 +4,12 @@
 class _BESIDES():
 	def __init__(self,): 
 		self.name = "BESIDES"
+		self.definitions = [u'in addition to; also: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

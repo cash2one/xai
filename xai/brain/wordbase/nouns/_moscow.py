@@ -4,11 +4,12 @@
 class _MOSCOW():
 	def __init__(self,): 
 		self.name = "MOSCOW"
+		self.definitions = [u'the capital city of Russia, situated in the west of the country']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

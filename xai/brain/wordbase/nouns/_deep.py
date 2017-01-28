@@ -4,11 +4,12 @@
 class _DEEP():
 	def __init__(self,): 
 		self.name = "DEEP"
+		self.definitions = [u'the sea or the ocean']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

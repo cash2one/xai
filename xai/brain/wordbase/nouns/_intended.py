@@ -4,11 +4,12 @@
 class _INTENDED():
 	def __init__(self,): 
 		self.name = "INTENDED"
+		self.definitions = [u'the person that you are going to marry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

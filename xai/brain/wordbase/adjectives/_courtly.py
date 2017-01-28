@@ -4,11 +4,12 @@
 class _COURTLY():
 	def __init__(self,): 
 		self.name = "COURTLY"
+		self.definitions = [u'polite and formal in behaviour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

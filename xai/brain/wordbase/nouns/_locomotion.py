@@ -4,11 +4,12 @@
 class _LOCOMOTION():
 	def __init__(self,): 
 		self.name = "LOCOMOTION"
+		self.definitions = [u'the ability to move']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

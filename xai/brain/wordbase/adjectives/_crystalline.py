@@ -4,11 +4,12 @@
 class _CRYSTALLINE():
 	def __init__(self,): 
 		self.name = "CRYSTALLINE"
+		self.definitions = [u'clear and bright like crystal: ', u'A crystalline substance has become solid, with regular shapes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

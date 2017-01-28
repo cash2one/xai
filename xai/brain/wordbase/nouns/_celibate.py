@@ -4,11 +4,12 @@
 class _CELIBATE():
 	def __init__(self,): 
 		self.name = "CELIBATE"
+		self.definitions = [u'a person who does not have sex']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

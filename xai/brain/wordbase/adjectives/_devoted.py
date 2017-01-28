@@ -4,11 +4,12 @@
 class _DEVOTED():
 	def __init__(self,): 
 		self.name = "DEVOTED"
+		self.definitions = [u'extremely loving and loyal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

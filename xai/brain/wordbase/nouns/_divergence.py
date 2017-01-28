@@ -4,11 +4,12 @@
 class _DIVERGENCE():
 	def __init__(self,): 
 		self.name = "DIVERGENCE"
+		self.definitions = [u'the situation in which two things become different: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

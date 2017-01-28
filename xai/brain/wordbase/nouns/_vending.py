@@ -4,11 +4,12 @@
 class _VENDING():
 	def __init__(self,): 
 		self.name = "VENDING"
+		self.definitions = [u'the selling of goods: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

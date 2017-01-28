@@ -4,11 +4,12 @@
 class _SOLOIST():
 	def __init__(self,): 
 		self.name = "SOLOIST"
+		self.definitions = [u'a musician who performs a solo: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

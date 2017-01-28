@@ -4,11 +4,12 @@
 class _IMMODERATE():
 	def __init__(self,): 
 		self.name = "IMMODERATE"
+		self.definitions = [u'too much or many, or more than is usual or reasonable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

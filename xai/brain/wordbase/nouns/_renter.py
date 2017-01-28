@@ -4,11 +4,12 @@
 class _RENTER():
 	def __init__(self,): 
 		self.name = "RENTER"
+		self.definitions = [u'someone who pays money to live in a house or apartment that someone else owns', u'a  rent boy  ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

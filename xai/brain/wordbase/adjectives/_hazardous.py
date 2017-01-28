@@ -4,11 +4,12 @@
 class _HAZARDOUS():
 	def __init__(self,): 
 		self.name = "HAZARDOUS"
+		self.definitions = [u'dangerous: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LECTURER():
 	def __init__(self,): 
 		self.name = "LECTURER"
+		self.definitions = [u'someone who teaches at a college or university: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

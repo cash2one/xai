@@ -4,11 +4,12 @@
 class _PLENITUDE():
 	def __init__(self,): 
 		self.name = "PLENITUDE"
+		self.definitions = [u'the situation when there is more than enough of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _TONSILLITIS():
 	def __init__(self,): 
 		self.name = "TONSILLITIS"
+		self.definitions = [u'a painful infection of the tonsils']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

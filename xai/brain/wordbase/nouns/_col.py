@@ -4,11 +4,12 @@
 class _COL():
 	def __init__(self,): 
 		self.name = "COL"
+		self.definitions = [u'written abbreviation for  column ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

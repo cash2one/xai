@@ -4,11 +4,12 @@
 class _HOMESPUN():
 	def __init__(self,): 
 		self.name = "HOMESPUN"
+		self.definitions = [u'(of beliefs, theories, etc.) simple and ordinary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

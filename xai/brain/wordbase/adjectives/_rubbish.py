@@ -4,11 +4,12 @@
 class _RUBBISH():
 	def __init__(self,): 
 		self.name = "RUBBISH"
+		self.definitions = [u'completely without skill at a particular activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

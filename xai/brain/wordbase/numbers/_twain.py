@@ -4,11 +4,12 @@
 class _TWAIN():
 	def __init__(self,): 
 		self.name = "TWAIN"
+		self.definitions = [u'two']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'numbers'

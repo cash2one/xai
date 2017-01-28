@@ -4,11 +4,12 @@
 class _FERVOUR():
 	def __init__(self,): 
 		self.name = "FERVOUR"
+		self.definitions = [u'strong and sincere beliefs: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PROJECTOR():
 	def __init__(self,): 
 		self.name = "PROJECTOR"
+		self.definitions = [u'a device for showing films or images on a screen or other surface']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

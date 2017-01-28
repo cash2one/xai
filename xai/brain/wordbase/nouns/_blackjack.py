@@ -4,11 +4,12 @@
 class _BLACKJACK():
 	def __init__(self,): 
 		self.name = "BLACKJACK"
+		self.definitions = [u'a type of card game played for money', u'a short, thick metal stick covered in rubber or leather, used to hit people with']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

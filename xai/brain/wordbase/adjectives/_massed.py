@@ -4,11 +4,12 @@
 class _MASSED():
 	def __init__(self,): 
 		self.name = "MASSED"
+		self.definitions = [u'brought together in large numbers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

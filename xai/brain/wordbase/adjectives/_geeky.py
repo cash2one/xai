@@ -4,11 +4,12 @@
 class _GEEKY():
 	def __init__(self,): 
 		self.name = "GEEKY"
+		self.definitions = [u'boring and not fashionable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

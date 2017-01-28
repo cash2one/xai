@@ -4,11 +4,12 @@
 class _TOOLED():
 	def __init__(self,): 
 		self.name = "TOOLED"
+		self.definitions = [u'Something, especially a piece of leather, that is tooled is covered with decorative patterns using a special tool: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

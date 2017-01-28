@@ -4,11 +4,12 @@
 class _ADVERTISING():
 	def __init__(self,): 
 		self.name = "ADVERTISING"
+		self.definitions = [u'the business of trying to persuade people to buy products or services: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

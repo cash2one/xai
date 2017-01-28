@@ -4,11 +4,12 @@
 class _AMATORY():
 	def __init__(self,): 
 		self.name = "AMATORY"
+		self.definitions = [u'relating to sexual love: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

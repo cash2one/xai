@@ -4,11 +4,12 @@
 class _RETICENT():
 	def __init__(self,): 
 		self.name = "RETICENT"
+		self.definitions = [u'unwilling to speak about your thoughts or feelings: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

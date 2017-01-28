@@ -4,11 +4,12 @@
 class _GREAT():
 	def __init__(self,): 
 		self.name = "GREAT"
+		self.definitions = [u'used to emphasize the meaning of another word: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

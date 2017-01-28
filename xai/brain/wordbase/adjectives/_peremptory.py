@@ -4,11 +4,12 @@
 class _PEREMPTORY():
 	def __init__(self,): 
 		self.name = "PEREMPTORY"
+		self.definitions = [u'expecting to be obeyed immediately and without asking questions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

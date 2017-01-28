@@ -4,11 +4,12 @@
 class _ENTHUSIASTIC():
 	def __init__(self,): 
 		self.name = "ENTHUSIASTIC"
+		self.definitions = [u'showing enthusiasm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

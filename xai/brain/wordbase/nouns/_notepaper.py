@@ -4,11 +4,12 @@
 class _NOTEPAPER():
 	def __init__(self,): 
 		self.name = "NOTEPAPER"
+		self.definitions = [u'plain paper for writing letters on: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

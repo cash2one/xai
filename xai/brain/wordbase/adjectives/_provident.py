@@ -4,11 +4,12 @@
 class _PROVIDENT():
 	def __init__(self,): 
 		self.name = "PROVIDENT"
+		self.definitions = [u'making arrangements for future needs, especially by saving money']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

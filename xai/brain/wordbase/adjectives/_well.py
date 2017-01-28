@@ -4,11 +4,12 @@
 class _WELL():
 	def __init__(self,): 
 		self.name = "WELL"
+		self.definitions = [u'healthy; not ill: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

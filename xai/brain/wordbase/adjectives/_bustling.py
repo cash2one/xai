@@ -4,11 +4,12 @@
 class _BUSTLING():
 	def __init__(self,): 
 		self.name = "BUSTLING"
+		self.definitions = [u'If a place is bustling, it is full of busy activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

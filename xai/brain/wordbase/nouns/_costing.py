@@ -4,11 +4,12 @@
 class _COSTING():
 	def __init__(self,): 
 		self.name = "COSTING"
+		self.definitions = [u'a calculation of the future cost of something such as a possible product: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _BLITHE():
 	def __init__(self,): 
 		self.name = "BLITHE"
+		self.definitions = [u'happy and without worry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

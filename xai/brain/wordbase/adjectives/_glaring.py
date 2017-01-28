@@ -4,11 +4,12 @@
 class _GLARING():
 	def __init__(self,): 
 		self.name = "GLARING"
+		self.definitions = [u'used to say that something bad is very obvious: ', u'shining too brightly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ERE():
 	def __init__(self,): 
 		self.name = "ERE"
+		self.definitions = [u'before: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

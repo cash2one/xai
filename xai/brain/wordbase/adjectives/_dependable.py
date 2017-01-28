@@ -4,11 +4,12 @@
 class _DEPENDABLE():
 	def __init__(self,): 
 		self.name = "DEPENDABLE"
+		self.definitions = [u'If someone or something is dependable, you can have confidence in him, her, or it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

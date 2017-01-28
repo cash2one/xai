@@ -4,11 +4,12 @@
 class _HOUSEBOUND():
 	def __init__(self,): 
 		self.name = "HOUSEBOUND"
+		self.definitions = [u'unable to leave your home, especially because you are ill: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

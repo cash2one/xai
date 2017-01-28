@@ -4,11 +4,12 @@
 class _ACCUSING():
 	def __init__(self,): 
 		self.name = "ACCUSING"
+		self.definitions = [u'suggesting that you think someone has done something bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

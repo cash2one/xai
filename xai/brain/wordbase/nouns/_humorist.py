@@ -4,11 +4,12 @@
 class _HUMORIST():
 	def __init__(self,): 
 		self.name = "HUMORIST"
+		self.definitions = [u'a person who writes or tells funny stories']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

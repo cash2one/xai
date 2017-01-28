@@ -4,11 +4,12 @@
 class _OVERT():
 	def __init__(self,): 
 		self.name = "OVERT"
+		self.definitions = [u'done or shown publicly or in an obvious way and not secret: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

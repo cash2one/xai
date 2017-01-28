@@ -4,11 +4,12 @@
 class _BRONZED():
 	def __init__(self,): 
 		self.name = "BRONZED"
+		self.definitions = [u'If someone is bronzed, their skin is attractively brown because they have been in the sun: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

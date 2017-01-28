@@ -4,11 +4,12 @@
 class _VERTIGINOUS():
 	def __init__(self,): 
 		self.name = "VERTIGINOUS"
+		self.definitions = [u'causing or experiencing the feeling that everything is spinning around: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

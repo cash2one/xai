@@ -4,11 +4,12 @@
 class _LOQUACIOUS():
 	def __init__(self,): 
 		self.name = "LOQUACIOUS"
+		self.definitions = [u'Someone who is loquacious talks a lot.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

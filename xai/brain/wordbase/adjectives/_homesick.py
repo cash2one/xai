@@ -4,11 +4,12 @@
 class _HOMESICK():
 	def __init__(self,): 
 		self.name = "HOMESICK"
+		self.definitions = [u'unhappy because of being away from home for a long period: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

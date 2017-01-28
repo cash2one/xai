@@ -4,11 +4,12 @@
 class _IDYLLIC():
 	def __init__(self,): 
 		self.name = "IDYLLIC"
+		self.definitions = [u'An idyllic place or experience is extremely pleasant, beautiful, or peaceful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

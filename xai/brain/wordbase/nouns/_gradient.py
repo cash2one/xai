@@ -4,11 +4,12 @@
 class _GRADIENT():
 	def __init__(self,): 
 		self.name = "GRADIENT"
+		self.definitions = [u'how steep a slope is: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

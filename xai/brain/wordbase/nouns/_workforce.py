@@ -4,11 +4,12 @@
 class _WORKFORCE():
 	def __init__(self,): 
 		self.name = "WORKFORCE"
+		self.definitions = [u'the group of people who work in a company, industry, country, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

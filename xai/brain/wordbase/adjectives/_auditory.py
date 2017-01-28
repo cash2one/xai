@@ -4,11 +4,12 @@
 class _AUDITORY():
 	def __init__(self,): 
 		self.name = "AUDITORY"
+		self.definitions = [u'of or about hearing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

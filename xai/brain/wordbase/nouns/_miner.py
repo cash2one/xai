@@ -4,11 +4,12 @@
 class _MINER():
 	def __init__(self,): 
 		self.name = "MINER"
+		self.definitions = [u'a person who works in a mine: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

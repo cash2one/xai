@@ -4,11 +4,12 @@
 class _LEAFY():
 	def __init__(self,): 
 		self.name = "LEAFY"
+		self.definitions = [u'A leafy place is pleasant and has a lot of trees: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

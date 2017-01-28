@@ -4,11 +4,12 @@
 class _VITUPERATIVE():
 	def __init__(self,): 
 		self.name = "VITUPERATIVE"
+		self.definitions = [u'A vituperative spoken or written attack is full of angry criticism: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SCANT():
 	def __init__(self,): 
 		self.name = "SCANT"
+		self.definitions = [u'very little and not enough: ', u'almost: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

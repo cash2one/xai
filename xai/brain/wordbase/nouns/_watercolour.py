@@ -4,11 +4,12 @@
 class _WATERCOLOUR():
 	def __init__(self,): 
 		self.name = "WATERCOLOUR"
+		self.definitions = [u'a paint that is mixed with water and used to create pictures, or a picture that has been done with this type of paint: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _CARTESIAN():
 	def __init__(self,): 
 		self.name = "CARTESIAN"
+		self.definitions = [u'of or connected with the ideas and theories of the mathematician Ren\xe9 Descartes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

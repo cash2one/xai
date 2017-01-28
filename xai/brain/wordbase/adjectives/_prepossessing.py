@@ -4,11 +4,12 @@
 class _PREPOSSESSING():
 	def __init__(self,): 
 		self.name = "PREPOSSESSING"
+		self.definitions = [u'interesting, attractive, or impressive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

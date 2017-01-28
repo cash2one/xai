@@ -4,11 +4,12 @@
 class _CREAK():
 	def __init__(self,): 
 		self.name = "CREAK"
+		self.definitions = [u'a noise made when something creaks: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

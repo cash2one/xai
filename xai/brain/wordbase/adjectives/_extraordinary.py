@@ -4,11 +4,12 @@
 class _EXTRAORDINARY():
 	def __init__(self,): 
 		self.name = "EXTRAORDINARY"
+		self.definitions = [u'very unusual, special, unexpected, or strange: ', u'a special meeting that happens between regular meetings']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

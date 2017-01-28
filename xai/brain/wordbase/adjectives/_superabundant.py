@@ -4,11 +4,12 @@
 class _SUPERABUNDANT():
 	def __init__(self,): 
 		self.name = "SUPERABUNDANT"
+		self.definitions = [u'existing in very large amounts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

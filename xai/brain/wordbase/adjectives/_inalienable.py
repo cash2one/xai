@@ -4,11 +4,12 @@
 class _INALIENABLE():
 	def __init__(self,): 
 		self.name = "INALIENABLE"
+		self.definitions = [u'unable to be removed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

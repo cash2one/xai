@@ -4,11 +4,12 @@
 class _GRANDSON():
 	def __init__(self,): 
 		self.name = "GRANDSON"
+		self.definitions = [u'the son of a your son or daughter']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _STARCHY():
 	def __init__(self,): 
 		self.name = "STARCHY"
+		self.definitions = [u'behaving in a formal way and without humour: ', u'containing a lot of starch: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

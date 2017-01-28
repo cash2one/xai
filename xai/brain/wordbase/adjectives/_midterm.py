@@ -4,11 +4,12 @@
 class _MIDTERM():
 	def __init__(self,): 
 		self.name = "MIDTERM"
+		self.definitions = [u'in the middle of the period when a government is in office: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

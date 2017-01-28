@@ -4,11 +4,12 @@
 class _RAINY():
 	def __init__(self,): 
 		self.name = "RAINY"
+		self.definitions = [u'raining a lot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

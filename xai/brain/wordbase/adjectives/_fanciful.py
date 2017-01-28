@@ -4,11 +4,12 @@
 class _FANCIFUL():
 	def __init__(self,): 
 		self.name = "FANCIFUL"
+		self.definitions = [u'not likely to succeed or happen in the real world: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

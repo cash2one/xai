@@ -4,11 +4,12 @@
 class _FAKE():
 	def __init__(self,): 
 		self.name = "FAKE"
+		self.definitions = [u'an object that is made to look real or valuable in order to deceive people: ', u'someone who is not what or who they claim to be: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

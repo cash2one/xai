@@ -4,11 +4,12 @@
 class _HILLOCK():
 	def __init__(self,): 
 		self.name = "HILLOCK"
+		self.definitions = [u'a small hill']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

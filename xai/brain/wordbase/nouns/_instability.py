@@ -4,11 +4,12 @@
 class _INSTABILITY():
 	def __init__(self,): 
 		self.name = "INSTABILITY"
+		self.definitions = [u'uncertainty caused by the possibility of a sudden change in the present situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

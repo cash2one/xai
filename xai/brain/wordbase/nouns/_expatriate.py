@@ -4,11 +4,12 @@
 class _EXPATRIATE():
 	def __init__(self,): 
 		self.name = "EXPATRIATE"
+		self.definitions = [u'someone who does not live in their own country: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _ESPECIAL():
 	def __init__(self,): 
 		self.name = "ESPECIAL"
+		self.definitions = [u'special']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

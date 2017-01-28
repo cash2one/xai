@@ -4,11 +4,12 @@
 class _SHOUTING():
 	def __init__(self,): 
 		self.name = "SHOUTING"
+		self.definitions = [u'shouts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

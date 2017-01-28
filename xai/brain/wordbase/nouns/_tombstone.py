@@ -4,11 +4,12 @@
 class _TOMBSTONE():
 	def __init__(self,): 
 		self.name = "TOMBSTONE"
+		self.definitions = [u'a  gravestone ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PUCKISH():
 	def __init__(self,): 
 		self.name = "PUCKISH"
+		self.definitions = [u'liking to make jokes about other people and play silly tricks on them: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

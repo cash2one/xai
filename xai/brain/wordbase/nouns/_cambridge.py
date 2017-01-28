@@ -4,11 +4,12 @@
 class _CAMBRIDGE():
 	def __init__(self,): 
 		self.name = "CAMBRIDGE"
+		self.definitions = [u'a city in the east of England, famous for its university']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

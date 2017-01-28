@@ -4,11 +4,12 @@
 class _RUNNING():
 	def __init__(self,): 
 		self.name = "RUNNING"
+		self.definitions = [u'happening on a particular number of regular occasions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

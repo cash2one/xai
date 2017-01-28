@@ -4,11 +4,12 @@
 class _MELT():
 	def __init__(self,): 
 		self.name = "MELT"
+		self.definitions = [u'a sandwich containing melted cheese: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

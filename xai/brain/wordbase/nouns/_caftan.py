@@ -4,11 +4,12 @@
 class _CAFTAN():
 	def __init__(self,): 
 		self.name = "CAFTAN"
+		self.definitions = [u'a  kaftan ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

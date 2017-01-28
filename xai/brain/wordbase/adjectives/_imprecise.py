@@ -4,11 +4,12 @@
 class _IMPRECISE():
 	def __init__(self,): 
 		self.name = "IMPRECISE"
+		self.definitions = [u'not accurate or exact: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

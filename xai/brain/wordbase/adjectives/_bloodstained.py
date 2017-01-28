@@ -4,11 +4,12 @@
 class _BLOODSTAINED():
 	def __init__(self,): 
 		self.name = "BLOODSTAINED"
+		self.definitions = [u'with marks of blood on it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

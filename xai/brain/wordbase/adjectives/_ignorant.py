@@ -4,11 +4,12 @@
 class _IGNORANT():
 	def __init__(self,): 
 		self.name = "IGNORANT"
+		self.definitions = [u'not having enough knowledge, understanding, or information about something: ', u'not polite or showing respect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

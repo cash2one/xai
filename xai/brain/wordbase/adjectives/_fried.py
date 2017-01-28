@@ -4,11 +4,12 @@
 class _FRIED():
 	def __init__(self,): 
 		self.name = "FRIED"
+		self.definitions = [u'cooked in hot oil or fat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

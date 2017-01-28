@@ -4,11 +4,12 @@
 class _PURSUANCE():
 	def __init__(self,): 
 		self.name = "PURSUANCE"
+		self.definitions = [u'the act of trying to achieve something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _THEATER():
 	def __init__(self,): 
 		self.name = "THEATER"
+		self.definitions = [u'US spelling of  theatre ', u'a cinema']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

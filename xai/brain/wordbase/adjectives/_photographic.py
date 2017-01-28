@@ -4,11 +4,12 @@
 class _PHOTOGRAPHIC():
 	def __init__(self,): 
 		self.name = "PHOTOGRAPHIC"
+		self.definitions = [u'relating to, used for, or produced by photography: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

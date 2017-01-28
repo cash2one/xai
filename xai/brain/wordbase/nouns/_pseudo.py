@@ -4,11 +4,12 @@
 class _PSEUDO():
 	def __init__(self,): 
 		self.name = "PSEUDO"
+		self.definitions = [u'pretended and not real: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

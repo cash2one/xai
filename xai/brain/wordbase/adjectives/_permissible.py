@@ -4,11 +4,12 @@
 class _PERMISSIBLE():
 	def __init__(self,): 
 		self.name = "PERMISSIBLE"
+		self.definitions = [u'allowed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

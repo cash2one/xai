@@ -4,11 +4,12 @@
 class _NEARSIGHTED():
 	def __init__(self,): 
 		self.name = "NEARSIGHTED"
+		self.definitions = [u'Someone who is nearsighted cannot see objects clearly that are far away.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

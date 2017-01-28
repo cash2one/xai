@@ -4,11 +4,12 @@
 class _ENGROSSED():
 	def __init__(self,): 
 		self.name = "ENGROSSED"
+		self.definitions = [u'giving all your attention to something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

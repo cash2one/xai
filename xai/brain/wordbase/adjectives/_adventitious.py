@@ -4,11 +4,12 @@
 class _ADVENTITIOUS():
 	def __init__(self,): 
 		self.name = "ADVENTITIOUS"
+		self.definitions = [u'not expected or planned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

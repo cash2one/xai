@@ -4,11 +4,12 @@
 class _MARSHY():
 	def __init__(self,): 
 		self.name = "MARSHY"
+		self.definitions = [u'A marshy area of land is always wet, like a marsh: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

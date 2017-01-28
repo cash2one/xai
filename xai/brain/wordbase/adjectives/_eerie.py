@@ -4,11 +4,12 @@
 class _EERIE():
 	def __init__(self,): 
 		self.name = "EERIE"
+		self.definitions = [u'strange in a frightening and mysterious way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

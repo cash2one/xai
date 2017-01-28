@@ -4,11 +4,12 @@
 class _HYPER():
 	def __init__(self,): 
 		self.name = "HYPER"
+		self.definitions = [u'too excited and energetic: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

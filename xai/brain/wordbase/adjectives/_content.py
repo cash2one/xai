@@ -4,11 +4,12 @@
 class _CONTENT():
 	def __init__(self,): 
 		self.name = "CONTENT"
+		self.definitions = [u'pleased with your situation and not hoping for change or improvement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

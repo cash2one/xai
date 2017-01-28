@@ -4,11 +4,12 @@
 class _HEAPING():
 	def __init__(self,): 
 		self.name = "HEAPING"
+		self.definitions = [u'large: ', u'(of a spoon or plate) containing as much as possible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

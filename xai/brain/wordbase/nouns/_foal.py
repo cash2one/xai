@@ -4,11 +4,12 @@
 class _FOAL():
 	def __init__(self,): 
 		self.name = "FOAL"
+		self.definitions = [u'a young horse']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

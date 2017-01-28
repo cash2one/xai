@@ -4,11 +4,12 @@
 class _COMPARABLE():
 	def __init__(self,): 
 		self.name = "COMPARABLE"
+		self.definitions = [u'similar in size, amount, or quality to something else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

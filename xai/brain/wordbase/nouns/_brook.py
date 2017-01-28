@@ -4,11 +4,12 @@
 class _BROOK():
 	def __init__(self,): 
 		self.name = "BROOK"
+		self.definitions = [u'a small stream: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

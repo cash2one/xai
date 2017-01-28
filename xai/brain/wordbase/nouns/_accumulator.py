@@ -4,11 +4,12 @@
 class _ACCUMULATOR():
 	def __init__(self,): 
 		self.name = "ACCUMULATOR"
+		self.definitions = [u'a battery that collects and stores electricity']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

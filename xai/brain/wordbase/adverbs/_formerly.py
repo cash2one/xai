@@ -4,11 +4,12 @@
 class _FORMERLY():
 	def __init__(self,): 
 		self.name = "FORMERLY"
+		self.definitions = [u'in the past: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

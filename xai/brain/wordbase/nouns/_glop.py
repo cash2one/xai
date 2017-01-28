@@ -4,11 +4,12 @@
 class _GLOP():
 	def __init__(self,): 
 		self.name = "GLOP"
+		self.definitions = [u'any thick, unpleasant liquid, especially food: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

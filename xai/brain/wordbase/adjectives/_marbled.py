@@ -4,11 +4,12 @@
 class _MARBLED():
 	def __init__(self,): 
 		self.name = "MARBLED"
+		self.definitions = [u'decorated with a delicate pattern consisting of lines and areas of colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

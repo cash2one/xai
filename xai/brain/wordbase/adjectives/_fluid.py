@@ -4,11 +4,12 @@
 class _FLUID():
 	def __init__(self,): 
 		self.name = "FLUID"
+		self.definitions = [u'smooth and continuous: ', u'If situations, ideas, or plans are fluid, they are not fixed and are likely to change, often repeatedly and unexpectedly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CUTUP():
 	def __init__(self,): 
 		self.name = "CUTUP"
+		self.definitions = [u'someone who behaves in an active and silly way in order to make people laugh: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

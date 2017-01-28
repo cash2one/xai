@@ -4,11 +4,12 @@
 class _TENANT():
 	def __init__(self,): 
 		self.name = "TENANT"
+		self.definitions = [u'a person who pays rent for the use of land or a building']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

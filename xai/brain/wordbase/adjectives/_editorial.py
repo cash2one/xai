@@ -4,11 +4,12 @@
 class _EDITORIAL():
 	def __init__(self,): 
 		self.name = "EDITORIAL"
+		self.definitions = [u'relating to editors or editing, or to the editor of a newspaper or magazine: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

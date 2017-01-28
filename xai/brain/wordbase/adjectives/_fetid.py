@@ -4,11 +4,12 @@
 class _FETID():
 	def __init__(self,): 
 		self.name = "FETID"
+		self.definitions = [u'smelling extremely bad and stale: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNRELIABLE():
 	def __init__(self,): 
 		self.name = "UNRELIABLE"
+		self.definitions = [u'not able to be trusted or believed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LAUDABLE():
 	def __init__(self,): 
 		self.name = "LAUDABLE"
+		self.definitions = [u'(of actions and behaviour) deserving praise, even if there is little or no success: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _GODSEND():
 	def __init__(self,): 
 		self.name = "GODSEND"
+		self.definitions = [u'something good that happens unexpectedly, especially at a time when it is needed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

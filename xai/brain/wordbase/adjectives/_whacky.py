@@ -4,11 +4,12 @@
 class _WHACKY():
 	def __init__(self,): 
 		self.name = "WHACKY"
+		self.definitions = [u'strange or unusual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

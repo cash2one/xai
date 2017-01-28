@@ -4,11 +4,12 @@
 class _CONSENT():
 	def __init__(self,): 
 		self.name = "CONSENT"
+		self.definitions = [u'permission or agreement: ', u'most people agree: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

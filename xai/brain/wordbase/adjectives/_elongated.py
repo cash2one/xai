@@ -4,11 +4,12 @@
 class _ELONGATED():
 	def __init__(self,): 
 		self.name = "ELONGATED"
+		self.definitions = [u'longer and thinner than usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

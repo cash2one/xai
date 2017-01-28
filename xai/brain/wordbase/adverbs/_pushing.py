@@ -4,11 +4,12 @@
 class _PUSHING():
 	def __init__(self,): 
 		self.name = "PUSHING"
+		self.definitions = [u'to be almost 50, 60, etc. years old: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

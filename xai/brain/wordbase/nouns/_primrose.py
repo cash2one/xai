@@ -4,11 +4,12 @@
 class _PRIMROSE():
 	def __init__(self,): 
 		self.name = "PRIMROSE"
+		self.definitions = [u'a wild plant with pale yellow flowers']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

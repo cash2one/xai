@@ -4,11 +4,12 @@
 class _PROCESSIONAL():
 	def __init__(self,): 
 		self.name = "PROCESSIONAL"
+		self.definitions = [u'used in a procession: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

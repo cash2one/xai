@@ -4,11 +4,12 @@
 class _ELECTROMAGNETISM():
 	def __init__(self,): 
 		self.name = "ELECTROMAGNETISM"
+		self.definitions = [u'the science of magnetism and electrical currents']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

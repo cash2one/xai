@@ -4,11 +4,12 @@
 class _PROUDLY():
 	def __init__(self,): 
 		self.name = "PROUDLY"
+		self.definitions = [u'in a proud way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

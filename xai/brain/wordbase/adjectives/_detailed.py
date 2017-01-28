@@ -4,11 +4,12 @@
 class _DETAILED():
 	def __init__(self,): 
 		self.name = "DETAILED"
+		self.definitions = [u'giving a lot of information with many details: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

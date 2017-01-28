@@ -4,11 +4,12 @@
 class _PLUSH():
 	def __init__(self,): 
 		self.name = "PLUSH"
+		self.definitions = [u'expensive, comfortable, and of high quality: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

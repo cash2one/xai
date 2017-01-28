@@ -4,11 +4,12 @@
 class _LIMPID():
 	def __init__(self,): 
 		self.name = "LIMPID"
+		self.definitions = [u'clear and transparent: ', u'clearly expressed and easily understood: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

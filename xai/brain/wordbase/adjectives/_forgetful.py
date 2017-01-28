@@ -4,11 +4,12 @@
 class _FORGETFUL():
 	def __init__(self,): 
 		self.name = "FORGETFUL"
+		self.definitions = [u'often forgetting things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

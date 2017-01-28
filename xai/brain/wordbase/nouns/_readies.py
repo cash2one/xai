@@ -4,11 +4,12 @@
 class _READIES():
 	def __init__(self,): 
 		self.name = "READIES"
+		self.definitions = [u'slang for money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

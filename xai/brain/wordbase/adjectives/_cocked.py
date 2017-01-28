@@ -4,11 +4,12 @@
 class _COCKED():
 	def __init__(self,): 
 		self.name = "COCKED"
+		self.definitions = [u'with one side higher than the other; not straight: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

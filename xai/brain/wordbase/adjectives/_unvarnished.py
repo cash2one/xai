@@ -4,11 +4,12 @@
 class _UNVARNISHED():
 	def __init__(self,): 
 		self.name = "UNVARNISHED"
+		self.definitions = [u'An unvarnished statement is expressed in a plain and honest way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

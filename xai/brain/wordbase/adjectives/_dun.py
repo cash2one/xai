@@ -4,11 +4,12 @@
 class _DUN():
 	def __init__(self,): 
 		self.name = "DUN"
+		self.definitions = [u'of a greyish-brown colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

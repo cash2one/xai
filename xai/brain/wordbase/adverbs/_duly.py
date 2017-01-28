@@ -4,11 +4,12 @@
 class _DULY():
 	def __init__(self,): 
 		self.name = "DULY"
+		self.definitions = [u'in the correct way or at the correct time; as expected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _UNSURPASSED():
 	def __init__(self,): 
 		self.name = "UNSURPASSED"
+		self.definitions = [u'better than anyone or anything else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MISANTHROPE():
 	def __init__(self,): 
 		self.name = "MISANTHROPE"
+		self.definitions = [u'someone who dislikes and avoids other people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

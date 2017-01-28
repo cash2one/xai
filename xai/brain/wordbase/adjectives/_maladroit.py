@@ -4,11 +4,12 @@
 class _MALADROIT():
 	def __init__(self,): 
 		self.name = "MALADROIT"
+		self.definitions = [u'awkward in movement or unskilled in behaviour or action: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

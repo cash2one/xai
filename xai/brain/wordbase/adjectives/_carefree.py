@@ -4,11 +4,12 @@
 class _CAREFREE():
 	def __init__(self,): 
 		self.name = "CAREFREE"
+		self.definitions = [u'having no problems or not being worried about anything: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

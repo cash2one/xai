@@ -4,11 +4,12 @@
 class _CAPTIOUS():
 	def __init__(self,): 
 		self.name = "CAPTIOUS"
+		self.definitions = [u'often expressing criticisms about matters that are not important']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

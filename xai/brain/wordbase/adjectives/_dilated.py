@@ -4,11 +4,12 @@
 class _DILATED():
 	def __init__(self,): 
 		self.name = "DILATED"
+		self.definitions = [u'wider or further open than usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

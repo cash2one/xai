@@ -4,11 +4,12 @@
 class _ARGENTINIAN():
 	def __init__(self,): 
 		self.name = "ARGENTINIAN"
+		self.definitions = [u'belonging to or relating to Argentina or its people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

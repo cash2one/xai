@@ -4,11 +4,12 @@
 class _ELEVEN():
 	def __init__(self,): 
 		self.name = "ELEVEN"
+		self.definitions = [u'a team of eleven players']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

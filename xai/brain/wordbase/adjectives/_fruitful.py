@@ -4,11 +4,12 @@
 class _FRUITFUL():
 	def __init__(self,): 
 		self.name = "FRUITFUL"
+		self.definitions = [u'producing good results: ', u'If a person is fruitful, they produce a lot of children.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

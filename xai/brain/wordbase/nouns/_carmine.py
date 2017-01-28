@@ -4,11 +4,12 @@
 class _CARMINE():
 	def __init__(self,): 
 		self.name = "CARMINE"
+		self.definitions = [u'a deep bright red colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

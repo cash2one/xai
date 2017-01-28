@@ -4,11 +4,12 @@
 class _EXTERIOR():
 	def __init__(self,): 
 		self.name = "EXTERIOR"
+		self.definitions = [u'the outside part of something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

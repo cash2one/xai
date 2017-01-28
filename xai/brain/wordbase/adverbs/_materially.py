@@ -4,11 +4,12 @@
 class _MATERIALLY():
 	def __init__(self,): 
 		self.name = "MATERIALLY"
+		self.definitions = [u'in a way that relates to money and possessions: ', u'in an important or noticeable way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

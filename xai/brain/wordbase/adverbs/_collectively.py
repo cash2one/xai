@@ -4,11 +4,12 @@
 class _COLLECTIVELY():
 	def __init__(self,): 
 		self.name = "COLLECTIVELY"
+		self.definitions = [u'as a group: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _MONARCH():
 	def __init__(self,): 
 		self.name = "MONARCH"
+		self.definitions = [u'a king or queen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

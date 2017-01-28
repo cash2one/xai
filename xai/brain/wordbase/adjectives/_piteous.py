@@ -4,11 +4,12 @@
 class _PITEOUS():
 	def __init__(self,): 
 		self.name = "PITEOUS"
+		self.definitions = [u'causing you to feel sadness and sympathy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

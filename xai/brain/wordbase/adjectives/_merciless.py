@@ -4,11 +4,12 @@
 class _MERCILESS():
 	def __init__(self,): 
 		self.name = "MERCILESS"
+		self.definitions = [u'having or showing no mercy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

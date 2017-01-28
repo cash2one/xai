@@ -4,11 +4,12 @@
 class _SIMULTANEOUS():
 	def __init__(self,): 
 		self.name = "SIMULTANEOUS"
+		self.definitions = [u'happening or being done at exactly the same time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

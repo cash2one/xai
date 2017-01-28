@@ -4,11 +4,12 @@
 class _BELLYACHE():
 	def __init__(self,): 
 		self.name = "BELLYACHE"
+		self.definitions = [u'a pain in the stomach']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

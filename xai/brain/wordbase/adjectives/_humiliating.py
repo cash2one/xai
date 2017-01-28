@@ -4,11 +4,12 @@
 class _HUMILIATING():
 	def __init__(self,): 
 		self.name = "HUMILIATING"
+		self.definitions = [u'making you feel ashamed or stupid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

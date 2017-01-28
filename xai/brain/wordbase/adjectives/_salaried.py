@@ -4,11 +4,12 @@
 class _SALARIED():
 	def __init__(self,): 
 		self.name = "SALARIED"
+		self.definitions = [u'being paid a salary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

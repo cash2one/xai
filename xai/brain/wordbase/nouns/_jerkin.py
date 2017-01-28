@@ -4,11 +4,12 @@
 class _JERKIN():
 	def __init__(self,): 
 		self.name = "JERKIN"
+		self.definitions = [u'a jacket with no sleeves or collar']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

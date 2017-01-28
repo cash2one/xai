@@ -4,11 +4,12 @@
 class _CARTER():
 	def __init__(self,): 
 		self.name = "CARTER"
+		self.definitions = [u'a person who drives a cart']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

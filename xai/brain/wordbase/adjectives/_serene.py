@@ -4,11 +4,12 @@
 class _SERENE():
 	def __init__(self,): 
 		self.name = "SERENE"
+		self.definitions = [u'peaceful and calm; worried by nothing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

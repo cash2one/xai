@@ -4,11 +4,12 @@
 class _UNPRONOUNCEABLE():
 	def __init__(self,): 
 		self.name = "UNPRONOUNCEABLE"
+		self.definitions = [u'difficult to say or (of something written) difficult to know how to say: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

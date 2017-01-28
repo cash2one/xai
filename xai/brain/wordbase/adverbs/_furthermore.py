@@ -4,11 +4,12 @@
 class _FURTHERMORE():
 	def __init__(self,): 
 		self.name = "FURTHERMORE"
+		self.definitions = [u'in addition; more importantly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

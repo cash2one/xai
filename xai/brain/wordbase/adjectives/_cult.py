@@ -4,11 +4,12 @@
 class _CULT():
 	def __init__(self,): 
 		self.name = "CULT"
+		self.definitions = [u'liked very much by a particular group of people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

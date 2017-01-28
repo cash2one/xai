@@ -4,11 +4,12 @@
 class _CANTANKEROUS():
 	def __init__(self,): 
 		self.name = "CANTANKEROUS"
+		self.definitions = [u'arguing and complaining a lot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

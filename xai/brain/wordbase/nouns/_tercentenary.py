@@ -4,11 +4,12 @@
 class _TERCENTENARY():
 	def __init__(self,): 
 		self.name = "TERCENTENARY"
+		self.definitions = [u'the day or year that is 300 years after an important event']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

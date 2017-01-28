@@ -4,11 +4,12 @@
 class _DAINTILY():
 	def __init__(self,): 
 		self.name = "DAINTILY"
+		self.definitions = [u'in an attractive, careful way, especially used about something small or having small movements: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

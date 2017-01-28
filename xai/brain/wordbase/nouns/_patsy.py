@@ -4,11 +4,12 @@
 class _PATSY():
 	def __init__(self,): 
 		self.name = "PATSY"
+		self.definitions = [u'a person who it is easy to cheat or make suffer']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

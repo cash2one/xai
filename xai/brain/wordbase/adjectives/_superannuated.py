@@ -4,11 +4,12 @@
 class _SUPERANNUATED():
 	def __init__(self,): 
 		self.name = "SUPERANNUATED"
+		self.definitions = [u'old, and almost no longer suitable for work or use']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

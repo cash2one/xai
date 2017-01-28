@@ -4,11 +4,12 @@
 class _TEUTONIC():
 	def __init__(self,): 
 		self.name = "TEUTONIC"
+		self.definitions = [u'of, or thought to be typical of, the groups of people in northwestern Europe of German origin: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

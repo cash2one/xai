@@ -4,11 +4,12 @@
 class _NIMBLE():
 	def __init__(self,): 
 		self.name = "NIMBLE"
+		self.definitions = [u'quick and exact either in movement or thoughts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CUPCAKE():
 	def __init__(self,): 
 		self.name = "CUPCAKE"
+		self.definitions = [u'a small cake with icing on top']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

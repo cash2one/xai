@@ -4,11 +4,12 @@
 class _MATCHLESS():
 	def __init__(self,): 
 		self.name = "MATCHLESS"
+		self.definitions = [u'of a very high standard or quality and better than everything else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

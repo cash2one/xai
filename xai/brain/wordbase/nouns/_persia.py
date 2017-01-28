@@ -4,11 +4,12 @@
 class _PERSIA():
 	def __init__(self,): 
 		self.name = "PERSIA"
+		self.definitions = [u'an old name for  Iran ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

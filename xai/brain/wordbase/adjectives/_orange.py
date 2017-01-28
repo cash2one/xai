@@ -4,11 +4,12 @@
 class _ORANGE():
 	def __init__(self,): 
 		self.name = "ORANGE"
+		self.definitions = [u'of a colour between red and yellow: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

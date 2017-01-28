@@ -4,11 +4,12 @@
 class _COMPLETE():
 	def __init__(self,): 
 		self.name = "COMPLETE"
+		self.definitions = [u'very great or to the largest degree possible: ', u'with all the parts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

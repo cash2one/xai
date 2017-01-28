@@ -4,11 +4,12 @@
 class _ABACK():
 	def __init__(self,): 
 		self.name = "ABACK"
+		self.definitions = [u'to be very shocked or surprised: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

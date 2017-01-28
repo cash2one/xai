@@ -4,11 +4,12 @@
 class _FORTUNATE():
 	def __init__(self,): 
 		self.name = "FORTUNATE"
+		self.definitions = [u'lucky: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

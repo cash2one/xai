@@ -4,11 +4,12 @@
 class _SATISFACTORY():
 	def __init__(self,): 
 		self.name = "SATISFACTORY"
+		self.definitions = [u'good or good enough for a particular need or purpose: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

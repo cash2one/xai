@@ -4,11 +4,12 @@
 class _MOO():
 	def __init__(self,): 
 		self.name = "MOO"
+		self.definitions = [u'the sound that a cow makes']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

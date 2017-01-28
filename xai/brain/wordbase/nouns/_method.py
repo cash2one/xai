@@ -4,11 +4,12 @@
 class _METHOD():
 	def __init__(self,): 
 		self.name = "METHOD"
+		self.definitions = [u'a particular way of doing something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

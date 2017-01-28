@@ -4,11 +4,12 @@
 class _POUND():
 	def __init__(self,): 
 		self.name = "POUND"
+		self.definitions = [u'the standard unit of money used in the UK and some other countries: ', u'the value of the UK pound, used in comparing the values of different types of money from around the world: ', u'a unit for measuring weight: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

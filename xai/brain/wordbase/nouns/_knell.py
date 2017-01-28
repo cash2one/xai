@@ -4,11 +4,12 @@
 class _KNELL():
 	def __init__(self,): 
 		self.name = "KNELL"
+		self.definitions = [u'a  death knell .']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

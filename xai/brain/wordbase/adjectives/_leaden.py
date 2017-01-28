@@ -4,11 +4,12 @@
 class _LEADEN():
 	def __init__(self,): 
 		self.name = "LEADEN"
+		self.definitions = [u'dark grey: ', u'without energy or feeling: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

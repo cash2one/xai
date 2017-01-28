@@ -4,11 +4,12 @@
 class _ROOMY():
 	def __init__(self,): 
 		self.name = "ROOMY"
+		self.definitions = [u'If something such as a house or car is roomy, it has a lot of space inside it.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

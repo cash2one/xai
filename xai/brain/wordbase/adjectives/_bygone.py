@@ -4,11 +4,12 @@
 class _BYGONE():
 	def __init__(self,): 
 		self.name = "BYGONE"
+		self.definitions = [u'belonging to or happening in a past time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

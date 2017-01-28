@@ -4,11 +4,12 @@
 class _IMPISH():
 	def __init__(self,): 
 		self.name = "IMPISH"
+		self.definitions = [u"showing a child's pleasure in enjoying yourself and making trouble: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

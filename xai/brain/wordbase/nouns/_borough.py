@@ -4,11 +4,12 @@
 class _BOROUGH():
 	def __init__(self,): 
 		self.name = "BOROUGH"
+		self.definitions = [u'a town, or a division of a large town']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

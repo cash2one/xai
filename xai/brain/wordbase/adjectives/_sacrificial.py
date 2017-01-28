@@ -4,11 +4,12 @@
 class _SACRIFICIAL():
 	def __init__(self,): 
 		self.name = "SACRIFICIAL"
+		self.definitions = [u'offered as a sacrifice: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

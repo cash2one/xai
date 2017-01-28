@@ -4,11 +4,12 @@
 class _BOASTFUL():
 	def __init__(self,): 
 		self.name = "BOASTFUL"
+		self.definitions = [u'praising yourself and what you have done']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

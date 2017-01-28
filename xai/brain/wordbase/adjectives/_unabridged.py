@@ -4,11 +4,12 @@
 class _UNABRIDGED():
 	def __init__(self,): 
 		self.name = "UNABRIDGED"
+		self.definitions = [u'An unabridged book, speech, or article is in its original form and has not been made shorter.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _COMMANDMENT():
 	def __init__(self,): 
 		self.name = "COMMANDMENT"
+		self.definitions = [u'an order, especially one of the Ten Commandments']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

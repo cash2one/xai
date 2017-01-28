@@ -4,11 +4,12 @@
 class _RESULTANT():
 	def __init__(self,): 
 		self.name = "RESULTANT"
+		self.definitions = [u'caused by the event or situation that you have just mentioned']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

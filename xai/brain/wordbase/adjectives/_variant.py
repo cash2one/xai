@@ -4,11 +4,12 @@
 class _VARIANT():
 	def __init__(self,): 
 		self.name = "VARIANT"
+		self.definitions = [u'different: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MARTIAL():
 	def __init__(self,): 
 		self.name = "MARTIAL"
+		self.definitions = [u'relating to soldiers, war, or life in the armed forces']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

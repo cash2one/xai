@@ -4,11 +4,12 @@
 class _SOMEWHAT():
 	def __init__(self,): 
 		self.name = "SOMEWHAT"
+		self.definitions = [u'to some degree: ', u'to some degree: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

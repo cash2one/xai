@@ -4,11 +4,12 @@
 class _DEFERENCE():
 	def __init__(self,): 
 		self.name = "DEFERENCE"
+		self.definitions = [u'respect and politeness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

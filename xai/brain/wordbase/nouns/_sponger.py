@@ -4,11 +4,12 @@
 class _SPONGER():
 	def __init__(self,): 
 		self.name = "SPONGER"
+		self.definitions = [u'a person who gets money, food, etc. from other people, especially in order to live without working']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

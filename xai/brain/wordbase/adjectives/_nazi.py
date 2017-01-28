@@ -4,11 +4,12 @@
 class _NAZI():
 	def __init__(self,): 
 		self.name = "NAZI"
+		self.definitions = [u"belonging to or connected with the National Socialist (German Workers') Party, which controlled Germany from 1933 to 1945: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

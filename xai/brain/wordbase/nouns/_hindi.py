@@ -4,11 +4,12 @@
 class _HINDI():
 	def __init__(self,): 
 		self.name = "HINDI"
+		self.definitions = [u'one of the official languages of India, spoken especially in northern India']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

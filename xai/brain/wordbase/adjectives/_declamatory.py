@@ -4,11 +4,12 @@
 class _DECLAMATORY():
 	def __init__(self,): 
 		self.name = "DECLAMATORY"
+		self.definitions = [u'expressing something with strong feeling, especially in a loud voice or with forceful language: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

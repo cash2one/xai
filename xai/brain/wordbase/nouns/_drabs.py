@@ -4,11 +4,12 @@
 class _DRABS():
 	def __init__(self,): 
 		self.name = "DRABS"
+		self.definitions = [u'in small amounts, a few at a time']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

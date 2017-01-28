@@ -4,11 +4,12 @@
 class _SWATCH():
 	def __init__(self,): 
 		self.name = "SWATCH"
+		self.definitions = [u'a small piece of cloth used as an example of the colour and type of the cloth']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

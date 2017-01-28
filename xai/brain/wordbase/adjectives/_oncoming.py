@@ -4,11 +4,12 @@
 class _ONCOMING():
 	def __init__(self,): 
 		self.name = "ONCOMING"
+		self.definitions = [u'moving towards you or coming nearer: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

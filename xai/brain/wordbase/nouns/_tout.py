@@ -4,11 +4,12 @@
 class _TOUT():
 	def __init__(self,): 
 		self.name = "TOUT"
+		self.definitions = [u'a person who touts tickets: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

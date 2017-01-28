@@ -4,11 +4,12 @@
 class _TUBERCLE():
 	def __init__(self,): 
 		self.name = "TUBERCLE"
+		self.definitions = [u'a small rounded point on a bone']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

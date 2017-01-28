@@ -4,11 +4,12 @@
 class _PRESSING():
 	def __init__(self,): 
 		self.name = "PRESSING"
+		self.definitions = [u'a large number of CDs, records, etc. produced at one time']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

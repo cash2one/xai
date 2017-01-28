@@ -4,11 +4,12 @@
 class _REFILLABLE():
 	def __init__(self,): 
 		self.name = "REFILLABLE"
+		self.definitions = [u'A container that is refillable can be filled again when the liquid inside has been used: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

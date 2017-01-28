@@ -4,11 +4,12 @@
 class _CULOTTES():
 	def __init__(self,): 
 		self.name = "CULOTTES"
+		self.definitions = [u"women's short trousers that look like a skirt: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

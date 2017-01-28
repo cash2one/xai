@@ -4,11 +4,12 @@
 class _CONGENITAL():
 	def __init__(self,): 
 		self.name = "CONGENITAL"
+		self.definitions = [u'A congenital disease or condition exists at or from birth: ', u'used to say that someone always shows a particular bad quality: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

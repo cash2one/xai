@@ -4,11 +4,12 @@
 class _DIGNIFIED():
 	def __init__(self,): 
 		self.name = "DIGNIFIED"
+		self.definitions = [u'controlled, serious, and calm, and therefore deserving respect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

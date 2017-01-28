@@ -4,11 +4,12 @@
 class _ANTIGEN():
 	def __init__(self,): 
 		self.name = "ANTIGEN"
+		self.definitions = [u'a substance that causes the production of antibodies in the body']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

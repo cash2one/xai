@@ -4,11 +4,12 @@
 class _PEACH():
 	def __init__(self,): 
 		self.name = "PEACH"
+		self.definitions = [u'having a pale colour between pink and orange']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

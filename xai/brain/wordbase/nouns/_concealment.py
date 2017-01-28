@@ -4,11 +4,12 @@
 class _CONCEALMENT():
 	def __init__(self,): 
 		self.name = "CONCEALMENT"
+		self.definitions = [u'the act of hiding something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

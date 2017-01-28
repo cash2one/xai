@@ -4,11 +4,12 @@
 class _GAUNT():
 	def __init__(self,): 
 		self.name = "GAUNT"
+		self.definitions = [u'very thin, especially because of sickness or hunger: ', u'empty and not attractive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _US():
 	def __init__(self,): 
 		self.name = "US"
+		self.definitions = [u'our: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _HERBAL():
 	def __init__(self,): 
 		self.name = "HERBAL"
+		self.definitions = [u'relating to or made from herbs: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

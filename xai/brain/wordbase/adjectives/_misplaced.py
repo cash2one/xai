@@ -4,11 +4,12 @@
 class _MISPLACED():
 	def __init__(self,): 
 		self.name = "MISPLACED"
+		self.definitions = [u'directed towards someone or something wrongly or in a way that does not show good judgment: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

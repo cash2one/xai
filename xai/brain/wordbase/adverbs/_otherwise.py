@@ -4,11 +4,12 @@
 class _OTHERWISE():
 	def __init__(self,): 
 		self.name = "OTHERWISE"
+		self.definitions = [u'differently, or in another way: ', u'except for what has just been referred to: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

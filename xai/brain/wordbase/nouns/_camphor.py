@@ -4,11 +4,12 @@
 class _CAMPHOR():
 	def __init__(self,): 
 		self.name = "CAMPHOR"
+		self.definitions = [u'a whitish substance with a strong smell, sometimes used in medicine']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

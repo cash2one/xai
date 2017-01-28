@@ -4,11 +4,12 @@
 class _GENTILITY():
 	def __init__(self,): 
 		self.name = "GENTILITY"
+		self.definitions = [u'the quality of being genteel: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

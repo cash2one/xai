@@ -4,11 +4,12 @@
 class _HUDDLED():
 	def __init__(self,): 
 		self.name = "HUDDLED"
+		self.definitions = [u'standing or sitting close together: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

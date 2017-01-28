@@ -4,11 +4,12 @@
 class _SIMIAN():
 	def __init__(self,): 
 		self.name = "SIMIAN"
+		self.definitions = [u'(of or like) a monkey']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

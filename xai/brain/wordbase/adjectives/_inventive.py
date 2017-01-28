@@ -4,11 +4,12 @@
 class _INVENTIVE():
 	def __init__(self,): 
 		self.name = "INVENTIVE"
+		self.definitions = [u'very good at thinking of new and original ideas: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

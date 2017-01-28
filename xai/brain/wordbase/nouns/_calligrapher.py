@@ -4,11 +4,12 @@
 class _CALLIGRAPHER():
 	def __init__(self,): 
 		self.name = "CALLIGRAPHER"
+		self.definitions = [u'a person who is skilled at the art of calligraphy (= producing beautiful writing, often with a special pen or brush): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

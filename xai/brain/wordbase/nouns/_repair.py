@@ -4,11 +4,12 @@
 class _REPAIR():
 	def __init__(self,): 
 		self.name = "REPAIR"
+		self.definitions = [u'the act of fixing something that is broken or damaged: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

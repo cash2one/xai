@@ -4,11 +4,12 @@
 class _SUMMERTIME():
 	def __init__(self,): 
 		self.name = "SUMMERTIME"
+		self.definitions = [u'the season of summer: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

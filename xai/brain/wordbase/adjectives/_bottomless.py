@@ -4,11 +4,12 @@
 class _BOTTOMLESS():
 	def __init__(self,): 
 		self.name = "BOTTOMLESS"
+		self.definitions = [u'without a limit or end: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _RECTANGULAR():
 	def __init__(self,): 
 		self.name = "RECTANGULAR"
+		self.definitions = [u'shaped like a rectangle']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

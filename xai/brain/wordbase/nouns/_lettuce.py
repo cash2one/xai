@@ -4,11 +4,12 @@
 class _LETTUCE():
 	def __init__(self,): 
 		self.name = "LETTUCE"
+		self.definitions = [u'a plant with large, green leaves, eaten uncooked in salads']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PENETRATIVE():
 	def __init__(self,): 
 		self.name = "PENETRATIVE"
+		self.definitions = [u'involving movement into or through something or someone: ', u'showing understanding: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _VIVA():
 	def __init__(self,): 
 		self.name = "VIVA"
+		self.definitions = [u'a spoken exam for a university qualification']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

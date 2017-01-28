@@ -4,11 +4,12 @@
 class _EXCESS():
 	def __init__(self,): 
 		self.name = "EXCESS"
+		self.definitions = [u'extra: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

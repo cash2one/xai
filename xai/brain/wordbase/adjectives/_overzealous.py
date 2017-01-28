@@ -4,11 +4,12 @@
 class _OVERZEALOUS():
 	def __init__(self,): 
 		self.name = "OVERZEALOUS"
+		self.definitions = [u'too enthusiastic and eager: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

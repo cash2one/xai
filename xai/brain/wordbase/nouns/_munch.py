@@ -4,11 +4,12 @@
 class _MUNCH():
 	def __init__(self,): 
 		self.name = "MUNCH"
+		self.definitions = [u'food: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

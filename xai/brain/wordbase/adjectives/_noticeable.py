@@ -4,11 +4,12 @@
 class _NOTICEABLE():
 	def __init__(self,): 
 		self.name = "NOTICEABLE"
+		self.definitions = [u'easy to see or recognize: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

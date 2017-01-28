@@ -4,11 +4,12 @@
 class _HEARTSICK():
 	def __init__(self,): 
 		self.name = "HEARTSICK"
+		self.definitions = [u'very sad or disappointed']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

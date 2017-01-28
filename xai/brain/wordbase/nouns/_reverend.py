@@ -4,11 +4,12 @@
 class _REVEREND():
 	def __init__(self,): 
 		self.name = "REVEREND"
+		self.definitions = [u'a title for a priest of the Christian Church: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

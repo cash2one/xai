@@ -4,11 +4,12 @@
 class _PARALYTIC():
 	def __init__(self,): 
 		self.name = "PARALYTIC"
+		self.definitions = [u'extremely drunk', u'related to or connected with paralysis: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

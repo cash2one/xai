@@ -4,11 +4,12 @@
 class _PEKING():
 	def __init__(self,): 
 		self.name = "PEKING"
+		self.definitions = [u'the former name for Beijing, the capital city of China ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

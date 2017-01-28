@@ -4,11 +4,12 @@
 class _OBSTREPEROUS():
 	def __init__(self,): 
 		self.name = "OBSTREPEROUS"
+		self.definitions = [u'difficult to deal with and noisy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

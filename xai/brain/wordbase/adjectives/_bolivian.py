@@ -4,11 +4,12 @@
 class _BOLIVIAN():
 	def __init__(self,): 
 		self.name = "BOLIVIAN"
+		self.definitions = [u'belonging to or relating to Bolivia or its people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LEGION():
 	def __init__(self,): 
 		self.name = "LEGION"
+		self.definitions = [u'very large in number: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WRITTEN():
 	def __init__(self,): 
 		self.name = "WRITTEN"
+		self.definitions = [u'expressed in writing, or involving writing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

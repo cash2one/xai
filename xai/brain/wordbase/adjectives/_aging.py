@@ -4,11 +4,12 @@
 class _AGING():
 	def __init__(self,): 
 		self.name = "AGING"
+		self.definitions = [u'US spelling of  ageing ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

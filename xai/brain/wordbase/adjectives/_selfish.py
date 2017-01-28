@@ -4,11 +4,12 @@
 class _SELFISH():
 	def __init__(self,): 
 		self.name = "SELFISH"
+		self.definitions = [u'Someone who is selfish only thinks of their own advantage: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

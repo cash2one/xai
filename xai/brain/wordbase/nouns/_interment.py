@@ -4,11 +4,12 @@
 class _INTERMENT():
 	def __init__(self,): 
 		self.name = "INTERMENT"
+		self.definitions = [u'the act of burying a dead body']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

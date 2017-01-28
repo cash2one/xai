@@ -4,11 +4,12 @@
 class _CHANGEABLE():
 	def __init__(self,): 
 		self.name = "CHANGEABLE"
+		self.definitions = [u'Something that is changeable often changes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _EMBARRASSED():
 	def __init__(self,): 
 		self.name = "EMBARRASSED"
+		self.definitions = [u'feeling ashamed or shy: ', u'having no money']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

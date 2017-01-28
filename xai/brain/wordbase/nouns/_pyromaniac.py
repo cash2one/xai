@@ -4,11 +4,12 @@
 class _PYROMANIAC():
 	def __init__(self,): 
 		self.name = "PYROMANIAC"
+		self.definitions = [u'someone who suffers from pyromania']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

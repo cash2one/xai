@@ -4,11 +4,12 @@
 class _WRECK():
 	def __init__(self,): 
 		self.name = "WRECK"
+		self.definitions = [u'a vehicle or ship that has been destroyed or badly damaged: ', u'someone who is in bad physical or mental condition: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

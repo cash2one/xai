@@ -4,11 +4,12 @@
 class _SHYLY():
 	def __init__(self,): 
 		self.name = "SHYLY"
+		self.definitions = [u'in a shy way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

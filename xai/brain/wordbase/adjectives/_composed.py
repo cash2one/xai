@@ -4,11 +4,12 @@
 class _COMPOSED():
 	def __init__(self,): 
 		self.name = "COMPOSED"
+		self.definitions = [u'calm and in control of your emotions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

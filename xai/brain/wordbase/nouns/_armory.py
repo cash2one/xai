@@ -4,11 +4,12 @@
 class _ARMORY():
 	def __init__(self,): 
 		self.name = "ARMORY"
+		self.definitions = [u'US spelling of  armoury ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

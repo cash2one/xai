@@ -4,11 +4,12 @@
 class _INCISIVE():
 	def __init__(self,): 
 		self.name = "INCISIVE"
+		self.definitions = [u'expressing an idea or opinion in a clear and direct way that shows good understanding of what is important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

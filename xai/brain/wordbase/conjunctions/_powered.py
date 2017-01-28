@@ -4,11 +4,12 @@
 class _POWERED():
 	def __init__(self,): 
 		self.name = "POWERED"
+		self.definitions = [u'operated by the type of energy stated: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'conjunctions'

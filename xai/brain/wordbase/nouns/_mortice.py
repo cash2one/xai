@@ -4,11 +4,12 @@
 class _MORTICE():
 	def __init__(self,): 
 		self.name = "MORTICE"
+		self.definitions = [u'another spelling of  mortise ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

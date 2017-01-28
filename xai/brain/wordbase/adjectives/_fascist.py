@@ -4,11 +4,12 @@
 class _FASCIST():
 	def __init__(self,): 
 		self.name = "FASCIST"
+		self.definitions = [u'based on or supporting fascism: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

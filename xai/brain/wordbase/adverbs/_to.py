@@ -4,11 +4,12 @@
 class _TO():
 	def __init__(self,): 
 		self.name = "TO"
+		self.definitions = [u'into a closed position: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

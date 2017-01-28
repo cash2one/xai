@@ -4,11 +4,12 @@
 class _OFFENDING():
 	def __init__(self,): 
 		self.name = "OFFENDING"
+		self.definitions = [u'unwanted, often because unpleasant and causing problems: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

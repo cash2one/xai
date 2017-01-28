@@ -4,11 +4,12 @@
 class _UNCOOPERATIVE():
 	def __init__(self,): 
 		self.name = "UNCOOPERATIVE"
+		self.definitions = [u'not willing to work with or be helpful to other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

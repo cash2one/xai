@@ -4,11 +4,12 @@
 class _FRAGRANT():
 	def __init__(self,): 
 		self.name = "FRAGRANT"
+		self.definitions = [u'with a pleasant smell: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

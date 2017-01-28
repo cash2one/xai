@@ -4,11 +4,12 @@
 class _GARLICKY():
 	def __init__(self,): 
 		self.name = "GARLICKY"
+		self.definitions = [u'containing, tasting, or smelling of garlic: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

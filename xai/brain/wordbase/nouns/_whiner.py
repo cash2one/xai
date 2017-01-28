@@ -4,11 +4,12 @@
 class _WHINER():
 	def __init__(self,): 
 		self.name = "WHINER"
+		self.definitions = [u'a person, especially a child, who complains or expresses disappointment or unhappiness repeatedly']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _SCATTERED():
 	def __init__(self,): 
 		self.name = "SCATTERED"
+		self.definitions = [u'covering a wide area: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

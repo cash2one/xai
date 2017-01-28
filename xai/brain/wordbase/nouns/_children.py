@@ -4,11 +4,12 @@
 class _CHILDREN():
 	def __init__(self,): 
 		self.name = "CHILDREN"
+		self.definitions = [u'plural of child']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

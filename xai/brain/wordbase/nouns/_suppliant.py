@@ -4,11 +4,12 @@
 class _SUPPLIANT():
 	def __init__(self,): 
 		self.name = "SUPPLIANT"
+		self.definitions = [u'\u2192\xa0 supplicant ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

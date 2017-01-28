@@ -4,11 +4,12 @@
 class _MORN():
 	def __init__(self,): 
 		self.name = "MORN"
+		self.definitions = [u'a morning: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

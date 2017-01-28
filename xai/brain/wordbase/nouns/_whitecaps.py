@@ -4,11 +4,12 @@
 class _WHITECAPS():
 	def __init__(self,): 
 		self.name = "WHITECAPS"
+		self.definitions = [u'waves that are white at the top']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

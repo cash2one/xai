@@ -4,11 +4,12 @@
 class _SINCE():
 	def __init__(self,): 
 		self.name = "SINCE"
+		self.definitions = [u'because; as: ', u'from a particular time in the past until a later time, or until now: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'conjunctions'

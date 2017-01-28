@@ -4,11 +4,12 @@
 class _PATRICIAN():
 	def __init__(self,): 
 		self.name = "PATRICIAN"
+		self.definitions = [u'of or like a person of high social rank']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

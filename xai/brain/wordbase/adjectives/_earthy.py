@@ -4,11 +4,12 @@
 class _EARTHY():
 	def __init__(self,): 
 		self.name = "EARTHY"
+		self.definitions = [u'referring to sex and the human body in a direct way: ', u'like or relating to earth: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

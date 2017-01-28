@@ -4,11 +4,12 @@
 class _ILL():
 	def __init__(self,): 
 		self.name = "ILL"
+		self.definitions = [u'harm: ', u'a problem: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

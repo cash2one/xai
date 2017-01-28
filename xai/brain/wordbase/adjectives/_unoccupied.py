@@ -4,11 +4,12 @@
 class _UNOCCUPIED():
 	def __init__(self,): 
 		self.name = "UNOCCUPIED"
+		self.definitions = [u'without anyone in it, or not busy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

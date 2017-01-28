@@ -4,11 +4,12 @@
 class _KING():
 	def __init__(self,): 
 		self.name = "KING"
+		self.definitions = [u'used as part of the name of something that is larger than the ordinary type: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

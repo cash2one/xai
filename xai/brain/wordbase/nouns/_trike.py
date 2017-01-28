@@ -4,11 +4,12 @@
 class _TRIKE():
 	def __init__(self,): 
 		self.name = "TRIKE"
+		self.definitions = [u'a  tricycle ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

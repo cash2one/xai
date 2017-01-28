@@ -4,11 +4,12 @@
 class _SALUBRIOUS():
 	def __init__(self,): 
 		self.name = "SALUBRIOUS"
+		self.definitions = [u'A salubrious place is pleasant, clean, and healthy to live in: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

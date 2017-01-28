@@ -4,11 +4,12 @@
 class _CRAMPED():
 	def __init__(self,): 
 		self.name = "CRAMPED"
+		self.definitions = [u'not having enough space or time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

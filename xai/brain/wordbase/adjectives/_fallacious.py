@@ -4,11 +4,12 @@
 class _FALLACIOUS():
 	def __init__(self,): 
 		self.name = "FALLACIOUS"
+		self.definitions = [u'not correct: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

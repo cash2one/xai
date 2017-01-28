@@ -4,11 +4,12 @@
 class _CONTINENT():
 	def __init__(self,): 
 		self.name = "CONTINENT"
+		self.definitions = [u'able to control when you urinate and empty your bowels', u'able to control your sexual desires']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

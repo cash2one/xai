@@ -4,11 +4,12 @@
 class _REMARKABLY():
 	def __init__(self,): 
 		self.name = "REMARKABLY"
+		self.definitions = [u'used for emphasizing how surprising or unusual something is: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

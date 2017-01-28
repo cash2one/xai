@@ -4,11 +4,12 @@
 class _REGIMENTATION():
 	def __init__(self,): 
 		self.name = "REGIMENTATION"
+		self.definitions = [u'extreme organization and control of people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

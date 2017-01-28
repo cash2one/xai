@@ -4,11 +4,12 @@
 class _SECRECY():
 	def __init__(self,): 
 		self.name = "SECRECY"
+		self.definitions = [u'the state of being secret or of keeping something secret: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

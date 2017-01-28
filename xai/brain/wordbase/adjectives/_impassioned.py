@@ -4,11 +4,12 @@
 class _IMPASSIONED():
 	def __init__(self,): 
 		self.name = "IMPASSIONED"
+		self.definitions = [u'Impassioned speech or writing is full of strongly felt and strongly expressed emotion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

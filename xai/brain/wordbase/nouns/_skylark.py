@@ -4,11 +4,12 @@
 class _SKYLARK():
 	def __init__(self,): 
 		self.name = "SKYLARK"
+		self.definitions = [u'a  lark noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

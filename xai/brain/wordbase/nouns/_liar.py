@@ -4,11 +4,12 @@
 class _LIAR():
 	def __init__(self,): 
 		self.name = "LIAR"
+		self.definitions = [u'someone who tells lies: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

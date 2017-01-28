@@ -4,11 +4,12 @@
 class _AUCTIONEER():
 	def __init__(self,): 
 		self.name = "AUCTIONEER"
+		self.definitions = [u'a person in charge of an auction who calls out the prices that people offer']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

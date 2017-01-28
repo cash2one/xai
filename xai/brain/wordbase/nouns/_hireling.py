@@ -4,11 +4,12 @@
 class _HIRELING():
 	def __init__(self,): 
 		self.name = "HIRELING"
+		self.definitions = [u'someone who has been persuaded by an offer of money to do an unpleasant or unpopular job: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

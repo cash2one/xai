@@ -4,11 +4,12 @@
 class _INFERIOR():
 	def __init__(self,): 
 		self.name = "INFERIOR"
+		self.definitions = [u'someone who is considered to be less important than other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

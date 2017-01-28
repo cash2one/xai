@@ -4,11 +4,12 @@
 class _DILATION():
 	def __init__(self,): 
 		self.name = "DILATION"
+		self.definitions = [u'the state of being larger or more open than usual']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

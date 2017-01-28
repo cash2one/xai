@@ -4,11 +4,12 @@
 class _TWOSOME():
 	def __init__(self,): 
 		self.name = "TWOSOME"
+		self.definitions = [u'two people considered together: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

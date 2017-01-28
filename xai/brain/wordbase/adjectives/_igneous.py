@@ -4,11 +4,12 @@
 class _IGNEOUS():
 	def __init__(self,): 
 		self.name = "IGNEOUS"
+		self.definitions = [u'(of rocks) formed from magma (= very hot liquid rock that has cooled)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

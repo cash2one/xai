@@ -4,11 +4,12 @@
 class _BENEVOLENT():
 	def __init__(self,): 
 		self.name = "BENEVOLENT"
+		self.definitions = [u'kind and helpful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CADDY():
 	def __init__(self,): 
 		self.name = "CADDY"
+		self.definitions = [u'a small container', u'a  caddie ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

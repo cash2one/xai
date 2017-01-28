@@ -4,11 +4,12 @@
 class _THESPIAN():
 	def __init__(self,): 
 		self.name = "THESPIAN"
+		self.definitions = [u'an actor']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

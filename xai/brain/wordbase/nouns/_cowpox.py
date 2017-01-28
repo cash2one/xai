@@ -4,11 +4,12 @@
 class _COWPOX():
 	def __init__(self,): 
 		self.name = "COWPOX"
+		self.definitions = [u'a disease in cattle']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

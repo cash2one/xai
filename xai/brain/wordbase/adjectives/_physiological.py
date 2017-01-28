@@ -4,11 +4,12 @@
 class _PHYSIOLOGICAL():
 	def __init__(self,): 
 		self.name = "PHYSIOLOGICAL"
+		self.definitions = [u'relating to the way in which the bodies of living things work: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

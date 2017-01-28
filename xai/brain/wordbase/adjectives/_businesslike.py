@@ -4,11 +4,12 @@
 class _BUSINESSLIKE():
 	def __init__(self,): 
 		self.name = "BUSINESSLIKE"
+		self.definitions = [u'getting things done in a quick and practical way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

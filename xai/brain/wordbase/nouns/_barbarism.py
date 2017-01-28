@@ -4,11 +4,12 @@
 class _BARBARISM():
 	def __init__(self,): 
 		self.name = "BARBARISM"
+		self.definitions = [u'extremely cruel and unpleasant behaviour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DEAF():
 	def __init__(self,): 
 		self.name = "DEAF"
+		self.definitions = [u'unable to hear, either completely or partly: ', u'unwilling to listen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

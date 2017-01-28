@@ -4,11 +4,12 @@
 class _STIRRER():
 	def __init__(self,): 
 		self.name = "STIRRER"
+		self.definitions = [u'a person who intentionally causes trouble between other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

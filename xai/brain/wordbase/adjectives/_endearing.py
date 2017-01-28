@@ -4,11 +4,12 @@
 class _ENDEARING():
 	def __init__(self,): 
 		self.name = "ENDEARING"
+		self.definitions = [u'making someone like you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

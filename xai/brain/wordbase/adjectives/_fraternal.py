@@ -4,11 +4,12 @@
 class _FRATERNAL():
 	def __init__(self,): 
 		self.name = "FRATERNAL"
+		self.definitions = [u'relating to brothers: ', u'friendly, like brothers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

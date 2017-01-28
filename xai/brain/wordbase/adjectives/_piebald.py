@@ -4,11 +4,12 @@
 class _PIEBALD():
 	def __init__(self,): 
 		self.name = "PIEBALD"
+		self.definitions = [u'(of an animal, especially a horse) having a pattern of two different colours of hair, especially black and white: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

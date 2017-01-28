@@ -4,11 +4,12 @@
 class _PRIMARY():
 	def __init__(self,): 
 		self.name = "PRIMARY"
+		self.definitions = [u'more important than anything else; main: ', u'of or for the teaching of young children, especially those between five and eleven years old: ', u'happening first: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

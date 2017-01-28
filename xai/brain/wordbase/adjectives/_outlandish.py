@@ -4,11 +4,12 @@
 class _OUTLANDISH():
 	def __init__(self,): 
 		self.name = "OUTLANDISH"
+		self.definitions = [u'strange and unusual and difficult to accept or like: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

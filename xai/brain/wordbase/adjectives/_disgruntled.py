@@ -4,11 +4,12 @@
 class _DISGRUNTLED():
 	def __init__(self,): 
 		self.name = "DISGRUNTLED"
+		self.definitions = [u'unhappy, annoyed, and disappointed about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

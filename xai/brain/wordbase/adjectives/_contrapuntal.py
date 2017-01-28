@@ -4,11 +4,12 @@
 class _CONTRAPUNTAL():
 	def __init__(self,): 
 		self.name = "CONTRAPUNTAL"
+		self.definitions = [u'Contrapuntal music has two or more separate tunes that are played or sung at the same time.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SHYNESS():
 	def __init__(self,): 
 		self.name = "SHYNESS"
+		self.definitions = [u'the condition of being shy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

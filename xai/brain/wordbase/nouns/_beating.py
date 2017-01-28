@@ -4,11 +4,12 @@
 class _BEATING():
 	def __init__(self,): 
 		self.name = "BEATING"
+		self.definitions = [u'a defeat: ', u'an act of hitting someone repeatedly and hard: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

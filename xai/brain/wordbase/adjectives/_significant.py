@@ -4,11 +4,12 @@
 class _SIGNIFICANT():
 	def __init__(self,): 
 		self.name = "SIGNIFICANT"
+		self.definitions = [u'important or noticeable: ', u'having a special meaning: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _TROUBLESOME():
 	def __init__(self,): 
 		self.name = "TROUBLESOME"
+		self.definitions = [u'causing a lot of problems for someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

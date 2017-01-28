@@ -4,11 +4,12 @@
 class _EARNER():
 	def __init__(self,): 
 		self.name = "EARNER"
+		self.definitions = [u'someone or something that earns money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _SEVERAL():
 	def __init__(self,): 
 		self.name = "SEVERAL"
+		self.definitions = [u'some; an amount that is not exact but is fewer than many: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

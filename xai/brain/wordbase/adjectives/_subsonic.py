@@ -4,11 +4,12 @@
 class _SUBSONIC():
 	def __init__(self,): 
 		self.name = "SUBSONIC"
+		self.definitions = [u'slower than the speed of sound']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SPINACH():
 	def __init__(self,): 
 		self.name = "SPINACH"
+		self.definitions = [u'not very enjoyable but good for you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

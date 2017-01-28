@@ -4,11 +4,12 @@
 class _DILAPIDATED():
 	def __init__(self,): 
 		self.name = "DILAPIDATED"
+		self.definitions = [u'old and in poor condition: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

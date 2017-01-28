@@ -4,11 +4,12 @@
 class _MOTTLED():
 	def __init__(self,): 
 		self.name = "MOTTLED"
+		self.definitions = [u'covered with areas of different colours that do not form a regular pattern: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNDERCLOTHES():
 	def __init__(self,): 
 		self.name = "UNDERCLOTHES"
+		self.definitions = [u'formal for  underwear ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

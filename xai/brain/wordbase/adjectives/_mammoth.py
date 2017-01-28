@@ -4,11 +4,12 @@
 class _MAMMOTH():
 	def __init__(self,): 
 		self.name = "MAMMOTH"
+		self.definitions = [u'extremely large: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

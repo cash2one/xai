@@ -4,11 +4,12 @@
 class _MUSLIM():
 	def __init__(self,): 
 		self.name = "MUSLIM"
+		self.definitions = [u'a person who follows the religion of Islam']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

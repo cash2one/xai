@@ -4,11 +4,12 @@
 class _CLUBBING():
 	def __init__(self,): 
 		self.name = "CLUBBING"
+		self.definitions = [u'to go out dancing in clubs: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

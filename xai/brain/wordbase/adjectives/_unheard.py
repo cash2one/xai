@@ -4,11 +4,12 @@
 class _UNHEARD():
 	def __init__(self,): 
 		self.name = "UNHEARD"
+		self.definitions = [u'to not be listened to or considered: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

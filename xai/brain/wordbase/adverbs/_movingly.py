@@ -4,11 +4,12 @@
 class _MOVINGLY():
 	def __init__(self,): 
 		self.name = "MOVINGLY"
+		self.definitions = [u'in a way that causes strong feelings of sadness or sympathy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

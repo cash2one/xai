@@ -4,11 +4,12 @@
 class _UNIDENTIFIED():
 	def __init__(self,): 
 		self.name = "UNIDENTIFIED"
+		self.definitions = [u'whose name is not known or is being kept secret: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

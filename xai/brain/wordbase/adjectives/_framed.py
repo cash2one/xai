@@ -4,11 +4,12 @@
 class _FRAMED():
 	def __init__(self,): 
 		self.name = "FRAMED"
+		self.definitions = [u'surrounded by a border: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

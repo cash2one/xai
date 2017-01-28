@@ -4,11 +4,12 @@
 class _SQUARED():
 	def __init__(self,): 
 		self.name = "SQUARED"
+		self.definitions = [u'covered with squares: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

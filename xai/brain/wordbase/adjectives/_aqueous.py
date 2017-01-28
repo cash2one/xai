@@ -4,11 +4,12 @@
 class _AQUEOUS():
 	def __init__(self,): 
 		self.name = "AQUEOUS"
+		self.definitions = [u'like or containing water: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

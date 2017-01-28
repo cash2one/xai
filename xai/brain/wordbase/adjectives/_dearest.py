@@ -4,11 +4,12 @@
 class _DEAREST():
 	def __init__(self,): 
 		self.name = "DEAREST"
+		self.definitions = [u'used when writing to someone you love: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

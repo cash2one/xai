@@ -4,11 +4,12 @@
 class _BATTY():
 	def __init__(self,): 
 		self.name = "BATTY"
+		self.definitions = [u'silly and slightly crazy and behaving in a confused way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

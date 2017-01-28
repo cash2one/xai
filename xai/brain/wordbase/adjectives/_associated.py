@@ -4,11 +4,12 @@
 class _ASSOCIATED():
 	def __init__(self,): 
 		self.name = "ASSOCIATED"
+		self.definitions = [u'connected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

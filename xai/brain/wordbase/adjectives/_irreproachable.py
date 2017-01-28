@@ -4,11 +4,12 @@
 class _IRREPROACHABLE():
 	def __init__(self,): 
 		self.name = "IRREPROACHABLE"
+		self.definitions = [u'without fault and therefore impossible to criticize: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

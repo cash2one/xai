@@ -4,11 +4,12 @@
 class _VIETNAMESE():
 	def __init__(self,): 
 		self.name = "VIETNAMESE"
+		self.definitions = [u'belonging to or relating to Vietnam, its people, or its language']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

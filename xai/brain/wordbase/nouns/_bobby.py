@@ -4,11 +4,12 @@
 class _BOBBY():
 	def __init__(self,): 
 		self.name = "BOBBY"
+		self.definitions = [u'a police officer: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

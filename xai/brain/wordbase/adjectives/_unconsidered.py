@@ -4,11 +4,12 @@
 class _UNCONSIDERED():
 	def __init__(self,): 
 		self.name = "UNCONSIDERED"
+		self.definitions = [u'(of an action or remark) not carefully thought about']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _OVERFLOW():
 	def __init__(self,): 
 		self.name = "OVERFLOW"
+		self.definitions = [u'an amount of liquid or number of people that cannot fit in a space: ', u'a pipe that carries away water that is not needed']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

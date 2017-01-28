@@ -4,11 +4,12 @@
 class _IRRETRIEVABLE():
 	def __init__(self,): 
 		self.name = "IRRETRIEVABLE"
+		self.definitions = [u'impossible to correct or return to a previously existing situation or condition: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

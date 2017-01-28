@@ -4,11 +4,12 @@
 class _MATTING():
 	def __init__(self,): 
 		self.name = "MATTING"
+		self.definitions = [u'strong, rough material that is used to cover floors: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

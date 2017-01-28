@@ -4,11 +4,12 @@
 class _MENTALLY():
 	def __init__(self,): 
 		self.name = "MENTALLY"
+		self.definitions = [u'connected with or related to the mind: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

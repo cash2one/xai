@@ -4,11 +4,12 @@
 class _RESURGENT():
 	def __init__(self,): 
 		self.name = "RESURGENT"
+		self.definitions = [u'increasing again, or becoming popular again: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

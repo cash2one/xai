@@ -4,11 +4,12 @@
 class _MINIVAN():
 	def __init__(self,): 
 		self.name = "MINIVAN"
+		self.definitions = [u'a large, high car that can carry more people than a normal car']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _POOPED():
 	def __init__(self,): 
 		self.name = "POOPED"
+		self.definitions = [u'breathing with difficulty because you have been doing physical exercise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

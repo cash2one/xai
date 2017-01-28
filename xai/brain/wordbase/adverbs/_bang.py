@@ -4,11 +4,12 @@
 class _BANG():
 	def __init__(self,): 
 		self.name = "BANG"
+		self.definitions = [u'exactly or directly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _SECULAR():
 	def __init__(self,): 
 		self.name = "SECULAR"
+		self.definitions = [u'not having any connection with religion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

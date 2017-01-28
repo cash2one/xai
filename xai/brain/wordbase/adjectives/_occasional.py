@@ -4,11 +4,12 @@
 class _OCCASIONAL():
 	def __init__(self,): 
 		self.name = "OCCASIONAL"
+		self.definitions = [u'not happening or done often or regularly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

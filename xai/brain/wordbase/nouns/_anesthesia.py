@@ -4,11 +4,12 @@
 class _ANESTHESIA():
 	def __init__(self,): 
 		self.name = "ANESTHESIA"
+		self.definitions = [u'US spelling of  anaesthesia ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

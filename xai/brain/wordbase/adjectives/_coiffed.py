@@ -4,11 +4,12 @@
 class _COIFFED():
 	def __init__(self,): 
 		self.name = "COIFFED"
+		self.definitions = [u'Coiffed hair is carefully arranged in an attractive style: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

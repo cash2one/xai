@@ -4,11 +4,12 @@
 class _BROADCAST():
 	def __init__(self,): 
 		self.name = "BROADCAST"
+		self.definitions = [u'a television or radio programme: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

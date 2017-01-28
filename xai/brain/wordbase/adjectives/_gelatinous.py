@@ -4,11 +4,12 @@
 class _GELATINOUS():
 	def __init__(self,): 
 		self.name = "GELATINOUS"
+		self.definitions = [u'thick and like jelly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

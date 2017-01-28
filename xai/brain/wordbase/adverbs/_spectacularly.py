@@ -4,11 +4,12 @@
 class _SPECTACULARLY():
 	def __init__(self,): 
 		self.name = "SPECTACULARLY"
+		self.definitions = [u'in a very beautiful way that people admire: ', u'extremely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

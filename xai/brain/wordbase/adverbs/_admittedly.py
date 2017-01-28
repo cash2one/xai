@@ -4,11 +4,12 @@
 class _ADMITTEDLY():
 	def __init__(self,): 
 		self.name = "ADMITTEDLY"
+		self.definitions = [u'used when you are agreeing that something is true, especially unwillingly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

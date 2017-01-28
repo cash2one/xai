@@ -4,11 +4,12 @@
 class _CARRION():
 	def __init__(self,): 
 		self.name = "CARRION"
+		self.definitions = [u'dead or decaying flesh']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

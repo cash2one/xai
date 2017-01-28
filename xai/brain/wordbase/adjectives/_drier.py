@@ -4,11 +4,12 @@
 class _DRIER():
 	def __init__(self,): 
 		self.name = "DRIER"
+		self.definitions = [u'comparative of  dry ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HEREAFTER():
 	def __init__(self,): 
 		self.name = "HEREAFTER"
+		self.definitions = [u'life after death: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

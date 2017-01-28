@@ -4,11 +4,12 @@
 class _SINGAPORE():
 	def __init__(self,): 
 		self.name = "SINGAPORE"
+		self.definitions = [u'a country in Southeast Asia, formed of the island of Singapore and other small islands']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _BACKBREAKING():
 	def __init__(self,): 
 		self.name = "BACKBREAKING"
+		self.definitions = [u'needing a lot of hard, physical effort and making you feel extremely tired: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

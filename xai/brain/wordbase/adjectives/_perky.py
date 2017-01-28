@@ -4,11 +4,12 @@
 class _PERKY():
 	def __init__(self,): 
 		self.name = "PERKY"
+		self.definitions = [u'happy and full of energy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

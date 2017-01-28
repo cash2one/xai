@@ -4,11 +4,12 @@
 class _GULLIBLE():
 	def __init__(self,): 
 		self.name = "GULLIBLE"
+		self.definitions = [u'easily deceived or tricked, and too willing to believe everything that other people say: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

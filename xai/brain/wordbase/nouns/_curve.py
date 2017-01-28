@@ -4,11 +4,12 @@
 class _CURVE():
 	def __init__(self,): 
 		self.name = "CURVE"
+		self.definitions = [u'a line that bends continuously and has no straight parts: ', u'the curved shape in which a ball moves when it is hit or kicked in a particular way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _OVERSUPPLY():
 	def __init__(self,): 
 		self.name = "OVERSUPPLY"
+		self.definitions = [u'a greater supply of something than is needed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

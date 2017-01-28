@@ -4,11 +4,12 @@
 class _UNWONTED():
 	def __init__(self,): 
 		self.name = "UNWONTED"
+		self.definitions = [u'unusual; not often experienced or shown: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

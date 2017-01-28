@@ -4,11 +4,12 @@
 class _RACIAL():
 	def __init__(self,): 
 		self.name = "RACIAL"
+		self.definitions = [u'happening between people of different races: ', u"connected with someone's race: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

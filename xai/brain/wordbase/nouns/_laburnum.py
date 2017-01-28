@@ -4,11 +4,12 @@
 class _LABURNUM():
 	def __init__(self,): 
 		self.name = "LABURNUM"
+		self.definitions = [u'a small tree with groups of yellow flowers hanging down']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

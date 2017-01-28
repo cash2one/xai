@@ -4,11 +4,12 @@
 class _FULLY():
 	def __init__(self,): 
 		self.name = "FULLY"
+		self.definitions = [u'completely: ', u'as much as possible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

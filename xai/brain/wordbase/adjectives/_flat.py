@@ -4,11 +4,12 @@
 class _FLAT():
 	def __init__(self,): 
 		self.name = "FLAT"
+		self.definitions = [u'(in music) lower than a particular note or the correct note: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

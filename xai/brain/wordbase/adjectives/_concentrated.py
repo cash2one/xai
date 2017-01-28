@@ -4,11 +4,12 @@
 class _CONCENTRATED():
 	def __init__(self,): 
 		self.name = "CONCENTRATED"
+		self.definitions = [u'using a lot of effort to succeed at one particular thing: ', u'having had some liquid removed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

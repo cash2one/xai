@@ -4,11 +4,12 @@
 class _DEPENDANT():
 	def __init__(self,): 
 		self.name = "DEPENDANT"
+		self.definitions = [u'someone who depends on you for financial support, such as a child or family member who does not work: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

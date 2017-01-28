@@ -4,11 +4,12 @@
 class _DOLOROUS():
 	def __init__(self,): 
 		self.name = "DOLOROUS"
+		self.definitions = [u'sad, or causing sadness or emotional suffering']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BERG():
 	def __init__(self,): 
 		self.name = "BERG"
+		self.definitions = [u'an  iceberg ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

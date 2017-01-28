@@ -4,11 +4,12 @@
 class _BLAZING():
 	def __init__(self,): 
 		self.name = "BLAZING"
+		self.definitions = [u'very bright and hot; powerful and impressive: ', u'violent and frightening: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

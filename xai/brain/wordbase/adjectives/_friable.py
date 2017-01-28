@@ -4,11 +4,12 @@
 class _FRIABLE():
 	def __init__(self,): 
 		self.name = "FRIABLE"
+		self.definitions = [u'easily broken into small pieces']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

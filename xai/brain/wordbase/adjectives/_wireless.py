@@ -4,11 +4,12 @@
 class _WIRELESS():
 	def __init__(self,): 
 		self.name = "WIRELESS"
+		self.definitions = [u'using a system of radio signals rather than wires to connect computers, mobile phones, etc. to each other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

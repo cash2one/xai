@@ -4,11 +4,12 @@
 class _PHANTASM():
 	def __init__(self,): 
 		self.name = "PHANTASM"
+		self.definitions = [u'something that is seen or imagined but is not real']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

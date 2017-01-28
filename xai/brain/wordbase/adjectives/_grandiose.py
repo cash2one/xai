@@ -4,11 +4,12 @@
 class _GRANDIOSE():
 	def __init__(self,): 
 		self.name = "GRANDIOSE"
+		self.definitions = [u'larger and containing more detail than necessary, or intended to seem important or great: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

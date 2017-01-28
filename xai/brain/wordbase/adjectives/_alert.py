@@ -4,11 +4,12 @@
 class _ALERT():
 	def __init__(self,): 
 		self.name = "ALERT"
+		self.definitions = [u'quick to see, understand, and act in a particular situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

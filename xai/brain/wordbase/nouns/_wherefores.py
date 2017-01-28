@@ -4,11 +4,12 @@
 class _WHEREFORES():
 	def __init__(self,): 
 		self.name = "WHEREFORES"
+		self.definitions = [u'\u2192\xa0 why noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

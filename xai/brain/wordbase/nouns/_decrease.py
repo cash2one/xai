@@ -4,11 +4,12 @@
 class _DECREASE():
 	def __init__(self,): 
 		self.name = "DECREASE"
+		self.definitions = [u'a reduction: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

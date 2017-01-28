@@ -4,11 +4,12 @@
 class _DEAFENING():
 	def __init__(self,): 
 		self.name = "DEAFENING"
+		self.definitions = [u'extremely loud: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BOOKSHELF():
 	def __init__(self,): 
 		self.name = "BOOKSHELF"
+		self.definitions = [u'a shelf in a bookcase']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

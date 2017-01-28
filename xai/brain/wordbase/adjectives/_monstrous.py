@@ -4,11 +4,12 @@
 class _MONSTROUS():
 	def __init__(self,): 
 		self.name = "MONSTROUS"
+		self.definitions = [u'very cruel: ', u'like a monster: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

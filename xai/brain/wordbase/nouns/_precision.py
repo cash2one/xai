@@ -4,11 +4,12 @@
 class _PRECISION():
 	def __init__(self,): 
 		self.name = "PRECISION"
+		self.definitions = [u'the quality of being exact: ', u'the qualities of being careful and accurate: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

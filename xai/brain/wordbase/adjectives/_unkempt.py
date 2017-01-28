@@ -4,11 +4,12 @@
 class _UNKEMPT():
 	def __init__(self,): 
 		self.name = "UNKEMPT"
+		self.definitions = [u'untidy; not cared for: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

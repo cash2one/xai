@@ -4,11 +4,12 @@
 class _CHAPLAIN():
 	def __init__(self,): 
 		self.name = "CHAPLAIN"
+		self.definitions = [u'a Christian official who is responsible for the religious needs of an organization: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

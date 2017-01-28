@@ -4,11 +4,12 @@
 class _CYCLIST():
 	def __init__(self,): 
 		self.name = "CYCLIST"
+		self.definitions = [u'someone who rides a bicycle']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

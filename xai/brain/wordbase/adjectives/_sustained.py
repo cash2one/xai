@@ -4,11 +4,12 @@
 class _SUSTAINED():
 	def __init__(self,): 
 		self.name = "SUSTAINED"
+		self.definitions = [u'continuing for a long time: ', u'determined: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

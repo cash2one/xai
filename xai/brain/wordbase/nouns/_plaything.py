@@ -4,11 +4,12 @@
 class _PLAYTHING():
 	def __init__(self,): 
 		self.name = "PLAYTHING"
+		self.definitions = [u"an object used for pleasure or enjoyment, such as a child's toy: ", u"someone who is considered or treated without respect and forced to do things for someone else's pleasure or advantage: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

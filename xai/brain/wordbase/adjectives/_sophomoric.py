@@ -4,11 +4,12 @@
 class _SOPHOMORIC():
 	def __init__(self,): 
 		self.name = "SOPHOMORIC"
+		self.definitions = [u'silly and behaving like a child: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

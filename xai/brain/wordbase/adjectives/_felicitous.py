@@ -4,11 +4,12 @@
 class _FELICITOUS():
 	def __init__(self,): 
 		self.name = "FELICITOUS"
+		self.definitions = [u'suitable or right and expressing well the intended thought or feeling: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

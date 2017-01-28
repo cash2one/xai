@@ -4,11 +4,12 @@
 class _OCULAR():
 	def __init__(self,): 
 		self.name = "OCULAR"
+		self.definitions = [u'of or related to the eyes or sight']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

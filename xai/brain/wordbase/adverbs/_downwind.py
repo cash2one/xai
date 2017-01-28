@@ -4,11 +4,12 @@
 class _DOWNWIND():
 	def __init__(self,): 
 		self.name = "DOWNWIND"
+		self.definitions = [u'in the direction in which the wind blows; with the wind behind: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

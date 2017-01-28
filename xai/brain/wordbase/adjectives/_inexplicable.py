@@ -4,11 +4,12 @@
 class _INEXPLICABLE():
 	def __init__(self,): 
 		self.name = "INEXPLICABLE"
+		self.definitions = [u'unable to be explained or understood: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

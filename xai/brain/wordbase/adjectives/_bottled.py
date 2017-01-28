@@ -4,11 +4,12 @@
 class _BOTTLED():
 	def __init__(self,): 
 		self.name = "BOTTLED"
+		self.definitions = [u'contained, stored, or sold in bottles: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _NUBILE():
 	def __init__(self,): 
 		self.name = "NUBILE"
+		self.definitions = [u'A nubile woman is young and sexually attractive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

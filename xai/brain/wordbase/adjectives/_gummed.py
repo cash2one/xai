@@ -4,11 +4,12 @@
 class _GUMMED():
 	def __init__(self,): 
 		self.name = "GUMMED"
+		self.definitions = [u'sticky or with glue on the surface: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

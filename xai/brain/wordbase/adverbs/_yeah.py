@@ -4,11 +4,12 @@
 class _YEAH():
 	def __init__(self,): 
 		self.name = "YEAH"
+		self.definitions = [u'yes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

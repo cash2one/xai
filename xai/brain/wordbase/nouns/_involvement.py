@@ -4,11 +4,12 @@
 class _INVOLVEMENT():
 	def __init__(self,): 
 		self.name = "INVOLVEMENT"
+		self.definitions = [u'the act or process of taking part in something: ', u'a romantic or sexual relationship: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _FRIER():
 	def __init__(self,): 
 		self.name = "FRIER"
+		self.definitions = [u'a  fryer ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

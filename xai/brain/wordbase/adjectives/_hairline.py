@@ -4,11 +4,12 @@
 class _HAIRLINE():
 	def __init__(self,): 
 		self.name = "HAIRLINE"
+		self.definitions = [u'(of cracks or lines) very narrow: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

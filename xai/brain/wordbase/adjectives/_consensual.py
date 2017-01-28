@@ -4,11 +4,12 @@
 class _CONSENSUAL():
 	def __init__(self,): 
 		self.name = "CONSENSUAL"
+		self.definitions = [u'with the willing agreement of all the people involved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HOSIERY():
 	def __init__(self,): 
 		self.name = "HOSIERY"
+		self.definitions = [u'a word used especially in shops for things such as socks, tights, and stockings: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

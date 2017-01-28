@@ -4,11 +4,12 @@
 class _MIDST():
 	def __init__(self,): 
 		self.name = "MIDST"
+		self.definitions = [u'among: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

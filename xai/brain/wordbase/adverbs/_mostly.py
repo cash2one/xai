@@ -4,11 +4,12 @@
 class _MOSTLY():
 	def __init__(self,): 
 		self.name = "MOSTLY"
+		self.definitions = [u'mainly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

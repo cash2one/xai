@@ -4,11 +4,12 @@
 class _WINDOWSILL():
 	def __init__(self,): 
 		self.name = "WINDOWSILL"
+		self.definitions = [u'a shelf below a window, either inside or outside a building: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _INEVITABLY():
 	def __init__(self,): 
 		self.name = "INEVITABLY"
+		self.definitions = [u'in a way that cannot be avoided: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

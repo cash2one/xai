@@ -4,11 +4,12 @@
 class _DECIMAL():
 	def __init__(self,): 
 		self.name = "DECIMAL"
+		self.definitions = [u'a number expressed using a system of counting based on the number ten: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

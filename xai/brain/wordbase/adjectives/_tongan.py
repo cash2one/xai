@@ -4,11 +4,12 @@
 class _TONGAN():
 	def __init__(self,): 
 		self.name = "TONGAN"
+		self.definitions = [u'belonging to or relating to Tonga, its people, or its language']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

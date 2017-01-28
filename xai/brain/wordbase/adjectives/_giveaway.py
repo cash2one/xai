@@ -4,11 +4,12 @@
 class _GIVEAWAY():
 	def __init__(self,): 
 		self.name = "GIVEAWAY"
+		self.definitions = [u'A giveaway price is very low: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

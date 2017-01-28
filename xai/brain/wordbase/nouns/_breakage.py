@@ -4,11 +4,12 @@
 class _BREAKAGE():
 	def __init__(self,): 
 		self.name = "BREAKAGE"
+		self.definitions = [u'something that has been broken: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

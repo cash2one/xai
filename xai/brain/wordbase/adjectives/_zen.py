@@ -4,11 +4,12 @@
 class _ZEN():
 	def __init__(self,): 
 		self.name = "ZEN"
+		self.definitions = [u'relaxed and not worrying about things that you cannot change: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

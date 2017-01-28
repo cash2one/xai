@@ -4,11 +4,12 @@
 class _AGHAST():
 	def __init__(self,): 
 		self.name = "AGHAST"
+		self.definitions = [u'suddenly filled with strong feelings of shock and worry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _JIUJITSU():
 	def __init__(self,): 
 		self.name = "JIUJITSU"
+		self.definitions = [u'\u2192\xa0 jujitsu ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

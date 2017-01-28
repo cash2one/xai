@@ -4,11 +4,12 @@
 class _SCARED():
 	def __init__(self,): 
 		self.name = "SCARED"
+		self.definitions = [u'frightened or worried: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _JR():
 	def __init__(self,): 
 		self.name = "JR"
+		self.definitions = [u'abbreviation for  junior noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

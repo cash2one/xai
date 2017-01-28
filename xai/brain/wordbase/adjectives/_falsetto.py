@@ -4,11 +4,12 @@
 class _FALSETTO():
 	def __init__(self,): 
 		self.name = "FALSETTO"
+		self.definitions = [u'A falsetto voice is extremely high: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

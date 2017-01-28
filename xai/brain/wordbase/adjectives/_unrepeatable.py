@@ -4,11 +4,12 @@
 class _UNREPEATABLE():
 	def __init__(self,): 
 		self.name = "UNREPEATABLE"
+		self.definitions = [u'An unrepeatable event, price, etc. cannot happen again: ', u'An unrepeatable word or remark used by another person is too rude or too difficult for you to repeat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

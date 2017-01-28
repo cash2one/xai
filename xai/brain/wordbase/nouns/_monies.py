@@ -4,11 +4,12 @@
 class _MONIES():
 	def __init__(self,): 
 		self.name = "MONIES"
+		self.definitions = [u'amounts of money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PROPORTIONAL():
 	def __init__(self,): 
 		self.name = "PROPORTIONAL"
+		self.definitions = [u'If two amounts are proportional, they change at the same rate so that the relationship between them does not change: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

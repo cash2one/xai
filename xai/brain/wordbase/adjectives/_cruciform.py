@@ -4,11 +4,12 @@
 class _CRUCIFORM():
 	def __init__(self,): 
 		self.name = "CRUCIFORM"
+		self.definitions = [u'in the shape of a cross']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

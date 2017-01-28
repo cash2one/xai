@@ -4,11 +4,12 @@
 class _IRIDESCENT():
 	def __init__(self,): 
 		self.name = "IRIDESCENT"
+		self.definitions = [u'showing many bright colours that change with movement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

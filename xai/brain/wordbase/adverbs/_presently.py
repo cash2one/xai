@@ -4,11 +4,12 @@
 class _PRESENTLY():
 	def __init__(self,): 
 		self.name = "PRESENTLY"
+		self.definitions = [u'now; at the present time: ', u'soon; not at the present time but in the future, after a short time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

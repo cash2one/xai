@@ -4,11 +4,12 @@
 class _EXHAUSTING():
 	def __init__(self,): 
 		self.name = "EXHAUSTING"
+		self.definitions = [u'making you feel extremely tired: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNFILLED():
 	def __init__(self,): 
 		self.name = "UNFILLED"
+		self.definitions = [u'An unfilled job or position has no one doing or holding it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

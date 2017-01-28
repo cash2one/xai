@@ -4,11 +4,12 @@
 class _MARGARITA():
 	def __init__(self,): 
 		self.name = "MARGARITA"
+		self.definitions = [u'a type of alcoholic drink: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

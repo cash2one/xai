@@ -4,11 +4,12 @@
 class _MUSCULATURE():
 	def __init__(self,): 
 		self.name = "MUSCULATURE"
+		self.definitions = [u'the position and structure of the muscles: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

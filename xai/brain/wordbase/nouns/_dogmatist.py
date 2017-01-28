@@ -4,11 +4,12 @@
 class _DOGMATIST():
 	def __init__(self,): 
 		self.name = "DOGMATIST"
+		self.definitions = [u'a person who believes too strongly that their personal opinions or beliefs are correct']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

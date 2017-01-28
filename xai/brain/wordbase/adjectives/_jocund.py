@@ -4,11 +4,12 @@
 class _JOCUND():
 	def __init__(self,): 
 		self.name = "JOCUND"
+		self.definitions = [u'in a happy mood']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

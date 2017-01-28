@@ -4,11 +4,12 @@
 class _CLEMENTINE():
 	def __init__(self,): 
 		self.name = "CLEMENTINE"
+		self.definitions = [u'a fruit like a small orange']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

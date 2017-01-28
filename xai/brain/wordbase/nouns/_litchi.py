@@ -4,11 +4,12 @@
 class _LITCHI():
 	def __init__(self,): 
 		self.name = "LITCHI"
+		self.definitions = [u'a  lychee ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

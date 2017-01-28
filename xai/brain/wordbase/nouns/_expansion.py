@@ -4,11 +4,12 @@
 class _EXPANSION():
 	def __init__(self,): 
 		self.name = "EXPANSION"
+		self.definitions = [u'the increase of something in size, number, or importance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

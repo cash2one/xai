@@ -4,11 +4,12 @@
 class _PLANETARY():
 	def __init__(self,): 
 		self.name = "PLANETARY"
+		self.definitions = [u'relating to planets: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

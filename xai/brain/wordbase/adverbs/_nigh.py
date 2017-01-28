@@ -4,11 +4,12 @@
 class _NIGH():
 	def __init__(self,): 
 		self.name = "NIGH"
+		self.definitions = [u'near: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

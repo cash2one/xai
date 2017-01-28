@@ -4,11 +4,12 @@
 class _SAME():
 	def __init__(self,): 
 		self.name = "SAME"
+		self.definitions = [u'exactly like another or each other: ', u'not another different place, time, situation, person, or thing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

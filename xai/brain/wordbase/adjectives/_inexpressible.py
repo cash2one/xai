@@ -4,11 +4,12 @@
 class _INEXPRESSIBLE():
 	def __init__(self,): 
 		self.name = "INEXPRESSIBLE"
+		self.definitions = [u'An inexpressible feeling is too strong to be described: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

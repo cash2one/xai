@@ -4,11 +4,12 @@
 class _INCLEMENT():
 	def __init__(self,): 
 		self.name = "INCLEMENT"
+		self.definitions = [u'Inclement weather is unpleasant, especially with cold wind and rain.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

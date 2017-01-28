@@ -4,11 +4,12 @@
 class _SASQUATCH():
 	def __init__(self,): 
 		self.name = "SASQUATCH"
+		self.definitions = [u'a  Bigfoot ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

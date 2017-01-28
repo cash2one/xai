@@ -4,11 +4,12 @@
 class _MISTRUSTFUL():
 	def __init__(self,): 
 		self.name = "MISTRUSTFUL"
+		self.definitions = [u'having doubts about the honesty or abilities of someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

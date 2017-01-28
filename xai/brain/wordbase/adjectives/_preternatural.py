@@ -4,11 +4,12 @@
 class _PRETERNATURAL():
 	def __init__(self,): 
 		self.name = "PRETERNATURAL"
+		self.definitions = [u'more than is usual or natural: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

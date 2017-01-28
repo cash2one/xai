@@ -4,11 +4,12 @@
 class _FINALITY():
 	def __init__(self,): 
 		self.name = "FINALITY"
+		self.definitions = [u'the quality of being finished and therefore not able to be changed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

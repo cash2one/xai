@@ -4,11 +4,12 @@
 class _WAITER():
 	def __init__(self,): 
 		self.name = "WAITER"
+		self.definitions = [u'a man whose job is to bring the food to customers at their tables in a restaurant']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

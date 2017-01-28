@@ -4,11 +4,12 @@
 class _SOLICITOUS():
 	def __init__(self,): 
 		self.name = "SOLICITOUS"
+		self.definitions = [u'showing care and helpful attention to someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

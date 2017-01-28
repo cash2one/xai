@@ -4,11 +4,12 @@
 class _BOUILLON():
 	def __init__(self,): 
 		self.name = "BOUILLON"
+		self.definitions = [u'a thin, clear soup made by boiling meat and vegetables in water']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

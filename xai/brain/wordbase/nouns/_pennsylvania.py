@@ -4,11 +4,12 @@
 class _PENNSYLVANIA():
 	def __init__(self,): 
 		self.name = "PENNSYLVANIA"
+		self.definitions = [u'a state in the northeastern United States whose capital is Harrisburg and whose largest city is Philadelphia ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

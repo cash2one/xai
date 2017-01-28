@@ -4,11 +4,12 @@
 class _DRINKABLE():
 	def __init__(self,): 
 		self.name = "DRINKABLE"
+		self.definitions = [u'clean and safe to drink: ', u'pleasant tasting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

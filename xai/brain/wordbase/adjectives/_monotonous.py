@@ -4,11 +4,12 @@
 class _MONOTONOUS():
 	def __init__(self,): 
 		self.name = "MONOTONOUS"
+		self.definitions = [u'not changing and therefore boring: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

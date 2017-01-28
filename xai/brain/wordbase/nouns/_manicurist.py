@@ -4,11 +4,12 @@
 class _MANICURIST():
 	def __init__(self,): 
 		self.name = "MANICURIST"
+		self.definitions = [u'a person whose job is to give people manicures']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

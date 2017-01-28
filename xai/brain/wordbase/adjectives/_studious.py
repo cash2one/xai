@@ -4,11 +4,12 @@
 class _STUDIOUS():
 	def __init__(self,): 
 		self.name = "STUDIOUS"
+		self.definitions = [u'A studious person enjoys studying or spends a lot of time studying: ', u'very careful or paying attention to all the small details: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

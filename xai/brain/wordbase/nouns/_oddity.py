@@ -4,11 +4,12 @@
 class _ODDITY():
 	def __init__(self,): 
 		self.name = "ODDITY"
+		self.definitions = [u'someone or something that is strange and unusual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

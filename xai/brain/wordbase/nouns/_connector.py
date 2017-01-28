@@ -4,11 +4,12 @@
 class _CONNECTOR():
 	def __init__(self,): 
 		self.name = "CONNECTOR"
+		self.definitions = [u'a device that holds a wire in position in a piece of electrical equipment : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

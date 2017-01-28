@@ -4,11 +4,12 @@
 class _NORMALLY():
 	def __init__(self,): 
 		self.name = "NORMALLY"
+		self.definitions = [u'If something happens normally, it happens in the usual or expected way: ', u'If you normally do something, you usually or regularly do it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

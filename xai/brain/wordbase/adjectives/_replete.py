@@ -4,11 +4,12 @@
 class _REPLETE():
 	def __init__(self,): 
 		self.name = "REPLETE"
+		self.definitions = [u'full, especially with food: ', u'well supplied: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

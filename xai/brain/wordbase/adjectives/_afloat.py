@@ -4,11 +4,12 @@
 class _AFLOAT():
 	def __init__(self,): 
 		self.name = "AFLOAT"
+		self.definitions = [u'floating on water: ', u'having enough money to pay what you owe: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

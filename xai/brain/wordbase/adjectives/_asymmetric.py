@@ -4,11 +4,12 @@
 class _ASYMMETRIC():
 	def __init__(self,): 
 		self.name = "ASYMMETRIC"
+		self.definitions = [u'with two halves, sides, or parts that are not exactly the same in shape and size: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MARJORAM():
 	def __init__(self,): 
 		self.name = "MARJORAM"
+		self.definitions = [u'a sweet Mediterranean herb used to flavour food']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

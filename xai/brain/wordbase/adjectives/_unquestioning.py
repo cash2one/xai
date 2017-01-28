@@ -4,11 +4,12 @@
 class _UNQUESTIONING():
 	def __init__(self,): 
 		self.name = "UNQUESTIONING"
+		self.definitions = [u'Unquestioning obedience is total, and given without thinking, asking questions, or doubting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ROTARY():
 	def __init__(self,): 
 		self.name = "ROTARY"
+		self.definitions = [u'a  traffic circle ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

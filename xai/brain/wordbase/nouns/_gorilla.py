@@ -4,11 +4,12 @@
 class _GORILLA():
 	def __init__(self,): 
 		self.name = "GORILLA"
+		self.definitions = [u'a large ape that comes from western Africa']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

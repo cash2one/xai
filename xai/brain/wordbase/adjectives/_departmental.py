@@ -4,11 +4,12 @@
 class _DEPARTMENTAL():
 	def __init__(self,): 
 		self.name = "DEPARTMENTAL"
+		self.definitions = [u'relating to a department: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

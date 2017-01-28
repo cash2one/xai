@@ -4,11 +4,12 @@
 class _REVISED():
 	def __init__(self,): 
 		self.name = "REVISED"
+		self.definitions = [u'changed in some ways: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

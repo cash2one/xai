@@ -4,11 +4,12 @@
 class _INEXCUSABLE():
 	def __init__(self,): 
 		self.name = "INEXCUSABLE"
+		self.definitions = [u'(of behaviour) too bad to be accepted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

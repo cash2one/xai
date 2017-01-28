@@ -4,11 +4,12 @@
 class _SOMETIMES():
 	def __init__(self,): 
 		self.name = "SOMETIMES"
+		self.definitions = [u'on some occasions but not always or often: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

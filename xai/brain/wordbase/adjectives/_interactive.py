@@ -4,11 +4,12 @@
 class _INTERACTIVE():
 	def __init__(self,): 
 		self.name = "INTERACTIVE"
+		self.definitions = [u'An interactive system or computer program is designed to involve the user in the exchange of information: ', u'involving communication between people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

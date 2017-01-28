@@ -4,11 +4,12 @@
 class _PREDICTIVE():
 	def __init__(self,): 
 		self.name = "PREDICTIVE"
+		self.definitions = [u'relating to the ability to predict: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

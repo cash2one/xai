@@ -4,11 +4,12 @@
 class _FISCAL():
 	def __init__(self,): 
 		self.name = "FISCAL"
+		self.definitions = [u'connected with (public) money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

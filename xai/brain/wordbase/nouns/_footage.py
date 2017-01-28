@@ -4,11 +4,12 @@
 class _FOOTAGE():
 	def __init__(self,): 
 		self.name = "FOOTAGE"
+		self.definitions = [u'(a piece of) film especially one showing an event: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

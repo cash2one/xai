@@ -4,11 +4,12 @@
 class _UNDATED():
 	def __init__(self,): 
 		self.name = "UNDATED"
+		self.definitions = [u'An undated document has no date on it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SHARD():
 	def __init__(self,): 
 		self.name = "SHARD"
+		self.definitions = [u'a piece of a broken glass, cup, container, or similar object: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

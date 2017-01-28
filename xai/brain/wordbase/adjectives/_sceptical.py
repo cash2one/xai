@@ -4,11 +4,12 @@
 class _SCEPTICAL():
 	def __init__(self,): 
 		self.name = "SCEPTICAL"
+		self.definitions = [u'doubting that something is true or useful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

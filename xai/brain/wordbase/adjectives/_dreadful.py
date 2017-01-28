@@ -4,11 +4,12 @@
 class _DREADFUL():
 	def __init__(self,): 
 		self.name = "DREADFUL"
+		self.definitions = [u'very bad, of very low quality, or shocking and very sad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

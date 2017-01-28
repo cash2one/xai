@@ -4,11 +4,12 @@
 class _DWELLING():
 	def __init__(self,): 
 		self.name = "DWELLING"
+		self.definitions = [u'a house or place to live in: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

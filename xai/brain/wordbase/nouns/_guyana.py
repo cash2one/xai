@@ -4,11 +4,12 @@
 class _GUYANA():
 	def __init__(self,): 
 		self.name = "GUYANA"
+		self.definitions = [u'a Caribbean country in South America']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

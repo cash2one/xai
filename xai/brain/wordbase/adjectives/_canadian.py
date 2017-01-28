@@ -4,11 +4,12 @@
 class _CANADIAN():
 	def __init__(self,): 
 		self.name = "CANADIAN"
+		self.definitions = [u'belonging to or relating to Canada and its people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

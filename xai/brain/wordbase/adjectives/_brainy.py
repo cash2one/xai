@@ -4,11 +4,12 @@
 class _BRAINY():
 	def __init__(self,): 
 		self.name = "BRAINY"
+		self.definitions = [u'clever: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

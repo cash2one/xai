@@ -4,11 +4,12 @@
 class _COLLABORATIVE():
 	def __init__(self,): 
 		self.name = "COLLABORATIVE"
+		self.definitions = [u'involving two or more people working together for a special purpose: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

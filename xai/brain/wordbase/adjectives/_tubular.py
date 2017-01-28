@@ -4,11 +4,12 @@
 class _TUBULAR():
 	def __init__(self,): 
 		self.name = "TUBULAR"
+		self.definitions = [u'made in or having the shape of a tube: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

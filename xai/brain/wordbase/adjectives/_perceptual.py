@@ -4,11 +4,12 @@
 class _PERCEPTUAL():
 	def __init__(self,): 
 		self.name = "PERCEPTUAL"
+		self.definitions = [u'relating to the ability to notice something or come to an opinion about something using your senses: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

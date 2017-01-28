@@ -4,11 +4,12 @@
 class _ACHIEVABLE():
 	def __init__(self,): 
 		self.name = "ACHIEVABLE"
+		self.definitions = [u'An achievable task, ambition, etc. is one that is possible to achieve: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

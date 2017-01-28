@@ -4,11 +4,12 @@
 class _SOGGY():
 	def __init__(self,): 
 		self.name = "SOGGY"
+		self.definitions = [u'(of things that can absorb water, especially food) unpleasantly wet and soft: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

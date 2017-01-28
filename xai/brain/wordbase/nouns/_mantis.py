@@ -4,11 +4,12 @@
 class _MANTIS():
 	def __init__(self,): 
 		self.name = "MANTIS"
+		self.definitions = [u'a  praying mantis ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

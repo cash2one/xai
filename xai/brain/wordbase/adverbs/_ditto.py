@@ -4,11 +4,12 @@
 class _DITTO():
 	def __init__(self,): 
 		self.name = "DITTO"
+		self.definitions = [u'used to agree with something that has just been said, or to avoid repeating something that has been said: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

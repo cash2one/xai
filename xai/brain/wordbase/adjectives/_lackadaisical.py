@@ -4,11 +4,12 @@
 class _LACKADAISICAL():
 	def __init__(self,): 
 		self.name = "LACKADAISICAL"
+		self.definitions = [u'showing little enthusiasm and effort: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

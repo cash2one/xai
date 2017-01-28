@@ -4,11 +4,12 @@
 class _TAMARIND():
 	def __init__(self,): 
 		self.name = "TAMARIND"
+		self.definitions = [u'(fruit of) a type of tropical tree']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

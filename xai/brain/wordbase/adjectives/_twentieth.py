@@ -4,11 +4,12 @@
 class _TWENTIETH():
 	def __init__(self,): 
 		self.name = "TWENTIETH"
+		self.definitions = [u'20th written as a word']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

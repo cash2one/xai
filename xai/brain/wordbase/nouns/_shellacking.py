@@ -4,11 +4,12 @@
 class _SHELLACKING():
 	def __init__(self,): 
 		self.name = "SHELLACKING"
+		self.definitions = [u'a complete defeat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

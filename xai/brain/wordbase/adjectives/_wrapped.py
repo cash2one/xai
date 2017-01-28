@@ -4,11 +4,12 @@
 class _WRAPPED():
 	def __init__(self,): 
 		self.name = "WRAPPED"
+		self.definitions = [u'covered with paper or other material: ', u'extremely happy or excited']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

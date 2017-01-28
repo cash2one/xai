@@ -4,11 +4,12 @@
 class _STATIONER():
 	def __init__(self,): 
 		self.name = "STATIONER"
+		self.definitions = [u'a person or business that sells stationery', u'a shop that sells stationery: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

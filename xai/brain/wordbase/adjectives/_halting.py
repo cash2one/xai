@@ -4,11 +4,12 @@
 class _HALTING():
 	def __init__(self,): 
 		self.name = "HALTING"
+		self.definitions = [u'stopping often while you are saying or doing something, especially because you are nervous: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PENITENT():
 	def __init__(self,): 
 		self.name = "PENITENT"
+		self.definitions = [u'a person who is performing a formal religious act to show that they are sorry for something they have done wrong']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

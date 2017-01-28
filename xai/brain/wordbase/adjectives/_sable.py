@@ -4,11 +4,12 @@
 class _SABLE():
 	def __init__(self,): 
 		self.name = "SABLE"
+		self.definitions = [u'having a very dark or black colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ROUTINELY():
 	def __init__(self,): 
 		self.name = "ROUTINELY"
+		self.definitions = [u'used for describing what often or usually happens: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _TREBLE():
 	def __init__(self,): 
 		self.name = "TREBLE"
+		self.definitions = [u'three times greater in amount, number, or size: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _VICTORIOUS():
 	def __init__(self,): 
 		self.name = "VICTORIOUS"
+		self.definitions = [u'having won a game, competition, election, war, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

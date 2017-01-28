@@ -4,11 +4,12 @@
 class _COMMUTATIVE():
 	def __init__(self,): 
 		self.name = "COMMUTATIVE"
+		self.definitions = [u'(of a calculation) giving the same result whatever order the values are in']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

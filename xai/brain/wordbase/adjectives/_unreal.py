@@ -4,11 +4,12 @@
 class _UNREAL():
 	def __init__(self,): 
 		self.name = "UNREAL"
+		self.definitions = [u'as if imagined; strange and dream-like: ', u'extremely or surprisingly good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

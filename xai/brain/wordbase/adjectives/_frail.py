@@ -4,11 +4,12 @@
 class _FRAIL():
 	def __init__(self,): 
 		self.name = "FRAIL"
+		self.definitions = [u'weak or unhealthy, or easily damaged, broken, or harmed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

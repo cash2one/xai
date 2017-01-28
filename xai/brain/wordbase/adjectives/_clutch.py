@@ -4,11 +4,12 @@
 class _CLUTCH():
 	def __init__(self,): 
 		self.name = "CLUTCH"
+		self.definitions = [u'able to do something when it is especially needed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

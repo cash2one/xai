@@ -4,11 +4,12 @@
 class _BRANDY():
 	def __init__(self,): 
 		self.name = "BRANDY"
+		self.definitions = [u'a strong alcoholic drink made from wine and sometimes flavoured with fruits']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

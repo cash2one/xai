@@ -4,11 +4,12 @@
 class _TRAVELLING():
 	def __init__(self,): 
 		self.name = "TRAVELLING"
+		self.definitions = [u'moving from one place to another, especially to perform or while working, etc.: ', u'relating to or used for travel']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

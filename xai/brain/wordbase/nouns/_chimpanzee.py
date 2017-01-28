@@ -4,11 +4,12 @@
 class _CHIMPANZEE():
 	def __init__(self,): 
 		self.name = "CHIMPANZEE"
+		self.definitions = [u'a small, very intelligent African ape with black or brown fur']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

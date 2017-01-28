@@ -4,11 +4,12 @@
 class _ZESTFUL():
 	def __init__(self,): 
 		self.name = "ZESTFUL"
+		self.definitions = [u'full of energy and enthusiasm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

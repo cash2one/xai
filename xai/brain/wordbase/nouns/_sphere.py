@@ -4,11 +4,12 @@
 class _SPHERE():
 	def __init__(self,): 
 		self.name = "SPHERE"
+		self.definitions = [u'an object shaped like a round ball: ', u'a subject or area of knowledge, work, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

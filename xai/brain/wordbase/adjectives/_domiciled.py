@@ -4,11 +4,12 @@
 class _DOMICILED():
 	def __init__(self,): 
 		self.name = "DOMICILED"
+		self.definitions = [u'being legally resident (= living) in a place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _REPERCUSSION():
 	def __init__(self,): 
 		self.name = "REPERCUSSION"
+		self.definitions = [u'the effect that an action, event, or decision has on something, especially a bad effect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

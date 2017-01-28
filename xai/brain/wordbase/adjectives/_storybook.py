@@ -4,11 +4,12 @@
 class _STORYBOOK():
 	def __init__(self,): 
 		self.name = "STORYBOOK"
+		self.definitions = [u"(of real life situations) happy and pleasant in the way that situations in children's stories usually are: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CONFUSING():
 	def __init__(self,): 
 		self.name = "CONFUSING"
+		self.definitions = [u'Something that is confusing makes you feel confused because it is difficult to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

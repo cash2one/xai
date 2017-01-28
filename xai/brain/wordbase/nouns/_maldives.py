@@ -4,11 +4,12 @@
 class _MALDIVES():
 	def __init__(self,): 
 		self.name = "MALDIVES"
+		self.definitions = [u'a country in the Indian Ocean formed of many small islands']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _AWAKE():
 	def __init__(self,): 
 		self.name = "AWAKE"
+		self.definitions = [u'not sleeping: ', u'If you are awake to something, you know about it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

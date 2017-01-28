@@ -4,11 +4,12 @@
 class _EXTORTIONATE():
 	def __init__(self,): 
 		self.name = "EXTORTIONATE"
+		self.definitions = [u'extremely expensive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

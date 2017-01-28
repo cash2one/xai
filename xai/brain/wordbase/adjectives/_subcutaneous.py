@@ -4,11 +4,12 @@
 class _SUBCUTANEOUS():
 	def __init__(self,): 
 		self.name = "SUBCUTANEOUS"
+		self.definitions = [u'existing under the skin: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

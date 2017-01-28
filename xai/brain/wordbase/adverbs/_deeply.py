@@ -4,11 +4,12 @@
 class _DEEPLY():
 	def __init__(self,): 
 		self.name = "DEEPLY"
+		self.definitions = [u'extremely or strongly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

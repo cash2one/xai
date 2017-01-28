@@ -4,11 +4,12 @@
 class _INGRATE():
 	def __init__(self,): 
 		self.name = "INGRATE"
+		self.definitions = [u'a person who is not grateful']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

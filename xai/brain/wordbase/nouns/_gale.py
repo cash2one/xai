@@ -4,11 +4,12 @@
 class _GALE():
 	def __init__(self,): 
 		self.name = "GALE"
+		self.definitions = [u'a very strong wind: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

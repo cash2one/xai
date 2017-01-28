@@ -4,11 +4,12 @@
 class _ICONOCLAST():
 	def __init__(self,): 
 		self.name = "ICONOCLAST"
+		self.definitions = [u'a person who strongly opposes generally accepted beliefs and traditions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

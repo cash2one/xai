@@ -4,11 +4,12 @@
 class _SOFTLY():
 	def __init__(self,): 
 		self.name = "SOFTLY"
+		self.definitions = [u'gently: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

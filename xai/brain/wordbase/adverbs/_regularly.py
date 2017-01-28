@@ -4,11 +4,12 @@
 class _REGULARLY():
 	def __init__(self,): 
 		self.name = "REGULARLY"
+		self.definitions = [u'often: ', u'with equal or similar amounts of space or time between one and the next: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

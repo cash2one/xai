@@ -4,11 +4,12 @@
 class _HATTER():
 	def __init__(self,): 
 		self.name = "HATTER"
+		self.definitions = [u'someone who makes hats']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

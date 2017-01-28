@@ -4,11 +4,12 @@
 class _PAGAN():
 	def __init__(self,): 
 		self.name = "PAGAN"
+		self.definitions = [u'a person who has pagan beliefs', u'a person who has no religious beliefs']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

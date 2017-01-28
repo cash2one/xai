@@ -4,11 +4,12 @@
 class _DELL():
 	def __init__(self,): 
 		self.name = "DELL"
+		self.definitions = [u'a small valley, usually with trees ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

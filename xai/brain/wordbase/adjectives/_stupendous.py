@@ -4,11 +4,12 @@
 class _STUPENDOUS():
 	def __init__(self,): 
 		self.name = "STUPENDOUS"
+		self.definitions = [u'very surprising, usually in a pleasing way, especially by being large in amount or size: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

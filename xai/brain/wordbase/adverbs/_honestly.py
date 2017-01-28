@@ -4,11 +4,12 @@
 class _HONESTLY():
 	def __init__(self,): 
 		self.name = "HONESTLY"
+		self.definitions = [u'in a way that is honest: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

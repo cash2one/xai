@@ -4,11 +4,12 @@
 class _TARPAULIN():
 	def __init__(self,): 
 		self.name = "TARPAULIN"
+		self.definitions = [u'(a large piece of) heavy waterproof cloth used as a covering']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

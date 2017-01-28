@@ -4,11 +4,12 @@
 class _HOLINESS():
 	def __init__(self,): 
 		self.name = "HOLINESS"
+		self.definitions = [u'the quality of being holy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

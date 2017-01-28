@@ -4,11 +4,12 @@
 class _PEPPERY():
 	def __init__(self,): 
 		self.name = "PEPPERY"
+		self.definitions = [u'having a spicy flavour like pepper: ', u'easily annoyed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

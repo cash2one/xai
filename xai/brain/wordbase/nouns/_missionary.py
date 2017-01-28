@@ -4,11 +4,12 @@
 class _MISSIONARY():
 	def __init__(self,): 
 		self.name = "MISSIONARY"
+		self.definitions = [u'a person who has been sent to a foreign country to teach their religion to the people who live there: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

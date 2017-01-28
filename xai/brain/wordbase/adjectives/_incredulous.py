@@ -4,11 +4,12 @@
 class _INCREDULOUS():
 	def __init__(self,): 
 		self.name = "INCREDULOUS"
+		self.definitions = [u'not wanting or not able to believe something, and usually showing this: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

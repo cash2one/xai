@@ -4,11 +4,12 @@
 class _HERETOFORE():
 	def __init__(self,): 
 		self.name = "HERETOFORE"
+		self.definitions = [u'before this point in time']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

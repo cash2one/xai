@@ -4,11 +4,12 @@
 class _ALPHABETICAL():
 	def __init__(self,): 
 		self.name = "ALPHABETICAL"
+		self.definitions = [u'arranged in the same order as the letters of the alphabet: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

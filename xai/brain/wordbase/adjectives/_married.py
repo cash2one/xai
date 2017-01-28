@@ -4,11 +4,12 @@
 class _MARRIED():
 	def __init__(self,): 
 		self.name = "MARRIED"
+		self.definitions = [u'having a wife or husband: ', u'to begin a legal relationship with someone as their husband or wife: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

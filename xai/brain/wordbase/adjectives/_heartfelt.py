@@ -4,11 +4,12 @@
 class _HEARTFELT():
 	def __init__(self,): 
 		self.name = "HEARTFELT"
+		self.definitions = [u'strongly felt and sincere: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

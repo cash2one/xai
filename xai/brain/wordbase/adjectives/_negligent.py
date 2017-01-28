@@ -4,11 +4,12 @@
 class _NEGLIGENT():
 	def __init__(self,): 
 		self.name = "NEGLIGENT"
+		self.definitions = [u'not being careful or giving enough attention to people or things that are your responsibility: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

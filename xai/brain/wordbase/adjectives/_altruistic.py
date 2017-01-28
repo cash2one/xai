@@ -4,11 +4,12 @@
 class _ALTRUISTIC():
 	def __init__(self,): 
 		self.name = "ALTRUISTIC"
+		self.definitions = [u'showing a wish to help or bring advantages to others, even if it results in disadvantage for yourself: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

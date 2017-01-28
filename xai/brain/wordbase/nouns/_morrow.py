@@ -4,11 +4,12 @@
 class _MORROW():
 	def __init__(self,): 
 		self.name = "MORROW"
+		self.definitions = [u'the next day, or tomorrow: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

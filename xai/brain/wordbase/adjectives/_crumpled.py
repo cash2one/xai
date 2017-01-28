@@ -4,11 +4,12 @@
 class _CRUMPLED():
 	def __init__(self,): 
 		self.name = "CRUMPLED"
+		self.definitions = [u'full of folds: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

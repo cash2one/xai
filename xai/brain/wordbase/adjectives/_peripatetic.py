@@ -4,11 +4,12 @@
 class _PERIPATETIC():
 	def __init__(self,): 
 		self.name = "PERIPATETIC"
+		self.definitions = [u'travelling around to different places, usually because you work in more than one place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

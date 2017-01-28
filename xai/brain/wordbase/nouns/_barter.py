@@ -4,11 +4,12 @@
 class _BARTER():
 	def __init__(self,): 
 		self.name = "BARTER"
+		self.definitions = [u'the act or system of bartering goods: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

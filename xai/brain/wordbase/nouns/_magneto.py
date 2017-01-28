@@ -4,11 +4,12 @@
 class _MAGNETO():
 	def __init__(self,): 
 		self.name = "MAGNETO"
+		self.definitions = [u'an electrical generator that uses magnets to produce electricity']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

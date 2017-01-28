@@ -4,11 +4,12 @@
 class _RIVEN():
 	def __init__(self,): 
 		self.name = "RIVEN"
+		self.definitions = [u'violently divided: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

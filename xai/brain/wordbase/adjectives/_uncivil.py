@@ -4,11 +4,12 @@
 class _UNCIVIL():
 	def __init__(self,): 
 		self.name = "UNCIVIL"
+		self.definitions = [u'not polite: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

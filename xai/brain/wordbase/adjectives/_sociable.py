@@ -4,11 +4,12 @@
 class _SOCIABLE():
 	def __init__(self,): 
 		self.name = "SOCIABLE"
+		self.definitions = [u'Sociable people like to meet and spend time with other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

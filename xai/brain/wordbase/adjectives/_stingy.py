@@ -4,11 +4,12 @@
 class _STINGY():
 	def __init__(self,): 
 		self.name = "STINGY"
+		self.definitions = [u'unwilling to spend money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

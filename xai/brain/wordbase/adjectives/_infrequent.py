@@ -4,11 +4,12 @@
 class _INFREQUENT():
 	def __init__(self,): 
 		self.name = "INFREQUENT"
+		self.definitions = [u'not happening very often: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

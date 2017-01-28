@@ -4,11 +4,12 @@
 class _TEAKETTLE():
 	def __init__(self,): 
 		self.name = "TEAKETTLE"
+		self.definitions = [u'a  kettle noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

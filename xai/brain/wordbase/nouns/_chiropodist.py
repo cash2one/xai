@@ -4,11 +4,12 @@
 class _CHIROPODIST():
 	def __init__(self,): 
 		self.name = "CHIROPODIST"
+		self.definitions = [u'a  podiatrist ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

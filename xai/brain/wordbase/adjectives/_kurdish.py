@@ -4,11 +4,12 @@
 class _KURDISH():
 	def __init__(self,): 
 		self.name = "KURDISH"
+		self.definitions = [u'related to the Kurdish people or their languages']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

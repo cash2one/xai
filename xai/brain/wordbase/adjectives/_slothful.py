@@ -4,11 +4,12 @@
 class _SLOTHFUL():
 	def __init__(self,): 
 		self.name = "SLOTHFUL"
+		self.definitions = [u'lazy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

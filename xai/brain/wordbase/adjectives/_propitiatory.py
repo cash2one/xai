@@ -4,11 +4,12 @@
 class _PROPITIATORY():
 	def __init__(self,): 
 		self.name = "PROPITIATORY"
+		self.definitions = [u'intended to please someone and make them feel calm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

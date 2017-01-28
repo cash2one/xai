@@ -4,11 +4,12 @@
 class _ROUSTABOUT():
 	def __init__(self,): 
 		self.name = "ROUSTABOUT"
+		self.definitions = [u'a person whose job involves heavy unskilled work']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

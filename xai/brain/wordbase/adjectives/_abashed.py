@@ -4,11 +4,12 @@
 class _ABASHED():
 	def __init__(self,): 
 		self.name = "ABASHED"
+		self.definitions = [u'embarrassed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _TENFOLD():
 	def __init__(self,): 
 		self.name = "TENFOLD"
+		self.definitions = [u'by ten times: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _LORD():
 	def __init__(self,): 
 		self.name = "LORD"
+		self.definitions = [u'a male peer', u'a man who has a lot of power in a particular area of activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

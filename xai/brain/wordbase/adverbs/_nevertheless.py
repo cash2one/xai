@@ -4,11 +4,12 @@
 class _NEVERTHELESS():
 	def __init__(self,): 
 		self.name = "NEVERTHELESS"
+		self.definitions = [u'despite what has just been said or referred to: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

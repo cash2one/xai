@@ -4,11 +4,12 @@
 class _UNSATISFYING():
 	def __init__(self,): 
 		self.name = "UNSATISFYING"
+		self.definitions = [u'not satisfying']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _STATUESQUE():
 	def __init__(self,): 
 		self.name = "STATUESQUE"
+		self.definitions = [u'A statuesque woman is attractively tall and large.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

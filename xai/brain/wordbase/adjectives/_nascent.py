@@ -4,11 +4,12 @@
 class _NASCENT():
 	def __init__(self,): 
 		self.name = "NASCENT"
+		self.definitions = [u'only recently formed or started, but likely to grow larger quickly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

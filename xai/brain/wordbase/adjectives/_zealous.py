@@ -4,11 +4,12 @@
 class _ZEALOUS():
 	def __init__(self,): 
 		self.name = "ZEALOUS"
+		self.definitions = [u'enthusiastic and eager: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

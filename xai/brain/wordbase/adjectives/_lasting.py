@@ -4,11 +4,12 @@
 class _LASTING():
 	def __init__(self,): 
 		self.name = "LASTING"
+		self.definitions = [u'continuing to exist for a long time or for ever: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

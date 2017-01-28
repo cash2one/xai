@@ -4,11 +4,12 @@
 class _FONDLY():
 	def __init__(self,): 
 		self.name = "FONDLY"
+		self.definitions = [u'in a way that shows love or great liking: ', u'hoping that something will be true when it probably will not: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

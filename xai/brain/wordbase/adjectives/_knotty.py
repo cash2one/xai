@@ -4,11 +4,12 @@
 class _KNOTTY():
 	def __init__(self,): 
 		self.name = "KNOTTY"
+		self.definitions = [u'(of a problem or difficulty) complicated and difficult to solve: ', u'with a lot of knots: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

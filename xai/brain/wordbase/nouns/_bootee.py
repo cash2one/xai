@@ -4,11 +4,12 @@
 class _BOOTEE():
 	def __init__(self,): 
 		self.name = "BOOTEE"
+		self.definitions = [u'a boot for a baby made of soft material']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

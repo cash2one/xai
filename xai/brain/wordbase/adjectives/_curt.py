@@ -4,11 +4,12 @@
 class _CURT():
 	def __init__(self,): 
 		self.name = "CURT"
+		self.definitions = [u"If someone's manner or speech is curt, it is rude as a result of being very quick: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

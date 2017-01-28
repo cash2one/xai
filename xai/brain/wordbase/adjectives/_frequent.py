@@ -4,11 +4,12 @@
 class _FREQUENT():
 	def __init__(self,): 
 		self.name = "FREQUENT"
+		self.definitions = [u'happening often: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

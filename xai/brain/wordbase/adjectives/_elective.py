@@ -4,11 +4,12 @@
 class _ELECTIVE():
 	def __init__(self,): 
 		self.name = "ELECTIVE"
+		self.definitions = [u'voted for or chosen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LOB():
 	def __init__(self,): 
 		self.name = "LOB"
+		self.definitions = [u'a high, curving hit of a ball: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

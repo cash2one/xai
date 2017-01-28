@@ -4,11 +4,12 @@
 class _EXTENDED():
 	def __init__(self,): 
 		self.name = "EXTENDED"
+		self.definitions = [u'long or longer than usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

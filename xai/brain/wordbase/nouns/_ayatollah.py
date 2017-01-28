@@ -4,11 +4,12 @@
 class _AYATOLLAH():
 	def __init__(self,): 
 		self.name = "AYATOLLAH"
+		self.definitions = [u'an important religious leader of Shiite Muslims in Iran']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

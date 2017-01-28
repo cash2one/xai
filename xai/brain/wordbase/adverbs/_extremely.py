@@ -4,11 +4,12 @@
 class _EXTREMELY():
 	def __init__(self,): 
 		self.name = "EXTREMELY"
+		self.definitions = [u'very: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

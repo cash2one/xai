@@ -4,11 +4,12 @@
 class _VERSATILE():
 	def __init__(self,): 
 		self.name = "VERSATILE"
+		self.definitions = [u'able to change easily from one activity to another or able to be used for many different purposes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _POINT():
 	def __init__(self,): 
 		self.name = "POINT"
+		self.definitions = [u'relating to when a ballet dancer dances on their toes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PAPA():
 	def __init__(self,): 
 		self.name = "PAPA"
+		self.definitions = [u'father: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

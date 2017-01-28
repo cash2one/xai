@@ -4,11 +4,12 @@
 class _LORE():
 	def __init__(self,): 
 		self.name = "LORE"
+		self.definitions = [u'traditional knowledge and stories about a subject: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

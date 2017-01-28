@@ -4,11 +4,12 @@
 class _ENDEARMENT():
 	def __init__(self,): 
 		self.name = "ENDEARMENT"
+		self.definitions = [u'a word or phrase that you use to show that you love someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

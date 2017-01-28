@@ -4,11 +4,12 @@
 class _BILLY():
 	def __init__(self,): 
 		self.name = "BILLY"
+		self.definitions = [u'a metal container used for cooking outside over a fire']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _LACHRYMOSE():
 	def __init__(self,): 
 		self.name = "LACHRYMOSE"
+		self.definitions = [u'sad or likely to cry often and easily: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

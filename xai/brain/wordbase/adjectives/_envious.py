@@ -4,11 +4,12 @@
 class _ENVIOUS():
 	def __init__(self,): 
 		self.name = "ENVIOUS"
+		self.definitions = [u'wishing you had what another person has: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

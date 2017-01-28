@@ -4,11 +4,12 @@
 class _ORB():
 	def __init__(self,): 
 		self.name = "ORB"
+		self.definitions = [u'something in the shape of a ball: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

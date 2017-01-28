@@ -4,11 +4,12 @@
 class _BARONIAL():
 	def __init__(self,): 
 		self.name = "BARONIAL"
+		self.definitions = [u'very large, grand, and impressive: ', u'belonging or relating to a baron: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

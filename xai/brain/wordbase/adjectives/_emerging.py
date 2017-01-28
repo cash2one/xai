@@ -4,11 +4,12 @@
 class _EMERGING():
 	def __init__(self,): 
 		self.name = "EMERGING"
+		self.definitions = [u'starting to exist: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

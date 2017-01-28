@@ -4,11 +4,12 @@
 class _NUTRITIVE():
 	def __init__(self,): 
 		self.name = "NUTRITIVE"
+		self.definitions = [u'relating to nutrition: ', u'containing many of the substances needed for life and growth: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

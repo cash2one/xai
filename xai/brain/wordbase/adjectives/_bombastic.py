@@ -4,11 +4,12 @@
 class _BOMBASTIC():
 	def __init__(self,): 
 		self.name = "BOMBASTIC"
+		self.definitions = [u'using long and difficult words, usually to make people think you know more than you do: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

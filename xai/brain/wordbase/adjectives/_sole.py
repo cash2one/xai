@@ -4,11 +4,12 @@
 class _SOLE():
 	def __init__(self,): 
 		self.name = "SOLE"
+		self.definitions = [u'being one only; single: ', u'not shared with anyone else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

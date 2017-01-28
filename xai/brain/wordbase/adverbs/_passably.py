@@ -4,11 +4,12 @@
 class _PASSABLY():
 	def __init__(self,): 
 		self.name = "PASSABLY"
+		self.definitions = [u'in a way that is satisfactory but not excellent']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

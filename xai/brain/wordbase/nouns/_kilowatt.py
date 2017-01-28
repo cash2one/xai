@@ -4,11 +4,12 @@
 class _KILOWATT():
 	def __init__(self,): 
 		self.name = "KILOWATT"
+		self.definitions = [u'a unit of power equal to 1,000 watts']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PLOUGHSHARE():
 	def __init__(self,): 
 		self.name = "PLOUGHSHARE"
+		self.definitions = [u'the sharp blade of a plough']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

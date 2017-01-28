@@ -4,11 +4,12 @@
 class _RUNAWAY():
 	def __init__(self,): 
 		self.name = "RUNAWAY"
+		self.definitions = [u'someone who has escaped or run away from somewhere: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

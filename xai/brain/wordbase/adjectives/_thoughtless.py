@@ -4,11 +4,12 @@
 class _THOUGHTLESS():
 	def __init__(self,): 
 		self.name = "THOUGHTLESS"
+		self.definitions = [u'not considering how your actions or words may upset someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

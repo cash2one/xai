@@ -4,11 +4,12 @@
 class _ABOMINATION():
 	def __init__(self,): 
 		self.name = "ABOMINATION"
+		self.definitions = [u'something that you dislike and disapprove of: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

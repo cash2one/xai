@@ -4,11 +4,12 @@
 class _CRUCIAL():
 	def __init__(self,): 
 		self.name = "CRUCIAL"
+		self.definitions = [u'extremely important or necessary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

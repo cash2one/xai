@@ -4,11 +4,12 @@
 class _UNAVOIDABLE():
 	def __init__(self,): 
 		self.name = "UNAVOIDABLE"
+		self.definitions = [u'impossible to avoid']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

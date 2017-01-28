@@ -4,11 +4,12 @@
 class _REPORTED():
 	def __init__(self,): 
 		self.name = "REPORTED"
+		self.definitions = [u'described by people although there is no proof yet: ', u'formally mentioned to someone in authority, for example the police: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

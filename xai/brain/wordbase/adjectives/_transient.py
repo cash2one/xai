@@ -4,11 +4,12 @@
 class _TRANSIENT():
 	def __init__(self,): 
 		self.name = "TRANSIENT"
+		self.definitions = [u'lasting for only a short time; temporary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

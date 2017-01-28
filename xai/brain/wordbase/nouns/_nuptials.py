@@ -4,11 +4,12 @@
 class _NUPTIALS():
 	def __init__(self,): 
 		self.name = "NUPTIALS"
+		self.definitions = [u"a person's marriage and marriage celebrations: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _STINKING():
 	def __init__(self,): 
 		self.name = "STINKING"
+		self.definitions = [u'having a very unpleasant smell: ', u'very unpleasant or bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

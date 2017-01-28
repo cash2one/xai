@@ -4,11 +4,12 @@
 class _GOLDILOCKS():
 	def __init__(self,): 
 		self.name = "GOLDILOCKS"
+		self.definitions = [u'used to describe a situation in which something is or has to be exactly right: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

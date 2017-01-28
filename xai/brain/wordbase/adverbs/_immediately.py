@@ -4,11 +4,12 @@
 class _IMMEDIATELY():
 	def __init__(self,): 
 		self.name = "IMMEDIATELY"
+		self.definitions = [u'now or without waiting or thinking: ', u'close to something or someone in distance or time: ', u'closely or directly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

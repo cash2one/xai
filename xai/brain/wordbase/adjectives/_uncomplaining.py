@@ -4,11 +4,12 @@
 class _UNCOMPLAINING():
 	def __init__(self,): 
 		self.name = "UNCOMPLAINING"
+		self.definitions = [u'willing to do boring or difficult work without complaining or becoming angry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

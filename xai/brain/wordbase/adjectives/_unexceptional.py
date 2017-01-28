@@ -4,11 +4,12 @@
 class _UNEXCEPTIONAL():
 	def __init__(self,): 
 		self.name = "UNEXCEPTIONAL"
+		self.definitions = [u'ordinary, not exceptional: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ASTIR():
 	def __init__(self,): 
 		self.name = "ASTIR"
+		self.definitions = [u'out of bed and moving around, or in an excited state: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

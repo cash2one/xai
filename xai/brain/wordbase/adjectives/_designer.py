@@ -4,11 +4,12 @@
 class _DESIGNER():
 	def __init__(self,): 
 		self.name = "DESIGNER"
+		self.definitions = [u'made by a famous or fashionable designer: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

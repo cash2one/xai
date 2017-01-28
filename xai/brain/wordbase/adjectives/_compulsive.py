@@ -4,11 +4,12 @@
 class _COMPULSIVE():
 	def __init__(self,): 
 		self.name = "COMPULSIVE"
+		self.definitions = [u'doing something a lot and unable to stop doing it: ', u'If a film, play, sports event, book, etc. is compulsive, it is so interesting or exciting that you do not want to stop watching or reading it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

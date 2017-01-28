@@ -4,11 +4,12 @@
 class _CARNAL():
 	def __init__(self,): 
 		self.name = "CARNAL"
+		self.definitions = [u'relating to the physical feelings and wants of the body: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

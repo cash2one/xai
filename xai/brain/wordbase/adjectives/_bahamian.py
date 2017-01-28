@@ -4,11 +4,12 @@
 class _BAHAMIAN():
 	def __init__(self,): 
 		self.name = "BAHAMIAN"
+		self.definitions = [u'belonging to or relating to the Bahamas or its people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

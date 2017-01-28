@@ -4,11 +4,12 @@
 class _SPINY():
 	def __init__(self,): 
 		self.name = "SPINY"
+		self.definitions = [u'covered with spines (= long, sharp points like needles)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SHIFTLESS():
 	def __init__(self,): 
 		self.name = "SHIFTLESS"
+		self.definitions = [u'lazy and not having much determination or a clear purpose: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

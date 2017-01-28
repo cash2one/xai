@@ -4,11 +4,12 @@
 class _POLYHEDRON():
 	def __init__(self,): 
 		self.name = "POLYHEDRON"
+		self.definitions = [u'a solid shape with four or more flat surfaces: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

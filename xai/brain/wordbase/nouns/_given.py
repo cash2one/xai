@@ -4,11 +4,12 @@
 class _GIVEN():
 	def __init__(self,): 
 		self.name = "GIVEN"
+		self.definitions = [u'something that is certain to happen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DISOBLIGING():
 	def __init__(self,): 
 		self.name = "DISOBLIGING"
+		self.definitions = [u'unwilling to help or do what you are asked to do']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

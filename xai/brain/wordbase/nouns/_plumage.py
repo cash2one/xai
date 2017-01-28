@@ -4,11 +4,12 @@
 class _PLUMAGE():
 	def __init__(self,): 
 		self.name = "PLUMAGE"
+		self.definitions = [u"a bird's covering of feathers: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

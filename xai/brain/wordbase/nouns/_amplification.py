@@ -4,11 +4,12 @@
 class _AMPLIFICATION():
 	def __init__(self,): 
 		self.name = "AMPLIFICATION"
+		self.definitions = [u'Amplification makes music or other sounds louder: ', u'added detail: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

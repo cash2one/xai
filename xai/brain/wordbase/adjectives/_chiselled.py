@@ -4,11 +4,12 @@
 class _CHISELLED():
 	def __init__(self,): 
 		self.name = "CHISELLED"
+		self.definitions = [u"(of a man's face or features) strong and sharp, in an attractive way: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

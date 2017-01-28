@@ -4,11 +4,12 @@
 class _VISUALLY():
 	def __init__(self,): 
 		self.name = "VISUALLY"
+		self.definitions = [u'relating to seeing or appearance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _GENUFLECTION():
 	def __init__(self,): 
 		self.name = "GENUFLECTION"
+		self.definitions = [u'the act of genuflecting', u'the act of showing respect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

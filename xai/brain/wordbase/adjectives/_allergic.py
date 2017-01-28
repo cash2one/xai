@@ -4,11 +4,12 @@
 class _ALLERGIC():
 	def __init__(self,): 
 		self.name = "ALLERGIC"
+		self.definitions = [u'having an allergy: ', u'caused by an allergy: ', u'having a strong dislike of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

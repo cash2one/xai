@@ -4,11 +4,12 @@
 class _VERTEBRAL():
 	def __init__(self,): 
 		self.name = "VERTEBRAL"
+		self.definitions = [u'relating to the vertebra or spine: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

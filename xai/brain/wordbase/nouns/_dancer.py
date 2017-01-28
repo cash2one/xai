@@ -4,11 +4,12 @@
 class _DANCER():
 	def __init__(self,): 
 		self.name = "DANCER"
+		self.definitions = [u'someone who dances either as a job or for pleasure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

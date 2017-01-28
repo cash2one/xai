@@ -4,11 +4,12 @@
 class _EXCLUSIVELY():
 	def __init__(self,): 
 		self.name = "EXCLUSIVELY"
+		self.definitions = [u'only: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _VOCAL():
 	def __init__(self,): 
 		self.name = "VOCAL"
+		self.definitions = [u'relating to or produced by the voice, either in singing or speaking: ', u'often expressing opinions and complaints in speech: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INSECTIVORE():
 	def __init__(self,): 
 		self.name = "INSECTIVORE"
+		self.definitions = [u'an animal that eats only insects']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

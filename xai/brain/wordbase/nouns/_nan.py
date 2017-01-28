@@ -4,11 +4,12 @@
 class _NAN():
 	def __init__(self,): 
 		self.name = "NAN"
+		self.definitions = [u"child's word for a grandmother: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

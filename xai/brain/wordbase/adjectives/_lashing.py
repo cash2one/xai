@@ -4,11 +4,12 @@
 class _LASHING():
 	def __init__(self,): 
 		self.name = "LASHING"
+		self.definitions = [u'falling with great force: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

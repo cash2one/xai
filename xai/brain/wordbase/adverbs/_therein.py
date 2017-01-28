@@ -4,11 +4,12 @@
 class _THEREIN():
 	def __init__(self,): 
 		self.name = "THEREIN"
+		self.definitions = [u'in or into a particular place, thing, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

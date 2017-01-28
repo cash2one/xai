@@ -4,11 +4,12 @@
 class _PARSI():
 	def __init__(self,): 
 		self.name = "PARSI"
+		self.definitions = [u'a member of a religious group found mainly in western India, whose religion, zoroastrianism, started in Persia (ancient Iran)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

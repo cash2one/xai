@@ -4,11 +4,12 @@
 class _EROGENOUS():
 	def __init__(self,): 
 		self.name = "EROGENOUS"
+		self.definitions = [u'of areas of the body, able to feel sexual pleasure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

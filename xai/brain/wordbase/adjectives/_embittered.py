@@ -4,11 +4,12 @@
 class _EMBITTERED():
 	def __init__(self,): 
 		self.name = "EMBITTERED"
+		self.definitions = [u'very angry about unfair things that have happened to you: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

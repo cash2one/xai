@@ -4,11 +4,12 @@
 class _EMBLEMATIC():
 	def __init__(self,): 
 		self.name = "EMBLEMATIC"
+		self.definitions = [u'representing a particular person, group, or idea: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

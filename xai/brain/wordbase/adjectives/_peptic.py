@@ -4,11 +4,12 @@
 class _PEPTIC():
 	def __init__(self,): 
 		self.name = "PEPTIC"
+		self.definitions = [u'relating to pepsin (= an enzyme in the stomach that is involved in breaking down proteins): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

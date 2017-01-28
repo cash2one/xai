@@ -4,11 +4,12 @@
 class _SATANIC():
 	def __init__(self,): 
 		self.name = "SATANIC"
+		self.definitions = [u'connected with worshipping Satan: ', u'very evil: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

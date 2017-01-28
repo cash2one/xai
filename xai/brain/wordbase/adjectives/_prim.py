@@ -4,11 +4,12 @@
 class _PRIM():
 	def __init__(self,): 
 		self.name = "PRIM"
+		self.definitions = [u'very formal and correct in behaviour and easily shocked by anything rude: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

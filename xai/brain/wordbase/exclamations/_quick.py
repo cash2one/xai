@@ -4,11 +4,12 @@
 class _QUICK():
 	def __init__(self,): 
 		self.name = "QUICK"
+		self.definitions = [u'used for telling someone to do something quickly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

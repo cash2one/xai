@@ -4,11 +4,12 @@
 class _RIVULET():
 	def __init__(self,): 
 		self.name = "RIVULET"
+		self.definitions = [u'a very small stream: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

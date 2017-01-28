@@ -4,11 +4,12 @@
 class _FEATURELESS():
 	def __init__(self,): 
 		self.name = "FEATURELESS"
+		self.definitions = [u'looking the same in every part, usually in a way that most people consider to be boring: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

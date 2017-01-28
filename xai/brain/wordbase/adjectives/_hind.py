@@ -4,11 +4,12 @@
 class _HIND():
 	def __init__(self,): 
 		self.name = "HIND"
+		self.definitions = [u"at the back of an animal's body: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

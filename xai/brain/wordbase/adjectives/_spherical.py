@@ -4,11 +4,12 @@
 class _SPHERICAL():
 	def __init__(self,): 
 		self.name = "SPHERICAL"
+		self.definitions = [u'round, like a ball: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

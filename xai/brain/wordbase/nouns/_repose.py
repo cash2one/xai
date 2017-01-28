@@ -4,11 +4,12 @@
 class _REPOSE():
 	def __init__(self,): 
 		self.name = "REPOSE"
+		self.definitions = [u'the state of resting or lying down: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

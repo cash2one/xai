@@ -4,11 +4,12 @@
 class _COOKED():
 	def __init__(self,): 
 		self.name = "COOKED"
+		self.definitions = [u'Cooked food has been prepared by heating: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _REMOVABLE():
 	def __init__(self,): 
 		self.name = "REMOVABLE"
+		self.definitions = [u'able to be removed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

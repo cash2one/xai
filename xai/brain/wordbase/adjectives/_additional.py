@@ -4,11 +4,12 @@
 class _ADDITIONAL():
 	def __init__(self,): 
 		self.name = "ADDITIONAL"
+		self.definitions = [u'extra: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

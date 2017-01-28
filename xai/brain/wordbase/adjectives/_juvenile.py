@@ -4,11 +4,12 @@
 class _JUVENILE():
 	def __init__(self,): 
 		self.name = "JUVENILE"
+		self.definitions = [u'relating to a young person who is not yet old enough to be considered an adult: ', u'silly and typical of a child: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

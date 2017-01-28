@@ -4,11 +4,12 @@
 class _DEB():
 	def __init__(self,): 
 		self.name = "DEB"
+		self.definitions = [u'informal for  debutante ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

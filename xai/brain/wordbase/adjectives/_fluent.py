@@ -4,11 +4,12 @@
 class _FLUENT():
 	def __init__(self,): 
 		self.name = "FLUENT"
+		self.definitions = [u'When a person is fluent, they can speak a language easily, well, and quickly: ', u'When a language is fluent, it is spoken easily and without many pauses: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

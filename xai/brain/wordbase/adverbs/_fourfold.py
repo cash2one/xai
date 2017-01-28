@@ -4,11 +4,12 @@
 class _FOURFOLD():
 	def __init__(self,): 
 		self.name = "FOURFOLD"
+		self.definitions = [u'by four times: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

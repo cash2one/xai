@@ -4,11 +4,12 @@
 class _STOLID():
 	def __init__(self,): 
 		self.name = "STOLID"
+		self.definitions = [u'(of a person) calm and not showing emotion or excitement, or (of a thing) not interesting or attractive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

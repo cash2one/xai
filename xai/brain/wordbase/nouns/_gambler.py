@@ -4,11 +4,12 @@
 class _GAMBLER():
 	def __init__(self,): 
 		self.name = "GAMBLER"
+		self.definitions = [u'someone who often gambles, for example in a game or on a horse race: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

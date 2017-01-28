@@ -4,11 +4,12 @@
 class _CLINK():
 	def __init__(self,): 
 		self.name = "CLINK"
+		self.definitions = [u'a short ringing sound like pieces of glass or metal knocking lightly together: ', u'prison: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

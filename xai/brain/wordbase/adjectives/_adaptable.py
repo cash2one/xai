@@ -4,11 +4,12 @@
 class _ADAPTABLE():
 	def __init__(self,): 
 		self.name = "ADAPTABLE"
+		self.definitions = [u'able or willing to change in order to suit different conditions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

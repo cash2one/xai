@@ -4,11 +4,12 @@
 class _LIKELIHOOD():
 	def __init__(self,): 
 		self.name = "LIKELIHOOD"
+		self.definitions = [u'the chance that something will happen: ', u'almost certainly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _GARMENT():
 	def __init__(self,): 
 		self.name = "GARMENT"
+		self.definitions = [u'a piece of clothing']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _STARLIGHT():
 	def __init__(self,): 
 		self.name = "STARLIGHT"
+		self.definitions = [u'the light produced by stars']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

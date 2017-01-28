@@ -4,11 +4,12 @@
 class _DUD():
 	def __init__(self,): 
 		self.name = "DUD"
+		self.definitions = [u'not working or not having any value: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DRACONIAN():
 	def __init__(self,): 
 		self.name = "DRACONIAN"
+		self.definitions = [u'Draconian laws, government actions, etc. are extremely severe, or go further than what is right or necessary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

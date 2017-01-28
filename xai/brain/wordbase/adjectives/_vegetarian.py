@@ -4,11 +4,12 @@
 class _VEGETARIAN():
 	def __init__(self,): 
 		self.name = "VEGETARIAN"
+		self.definitions = [u'not eating or including meat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

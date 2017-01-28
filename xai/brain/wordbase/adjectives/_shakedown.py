@@ -4,11 +4,12 @@
 class _SHAKEDOWN():
 	def __init__(self,): 
 		self.name = "SHAKEDOWN"
+		self.definitions = [u'becoming organized after a period of change: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

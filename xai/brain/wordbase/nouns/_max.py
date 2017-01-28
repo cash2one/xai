@@ -4,11 +4,12 @@
 class _MAX():
 	def __init__(self,): 
 		self.name = "MAX"
+		self.definitions = [u'as much as possible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

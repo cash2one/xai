@@ -4,11 +4,12 @@
 class _RUSTLER():
 	def __init__(self,): 
 		self.name = "RUSTLER"
+		self.definitions = [u'a person who steals farm animals: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

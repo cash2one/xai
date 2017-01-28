@@ -4,11 +4,12 @@
 class _REFLEXIVELY():
 	def __init__(self,): 
 		self.name = "REFLEXIVELY"
+		self.definitions = [u'in a way that is caused by an uncontrolled physical reaction: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

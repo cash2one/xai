@@ -4,11 +4,12 @@
 class _CURVATURE():
 	def __init__(self,): 
 		self.name = "CURVATURE"
+		self.definitions = [u'the state of being curved or bent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

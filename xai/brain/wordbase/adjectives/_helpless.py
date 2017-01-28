@@ -4,11 +4,12 @@
 class _HELPLESS():
 	def __init__(self,): 
 		self.name = "HELPLESS"
+		self.definitions = [u'unable to do anything to help yourself or anyone else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

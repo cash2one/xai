@@ -4,11 +4,12 @@
 class _THREEFOLD():
 	def __init__(self,): 
 		self.name = "THREEFOLD"
+		self.definitions = [u'three times as big or as much: ', u'having three parts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

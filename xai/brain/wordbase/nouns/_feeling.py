@@ -4,11 +4,12 @@
 class _FEELING():
 	def __init__(self,): 
 		self.name = "FEELING"
+		self.definitions = [u'the fact of feeling something physical: ', u'emotion: ', u'emotions, especially those influenced by other people: ', u'opinion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

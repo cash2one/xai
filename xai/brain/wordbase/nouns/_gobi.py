@@ -4,11 +4,12 @@
 class _GOBI():
 	def __init__(self,): 
 		self.name = "GOBI"
+		self.definitions = [u'cauliflower or cabbage']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

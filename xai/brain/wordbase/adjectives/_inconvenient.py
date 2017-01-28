@@ -4,11 +4,12 @@
 class _INCONVENIENT():
 	def __init__(self,): 
 		self.name = "INCONVENIENT"
+		self.definitions = [u'causing problems or difficulties: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

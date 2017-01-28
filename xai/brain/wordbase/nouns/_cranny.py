@@ -4,11 +4,12 @@
 class _CRANNY():
 	def __init__(self,): 
 		self.name = "CRANNY"
+		self.definitions = [u'a small, narrow opening in something solid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _RAMBUNCTIOUS():
 	def __init__(self,): 
 		self.name = "RAMBUNCTIOUS"
+		self.definitions = [u'full of energy and difficult to control: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

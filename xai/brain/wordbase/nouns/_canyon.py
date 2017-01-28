@@ -4,11 +4,12 @@
 class _CANYON():
 	def __init__(self,): 
 		self.name = "CANYON"
+		self.definitions = [u'a large valley with very steep sides and usually a river flowing along the bottom']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

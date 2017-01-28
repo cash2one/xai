@@ -4,11 +4,12 @@
 class _PADDED():
 	def __init__(self,): 
 		self.name = "PADDED"
+		self.definitions = [u'containing a layer of soft material used for protection or to give shape: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

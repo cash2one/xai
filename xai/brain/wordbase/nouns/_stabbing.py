@@ -4,11 +4,12 @@
 class _STABBING():
 	def __init__(self,): 
 		self.name = "STABBING"
+		self.definitions = [u'an occasion when someone stabs someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

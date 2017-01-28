@@ -4,11 +4,12 @@
 class _WHIT():
 	def __init__(self,): 
 		self.name = "WHIT"
+		self.definitions = [u'not any amount: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

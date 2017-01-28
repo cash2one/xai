@@ -4,11 +4,12 @@
 class _TRENDY():
 	def __init__(self,): 
 		self.name = "TRENDY"
+		self.definitions = [u'modern and influenced by the most recent fashions or ideas: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

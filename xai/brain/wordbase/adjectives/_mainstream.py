@@ -4,11 +4,12 @@
 class _MAINSTREAM():
 	def __init__(self,): 
 		self.name = "MAINSTREAM"
+		self.definitions = [u'considered normal, and having or using ideas, beliefs, etc. that are accepted by most people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNDERFOOT():
 	def __init__(self,): 
 		self.name = "UNDERFOOT"
+		self.definitions = [u'under your feet as you walk; on the ground: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

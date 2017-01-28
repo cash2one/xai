@@ -4,11 +4,12 @@
 class _INTRANSIGENT():
 	def __init__(self,): 
 		self.name = "INTRANSIGENT"
+		self.definitions = [u'refusing to change your opinions or behaviour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

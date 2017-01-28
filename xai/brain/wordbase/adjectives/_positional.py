@@ -4,11 +4,12 @@
 class _POSITIONAL():
 	def __init__(self,): 
 		self.name = "POSITIONAL"
+		self.definitions = [u'relating to position, especially in sports: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

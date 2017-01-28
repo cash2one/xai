@@ -4,11 +4,12 @@
 class _MONOLITHIC():
 	def __init__(self,): 
 		self.name = "MONOLITHIC"
+		self.definitions = [u'too large, too regular, or without interesting differences, and unwilling or unable to be changed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

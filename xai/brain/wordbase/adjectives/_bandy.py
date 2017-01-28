@@ -4,11 +4,12 @@
 class _BANDY():
 	def __init__(self,): 
 		self.name = "BANDY"
+		self.definitions = [u'(of legs) bending out at the knees: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

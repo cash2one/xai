@@ -4,11 +4,12 @@
 class _PEPPERONI():
 	def __init__(self,): 
 		self.name = "PEPPERONI"
+		self.definitions = [u'a spicy pork or beef sausage, used especially on pizza: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

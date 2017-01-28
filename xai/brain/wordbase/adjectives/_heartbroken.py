@@ -4,11 +4,12 @@
 class _HEARTBROKEN():
 	def __init__(self,): 
 		self.name = "HEARTBROKEN"
+		self.definitions = [u'extremely sad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

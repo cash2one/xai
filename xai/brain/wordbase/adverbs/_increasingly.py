@@ -4,11 +4,12 @@
 class _INCREASINGLY():
 	def __init__(self,): 
 		self.name = "INCREASINGLY"
+		self.definitions = [u'more and more: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

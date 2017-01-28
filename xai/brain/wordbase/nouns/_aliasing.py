@@ -4,11 +4,12 @@
 class _ALIASING():
 	def __init__(self,): 
 		self.name = "ALIASING"
+		self.definitions = [u'the use of aliases (= different names) to find computer files, commands, addresses, etc.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _MILITARY():
 	def __init__(self,): 
 		self.name = "MILITARY"
+		self.definitions = [u'the armed forces: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

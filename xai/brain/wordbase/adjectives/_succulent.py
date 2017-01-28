@@ -4,11 +4,12 @@
 class _SUCCULENT():
 	def __init__(self,): 
 		self.name = "SUCCULENT"
+		self.definitions = [u'Succulent food is pleasantly juicy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

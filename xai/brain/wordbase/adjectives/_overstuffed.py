@@ -4,11 +4,12 @@
 class _OVERSTUFFED():
 	def __init__(self,): 
 		self.name = "OVERSTUFFED"
+		self.definitions = [u'filled with too much material or too many things: ', u'used to describe films, books, etc. that contain too many different things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

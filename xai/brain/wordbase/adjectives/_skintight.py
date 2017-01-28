@@ -4,11 +4,12 @@
 class _SKINTIGHT():
 	def __init__(self,): 
 		self.name = "SKINTIGHT"
+		self.definitions = [u'Skintight clothes fit tightly around the body: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HUSTLE():
 	def __init__(self,): 
 		self.name = "HUSTLE"
+		self.definitions = [u'energetic action: ', u'noise and activity: ', u'a dishonest way of making money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

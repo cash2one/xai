@@ -4,11 +4,12 @@
 class _EXISTENT():
 	def __init__(self,): 
 		self.name = "EXISTENT"
+		self.definitions = [u'existing now: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

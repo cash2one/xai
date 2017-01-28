@@ -4,11 +4,12 @@
 class _AUTO():
 	def __init__(self,): 
 		self.name = "AUTO"
+		self.definitions = [u'relating to cars: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

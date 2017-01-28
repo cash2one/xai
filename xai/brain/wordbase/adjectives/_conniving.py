@@ -4,11 +4,12 @@
 class _CONNIVING():
 	def __init__(self,): 
 		self.name = "CONNIVING"
+		self.definitions = [u'A conniving person deceives others for their own advantage: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SNAFU():
 	def __init__(self,): 
 		self.name = "SNAFU"
+		self.definitions = [u'a situation in which nothing has happened as planned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

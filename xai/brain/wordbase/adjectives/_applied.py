@@ -4,11 +4,12 @@
 class _APPLIED():
 	def __init__(self,): 
 		self.name = "APPLIED"
+		self.definitions = [u'relating to a subject of study, especially a science, that has a practical use: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

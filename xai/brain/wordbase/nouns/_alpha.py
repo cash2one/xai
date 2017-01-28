@@ -4,11 +4,12 @@
 class _ALPHA():
 	def __init__(self,): 
 		self.name = "ALPHA"
+		self.definitions = [u'the first letter of the Greek alphabet']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

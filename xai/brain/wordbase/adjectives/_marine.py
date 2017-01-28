@@ -4,11 +4,12 @@
 class _MARINE():
 	def __init__(self,): 
 		self.name = "MARINE"
+		self.definitions = [u'related to the sea or sea transport: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

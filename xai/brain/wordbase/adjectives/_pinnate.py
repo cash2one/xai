@@ -4,11 +4,12 @@
 class _PINNATE():
 	def __init__(self,): 
 		self.name = "PINNATE"
+		self.definitions = [u'A pinnate leaf is a type of compound leaf that has a central stem with small leaves arranged on either side of it.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

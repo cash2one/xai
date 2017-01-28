@@ -4,11 +4,12 @@
 class _UNCONTROLLABLE():
 	def __init__(self,): 
 		self.name = "UNCONTROLLABLE"
+		self.definitions = [u'too strong or violent to be controlled: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

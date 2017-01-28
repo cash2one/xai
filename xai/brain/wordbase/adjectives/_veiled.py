@@ -4,11 +4,12 @@
 class _VEILED():
 	def __init__(self,): 
 		self.name = "VEILED"
+		self.definitions = [u'Veiled words or ways of behaving are not direct or expressed clearly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

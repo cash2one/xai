@@ -4,11 +4,12 @@
 class _PICKUP():
 	def __init__(self,): 
 		self.name = "PICKUP"
+		self.definitions = [u'A pickup game is one that has not been officially organized: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

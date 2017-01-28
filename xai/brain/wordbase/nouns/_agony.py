@@ -4,11 +4,12 @@
 class _AGONY():
 	def __init__(self,): 
 		self.name = "AGONY"
+		self.definitions = [u'extreme physical or mental pain or suffering: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

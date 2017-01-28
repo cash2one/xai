@@ -4,11 +4,12 @@
 class _TANG():
 	def __init__(self,): 
 		self.name = "TANG"
+		self.definitions = [u'a strong, sharp taste or smell: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

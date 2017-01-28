@@ -4,11 +4,12 @@
 class _EGALITARIAN():
 	def __init__(self,): 
 		self.name = "EGALITARIAN"
+		self.definitions = [u'believing that all people are equally important and should have the same rights and opportunities in life: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

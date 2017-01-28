@@ -4,11 +4,12 @@
 class _VOCATIONAL():
 	def __init__(self,): 
 		self.name = "VOCATIONAL"
+		self.definitions = [u'providing skills and education that prepare you for a job: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

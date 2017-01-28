@@ -4,11 +4,12 @@
 class _PROTUBERANT():
 	def __init__(self,): 
 		self.name = "PROTUBERANT"
+		self.definitions = [u'sticking out: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

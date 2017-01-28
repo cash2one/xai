@@ -4,11 +4,12 @@
 class _HUSSY():
 	def __init__(self,): 
 		self.name = "HUSSY"
+		self.definitions = [u'a woman or girl who is sexually immoral: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

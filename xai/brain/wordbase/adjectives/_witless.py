@@ -4,11 +4,12 @@
 class _WITLESS():
 	def __init__(self,): 
 		self.name = "WITLESS"
+		self.definitions = [u'stupid or showing no intelligence: ', u'to frighten someone very much: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

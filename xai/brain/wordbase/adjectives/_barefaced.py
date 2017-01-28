@@ -4,11 +4,12 @@
 class _BAREFACED():
 	def __init__(self,): 
 		self.name = "BAREFACED"
+		self.definitions = [u'not trying to hide your bad behaviour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNLAWFUL():
 	def __init__(self,): 
 		self.name = "UNLAWFUL"
+		self.definitions = [u'not allowed by law: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

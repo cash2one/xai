@@ -4,11 +4,12 @@
 class _OVERSEXED():
 	def __init__(self,): 
 		self.name = "OVERSEXED"
+		self.definitions = [u'wanting sex more often than is considered normal']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

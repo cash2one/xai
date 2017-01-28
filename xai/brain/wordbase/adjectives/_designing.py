@@ -4,11 +4,12 @@
 class _DESIGNING():
 	def __init__(self,): 
 		self.name = "DESIGNING"
+		self.definitions = [u'used to describe someone who tries to get what they want, usually dishonestly']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

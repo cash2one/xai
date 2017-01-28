@@ -4,11 +4,12 @@
 class _MUDDLE():
 	def __init__(self,): 
 		self.name = "MUDDLE"
+		self.definitions = [u'an untidy or confused state: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

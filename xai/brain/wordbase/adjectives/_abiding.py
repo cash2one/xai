@@ -4,11 +4,12 @@
 class _ABIDING():
 	def __init__(self,): 
 		self.name = "ABIDING"
+		self.definitions = [u'An abiding feeling or memory is one that you have had for a long time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

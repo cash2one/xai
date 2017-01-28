@@ -4,11 +4,12 @@
 class _EXCEPTED():
 	def __init__(self,): 
 		self.name = "EXCEPTED"
+		self.definitions = [u'not included: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

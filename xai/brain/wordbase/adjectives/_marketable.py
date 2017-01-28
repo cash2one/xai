@@ -4,11 +4,12 @@
 class _MARKETABLE():
 	def __init__(self,): 
 		self.name = "MARKETABLE"
+		self.definitions = [u'Marketable products or skills are easy to sell because a lot of people want them: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

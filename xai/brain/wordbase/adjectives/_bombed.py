@@ -4,11 +4,12 @@
 class _BOMBED():
 	def __init__(self,): 
 		self.name = "BOMBED"
+		self.definitions = [u'experiencing the strong effect of alcohol or illegal drugs']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

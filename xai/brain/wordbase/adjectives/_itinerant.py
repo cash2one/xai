@@ -4,11 +4,12 @@
 class _ITINERANT():
 	def __init__(self,): 
 		self.name = "ITINERANT"
+		self.definitions = [u'travelling from one place to another, usually to work for a short period: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

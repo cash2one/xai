@@ -4,11 +4,12 @@
 class _SHEIKHDOM():
 	def __init__(self,): 
 		self.name = "SHEIKHDOM"
+		self.definitions = [u'an area of land or a country ruled by a sheikh']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

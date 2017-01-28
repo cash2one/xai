@@ -4,11 +4,12 @@
 class _ACCUSTOMED():
 	def __init__(self,): 
 		self.name = "ACCUSTOMED"
+		self.definitions = [u'familiar with something: ', u'usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

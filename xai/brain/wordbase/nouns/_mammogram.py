@@ -4,11 +4,12 @@
 class _MAMMOGRAM():
 	def __init__(self,): 
 		self.name = "MAMMOGRAM"
+		self.definitions = [u'an X-ray photograph of the breasts']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

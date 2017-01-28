@@ -4,11 +4,12 @@
 class _PERFUMED():
 	def __init__(self,): 
 		self.name = "PERFUMED"
+		self.definitions = [u'having a pleasant perfume: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

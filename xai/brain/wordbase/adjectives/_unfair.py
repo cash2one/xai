@@ -4,11 +4,12 @@
 class _UNFAIR():
 	def __init__(self,): 
 		self.name = "UNFAIR"
+		self.definitions = [u'not treating people in an equal way, or not morally right: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

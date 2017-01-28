@@ -4,11 +4,12 @@
 class _PASSABLE():
 	def __init__(self,): 
 		self.name = "PASSABLE"
+		self.definitions = [u'possible to travel on: ', u'satisfactory but not excellent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

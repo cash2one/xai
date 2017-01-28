@@ -4,11 +4,12 @@
 class _BELOW():
 	def __init__(self,): 
 		self.name = "BELOW"
+		self.definitions = [u'in a lower position (than), under: ', u'less than a particular amount or level: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _SONNET():
 	def __init__(self,): 
 		self.name = "SONNET"
+		self.definitions = [u'a poem that has 14 lines and a particular pattern of rhyme']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

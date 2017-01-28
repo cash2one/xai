@@ -4,11 +4,12 @@
 class _BLAMELESS():
 	def __init__(self,): 
 		self.name = "BLAMELESS"
+		self.definitions = [u'not responsible for anything bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

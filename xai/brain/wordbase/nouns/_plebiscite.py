@@ -4,11 +4,12 @@
 class _PLEBISCITE():
 	def __init__(self,): 
 		self.name = "PLEBISCITE"
+		self.definitions = [u'a  referendum ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

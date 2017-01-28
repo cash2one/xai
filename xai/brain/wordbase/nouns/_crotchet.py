@@ -4,11 +4,12 @@
 class _CROTCHET():
 	def __init__(self,): 
 		self.name = "CROTCHET"
+		self.definitions = [u'a musical note with a time value equal to two quavers or half a minim']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

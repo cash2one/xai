@@ -4,11 +4,12 @@
 class _ELECTROENCEPHALOGRAPH():
 	def __init__(self,): 
 		self.name = "ELECTROENCEPHALOGRAPH"
+		self.definitions = [u'a machine that records the electrical activity of the brain']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

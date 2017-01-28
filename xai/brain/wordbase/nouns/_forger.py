@@ -4,11 +4,12 @@
 class _FORGER():
 	def __init__(self,): 
 		self.name = "FORGER"
+		self.definitions = [u'someone who makes forged copies: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

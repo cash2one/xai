@@ -4,11 +4,12 @@
 class _TROPICAL():
 	def __init__(self,): 
 		self.name = "TROPICAL"
+		self.definitions = [u'from or relating to the area between the two tropics: ', u'extremely hot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

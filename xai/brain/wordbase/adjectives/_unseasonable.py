@@ -4,11 +4,12 @@
 class _UNSEASONABLE():
 	def __init__(self,): 
 		self.name = "UNSEASONABLE"
+		self.definitions = [u'not usual or expected for the time of year: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

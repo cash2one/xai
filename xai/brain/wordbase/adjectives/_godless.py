@@ -4,11 +4,12 @@
 class _GODLESS():
 	def __init__(self,): 
 		self.name = "GODLESS"
+		self.definitions = [u'not having or believing in God or gods: ', u'bad or evil']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

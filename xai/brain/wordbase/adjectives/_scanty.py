@@ -4,11 +4,12 @@
 class _SCANTY():
 	def __init__(self,): 
 		self.name = "SCANTY"
+		self.definitions = [u'smaller in size or amount than is considered necessary or is hoped for: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

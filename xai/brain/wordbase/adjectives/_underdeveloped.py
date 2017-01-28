@@ -4,11 +4,12 @@
 class _UNDERDEVELOPED():
 	def __init__(self,): 
 		self.name = "UNDERDEVELOPED"
+		self.definitions = [u'(especially of a country) without modern industry or modern services that provide transport, hospitals, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

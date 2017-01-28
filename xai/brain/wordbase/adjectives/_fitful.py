@@ -4,11 +4,12 @@
 class _FITFUL():
 	def __init__(self,): 
 		self.name = "FITFUL"
+		self.definitions = [u'often stopping and starting and not happening in a regular or continuous way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

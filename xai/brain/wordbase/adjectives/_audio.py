@@ -4,11 +4,12 @@
 class _AUDIO():
 	def __init__(self,): 
 		self.name = "AUDIO"
+		self.definitions = [u'connected with sound and the recording and broadcasting of sound: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

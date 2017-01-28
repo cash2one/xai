@@ -4,11 +4,12 @@
 class _SINGULARITY():
 	def __init__(self,): 
 		self.name = "SINGULARITY"
+		self.definitions = [u'the quality of being strange: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

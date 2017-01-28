@@ -4,11 +4,12 @@
 class _COSMONAUT():
 	def __init__(self,): 
 		self.name = "COSMONAUT"
+		self.definitions = [u'an astronaut (= a person who travels into space) from Russia']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

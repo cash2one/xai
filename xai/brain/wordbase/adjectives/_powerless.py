@@ -4,11 +4,12 @@
 class _POWERLESS():
 	def __init__(self,): 
 		self.name = "POWERLESS"
+		self.definitions = [u'having no power: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

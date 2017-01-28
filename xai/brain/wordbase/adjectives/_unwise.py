@@ -4,11 +4,12 @@
 class _UNWISE():
 	def __init__(self,): 
 		self.name = "UNWISE"
+		self.definitions = [u'stupid and likely to cause problems']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

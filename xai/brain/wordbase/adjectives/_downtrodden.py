@@ -4,11 +4,12 @@
 class _DOWNTRODDEN():
 	def __init__(self,): 
 		self.name = "DOWNTRODDEN"
+		self.definitions = [u'treated badly and unfairly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

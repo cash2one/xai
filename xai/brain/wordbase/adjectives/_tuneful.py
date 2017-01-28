@@ -4,11 +4,12 @@
 class _TUNEFUL():
 	def __init__(self,): 
 		self.name = "TUNEFUL"
+		self.definitions = [u'with a pleasant tune: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

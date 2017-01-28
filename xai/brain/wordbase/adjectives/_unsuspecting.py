@@ -4,11 +4,12 @@
 class _UNSUSPECTING():
 	def __init__(self,): 
 		self.name = "UNSUSPECTING"
+		self.definitions = [u'trusting; not realizing there is any danger or harm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

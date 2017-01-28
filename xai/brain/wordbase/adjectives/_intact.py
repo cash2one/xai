@@ -4,11 +4,12 @@
 class _INTACT():
 	def __init__(self,): 
 		self.name = "INTACT"
+		self.definitions = [u'complete and in the original state: ', u'not damaged: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

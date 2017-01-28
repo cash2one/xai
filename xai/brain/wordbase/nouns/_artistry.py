@@ -4,11 +4,12 @@
 class _ARTISTRY():
 	def __init__(self,): 
 		self.name = "ARTISTRY"
+		self.definitions = [u'great skill in creating or performing something, such as in writing, music, sport, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

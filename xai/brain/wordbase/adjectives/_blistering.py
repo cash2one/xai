@@ -4,11 +4,12 @@
 class _BLISTERING():
 	def __init__(self,): 
 		self.name = "BLISTERING"
+		self.definitions = [u'extremely hot: ', u'extremely fast: ', u'extremely angry and unkind: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

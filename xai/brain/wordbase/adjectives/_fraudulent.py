@@ -4,11 +4,12 @@
 class _FRAUDULENT():
 	def __init__(self,): 
 		self.name = "FRAUDULENT"
+		self.definitions = [u'dishonest and illegal: ', u'intended to deceive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

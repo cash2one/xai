@@ -4,11 +4,12 @@
 class _ONSHORE():
 	def __init__(self,): 
 		self.name = "ONSHORE"
+		self.definitions = [u'moving towards land from the sea, or on land rather than at sea: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

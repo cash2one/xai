@@ -4,11 +4,12 @@
 class _SULTANATE():
 	def __init__(self,): 
 		self.name = "SULTANATE"
+		self.definitions = [u'a country ruled by a sultan']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

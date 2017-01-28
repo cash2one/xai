@@ -4,11 +4,12 @@
 class _FACTOTUM():
 	def __init__(self,): 
 		self.name = "FACTOTUM"
+		self.definitions = [u'a person employed to do all types of jobs for someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

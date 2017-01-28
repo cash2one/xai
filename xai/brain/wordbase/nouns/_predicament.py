@@ -4,11 +4,12 @@
 class _PREDICAMENT():
 	def __init__(self,): 
 		self.name = "PREDICAMENT"
+		self.definitions = [u'an unpleasant situation that is difficult to get out of: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

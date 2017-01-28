@@ -4,11 +4,12 @@
 class _GIFTED():
 	def __init__(self,): 
 		self.name = "GIFTED"
+		self.definitions = [u'having special ability in a particular subject or activity: ', u'clever, or having a special ability: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CONSTRUCTOR():
 	def __init__(self,): 
 		self.name = "CONSTRUCTOR"
+		self.definitions = [u'someone who builds something or puts it together from different parts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

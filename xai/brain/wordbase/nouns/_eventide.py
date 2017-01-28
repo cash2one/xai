@@ -4,11 +4,12 @@
 class _EVENTIDE():
 	def __init__(self,): 
 		self.name = "EVENTIDE"
+		self.definitions = [u'evening']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

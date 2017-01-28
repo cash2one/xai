@@ -4,11 +4,12 @@
 class _FLINTY():
 	def __init__(self,): 
 		self.name = "FLINTY"
+		self.definitions = [u'made of or like flint: ', u'severe and determined: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

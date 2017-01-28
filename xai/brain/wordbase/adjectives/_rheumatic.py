@@ -4,11 +4,12 @@
 class _RHEUMATIC():
 	def __init__(self,): 
 		self.name = "RHEUMATIC"
+		self.definitions = [u'relating to inflammation of muscles, joints, heart valves, or other parts of the body: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

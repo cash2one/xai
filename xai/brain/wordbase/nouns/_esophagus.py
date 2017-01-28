@@ -4,11 +4,12 @@
 class _ESOPHAGUS():
 	def __init__(self,): 
 		self.name = "ESOPHAGUS"
+		self.definitions = [u'US spelling of  oesophagus ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

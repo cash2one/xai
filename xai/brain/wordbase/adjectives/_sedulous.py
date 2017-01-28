@@ -4,11 +4,12 @@
 class _SEDULOUS():
 	def __init__(self,): 
 		self.name = "SEDULOUS"
+		self.definitions = [u'careful and using a lot of effort: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HIGHFALUTIN():
 	def __init__(self,): 
 		self.name = "HIGHFALUTIN"
+		self.definitions = [u'trying to seem very important or serious, but without having a good reason for doing so and looking silly as a result']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BELEAGUERED():
 	def __init__(self,): 
 		self.name = "BELEAGUERED"
+		self.definitions = [u'having a lot of problems or difficulties: ', u'surrounded by an army: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

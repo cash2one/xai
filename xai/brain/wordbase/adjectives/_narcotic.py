@@ -4,11 +4,12 @@
 class _NARCOTIC():
 	def __init__(self,): 
 		self.name = "NARCOTIC"
+		self.definitions = [u'relating to drugs that make you want to sleep and prevent pain: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

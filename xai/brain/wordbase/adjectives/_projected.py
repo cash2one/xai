@@ -4,11 +4,12 @@
 class _PROJECTED():
 	def __init__(self,): 
 		self.name = "PROJECTED"
+		self.definitions = [u'planned for the future or calculated based on information already known: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

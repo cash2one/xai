@@ -4,11 +4,12 @@
 class _ADMIRER():
 	def __init__(self,): 
 		self.name = "ADMIRER"
+		self.definitions = [u'someone who finds someone else sexually attractive, or someone who admires someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

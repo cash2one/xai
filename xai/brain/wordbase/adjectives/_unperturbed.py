@@ -4,11 +4,12 @@
 class _UNPERTURBED():
 	def __init__(self,): 
 		self.name = "UNPERTURBED"
+		self.definitions = [u'not worried about something, especially when this is slightly surprising: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BOUND():
 	def __init__(self,): 
 		self.name = "BOUND"
+		self.definitions = [u'a quick, long jump: ', u'legal or social limits: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

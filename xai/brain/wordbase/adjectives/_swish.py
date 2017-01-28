@@ -4,11 +4,12 @@
 class _SWISH():
 	def __init__(self,): 
 		self.name = "SWISH"
+		self.definitions = [u'fashionable or expensive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

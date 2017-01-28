@@ -4,11 +4,12 @@
 class _UNSAID():
 	def __init__(self,): 
 		self.name = "UNSAID"
+		self.definitions = [u'not said, although thought of or felt: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

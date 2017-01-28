@@ -4,11 +4,12 @@
 class _UNINTENDED():
 	def __init__(self,): 
 		self.name = "UNINTENDED"
+		self.definitions = [u'not intended: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

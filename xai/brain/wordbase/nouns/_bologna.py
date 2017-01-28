@@ -4,11 +4,12 @@
 class _BOLOGNA():
 	def __init__(self,): 
 		self.name = "BOLOGNA"
+		self.definitions = [u'a cooked smoked sausage that is sliced and eaten cold']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _CONCERT():
 	def __init__(self,): 
 		self.name = "CONCERT"
+		self.definitions = [u'a performance of music by one or more musicians or singers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

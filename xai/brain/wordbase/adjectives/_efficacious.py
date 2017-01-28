@@ -4,11 +4,12 @@
 class _EFFICACIOUS():
 	def __init__(self,): 
 		self.name = "EFFICACIOUS"
+		self.definitions = [u'able to produce the intended result']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

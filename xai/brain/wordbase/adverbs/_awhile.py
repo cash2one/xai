@@ -4,11 +4,12 @@
 class _AWHILE():
 	def __init__(self,): 
 		self.name = "AWHILE"
+		self.definitions = [u'for a short time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

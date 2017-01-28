@@ -4,11 +4,12 @@
 class _TOTALLY():
 	def __init__(self,): 
 		self.name = "TOTALLY"
+		self.definitions = [u'completely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

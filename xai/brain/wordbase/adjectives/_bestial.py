@@ -4,11 +4,12 @@
 class _BESTIAL():
 	def __init__(self,): 
 		self.name = "BESTIAL"
+		self.definitions = [u'cruel or like an animal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

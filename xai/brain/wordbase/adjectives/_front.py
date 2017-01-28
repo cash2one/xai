@@ -4,11 +4,12 @@
 class _FRONT():
 	def __init__(self,): 
 		self.name = "FRONT"
+		self.definitions = [u'in or at the front of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

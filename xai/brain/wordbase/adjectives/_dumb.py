@@ -4,11 +4,12 @@
 class _DUMB():
 	def __init__(self,): 
 		self.name = "DUMB"
+		self.definitions = [u'permanently or temporarily unable to speak: ', u'stupid : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

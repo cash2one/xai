@@ -4,11 +4,12 @@
 class _IMMATERIAL():
 	def __init__(self,): 
 		self.name = "IMMATERIAL"
+		self.definitions = [u'not important, or not relating to the subject you are thinking about: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

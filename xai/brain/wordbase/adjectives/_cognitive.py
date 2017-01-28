@@ -4,11 +4,12 @@
 class _COGNITIVE():
 	def __init__(self,): 
 		self.name = "COGNITIVE"
+		self.definitions = [u'connected with thinking or conscious mental processes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

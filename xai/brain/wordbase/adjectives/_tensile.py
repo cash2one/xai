@@ -4,11 +4,12 @@
 class _TENSILE():
 	def __init__(self,): 
 		self.name = "TENSILE"
+		self.definitions = [u'If a material is tensile, it can be stretched.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

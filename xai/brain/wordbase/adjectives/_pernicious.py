@@ -4,11 +4,12 @@
 class _PERNICIOUS():
 	def __init__(self,): 
 		self.name = "PERNICIOUS"
+		self.definitions = [u'having a very harmful effect or influence: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FORGIVABLE():
 	def __init__(self,): 
 		self.name = "FORGIVABLE"
+		self.definitions = [u'used to say that you can forgive something because you understand it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

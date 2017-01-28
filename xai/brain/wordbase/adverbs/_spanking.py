@@ -4,11 +4,12 @@
 class _SPANKING():
 	def __init__(self,): 
 		self.name = "SPANKING"
+		self.definitions = [u'(used with some adjectives) very, completely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

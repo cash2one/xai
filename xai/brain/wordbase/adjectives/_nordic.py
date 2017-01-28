@@ -4,11 +4,12 @@
 class _NORDIC():
 	def __init__(self,): 
 		self.name = "NORDIC"
+		self.definitions = [u'belonging to or relating to Scandinavia, Finland, or Iceland: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

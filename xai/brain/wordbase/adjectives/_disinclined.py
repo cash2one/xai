@@ -4,11 +4,12 @@
 class _DISINCLINED():
 	def __init__(self,): 
 		self.name = "DISINCLINED"
+		self.definitions = [u'to not want to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

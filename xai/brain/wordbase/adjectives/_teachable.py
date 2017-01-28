@@ -4,11 +4,12 @@
 class _TEACHABLE():
 	def __init__(self,): 
 		self.name = "TEACHABLE"
+		self.definitions = [u'able to be taught; that can be taught: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

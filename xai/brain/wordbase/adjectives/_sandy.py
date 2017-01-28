@@ -4,11 +4,12 @@
 class _SANDY():
 	def __init__(self,): 
 		self.name = "SANDY"
+		self.definitions = [u'covered with sand or containing sand: ', u'Sandy hair is a pale brownish-orange colour.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

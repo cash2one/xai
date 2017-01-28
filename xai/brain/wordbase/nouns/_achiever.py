@@ -4,11 +4,12 @@
 class _ACHIEVER():
 	def __init__(self,): 
 		self.name = "ACHIEVER"
+		self.definitions = [u'a person who achieves more/less than the average: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

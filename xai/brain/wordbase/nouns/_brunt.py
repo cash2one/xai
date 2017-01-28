@@ -4,11 +4,12 @@
 class _BRUNT():
 	def __init__(self,): 
 		self.name = "BRUNT"
+		self.definitions = [u'the main force of something unpleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

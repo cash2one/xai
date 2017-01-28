@@ -4,11 +4,12 @@
 class _UNFORGETTABLE():
 	def __init__(self,): 
 		self.name = "UNFORGETTABLE"
+		self.definitions = [u'An unforgettable experience has such a strong effect or influence on you that you cannot forget it.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

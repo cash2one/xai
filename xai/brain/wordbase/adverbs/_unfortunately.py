@@ -4,11 +4,12 @@
 class _UNFORTUNATELY():
 	def __init__(self,): 
 		self.name = "UNFORTUNATELY"
+		self.definitions = [u'used to say that something is sad, disappointing, or has a bad effect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

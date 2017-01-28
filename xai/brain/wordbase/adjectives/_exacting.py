@@ -4,11 +4,12 @@
 class _EXACTING():
 	def __init__(self,): 
 		self.name = "EXACTING"
+		self.definitions = [u'demanding a lot of effort, care, or attention: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

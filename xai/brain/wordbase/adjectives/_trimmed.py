@@ -4,11 +4,12 @@
 class _TRIMMED():
 	def __init__(self,): 
 		self.name = "TRIMMED"
+		self.definitions = [u'If clothes and other things made of cloth are trimmed, they are decorated, especially around the edges: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

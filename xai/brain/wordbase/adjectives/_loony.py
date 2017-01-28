@@ -4,11 +4,12 @@
 class _LOONY():
 	def __init__(self,): 
 		self.name = "LOONY"
+		self.definitions = [u'silly or stupid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

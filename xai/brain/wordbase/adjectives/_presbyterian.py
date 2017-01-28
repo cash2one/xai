@@ -4,11 +4,12 @@
 class _PRESBYTERIAN():
 	def __init__(self,): 
 		self.name = "PRESBYTERIAN"
+		self.definitions = [u'relating or belonging to a Christian group that has members especially in Scotland and the US']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

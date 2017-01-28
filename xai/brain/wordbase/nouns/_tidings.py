@@ -4,11 +4,12 @@
 class _TIDINGS():
 	def __init__(self,): 
 		self.name = "TIDINGS"
+		self.definitions = [u'news: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

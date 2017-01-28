@@ -4,11 +4,12 @@
 class _PEACETIME():
 	def __init__(self,): 
 		self.name = "PEACETIME"
+		self.definitions = [u'a period of time when a country is not at war']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

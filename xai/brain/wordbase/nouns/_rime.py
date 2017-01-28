@@ -4,11 +4,12 @@
 class _RIME():
 	def __init__(self,): 
 		self.name = "RIME"
+		self.definitions = [u'\u2192\xa0 rhyme noun ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

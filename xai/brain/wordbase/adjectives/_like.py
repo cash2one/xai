@@ -4,11 +4,12 @@
 class _LIKE():
 	def __init__(self,): 
 		self.name = "LIKE"
+		self.definitions = [u'to be likely to do something']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MIMETIC():
 	def __init__(self,): 
 		self.name = "MIMETIC"
+		self.definitions = [u'copying or appearing the same as something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

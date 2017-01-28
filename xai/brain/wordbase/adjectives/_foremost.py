@@ -4,11 +4,12 @@
 class _FOREMOST():
 	def __init__(self,): 
 		self.name = "FOREMOST"
+		self.definitions = [u'most important or best; leading: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

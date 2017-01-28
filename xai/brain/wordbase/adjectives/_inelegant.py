@@ -4,11 +4,12 @@
 class _INELEGANT():
 	def __init__(self,): 
 		self.name = "INELEGANT"
+		self.definitions = [u'not attractive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

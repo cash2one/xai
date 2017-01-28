@@ -4,11 +4,12 @@
 class _INDECENT():
 	def __init__(self,): 
 		self.name = "INDECENT"
+		self.definitions = [u'morally offensive, especially in a sexual way: ', u'not suitable or correct for a situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

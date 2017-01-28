@@ -4,11 +4,12 @@
 class _APPALLING():
 	def __init__(self,): 
 		self.name = "APPALLING"
+		self.definitions = [u'very bad: ', u'shocking and very bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

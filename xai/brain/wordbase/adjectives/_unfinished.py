@@ -4,11 +4,12 @@
 class _UNFINISHED():
 	def __init__(self,): 
 		self.name = "UNFINISHED"
+		self.definitions = [u'not ended or completed', u'a matter, especially a disagreement, that is not yet decided or agreed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

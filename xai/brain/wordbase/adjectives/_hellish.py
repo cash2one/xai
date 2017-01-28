@@ -4,11 +4,12 @@
 class _HELLISH():
 	def __init__(self,): 
 		self.name = "HELLISH"
+		self.definitions = [u'very bad or unpleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

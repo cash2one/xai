@@ -4,11 +4,12 @@
 class _DRAKE():
 	def __init__(self,): 
 		self.name = "DRAKE"
+		self.definitions = [u'a male duck (= water bird)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

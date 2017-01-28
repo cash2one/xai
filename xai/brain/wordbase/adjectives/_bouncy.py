@@ -4,11 +4,12 @@
 class _BOUNCY():
 	def __init__(self,): 
 		self.name = "BOUNCY"
+		self.definitions = [u'able to bounce: ', u'happy and energetic: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

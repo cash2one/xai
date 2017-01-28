@@ -4,11 +4,12 @@
 class _INDIGENOUS():
 	def __init__(self,): 
 		self.name = "INDIGENOUS"
+		self.definitions = [u'naturally existing in a place or country rather than arriving from another place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BUTTOCK():
 	def __init__(self,): 
 		self.name = "BUTTOCK"
+		self.definitions = [u"either side of a person's bottom"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

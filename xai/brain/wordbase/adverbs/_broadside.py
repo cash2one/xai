@@ -4,11 +4,12 @@
 class _BROADSIDE():
 	def __init__(self,): 
 		self.name = "BROADSIDE"
+		self.definitions = [u'with a side facing something : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

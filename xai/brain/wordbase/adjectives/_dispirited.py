@@ -4,11 +4,12 @@
 class _DISPIRITED():
 	def __init__(self,): 
 		self.name = "DISPIRITED"
+		self.definitions = [u'not feeling much hope about a particular situation or problem: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FIREPROOF():
 	def __init__(self,): 
 		self.name = "FIREPROOF"
+		self.definitions = [u'unable to be damaged by fire: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

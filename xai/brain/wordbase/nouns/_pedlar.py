@@ -4,11 +4,12 @@
 class _PEDLAR():
 	def __init__(self,): 
 		self.name = "PEDLAR"
+		self.definitions = [u'a  peddler ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

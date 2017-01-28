@@ -4,11 +4,12 @@
 class _SASSY():
 	def __init__(self,): 
 		self.name = "SASSY"
+		self.definitions = [u'rude and showing no respect: ', u'confident or showing confidence: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

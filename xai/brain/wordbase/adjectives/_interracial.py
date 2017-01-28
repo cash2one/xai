@@ -4,11 +4,12 @@
 class _INTERRACIAL():
 	def __init__(self,): 
 		self.name = "INTERRACIAL"
+		self.definitions = [u'involving different human races: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

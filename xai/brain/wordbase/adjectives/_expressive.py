@@ -4,11 +4,12 @@
 class _EXPRESSIVE():
 	def __init__(self,): 
 		self.name = "EXPRESSIVE"
+		self.definitions = [u'showing what someone thinks or feels: ', u'showing a particular feeling: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

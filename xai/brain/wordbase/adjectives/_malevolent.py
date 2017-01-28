@@ -4,11 +4,12 @@
 class _MALEVOLENT():
 	def __init__(self,): 
 		self.name = "MALEVOLENT"
+		self.definitions = [u'causing or wanting to cause harm or evil: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _GAY():
 	def __init__(self,): 
 		self.name = "GAY"
+		self.definitions = [u'a gay person, especially a man']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

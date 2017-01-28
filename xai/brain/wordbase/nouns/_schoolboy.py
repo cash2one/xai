@@ -4,11 +4,12 @@
 class _SCHOOLBOY():
 	def __init__(self,): 
 		self.name = "SCHOOLBOY"
+		self.definitions = [u'a boy who goes to school']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

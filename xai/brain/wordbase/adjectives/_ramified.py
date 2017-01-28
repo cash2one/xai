@@ -4,11 +4,12 @@
 class _RAMIFIED():
 	def __init__(self,): 
 		self.name = "RAMIFIED"
+		self.definitions = [u'having many different parts or branches: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

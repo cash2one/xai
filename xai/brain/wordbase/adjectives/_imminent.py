@@ -4,11 +4,12 @@
 class _IMMINENT():
 	def __init__(self,): 
 		self.name = "IMMINENT"
+		self.definitions = [u'coming or likely to happen very soon: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ROBUST():
 	def __init__(self,): 
 		self.name = "ROBUST"
+		self.definitions = [u'(of a person or animal) strong and healthy, or (of an object or system) strong and unlikely to break or fail: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

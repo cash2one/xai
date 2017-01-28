@@ -4,11 +4,12 @@
 class _INLAND():
 	def __init__(self,): 
 		self.name = "INLAND"
+		self.definitions = [u'towards the middle of a country, away from the sea: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

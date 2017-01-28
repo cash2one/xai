@@ -4,11 +4,12 @@
 class _SPORADIC():
 	def __init__(self,): 
 		self.name = "SPORADIC"
+		self.definitions = [u'happening sometimes; not regular or continuous: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

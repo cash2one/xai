@@ -4,11 +4,12 @@
 class _IRKSOME():
 	def __init__(self,): 
 		self.name = "IRKSOME"
+		self.definitions = [u'annoying: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

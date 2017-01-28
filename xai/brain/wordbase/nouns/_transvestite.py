@@ -4,11 +4,12 @@
 class _TRANSVESTITE():
 	def __init__(self,): 
 		self.name = "TRANSVESTITE"
+		self.definitions = [u'a  cross-dresser ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

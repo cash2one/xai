@@ -4,11 +4,12 @@
 class _HUMILITY():
 	def __init__(self,): 
 		self.name = "HUMILITY"
+		self.definitions = [u'the quality of not being proud because you are aware of your bad qualities: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

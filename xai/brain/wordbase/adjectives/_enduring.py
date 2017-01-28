@@ -4,11 +4,12 @@
 class _ENDURING():
 	def __init__(self,): 
 		self.name = "ENDURING"
+		self.definitions = [u'existing for a long time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

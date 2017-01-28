@@ -4,11 +4,12 @@
 class _STRIDE():
 	def __init__(self,): 
 		self.name = "STRIDE"
+		self.definitions = [u'an important positive development: ', u'a long step when walking or running: ', u'trousers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

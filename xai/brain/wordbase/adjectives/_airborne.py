@@ -4,11 +4,12 @@
 class _AIRBORNE():
 	def __init__(self,): 
 		self.name = "AIRBORNE"
+		self.definitions = [u'in the air, or carried by air or wind or by an aircraft: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

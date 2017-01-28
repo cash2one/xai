@@ -4,11 +4,12 @@
 class _SUPERFLUOUS():
 	def __init__(self,): 
 		self.name = "SUPERFLUOUS"
+		self.definitions = [u'more than is needed or wanted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

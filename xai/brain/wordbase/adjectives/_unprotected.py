@@ -4,11 +4,12 @@
 class _UNPROTECTED():
 	def __init__(self,): 
 		self.name = "UNPROTECTED"
+		self.definitions = [u'not protected and therefore able to be harmed or damaged: ', u'sexual activity without a condom']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

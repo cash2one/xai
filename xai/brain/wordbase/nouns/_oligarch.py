@@ -4,11 +4,12 @@
 class _OLIGARCH():
 	def __init__(self,): 
 		self.name = "OLIGARCH"
+		self.definitions = [u'one of the people in an oligarchy']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

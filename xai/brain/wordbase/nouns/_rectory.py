@@ -4,11 +4,12 @@
 class _RECTORY():
 	def __init__(self,): 
 		self.name = "RECTORY"
+		self.definitions = [u'the house in which a rector lives']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

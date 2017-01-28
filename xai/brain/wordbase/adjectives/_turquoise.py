@@ -4,11 +4,12 @@
 class _TURQUOISE():
 	def __init__(self,): 
 		self.name = "TURQUOISE"
+		self.definitions = [u'bluish-green in colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

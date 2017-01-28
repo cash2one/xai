@@ -4,11 +4,12 @@
 class _NOVICE():
 	def __init__(self,): 
 		self.name = "NOVICE"
+		self.definitions = [u'a person who is not experienced in a job or situation: ', u'a person who is training to be a monk or a nun']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

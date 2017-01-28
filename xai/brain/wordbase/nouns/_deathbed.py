@@ -4,11 +4,12 @@
 class _DEATHBED():
 	def __init__(self,): 
 		self.name = "DEATHBED"
+		self.definitions = [u'the bed that someone dies in or is dying in: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

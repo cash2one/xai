@@ -4,11 +4,12 @@
 class _PEASANTRY():
 	def __init__(self,): 
 		self.name = "PEASANTRY"
+		self.definitions = [u'especially in the past, all the people who were peasants']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

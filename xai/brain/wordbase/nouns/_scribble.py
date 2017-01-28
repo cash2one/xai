@@ -4,11 +4,12 @@
 class _SCRIBBLE():
 	def __init__(self,): 
 		self.name = "SCRIBBLE"
+		self.definitions = [u'a careless piece of writing or drawing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

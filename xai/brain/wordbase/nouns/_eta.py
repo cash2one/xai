@@ -4,11 +4,12 @@
 class _ETA():
 	def __init__(self,): 
 		self.name = "ETA"
+		self.definitions = [u'the seventh letter of the Greek alphabet']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

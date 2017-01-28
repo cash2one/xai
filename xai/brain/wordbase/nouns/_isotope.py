@@ -4,11 +4,12 @@
 class _ISOTOPE():
 	def __init__(self,): 
 		self.name = "ISOTOPE"
+		self.definitions = [u'a form of an atom that has a different atomic weight from other forms of the same atom but the same chemical structure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

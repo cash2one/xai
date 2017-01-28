@@ -4,11 +4,12 @@
 class _OBVIOUS():
 	def __init__(self,): 
 		self.name = "OBVIOUS"
+		self.definitions = [u'easy to see, recognize, or understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

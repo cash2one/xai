@@ -4,11 +4,12 @@
 class _WOOD():
 	def __init__(self,): 
 		self.name = "WOOD"
+		self.definitions = [u'made of wood: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

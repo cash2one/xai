@@ -4,11 +4,12 @@
 class _CARDINAL():
 	def __init__(self,): 
 		self.name = "CARDINAL"
+		self.definitions = [u'of great importance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

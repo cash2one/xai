@@ -4,11 +4,12 @@
 class _APATHETIC():
 	def __init__(self,): 
 		self.name = "APATHETIC"
+		self.definitions = [u'showing no interest or energy and unwilling to take action, especially over something important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

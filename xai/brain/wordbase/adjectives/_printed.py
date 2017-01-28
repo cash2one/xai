@@ -4,11 +4,12 @@
 class _PRINTED():
 	def __init__(self,): 
 		self.name = "PRINTED"
+		self.definitions = [u'information in the form of books, newspapers, and magazines: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

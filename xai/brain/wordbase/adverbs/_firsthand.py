@@ -4,11 +4,12 @@
 class _FIRSTHAND():
 	def __init__(self,): 
 		self.name = "FIRSTHAND"
+		self.definitions = [u'If you experience something firsthand, you experience it yourself: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

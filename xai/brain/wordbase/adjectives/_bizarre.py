@@ -4,11 +4,12 @@
 class _BIZARRE():
 	def __init__(self,): 
 		self.name = "BIZARRE"
+		self.definitions = [u'very strange and unusual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

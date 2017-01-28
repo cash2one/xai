@@ -4,11 +4,12 @@
 class _DESPONDENT():
 	def __init__(self,): 
 		self.name = "DESPONDENT"
+		self.definitions = [u'unhappy and with no hope or enthusiasm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

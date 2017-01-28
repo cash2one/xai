@@ -4,11 +4,12 @@
 class _DESIRABLE():
 	def __init__(self,): 
 		self.name = "DESIRABLE"
+		self.definitions = [u'worth having and wanted by most people: ', u'sexually attractive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

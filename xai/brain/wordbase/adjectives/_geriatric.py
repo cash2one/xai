@@ -4,11 +4,12 @@
 class _GERIATRIC():
 	def __init__(self,): 
 		self.name = "GERIATRIC"
+		self.definitions = [u'for or relating to old people: ', u'old and weak: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

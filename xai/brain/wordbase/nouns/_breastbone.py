@@ -4,11 +4,12 @@
 class _BREASTBONE():
 	def __init__(self,): 
 		self.name = "BREASTBONE"
+		self.definitions = [u"a long, flat, vertical bone in the centre of a person's or animal's chest"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

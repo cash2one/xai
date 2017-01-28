@@ -4,11 +4,12 @@
 class _YONDER():
 	def __init__(self,): 
 		self.name = "YONDER"
+		self.definitions = [u'in the place or direction shown; over there']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _IMMODEST():
 	def __init__(self,): 
 		self.name = "IMMODEST"
+		self.definitions = [u'having too high an opinion of yourself: ', u'showing too much of the body: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

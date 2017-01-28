@@ -4,11 +4,12 @@
 class _SMUDGED():
 	def __init__(self,): 
 		self.name = "SMUDGED"
+		self.definitions = [u'dirty or not clear: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

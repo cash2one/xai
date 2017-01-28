@@ -4,11 +4,12 @@
 class _WALLABY():
 	def __init__(self,): 
 		self.name = "WALLABY"
+		self.definitions = [u'an animal found in Australia and New Guinea that is a small kangaroo']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

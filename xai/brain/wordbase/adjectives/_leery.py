@@ -4,11 +4,12 @@
 class _LEERY():
 	def __init__(self,): 
 		self.name = "LEERY"
+		self.definitions = [u'not trusting someone or something and usually avoiding him, her, or it if possible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

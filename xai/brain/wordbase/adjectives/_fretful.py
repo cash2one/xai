@@ -4,11 +4,12 @@
 class _FRETFUL():
 	def __init__(self,): 
 		self.name = "FRETFUL"
+		self.definitions = [u'behaving in a way that shows you are unhappy, worried, or uncomfortable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

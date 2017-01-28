@@ -4,11 +4,12 @@
 class _IDENTICAL():
 	def __init__(self,): 
 		self.name = "IDENTICAL"
+		self.definitions = [u'exactly the same, or very similar: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

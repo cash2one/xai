@@ -4,11 +4,12 @@
 class _SLEEPYHEAD():
 	def __init__(self,): 
 		self.name = "SLEEPYHEAD"
+		self.definitions = [u'a person, especially a child, who is tired and looks as if they want to sleep: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

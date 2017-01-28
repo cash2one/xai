@@ -4,11 +4,12 @@
 class _EYESORE():
 	def __init__(self,): 
 		self.name = "EYESORE"
+		self.definitions = [u'an unpleasant or ugly sight in a public place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

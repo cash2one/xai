@@ -4,11 +4,12 @@
 class _SPELLBINDING():
 	def __init__(self,): 
 		self.name = "SPELLBINDING"
+		self.definitions = [u'holding your attention completely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

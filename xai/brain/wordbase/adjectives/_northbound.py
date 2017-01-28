@@ -4,11 +4,12 @@
 class _NORTHBOUND():
 	def __init__(self,): 
 		self.name = "NORTHBOUND"
+		self.definitions = [u'going or leading towards the north: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

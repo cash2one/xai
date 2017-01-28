@@ -4,11 +4,12 @@
 class _LETHARGIC():
 	def __init__(self,): 
 		self.name = "LETHARGIC"
+		self.definitions = [u'having little energy; feeling unwilling and unable to do anything: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

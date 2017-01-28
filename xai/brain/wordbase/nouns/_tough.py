@@ -4,11 +4,12 @@
 class _TOUGH():
 	def __init__(self,): 
 		self.name = "TOUGH"
+		self.definitions = [u'a violent person: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

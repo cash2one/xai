@@ -4,11 +4,12 @@
 class _MINIATURE():
 	def __init__(self,): 
 		self.name = "MINIATURE"
+		self.definitions = [u'used to describe something that is a very small copy of an object: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

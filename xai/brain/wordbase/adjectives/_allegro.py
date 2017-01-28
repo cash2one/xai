@@ -4,11 +4,12 @@
 class _ALLEGRO():
 	def __init__(self,): 
 		self.name = "ALLEGRO"
+		self.definitions = [u'(played) in a fast and energetic way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

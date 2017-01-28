@@ -4,11 +4,12 @@
 class _BULBOUS():
 	def __init__(self,): 
 		self.name = "BULBOUS"
+		self.definitions = [u'If a part of the body is bulbous, it is fat and round: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

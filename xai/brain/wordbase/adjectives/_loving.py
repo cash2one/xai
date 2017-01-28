@@ -4,11 +4,12 @@
 class _LOVING():
 	def __init__(self,): 
 		self.name = "LOVING"
+		self.definitions = [u'showing a lot of love towards someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

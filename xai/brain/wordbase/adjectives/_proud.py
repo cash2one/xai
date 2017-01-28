@@ -4,11 +4,12 @@
 class _PROUD():
 	def __init__(self,): 
 		self.name = "PROUD"
+		self.definitions = [u'sticking out from the surrounding area: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _COOLING():
 	def __init__(self,): 
 		self.name = "COOLING"
+		self.definitions = [u'causing you to feel less warm or hot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

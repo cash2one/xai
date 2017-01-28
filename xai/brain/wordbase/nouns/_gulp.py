@@ -4,11 +4,12 @@
 class _GULP():
 	def __init__(self,): 
 		self.name = "GULP"
+		self.definitions = [u'an act of gulping: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

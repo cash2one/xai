@@ -4,11 +4,12 @@
 class _BUT():
 	def __init__(self,): 
 		self.name = "BUT"
+		self.definitions = [u'except: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

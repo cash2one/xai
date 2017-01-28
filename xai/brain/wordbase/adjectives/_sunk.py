@@ -4,11 +4,12 @@
 class _SUNK():
 	def __init__(self,): 
 		self.name = "SUNK"
+		self.definitions = [u'experiencing serious trouble, or unable to solve a problem: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

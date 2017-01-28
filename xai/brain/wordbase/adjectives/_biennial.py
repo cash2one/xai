@@ -4,11 +4,12 @@
 class _BIENNIAL():
 	def __init__(self,): 
 		self.name = "BIENNIAL"
+		self.definitions = [u'happening once every two years']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

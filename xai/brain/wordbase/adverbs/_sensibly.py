@@ -4,11 +4,12 @@
 class _SENSIBLY():
 	def __init__(self,): 
 		self.name = "SENSIBLY"
+		self.definitions = [u'in a sensible or practical way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

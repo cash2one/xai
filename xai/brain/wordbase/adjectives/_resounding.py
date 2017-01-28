@@ -4,11 +4,12 @@
 class _RESOUNDING():
 	def __init__(self,): 
 		self.name = "RESOUNDING"
+		self.definitions = [u'loud: ', u'very great: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

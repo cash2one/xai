@@ -4,11 +4,12 @@
 class _UNFLATTERING():
 	def __init__(self,): 
 		self.name = "UNFLATTERING"
+		self.definitions = [u'making someone look less attractive or seem worse than usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

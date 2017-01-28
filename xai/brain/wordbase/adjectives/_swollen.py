@@ -4,11 +4,12 @@
 class _SWOLLEN():
 	def __init__(self,): 
 		self.name = "SWOLLEN"
+		self.definitions = [u'larger than usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

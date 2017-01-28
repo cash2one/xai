@@ -4,11 +4,12 @@
 class _UNDERSEA():
 	def __init__(self,): 
 		self.name = "UNDERSEA"
+		self.definitions = [u'below the surface of the sea: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

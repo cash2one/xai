@@ -4,11 +4,12 @@
 class _GLUT():
 	def __init__(self,): 
 		self.name = "GLUT"
+		self.definitions = [u'a supply of something that is much greater than can be sold or is needed or wanted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

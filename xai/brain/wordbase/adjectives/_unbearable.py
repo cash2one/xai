@@ -4,11 +4,12 @@
 class _UNBEARABLE():
 	def __init__(self,): 
 		self.name = "UNBEARABLE"
+		self.definitions = [u'too painful or unpleasant for you to continue to experience: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

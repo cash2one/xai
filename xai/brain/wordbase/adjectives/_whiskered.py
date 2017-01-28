@@ -4,11 +4,12 @@
 class _WHISKERED():
 	def __init__(self,): 
 		self.name = "WHISKERED"
+		self.definitions = [u'having whiskers']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

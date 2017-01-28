@@ -4,11 +4,12 @@
 class _ZETA():
 	def __init__(self,): 
 		self.name = "ZETA"
+		self.definitions = [u'the sixth letter of the Greek alphabet']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

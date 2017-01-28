@@ -4,11 +4,12 @@
 class _UNRELIEVED():
 	def __init__(self,): 
 		self.name = "UNRELIEVED"
+		self.definitions = [u'When a bad situation or emotion is unrelieved, it is continuous and never improves, not even for a short period: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

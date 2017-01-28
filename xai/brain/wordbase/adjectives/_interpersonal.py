@@ -4,11 +4,12 @@
 class _INTERPERSONAL():
 	def __init__(self,): 
 		self.name = "INTERPERSONAL"
+		self.definitions = [u'connected with relationships between people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

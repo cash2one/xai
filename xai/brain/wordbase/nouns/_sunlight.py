@@ -4,11 +4,12 @@
 class _SUNLIGHT():
 	def __init__(self,): 
 		self.name = "SUNLIGHT"
+		self.definitions = [u'the light that comes from the sun: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

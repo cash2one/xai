@@ -4,11 +4,12 @@
 class _UNNAMED():
 	def __init__(self,): 
 		self.name = "UNNAMED"
+		self.definitions = [u'An unnamed person or thing is talked about, but their name is not known or mentioned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

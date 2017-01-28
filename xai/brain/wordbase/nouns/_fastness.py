@@ -4,11 +4,12 @@
 class _FASTNESS():
 	def __init__(self,): 
 		self.name = "FASTNESS"
+		self.definitions = [u'how fast (= fixed) something is: ', u'a safe place, such as a fortress: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

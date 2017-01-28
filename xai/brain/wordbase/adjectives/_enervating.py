@@ -4,11 +4,12 @@
 class _ENERVATING():
 	def __init__(self,): 
 		self.name = "ENERVATING"
+		self.definitions = [u'making you feel weak and without energy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

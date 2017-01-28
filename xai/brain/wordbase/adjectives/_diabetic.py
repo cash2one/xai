@@ -4,11 +4,12 @@
 class _DIABETIC():
 	def __init__(self,): 
 		self.name = "DIABETIC"
+		self.definitions = [u'relating to diabetes: ', u'made for diabetic people to eat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

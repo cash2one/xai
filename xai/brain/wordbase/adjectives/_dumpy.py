@@ -4,11 +4,12 @@
 class _DUMPY():
 	def __init__(self,): 
 		self.name = "DUMPY"
+		self.definitions = [u'short and fat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

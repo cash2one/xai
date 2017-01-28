@@ -4,11 +4,12 @@
 class _CHAOTIC():
 	def __init__(self,): 
 		self.name = "CHAOTIC"
+		self.definitions = [u'in a state of chaos: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

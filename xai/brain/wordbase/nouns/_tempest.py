@@ -4,11 +4,12 @@
 class _TEMPEST():
 	def __init__(self,): 
 		self.name = "TEMPEST"
+		self.definitions = [u'a violent storm']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

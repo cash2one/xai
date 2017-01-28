@@ -4,11 +4,12 @@
 class _GREGARIOUS():
 	def __init__(self,): 
 		self.name = "GREGARIOUS"
+		self.definitions = [u'(of people) liking to be with other people : ', u'(especially of animals) living in groups']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

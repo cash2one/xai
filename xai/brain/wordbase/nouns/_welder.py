@@ -4,11 +4,12 @@
 class _WELDER():
 	def __init__(self,): 
 		self.name = "WELDER"
+		self.definitions = [u'a person whose job is welding']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _PASTOR():
 	def __init__(self,): 
 		self.name = "PASTOR"
+		self.definitions = [u'a religious leader in certain Protestant Churches']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

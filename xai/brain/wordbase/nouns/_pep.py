@@ -4,11 +4,12 @@
 class _PEP():
 	def __init__(self,): 
 		self.name = "PEP"
+		self.definitions = [u'energy, or a willingness to be active']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _STRANDED():
 	def __init__(self,): 
 		self.name = "STRANDED"
+		self.definitions = [u'unable to leave somewhere because of a problem such as not having any transport or money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

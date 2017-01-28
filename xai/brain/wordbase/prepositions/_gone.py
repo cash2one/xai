@@ -4,11 +4,12 @@
 class _GONE():
 	def __init__(self,): 
 		self.name = "GONE"
+		self.definitions = [u'later or older than: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

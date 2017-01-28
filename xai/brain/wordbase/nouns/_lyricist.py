@@ -4,11 +4,12 @@
 class _LYRICIST():
 	def __init__(self,): 
 		self.name = "LYRICIST"
+		self.definitions = [u'someone who writes words for songs, especially pop songs']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

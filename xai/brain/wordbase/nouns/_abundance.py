@@ -4,11 +4,12 @@
 class _ABUNDANCE():
 	def __init__(self,): 
 		self.name = "ABUNDANCE"
+		self.definitions = [u'the situation in which there is more than enough of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

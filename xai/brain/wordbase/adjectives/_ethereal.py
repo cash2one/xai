@@ -4,11 +4,12 @@
 class _ETHEREAL():
 	def __init__(self,): 
 		self.name = "ETHEREAL"
+		self.definitions = [u'light and delicate, especially in an unnatural way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

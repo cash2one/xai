@@ -4,11 +4,12 @@
 class _ALIKE():
 	def __init__(self,): 
 		self.name = "ALIKE"
+		self.definitions = [u'similar to each other: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

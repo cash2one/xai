@@ -4,11 +4,12 @@
 class _GLUEY():
 	def __init__(self,): 
 		self.name = "GLUEY"
+		self.definitions = [u'covered with glue: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

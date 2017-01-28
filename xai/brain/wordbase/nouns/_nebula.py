@@ -4,11 +4,12 @@
 class _NEBULA():
 	def __init__(self,): 
 		self.name = "NEBULA"
+		self.definitions = [u'a cloud of gas or dust in space, appearing either bright or dark']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DAMP():
 	def __init__(self,): 
 		self.name = "DAMP"
+		self.definitions = [u'slightly wet, especially in a way that is not pleasant or comfortable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

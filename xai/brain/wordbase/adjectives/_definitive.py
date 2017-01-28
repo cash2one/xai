@@ -4,11 +4,12 @@
 class _DEFINITIVE():
 	def __init__(self,): 
 		self.name = "DEFINITIVE"
+		self.definitions = [u'not able to be changed or improved: ', u'considered to be the best of its type: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

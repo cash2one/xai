@@ -4,11 +4,12 @@
 class _HEARTENING():
 	def __init__(self,): 
 		self.name = "HEARTENING"
+		self.definitions = [u'making you feel happier and more positive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FIGURATIVELY():
 	def __init__(self,): 
 		self.name = "FIGURATIVELY"
+		self.definitions = [u'in a way that uses words and phrases with a more imaginative meaning than usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

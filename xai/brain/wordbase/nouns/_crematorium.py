@@ -4,11 +4,12 @@
 class _CREMATORIUM():
 	def __init__(self,): 
 		self.name = "CREMATORIUM"
+		self.definitions = [u"a building where dead people's bodies are burned, usually as part of a funeral ceremony"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

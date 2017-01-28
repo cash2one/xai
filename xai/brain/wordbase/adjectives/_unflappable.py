@@ -4,11 +4,12 @@
 class _UNFLAPPABLE():
 	def __init__(self,): 
 		self.name = "UNFLAPPABLE"
+		self.definitions = [u'not likely to get worried, nervous, or angry even in difficult situations: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

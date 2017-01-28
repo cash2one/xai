@@ -4,11 +4,12 @@
 class _CANNONBALL():
 	def __init__(self,): 
 		self.name = "CANNONBALL"
+		self.definitions = [u'a heavy metal or stone ball shot from a cannon']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

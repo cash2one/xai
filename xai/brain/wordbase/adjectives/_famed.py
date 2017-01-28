@@ -4,11 +4,12 @@
 class _FAMED():
 	def __init__(self,): 
 		self.name = "FAMED"
+		self.definitions = [u'famous or known to many people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SAPLING():
 	def __init__(self,): 
 		self.name = "SAPLING"
+		self.definitions = [u'a young tree']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

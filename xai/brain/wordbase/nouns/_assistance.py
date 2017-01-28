@@ -4,11 +4,12 @@
 class _ASSISTANCE():
 	def __init__(self,): 
 		self.name = "ASSISTANCE"
+		self.definitions = [u'help: ', u'to help someone']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

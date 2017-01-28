@@ -4,11 +4,12 @@
 class _SEDUCER():
 	def __init__(self,): 
 		self.name = "SEDUCER"
+		self.definitions = [u'someone who seduces people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

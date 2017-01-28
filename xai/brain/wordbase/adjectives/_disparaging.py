@@ -4,11 +4,12 @@
 class _DISPARAGING():
 	def __init__(self,): 
 		self.name = "DISPARAGING"
+		self.definitions = [u'criticizing someone, in a way that shows you do not respect or value them: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

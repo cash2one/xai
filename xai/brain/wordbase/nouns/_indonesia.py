@@ -4,11 +4,12 @@
 class _INDONESIA():
 	def __init__(self,): 
 		self.name = "INDONESIA"
+		self.definitions = [u'a country in Southeast Asia formed of a group of islands']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

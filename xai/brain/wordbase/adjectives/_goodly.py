@@ -4,11 +4,12 @@
 class _GOODLY():
 	def __init__(self,): 
 		self.name = "GOODLY"
+		self.definitions = [u'great or large: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CREDITABLE():
 	def __init__(self,): 
 		self.name = "CREDITABLE"
+		self.definitions = [u'deserving praise, trust, or respect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

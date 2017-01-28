@@ -4,11 +4,12 @@
 class _WRECKED():
 	def __init__(self,): 
 		self.name = "WRECKED"
+		self.definitions = [u'very badly damaged: ', u'very drunk: ', u'very tired']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

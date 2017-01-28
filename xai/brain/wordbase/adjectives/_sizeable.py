@@ -4,11 +4,12 @@
 class _SIZEABLE():
 	def __init__(self,): 
 		self.name = "SIZEABLE"
+		self.definitions = [u'large: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

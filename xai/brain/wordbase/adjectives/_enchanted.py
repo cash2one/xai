@@ -4,11 +4,12 @@
 class _ENCHANTED():
 	def __init__(self,): 
 		self.name = "ENCHANTED"
+		self.definitions = [u'affected by magic or seeming to be affected by magic: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

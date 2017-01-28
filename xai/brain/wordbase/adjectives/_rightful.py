@@ -4,11 +4,12 @@
 class _RIGHTFUL():
 	def __init__(self,): 
 		self.name = "RIGHTFUL"
+		self.definitions = [u'A rightful position or claim is one that is morally or legally correct: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

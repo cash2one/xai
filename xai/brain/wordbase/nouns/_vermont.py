@@ -4,11 +4,12 @@
 class _VERMONT():
 	def __init__(self,): 
 		self.name = "VERMONT"
+		self.definitions = [u'a state in the northeastern United States, whose capital city is Montpelier']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

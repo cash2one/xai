@@ -4,11 +4,12 @@
 class _SHOESTRING():
 	def __init__(self,): 
 		self.name = "SHOESTRING"
+		self.definitions = [u'a  shoelace ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

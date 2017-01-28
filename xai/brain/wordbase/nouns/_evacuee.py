@@ -4,11 +4,12 @@
 class _EVACUEE():
 	def __init__(self,): 
 		self.name = "EVACUEE"
+		self.definitions = [u'someone who is evacuated from a dangerous place, especially during a war: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _LOATHING():
 	def __init__(self,): 
 		self.name = "LOATHING"
+		self.definitions = [u'a strong feeling of hating someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

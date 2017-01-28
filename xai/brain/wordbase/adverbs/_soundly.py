@@ -4,11 +4,12 @@
 class _SOUNDLY():
 	def __init__(self,): 
 		self.name = "SOUNDLY"
+		self.definitions = [u'completely: ', u'(of how someone sleeps) deeply: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

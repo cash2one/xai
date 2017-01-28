@@ -4,11 +4,12 @@
 class _PARTIALITY():
 	def __init__(self,): 
 		self.name = "PARTIALITY"
+		self.definitions = [u'the fact of unfairly preferring or approving of something: ', u'a liking: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

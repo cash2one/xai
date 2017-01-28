@@ -4,11 +4,12 @@
 class _EGOTISM():
 	def __init__(self,): 
 		self.name = "EGOTISM"
+		self.definitions = [u'thinking only about yourself and considering yourself better and more important than other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

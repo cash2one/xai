@@ -4,11 +4,12 @@
 class _EFFEMINATE():
 	def __init__(self,): 
 		self.name = "EFFEMINATE"
+		self.definitions = [u'An effeminate man behaves or looks similar to a woman: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MANIPULATIVE():
 	def __init__(self,): 
 		self.name = "MANIPULATIVE"
+		self.definitions = [u'A manipulative person tries to control people to their advantage: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PULLED():
 	def __init__(self,): 
 		self.name = "PULLED"
+		self.definitions = [u'used to describe meat that is cooked slowly until it is very soft, so that it can be easily pulled apart into strips when it is served: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INTOXICATED():
 	def __init__(self,): 
 		self.name = "INTOXICATED"
+		self.definitions = [u'drunk: ', u'excited, happy, and slightly out of control because of love, success, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

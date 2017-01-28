@@ -4,11 +4,12 @@
 class _CONSIDERABLE():
 	def __init__(self,): 
 		self.name = "CONSIDERABLE"
+		self.definitions = [u'large or of noticeable importance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

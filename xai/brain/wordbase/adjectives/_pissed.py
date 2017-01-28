@@ -4,11 +4,12 @@
 class _PISSED():
 	def __init__(self,): 
 		self.name = "PISSED"
+		self.definitions = [u'drunk: ', u'annoyed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

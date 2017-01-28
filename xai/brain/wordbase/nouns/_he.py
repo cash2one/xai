@@ -4,11 +4,12 @@
 class _HE():
 	def __init__(self,): 
 		self.name = "HE"
+		self.definitions = [u'a male: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

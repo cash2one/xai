@@ -4,11 +4,12 @@
 class _RETIREE():
 	def __init__(self,): 
 		self.name = "RETIREE"
+		self.definitions = [u'a person who has stopped working: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

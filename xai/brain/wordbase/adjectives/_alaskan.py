@@ -4,11 +4,12 @@
 class _ALASKAN():
 	def __init__(self,): 
 		self.name = "ALASKAN"
+		self.definitions = [u'belonging to or relating to Alaska or its people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SCALLION():
 	def __init__(self,): 
 		self.name = "SCALLION"
+		self.definitions = [u'a  spring onion ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

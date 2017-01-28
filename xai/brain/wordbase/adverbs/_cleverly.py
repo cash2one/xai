@@ -4,11 +4,12 @@
 class _CLEVERLY():
 	def __init__(self,): 
 		self.name = "CLEVERLY"
+		self.definitions = [u'in a clever or skilful way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

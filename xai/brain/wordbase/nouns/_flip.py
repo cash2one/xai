@@ -4,11 +4,12 @@
 class _FLIP():
 	def __init__(self,): 
 		self.name = "FLIP"
+		self.definitions = [u'an occasion when something turns over quickly or repeatedly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

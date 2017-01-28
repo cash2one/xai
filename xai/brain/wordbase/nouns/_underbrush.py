@@ -4,11 +4,12 @@
 class _UNDERBRUSH():
 	def __init__(self,): 
 		self.name = "UNDERBRUSH"
+		self.definitions = [u'\u2192\xa0 undergrowth ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

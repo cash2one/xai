@@ -4,11 +4,12 @@
 class _PEARLY():
 	def __init__(self,): 
 		self.name = "PEARLY"
+		self.definitions = [u'white and shiny, like a pearl: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

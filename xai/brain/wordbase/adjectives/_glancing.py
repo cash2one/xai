@@ -4,11 +4,12 @@
 class _GLANCING():
 	def __init__(self,): 
 		self.name = "GLANCING"
+		self.definitions = [u'hitting quickly and lightly at an angle: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

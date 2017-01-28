@@ -4,11 +4,12 @@
 class _ANTIVIRAL():
 	def __init__(self,): 
 		self.name = "ANTIVIRAL"
+		self.definitions = [u'an antiviral drug']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

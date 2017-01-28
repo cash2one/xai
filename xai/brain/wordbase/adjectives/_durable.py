@@ -4,11 +4,12 @@
 class _DURABLE():
 	def __init__(self,): 
 		self.name = "DURABLE"
+		self.definitions = [u'able to last a long time without becoming damaged: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

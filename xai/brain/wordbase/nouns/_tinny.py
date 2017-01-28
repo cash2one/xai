@@ -4,11 +4,12 @@
 class _TINNY():
 	def __init__(self,): 
 		self.name = "TINNY"
+		self.definitions = [u'a can of beer']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

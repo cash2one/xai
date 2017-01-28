@@ -4,11 +4,12 @@
 class _WHOLLY():
 	def __init__(self,): 
 		self.name = "WHOLLY"
+		self.definitions = [u'completely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

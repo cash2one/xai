@@ -4,11 +4,12 @@
 class _MUSCLED():
 	def __init__(self,): 
 		self.name = "MUSCLED"
+		self.definitions = [u'having a lot of well-developed muscles: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

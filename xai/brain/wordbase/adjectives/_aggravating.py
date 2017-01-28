@@ -4,11 +4,12 @@
 class _AGGRAVATING():
 	def __init__(self,): 
 		self.name = "AGGRAVATING"
+		self.definitions = [u'annoying: ', u'making something worse, such as a crime: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

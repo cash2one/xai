@@ -4,11 +4,12 @@
 class _RESPIRATORY():
 	def __init__(self,): 
 		self.name = "RESPIRATORY"
+		self.definitions = [u'relating to breathing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

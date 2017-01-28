@@ -4,11 +4,12 @@
 class _HOKUM():
 	def __init__(self,): 
 		self.name = "HOKUM"
+		self.definitions = [u'a film, play, or television programme that does not show life as it really is: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

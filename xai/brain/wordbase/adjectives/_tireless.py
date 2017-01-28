@@ -4,11 +4,12 @@
 class _TIRELESS():
 	def __init__(self,): 
 		self.name = "TIRELESS"
+		self.definitions = [u'working energetically and continuously: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

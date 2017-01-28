@@ -4,11 +4,12 @@
 class _INARTICULATE():
 	def __init__(self,): 
 		self.name = "INARTICULATE"
+		self.definitions = [u'unable to express feelings or ideas clearly, or expressed in a way that is difficult to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _RESURGENCE():
 	def __init__(self,): 
 		self.name = "RESURGENCE"
+		self.definitions = [u'a new increase of activity or interest in a particular subject or idea that had been forgotten for some time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

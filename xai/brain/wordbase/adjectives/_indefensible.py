@@ -4,11 +4,12 @@
 class _INDEFENSIBLE():
 	def __init__(self,): 
 		self.name = "INDEFENSIBLE"
+		self.definitions = [u'too bad to be protected from criticism: ', u'not able to be protected against attack: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SKIMPY():
 	def __init__(self,): 
 		self.name = "SKIMPY"
+		self.definitions = [u'not large enough: ', u'Skimpy clothing shows a lot of your body: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

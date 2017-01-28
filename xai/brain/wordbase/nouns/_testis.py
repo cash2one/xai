@@ -4,11 +4,12 @@
 class _TESTIS():
 	def __init__(self,): 
 		self.name = "TESTIS"
+		self.definitions = [u'a  testicle ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

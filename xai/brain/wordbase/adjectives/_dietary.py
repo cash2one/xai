@@ -4,11 +4,12 @@
 class _DIETARY():
 	def __init__(self,): 
 		self.name = "DIETARY"
+		self.definitions = [u'relating to your diet: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

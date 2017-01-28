@@ -4,11 +4,12 @@
 class _EXEMPT():
 	def __init__(self,): 
 		self.name = "EXEMPT"
+		self.definitions = [u'with special permission not to do or pay something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _THUNDERCLAP():
 	def __init__(self,): 
 		self.name = "THUNDERCLAP"
+		self.definitions = [u'a single loud sound of thunder']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

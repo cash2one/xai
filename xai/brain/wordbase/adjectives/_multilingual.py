@@ -4,11 +4,12 @@
 class _MULTILINGUAL():
 	def __init__(self,): 
 		self.name = "MULTILINGUAL"
+		self.definitions = [u'(of people or groups) able to use more than two languages for communication, or (of a thing) written or spoken in more than two different languages: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

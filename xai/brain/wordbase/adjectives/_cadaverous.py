@@ -4,11 +4,12 @@
 class _CADAVEROUS():
 	def __init__(self,): 
 		self.name = "CADAVEROUS"
+		self.definitions = [u'looking pale, thin, and ill: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FRANK():
 	def __init__(self,): 
 		self.name = "FRANK"
+		self.definitions = [u'honest, sincere, and telling the truth, even when this might be awkward or make other people uncomfortable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

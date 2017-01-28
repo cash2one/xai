@@ -4,11 +4,12 @@
 class _SLAW():
 	def __init__(self,): 
 		self.name = "SLAW"
+		self.definitions = [u'informal for  coleslaw ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

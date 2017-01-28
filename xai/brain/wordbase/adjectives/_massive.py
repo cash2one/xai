@@ -4,11 +4,12 @@
 class _MASSIVE():
 	def __init__(self,): 
 		self.name = "MASSIVE"
+		self.definitions = [u'very large in size, amount, or number: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

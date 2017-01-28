@@ -4,11 +4,12 @@
 class _BEVELLED():
 	def __init__(self,): 
 		self.name = "BEVELLED"
+		self.definitions = [u'having a sloping edge or surface: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

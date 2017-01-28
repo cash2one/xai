@@ -4,11 +4,12 @@
 class _KNAVERY():
 	def __init__(self,): 
 		self.name = "KNAVERY"
+		self.definitions = [u'dishonest or unfair behaviour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _FLAWLESS():
 	def __init__(self,): 
 		self.name = "FLAWLESS"
+		self.definitions = [u'perfect or without mistakes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

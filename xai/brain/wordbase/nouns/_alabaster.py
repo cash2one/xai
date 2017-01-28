@@ -4,11 +4,12 @@
 class _ALABASTER():
 	def __init__(self,): 
 		self.name = "ALABASTER"
+		self.definitions = [u'an almost transparent, white stone, often used for making decorative objects']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _VERBAL():
 	def __init__(self,): 
 		self.name = "VERBAL"
+		self.definitions = [u'spoken rather than written: ', u'relating to words: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

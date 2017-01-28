@@ -4,11 +4,12 @@
 class _CHIPPER():
 	def __init__(self,): 
 		self.name = "CHIPPER"
+		self.definitions = [u'very happy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

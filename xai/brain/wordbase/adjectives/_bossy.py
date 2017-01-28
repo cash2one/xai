@@ -4,11 +4,12 @@
 class _BOSSY():
 	def __init__(self,): 
 		self.name = "BOSSY"
+		self.definitions = [u'A bossy person is always telling people what to do.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

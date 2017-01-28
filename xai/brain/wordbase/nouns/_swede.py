@@ -4,11 +4,12 @@
 class _SWEDE():
 	def __init__(self,): 
 		self.name = "SWEDE"
+		self.definitions = [u'a round vegetable with dark yellow flesh and a brown or purple skin']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

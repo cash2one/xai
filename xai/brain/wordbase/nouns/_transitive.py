@@ -4,11 +4,12 @@
 class _TRANSITIVE():
 	def __init__(self,): 
 		self.name = "TRANSITIVE"
+		self.definitions = [u'a transitive verb']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

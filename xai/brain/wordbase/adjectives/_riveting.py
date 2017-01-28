@@ -4,11 +4,12 @@
 class _RIVETING():
 	def __init__(self,): 
 		self.name = "RIVETING"
+		self.definitions = [u'extremely interesting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

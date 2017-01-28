@@ -4,11 +4,12 @@
 class _SCORNFUL():
 	def __init__(self,): 
 		self.name = "SCORNFUL"
+		self.definitions = [u'showing or feeling scorn for someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ALCOHOLISM():
 	def __init__(self,): 
 		self.name = "ALCOHOLISM"
+		self.definitions = [u'the condition of being an alcoholic: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

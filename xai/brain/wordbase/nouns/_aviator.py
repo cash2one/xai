@@ -4,11 +4,12 @@
 class _AVIATOR():
 	def __init__(self,): 
 		self.name = "AVIATOR"
+		self.definitions = [u'an aircraft pilot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

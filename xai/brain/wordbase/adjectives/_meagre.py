@@ -4,11 +4,12 @@
 class _MEAGRE():
 	def __init__(self,): 
 		self.name = "MEAGRE"
+		self.definitions = [u'(of amounts or numbers) very small or not enough: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

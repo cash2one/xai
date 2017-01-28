@@ -4,11 +4,12 @@
 class _GODDESS():
 	def __init__(self,): 
 		self.name = "GODDESS"
+		self.definitions = [u'a female god: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

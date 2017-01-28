@@ -4,11 +4,12 @@
 class _POLYTHEISM():
 	def __init__(self,): 
 		self.name = "POLYTHEISM"
+		self.definitions = [u'belief in many different gods']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

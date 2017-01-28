@@ -4,11 +4,12 @@
 class _CASING():
 	def __init__(self,): 
 		self.name = "CASING"
+		self.definitions = [u'a covering that protects something']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

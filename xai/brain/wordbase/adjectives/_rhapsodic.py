@@ -4,11 +4,12 @@
 class _RHAPSODIC():
 	def __init__(self,): 
 		self.name = "RHAPSODIC"
+		self.definitions = [u'in the form of a rhapsody, or expressing powerful feelings: ', u'expressing great enthusiasm about something']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

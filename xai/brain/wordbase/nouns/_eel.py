@@ -4,11 +4,12 @@
 class _EEL():
 	def __init__(self,): 
 		self.name = "EEL"
+		self.definitions = [u'a long, thin, snake-like fish, some types of which are eaten: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

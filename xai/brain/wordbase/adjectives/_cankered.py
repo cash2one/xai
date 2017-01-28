@@ -4,11 +4,12 @@
 class _CANKERED():
 	def __init__(self,): 
 		self.name = "CANKERED"
+		self.definitions = [u'a cankered tree or fruit is affected by the canker disease: ', u'evil, unhealthy, or decayed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _COLUMBINE():
 	def __init__(self,): 
 		self.name = "COLUMBINE"
+		self.definitions = [u'a plant that has brightly coloured flowers with five pointed petals that hang down']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _IMPERIALIST():
 	def __init__(self,): 
 		self.name = "IMPERIALIST"
+		self.definitions = [u'supporting or relating to imperialism: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

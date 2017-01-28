@@ -4,11 +4,12 @@
 class _FORTUITOUS():
 	def __init__(self,): 
 		self.name = "FORTUITOUS"
+		self.definitions = [u'(of something that is to your advantage) not planned, happening by chance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BACKGROUND():
 	def __init__(self,): 
 		self.name = "BACKGROUND"
+		self.definitions = [u'used to refer to something that is done before, and in preparation for, something else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

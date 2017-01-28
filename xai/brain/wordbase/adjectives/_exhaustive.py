@@ -4,11 +4,12 @@
 class _EXHAUSTIVE():
 	def __init__(self,): 
 		self.name = "EXHAUSTIVE"
+		self.definitions = [u'complete and including everything: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

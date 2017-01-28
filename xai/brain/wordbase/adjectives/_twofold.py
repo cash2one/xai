@@ -4,11 +4,12 @@
 class _TWOFOLD():
 	def __init__(self,): 
 		self.name = "TWOFOLD"
+		self.definitions = [u'twice as big or as much: ', u'having two parts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

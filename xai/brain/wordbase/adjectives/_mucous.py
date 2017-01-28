@@ -4,11 +4,12 @@
 class _MUCOUS():
 	def __init__(self,): 
 		self.name = "MUCOUS"
+		self.definitions = [u'relating to mucus (= a slippery lubricant and protective substance): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

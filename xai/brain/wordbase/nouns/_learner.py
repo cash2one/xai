@@ -4,11 +4,12 @@
 class _LEARNER():
 	def __init__(self,): 
 		self.name = "LEARNER"
+		self.definitions = [u'a person who is still learning something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

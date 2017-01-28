@@ -4,11 +4,12 @@
 class _HAPPILY():
 	def __init__(self,): 
 		self.name = "HAPPILY"
+		self.definitions = [u'in a happy way: ', u'willingly: ', u'having a good or lucky result: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _BUSILY():
 	def __init__(self,): 
 		self.name = "BUSILY"
+		self.definitions = [u'in a busy, active way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _CLARIFIED():
 	def __init__(self,): 
 		self.name = "CLARIFIED"
+		self.definitions = [u'(of fat) with water and unwanted substances removed by heating: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

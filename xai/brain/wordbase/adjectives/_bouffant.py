@@ -4,11 +4,12 @@
 class _BOUFFANT():
 	def __init__(self,): 
 		self.name = "BOUFFANT"
+		self.definitions = [u'A bouffant hairstyle has the hair arranged in a high rounded shape.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

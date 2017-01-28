@@ -4,11 +4,12 @@
 class _WREN():
 	def __init__(self,): 
 		self.name = "WREN"
+		self.definitions = [u'a very small, brown bird']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

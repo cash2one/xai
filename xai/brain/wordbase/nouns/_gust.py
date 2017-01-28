@@ -4,11 +4,12 @@
 class _GUST():
 	def __init__(self,): 
 		self.name = "GUST"
+		self.definitions = [u'a sudden strong wind: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

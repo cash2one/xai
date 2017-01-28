@@ -4,11 +4,12 @@
 class _BIOSPHERE():
 	def __init__(self,): 
 		self.name = "BIOSPHERE"
+		self.definitions = [u"the part of the earth's environment where life exists"]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

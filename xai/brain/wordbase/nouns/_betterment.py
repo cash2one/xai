@@ -4,11 +4,12 @@
 class _BETTERMENT():
 	def __init__(self,): 
 		self.name = "BETTERMENT"
+		self.definitions = [u'improvement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

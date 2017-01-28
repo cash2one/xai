@@ -4,11 +4,12 @@
 class _VERVE():
 	def __init__(self,): 
 		self.name = "VERVE"
+		self.definitions = [u'great energy and enthusiasm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

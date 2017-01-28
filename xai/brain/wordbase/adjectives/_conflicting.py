@@ -4,11 +4,12 @@
 class _CONFLICTING():
 	def __init__(self,): 
 		self.name = "CONFLICTING"
+		self.definitions = [u'Conflicting beliefs, needs, facts, etc. are different and opposing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

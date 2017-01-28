@@ -4,11 +4,12 @@
 class _NET():
 	def __init__(self,): 
 		self.name = "NET"
+		self.definitions = [u'left when there is nothing else to be taken away: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

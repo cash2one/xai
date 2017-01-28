@@ -4,11 +4,12 @@
 class _VAPID():
 	def __init__(self,): 
 		self.name = "VAPID"
+		self.definitions = [u'showing no intelligence or imagination: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WOODED():
 	def __init__(self,): 
 		self.name = "WOODED"
+		self.definitions = [u'covered with trees: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _GENEALOGICAL():
 	def __init__(self,): 
 		self.name = "GENEALOGICAL"
+		self.definitions = [u'related to the history of the past and present members of a family or families']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

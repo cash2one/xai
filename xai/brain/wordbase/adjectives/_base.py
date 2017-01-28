@@ -4,11 +4,12 @@
 class _BASE():
 	def __init__(self,): 
 		self.name = "BASE"
+		self.definitions = [u'not showing any honour and having no morals: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

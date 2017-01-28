@@ -4,11 +4,12 @@
 class _NEWSWORTHY():
 	def __init__(self,): 
 		self.name = "NEWSWORTHY"
+		self.definitions = [u'interesting enough to be described in a news report: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

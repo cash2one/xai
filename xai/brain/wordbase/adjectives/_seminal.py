@@ -4,11 +4,12 @@
 class _SEMINAL():
 	def __init__(self,): 
 		self.name = "SEMINAL"
+		self.definitions = [u'containing important new ideas and having a great influence on later work: ', u'connected with semen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

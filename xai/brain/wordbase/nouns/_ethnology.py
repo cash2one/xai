@@ -4,11 +4,12 @@
 class _ETHNOLOGY():
 	def __init__(self,): 
 		self.name = "ETHNOLOGY"
+		self.definitions = [u'the study of different societies and cultures']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

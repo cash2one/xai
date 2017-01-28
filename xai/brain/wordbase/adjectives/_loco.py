@@ -4,11 +4,12 @@
 class _LOCO():
 	def __init__(self,): 
 		self.name = "LOCO"
+		self.definitions = [u'crazy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

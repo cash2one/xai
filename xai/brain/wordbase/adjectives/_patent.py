@@ -4,11 +4,12 @@
 class _PATENT():
 	def __init__(self,): 
 		self.name = "PATENT"
+		self.definitions = [u'very obvious: ', u'A patent invention is protected by law so that only particular people or companies have the right to make or sell it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

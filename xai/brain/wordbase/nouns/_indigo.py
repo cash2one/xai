@@ -4,11 +4,12 @@
 class _INDIGO():
 	def __init__(self,): 
 		self.name = "INDIGO"
+		self.definitions = [u'a bluish-purple colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _APPOSITE():
 	def __init__(self,): 
 		self.name = "APPOSITE"
+		self.definitions = [u'suitable and right for the occasion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

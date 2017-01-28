@@ -4,11 +4,12 @@
 class _AFFABLE():
 	def __init__(self,): 
 		self.name = "AFFABLE"
+		self.definitions = [u'friendly and easy to talk to: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

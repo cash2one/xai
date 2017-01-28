@@ -4,11 +4,12 @@
 class _CONJOINED():
 	def __init__(self,): 
 		self.name = "CONJOINED"
+		self.definitions = [u'joined together']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

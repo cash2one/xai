@@ -4,11 +4,12 @@
 class _ANTIQUARY():
 	def __init__(self,): 
 		self.name = "ANTIQUARY"
+		self.definitions = [u'old use for  antiquarian adjective ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

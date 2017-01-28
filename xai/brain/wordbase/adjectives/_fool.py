@@ -4,11 +4,12 @@
 class _FOOL():
 	def __init__(self,): 
 		self.name = "FOOL"
+		self.definitions = [u'silly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

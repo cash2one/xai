@@ -4,11 +4,12 @@
 class _SIGNAL():
 	def __init__(self,): 
 		self.name = "SIGNAL"
+		self.definitions = [u'noticeable and unusual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

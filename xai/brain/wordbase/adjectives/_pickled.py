@@ -4,11 +4,12 @@
 class _PICKLED():
 	def __init__(self,): 
 		self.name = "PICKLED"
+		self.definitions = [u'kept in vinegar: ', u'drunk: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

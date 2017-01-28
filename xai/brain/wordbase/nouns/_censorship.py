@@ -4,11 +4,12 @@
 class _CENSORSHIP():
 	def __init__(self,): 
 		self.name = "CENSORSHIP"
+		self.definitions = [u'the act of censoring books, films, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

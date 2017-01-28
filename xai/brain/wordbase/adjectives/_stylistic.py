@@ -4,11 +4,12 @@
 class _STYLISTIC():
 	def __init__(self,): 
 		self.name = "STYLISTIC"
+		self.definitions = [u'relating to a particular style of doing something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

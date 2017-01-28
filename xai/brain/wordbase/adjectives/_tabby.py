@@ -4,11 +4,12 @@
 class _TABBY():
 	def __init__(self,): 
 		self.name = "TABBY"
+		self.definitions = [u'(a cat) having dark-coloured marks on grey or brown fur']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

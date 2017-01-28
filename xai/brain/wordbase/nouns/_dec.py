@@ -4,11 +4,12 @@
 class _DEC():
 	def __init__(self,): 
 		self.name = "DEC"
+		self.definitions = [u'written abbreviation for  December ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _SHAMMY():
 	def __init__(self,): 
 		self.name = "SHAMMY"
+		self.definitions = [u'a  chamois ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

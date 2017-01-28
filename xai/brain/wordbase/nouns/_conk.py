@@ -4,11 +4,12 @@
 class _CONK():
 	def __init__(self,): 
 		self.name = "CONK"
+		self.definitions = [u'a nose']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

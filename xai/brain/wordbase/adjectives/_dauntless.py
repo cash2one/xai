@@ -4,11 +4,12 @@
 class _DAUNTLESS():
 	def __init__(self,): 
 		self.name = "DAUNTLESS"
+		self.definitions = [u'showing determination and no fear: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

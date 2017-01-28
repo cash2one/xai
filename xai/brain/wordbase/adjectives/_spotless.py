@@ -4,11 +4,12 @@
 class _SPOTLESS():
 	def __init__(self,): 
 		self.name = "SPOTLESS"
+		self.definitions = [u'extremely clean: ', u'a very good and honest character, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

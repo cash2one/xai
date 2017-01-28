@@ -4,11 +4,12 @@
 class _MIKE():
 	def __init__(self,): 
 		self.name = "MIKE"
+		self.definitions = [u'informal for  microphone ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

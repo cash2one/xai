@@ -4,11 +4,12 @@
 class _DESTITUTE():
 	def __init__(self,): 
 		self.name = "DESTITUTE"
+		self.definitions = [u'without money, food, a home, or possessions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

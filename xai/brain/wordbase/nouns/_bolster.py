@@ -4,11 +4,12 @@
 class _BOLSTER():
 	def __init__(self,): 
 		self.name = "BOLSTER"
+		self.definitions = [u'a long firm cylinder-shaped pillow']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

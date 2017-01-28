@@ -4,11 +4,12 @@
 class _HISPANIC():
 	def __init__(self,): 
 		self.name = "HISPANIC"
+		self.definitions = [u'connected with Spain or Spanish-speaking countries, especially those countries in Latin America']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

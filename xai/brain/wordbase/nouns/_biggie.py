@@ -4,11 +4,12 @@
 class _BIGGIE():
 	def __init__(self,): 
 		self.name = "BIGGIE"
+		self.definitions = [u'something that is very important or successful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

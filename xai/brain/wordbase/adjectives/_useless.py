@@ -4,11 +4,12 @@
 class _USELESS():
 	def __init__(self,): 
 		self.name = "USELESS"
+		self.definitions = [u'of no use; not working or not achieving what is needed: ', u'not at all good at doing something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

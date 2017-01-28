@@ -4,11 +4,12 @@
 class _GONDOLIER():
 	def __init__(self,): 
 		self.name = "GONDOLIER"
+		self.definitions = [u'a man who takes people from one place to another in a gondola']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

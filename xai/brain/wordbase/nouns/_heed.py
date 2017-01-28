@@ -4,11 +4,12 @@
 class _HEED():
 	def __init__(self,): 
 		self.name = "HEED"
+		self.definitions = [u'attention: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

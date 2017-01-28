@@ -4,11 +4,12 @@
 class _ONGOING():
 	def __init__(self,): 
 		self.name = "ONGOING"
+		self.definitions = [u'continuing to exist or develop, or happening at the present moment: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

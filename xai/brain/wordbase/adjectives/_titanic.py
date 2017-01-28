@@ -4,11 +4,12 @@
 class _TITANIC():
 	def __init__(self,): 
 		self.name = "TITANIC"
+		self.definitions = [u'extremely powerful, strong, important, or large: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

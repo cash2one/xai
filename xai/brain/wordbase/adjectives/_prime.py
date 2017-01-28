@@ -4,11 +4,12 @@
 class _PRIME():
 	def __init__(self,): 
 		self.name = "PRIME"
+		self.definitions = [u'main or most important: ', u'of the best quality: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _REPRISE():
 	def __init__(self,): 
 		self.name = "REPRISE"
+		self.definitions = [u'a repeat of something or part of something, especially a piece of music']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

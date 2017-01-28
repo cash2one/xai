@@ -4,11 +4,12 @@
 class _MISBEGOTTEN():
 	def __init__(self,): 
 		self.name = "MISBEGOTTEN"
+		self.definitions = [u'badly or stupidly planned or designed: ', u'not deserving to be respected or thought valuable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

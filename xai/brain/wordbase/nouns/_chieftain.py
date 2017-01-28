@@ -4,11 +4,12 @@
 class _CHIEFTAIN():
 	def __init__(self,): 
 		self.name = "CHIEFTAIN"
+		self.definitions = [u'the leader of a tribe']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

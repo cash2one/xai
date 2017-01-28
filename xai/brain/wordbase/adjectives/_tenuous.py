@@ -4,11 +4,12 @@
 class _TENUOUS():
 	def __init__(self,): 
 		self.name = "TENUOUS"
+		self.definitions = [u'A tenuous connection, idea, or situation is weak and possibly does not exist: ', u'thin, weak, and easily broken']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

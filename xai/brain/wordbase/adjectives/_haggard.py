@@ -4,11 +4,12 @@
 class _HAGGARD():
 	def __init__(self,): 
 		self.name = "HAGGARD"
+		self.definitions = [u'looking ill or tired, often with dark skin under the eyes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CONVALESCENT():
 	def __init__(self,): 
 		self.name = "CONVALESCENT"
+		self.definitions = [u'(for or relating to) convalescing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

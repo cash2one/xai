@@ -4,11 +4,12 @@
 class _PATIENT():
 	def __init__(self,): 
 		self.name = "PATIENT"
+		self.definitions = [u'having patience: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DEFERENTIAL():
 	def __init__(self,): 
 		self.name = "DEFERENTIAL"
+		self.definitions = [u'polite and showing respect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

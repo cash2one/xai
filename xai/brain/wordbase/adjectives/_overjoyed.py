@@ -4,11 +4,12 @@
 class _OVERJOYED():
 	def __init__(self,): 
 		self.name = "OVERJOYED"
+		self.definitions = [u'extremely happy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _CELEBRATORY():
 	def __init__(self,): 
 		self.name = "CELEBRATORY"
+		self.definitions = [u'celebrating an important event or a special occasion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

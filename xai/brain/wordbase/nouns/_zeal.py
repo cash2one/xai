@@ -4,11 +4,12 @@
 class _ZEAL():
 	def __init__(self,): 
 		self.name = "ZEAL"
+		self.definitions = [u'great enthusiasm or eagerness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

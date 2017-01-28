@@ -4,11 +4,12 @@
 class _MASS():
 	def __init__(self,): 
 		self.name = "MASS"
+		self.definitions = [u'having an effect on or involving a large number of people or forming a large amount: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

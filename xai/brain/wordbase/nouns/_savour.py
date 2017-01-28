@@ -4,11 +4,12 @@
 class _SAVOUR():
 	def __init__(self,): 
 		self.name = "SAVOUR"
+		self.definitions = [u'pleasure and interest: ', u'a smell or taste, especially a pleasant one']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

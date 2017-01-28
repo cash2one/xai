@@ -4,11 +4,12 @@
 class _LIMITING():
 	def __init__(self,): 
 		self.name = "LIMITING"
+		self.definitions = [u'preventing you from having much choice: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

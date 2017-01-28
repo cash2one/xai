@@ -4,11 +4,12 @@
 class _WEATHERPROOF():
 	def __init__(self,): 
 		self.name = "WEATHERPROOF"
+		self.definitions = [u'not allowing wind or rain to go through: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

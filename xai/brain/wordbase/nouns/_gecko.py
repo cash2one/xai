@@ -4,11 +4,12 @@
 class _GECKO():
 	def __init__(self,): 
 		self.name = "GECKO"
+		self.definitions = [u'a small lizard with wide feet, found especially in warm countries']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

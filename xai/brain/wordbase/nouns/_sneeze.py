@@ -4,11 +4,12 @@
 class _SNEEZE():
 	def __init__(self,): 
 		self.name = "SNEEZE"
+		self.definitions = [u'an act or sound of sneezing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

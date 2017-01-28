@@ -4,11 +4,12 @@
 class _IRASCIBLE():
 	def __init__(self,): 
 		self.name = "IRASCIBLE"
+		self.definitions = [u'made angry easily: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

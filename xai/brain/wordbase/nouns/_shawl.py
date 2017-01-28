@@ -4,11 +4,12 @@
 class _SHAWL():
 	def __init__(self,): 
 		self.name = "SHAWL"
+		self.definitions = [u'a large piece of cloth worn especially by women or girls over their shoulders and/or head']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

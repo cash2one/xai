@@ -4,11 +4,12 @@
 class _ENCYCLOPEDIC():
 	def __init__(self,): 
 		self.name = "ENCYCLOPEDIC"
+		self.definitions = [u'containing a lot of information', u'covering a large range of knowledge, often in great detail: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

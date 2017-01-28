@@ -4,11 +4,12 @@
 class _WORDY():
 	def __init__(self,): 
 		self.name = "WORDY"
+		self.definitions = [u'containing too many words: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

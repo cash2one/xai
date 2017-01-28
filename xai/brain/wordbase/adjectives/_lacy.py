@@ -4,11 +4,12 @@
 class _LACY():
 	def __init__(self,): 
 		self.name = "LACY"
+		self.definitions = [u'made of or decorated with lace (= decorative cloth): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

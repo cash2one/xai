@@ -4,11 +4,12 @@
 class _TYRANNOUS():
 	def __init__(self,): 
 		self.name = "TYRANNOUS"
+		self.definitions = [u'using power or authority in a cruel and unfair way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

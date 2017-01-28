@@ -4,11 +4,12 @@
 class _ELLIPTICAL():
 	def __init__(self,): 
 		self.name = "ELLIPTICAL"
+		self.definitions = [u'having an oval shape', u'Elliptical language has parts missing, so that it is sometimes difficult to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

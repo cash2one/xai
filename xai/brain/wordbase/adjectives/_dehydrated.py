@@ -4,11 +4,12 @@
 class _DEHYDRATED():
 	def __init__(self,): 
 		self.name = "DEHYDRATED"
+		self.definitions = [u'not having the normal amount of water in your body so that you feel ill or weak']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

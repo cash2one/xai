@@ -4,11 +4,12 @@
 class _CATHOLIC():
 	def __init__(self,): 
 		self.name = "CATHOLIC"
+		self.definitions = [u'including many different types of thing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

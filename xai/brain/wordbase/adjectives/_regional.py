@@ -4,11 +4,12 @@
 class _REGIONAL():
 	def __init__(self,): 
 		self.name = "REGIONAL"
+		self.definitions = [u'relating to or coming from a particular part of a country: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

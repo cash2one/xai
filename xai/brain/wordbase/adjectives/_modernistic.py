@@ -4,11 +4,12 @@
 class _MODERNISTIC():
 	def __init__(self,): 
 		self.name = "MODERNISTIC"
+		self.definitions = [u'designed in a way that is obviously modern: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

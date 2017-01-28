@@ -4,11 +4,12 @@
 class _POOP():
 	def __init__(self,): 
 		self.name = "POOP"
+		self.definitions = [u'solid waste from the body', u'information: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

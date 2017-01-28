@@ -4,11 +4,12 @@
 class _DRIPPING():
 	def __init__(self,): 
 		self.name = "DRIPPING"
+		self.definitions = [u'very wet: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ATTEMPTED():
 	def __init__(self,): 
 		self.name = "ATTEMPTED"
+		self.definitions = [u'(of a crime) that someone has tried to commit without success: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

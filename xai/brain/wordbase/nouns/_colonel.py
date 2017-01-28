@@ -4,11 +4,12 @@
 class _COLONEL():
 	def __init__(self,): 
 		self.name = "COLONEL"
+		self.definitions = [u'an officer of high rank in the army or air force: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

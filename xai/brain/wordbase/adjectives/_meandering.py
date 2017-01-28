@@ -4,11 +4,12 @@
 class _MEANDERING():
 	def __init__(self,): 
 		self.name = "MEANDERING"
+		self.definitions = [u'moving slowly in no particular direction or with no clear purpose: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

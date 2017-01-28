@@ -4,11 +4,12 @@
 class _FAWN():
 	def __init__(self,): 
 		self.name = "FAWN"
+		self.definitions = [u'having a pale yellowish-brown colour']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

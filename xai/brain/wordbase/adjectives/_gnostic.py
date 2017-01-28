@@ -4,11 +4,12 @@
 class _GNOSTIC():
 	def __init__(self,): 
 		self.name = "GNOSTIC"
+		self.definitions = [u'relating to knowledge, especially knowledge that most people do not have: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

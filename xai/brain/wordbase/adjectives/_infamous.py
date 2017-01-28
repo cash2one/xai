@@ -4,11 +4,12 @@
 class _INFAMOUS():
 	def __init__(self,): 
 		self.name = "INFAMOUS"
+		self.definitions = [u'famous for something considered bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

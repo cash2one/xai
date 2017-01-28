@@ -4,11 +4,12 @@
 class _WINDLASS():
 	def __init__(self,): 
 		self.name = "WINDLASS"
+		self.definitions = [u'a  winch ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

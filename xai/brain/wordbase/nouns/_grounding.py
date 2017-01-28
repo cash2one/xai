@@ -4,11 +4,12 @@
 class _GROUNDING():
 	def __init__(self,): 
 		self.name = "GROUNDING"
+		self.definitions = [u'a knowledge of the basic facts about a particular subject: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

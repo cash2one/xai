@@ -4,11 +4,12 @@
 class _TANGO():
 	def __init__(self,): 
 		self.name = "TANGO"
+		self.definitions = [u'an energetic dance from South America for two people, or the music for this dance']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

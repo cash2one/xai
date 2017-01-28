@@ -4,11 +4,12 @@
 class _PRONOUNCED():
 	def __init__(self,): 
 		self.name = "PRONOUNCED"
+		self.definitions = [u'very noticeable or certain: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

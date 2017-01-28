@@ -4,11 +4,12 @@
 class _DRUDGERY():
 	def __init__(self,): 
 		self.name = "DRUDGERY"
+		self.definitions = [u'hard boring work: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

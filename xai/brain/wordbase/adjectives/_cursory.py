@@ -4,11 +4,12 @@
 class _CURSORY():
 	def __init__(self,): 
 		self.name = "CURSORY"
+		self.definitions = [u'quick and probably not detailed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

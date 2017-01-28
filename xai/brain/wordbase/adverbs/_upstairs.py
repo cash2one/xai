@@ -4,11 +4,12 @@
 class _UPSTAIRS():
 	def __init__(self,): 
 		self.name = "UPSTAIRS"
+		self.definitions = [u'towards or on the highest floor or floors of a building: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _ARCTIC():
 	def __init__(self,): 
 		self.name = "ARCTIC"
+		self.definitions = [u'belonging or relating to the Arctic: ', u'very cold: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

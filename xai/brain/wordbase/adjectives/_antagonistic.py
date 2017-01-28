@@ -4,11 +4,12 @@
 class _ANTAGONISTIC():
 	def __init__(self,): 
 		self.name = "ANTAGONISTIC"
+		self.definitions = [u'actively opposing or showing unfriendliness towards something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

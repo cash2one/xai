@@ -4,11 +4,12 @@
 class _EXTRAVAGANT():
 	def __init__(self,): 
 		self.name = "EXTRAVAGANT"
+		self.definitions = [u'spending too much money, or using too much of something: ', u'extreme and unreasonable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FILLY():
 	def __init__(self,): 
 		self.name = "FILLY"
+		self.definitions = [u'a young female horse']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

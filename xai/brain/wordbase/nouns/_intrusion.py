@@ -4,11 +4,12 @@
 class _INTRUSION():
 	def __init__(self,): 
 		self.name = "INTRUSION"
+		self.definitions = [u'an occasion when someone goes into a place or situation where they are not wanted or expected to be: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _SISTERLY():
 	def __init__(self,): 
 		self.name = "SISTERLY"
+		self.definitions = [u'feeling or behaving like a sister: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SYRIA():
 	def __init__(self,): 
 		self.name = "SYRIA"
+		self.definitions = [u'a country in Western Asia']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _THRU():
 	def __init__(self,): 
 		self.name = "THRU"
+		self.definitions = [u'through']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

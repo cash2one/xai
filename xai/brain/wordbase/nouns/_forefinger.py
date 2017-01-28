@@ -4,11 +4,12 @@
 class _FOREFINGER():
 	def __init__(self,): 
 		self.name = "FOREFINGER"
+		self.definitions = [u'the finger next to the thumb']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

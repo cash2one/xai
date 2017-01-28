@@ -4,11 +4,12 @@
 class _NOEL():
 	def __init__(self,): 
 		self.name = "NOEL"
+		self.definitions = [u'Christmas']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

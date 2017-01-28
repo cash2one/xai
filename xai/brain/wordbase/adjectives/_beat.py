@@ -4,11 +4,12 @@
 class _BEAT():
 	def __init__(self,): 
 		self.name = "BEAT"
+		self.definitions = [u'extremely tired: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

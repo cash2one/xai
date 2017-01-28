@@ -4,11 +4,12 @@
 class _BOTHER():
 	def __init__(self,): 
 		self.name = "BOTHER"
+		self.definitions = [u'trouble or problems: ', u'an annoying person or situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

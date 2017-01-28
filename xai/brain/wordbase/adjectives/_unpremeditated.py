@@ -4,11 +4,12 @@
 class _UNPREMEDITATED():
 	def __init__(self,): 
 		self.name = "UNPREMEDITATED"
+		self.definitions = [u'(especially of a crime or something unpleasant) done without being planned']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

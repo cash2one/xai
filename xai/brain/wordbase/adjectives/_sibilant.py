@@ -4,11 +4,12 @@
 class _SIBILANT():
 	def __init__(self,): 
 		self.name = "SIBILANT"
+		self.definitions = [u'making a "s" or "sh" sound: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

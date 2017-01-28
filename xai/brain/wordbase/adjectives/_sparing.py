@@ -4,11 +4,12 @@
 class _SPARING():
 	def __init__(self,): 
 		self.name = "SPARING"
+		self.definitions = [u'using very little of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

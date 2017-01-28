@@ -4,11 +4,12 @@
 class _FOREGOING():
 	def __init__(self,): 
 		self.name = "FOREGOING"
+		self.definitions = [u'what has just been mentioned or described: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

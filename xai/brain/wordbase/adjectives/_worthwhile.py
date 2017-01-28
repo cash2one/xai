@@ -4,11 +4,12 @@
 class _WORTHWHILE():
 	def __init__(self,): 
 		self.name = "WORTHWHILE"
+		self.definitions = [u'useful, important, or good enough to be a suitable reward for the money or time spent or the effort made: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

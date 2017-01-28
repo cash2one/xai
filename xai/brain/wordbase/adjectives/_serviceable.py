@@ -4,11 +4,12 @@
 class _SERVICEABLE():
 	def __init__(self,): 
 		self.name = "SERVICEABLE"
+		self.definitions = [u'suitable for use: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

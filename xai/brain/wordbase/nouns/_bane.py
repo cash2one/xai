@@ -4,11 +4,12 @@
 class _BANE():
 	def __init__(self,): 
 		self.name = "BANE"
+		self.definitions = [u'a cause of continuous trouble or unhappiness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

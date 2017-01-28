@@ -4,11 +4,12 @@
 class _DELECTATION():
 	def __init__(self,): 
 		self.name = "DELECTATION"
+		self.definitions = [u'great pleasure and enjoyment']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

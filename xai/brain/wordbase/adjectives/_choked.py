@@ -4,11 +4,12 @@
 class _CHOKED():
 	def __init__(self,): 
 		self.name = "CHOKED"
+		self.definitions = [u'unable to speak because you are upset: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

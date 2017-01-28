@@ -4,11 +4,12 @@
 class _IMPERMEABLE():
 	def __init__(self,): 
 		self.name = "IMPERMEABLE"
+		self.definitions = [u'not allowing liquid or gas to go through: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _AERIAL():
 	def __init__(self,): 
 		self.name = "AERIAL"
+		self.definitions = [u'in or from the air, especially from an aircraft: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _IDEOLOGICAL():
 	def __init__(self,): 
 		self.name = "IDEOLOGICAL"
+		self.definitions = [u'based on or relating to a particular set of ideas or beliefs: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

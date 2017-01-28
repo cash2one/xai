@@ -4,11 +4,12 @@
 class _FOUNDER():
 	def __init__(self,): 
 		self.name = "FOUNDER"
+		self.definitions = [u'someone who establishes an organization: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

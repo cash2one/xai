@@ -4,11 +4,12 @@
 class _INSTRUCTIONAL():
 	def __init__(self,): 
 		self.name = "INSTRUCTIONAL"
+		self.definitions = [u'(of an activity, book, etc.) designed to teach someone how to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

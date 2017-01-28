@@ -4,11 +4,12 @@
 class _EMANCIPATED():
 	def __init__(self,): 
 		self.name = "EMANCIPATED"
+		self.definitions = [u'not limited socially or politically: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PARASITIC():
 	def __init__(self,): 
 		self.name = "PARASITIC"
+		self.definitions = [u'caused by or relating to a parasite: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

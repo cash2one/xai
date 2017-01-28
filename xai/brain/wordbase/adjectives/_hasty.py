@@ -4,11 +4,12 @@
 class _HASTY():
 	def __init__(self,): 
 		self.name = "HASTY"
+		self.definitions = [u'Hasty actions are done in a hurry, sometimes without the necessary care or thought: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

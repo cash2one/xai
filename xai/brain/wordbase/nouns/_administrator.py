@@ -4,11 +4,12 @@
 class _ADMINISTRATOR():
 	def __init__(self,): 
 		self.name = "ADMINISTRATOR"
+		self.definitions = [u'someone whose job is to control the operation of a business, organization, or plan: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

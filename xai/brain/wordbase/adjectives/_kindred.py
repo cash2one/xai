@@ -4,11 +4,12 @@
 class _KINDRED():
 	def __init__(self,): 
 		self.name = "KINDRED"
+		self.definitions = [u'similar or related: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MAYORALTY():
 	def __init__(self,): 
 		self.name = "MAYORALTY"
+		self.definitions = [u'the office of being a mayor, or the period of time for which someone is a mayor']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

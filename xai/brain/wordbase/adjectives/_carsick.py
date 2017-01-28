@@ -4,11 +4,12 @@
 class _CARSICK():
 	def __init__(self,): 
 		self.name = "CARSICK"
+		self.definitions = [u'feeling that you want to vomit because of the movement of a car']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

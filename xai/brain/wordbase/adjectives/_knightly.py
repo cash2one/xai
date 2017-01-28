@@ -4,11 +4,12 @@
 class _KNIGHTLY():
 	def __init__(self,): 
 		self.name = "KNIGHTLY"
+		self.definitions = [u'of or suitable for a knight in the past, especially involving courage and honour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

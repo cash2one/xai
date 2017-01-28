@@ -4,11 +4,12 @@
 class _DISABLED():
 	def __init__(self,): 
 		self.name = "DISABLED"
+		self.definitions = [u'people who are disabled: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

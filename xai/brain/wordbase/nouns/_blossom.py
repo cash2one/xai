@@ -4,11 +4,12 @@
 class _BLOSSOM():
 	def __init__(self,): 
 		self.name = "BLOSSOM"
+		self.definitions = [u'a small flower, or the small flowers on a tree or plant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

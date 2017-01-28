@@ -4,11 +4,12 @@
 class _ANTISOCIAL():
 	def __init__(self,): 
 		self.name = "ANTISOCIAL"
+		self.definitions = [u'harmful to society: ', u'often avoiding spending time with other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

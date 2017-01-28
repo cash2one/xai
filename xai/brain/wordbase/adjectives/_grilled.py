@@ -4,11 +4,12 @@
 class _GRILLED():
 	def __init__(self,): 
 		self.name = "GRILLED"
+		self.definitions = [u'(of food) cooked over fire or hot coals, usually on a metal frame: ', u'(of food) cooked under a very hot surface in a cooker: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

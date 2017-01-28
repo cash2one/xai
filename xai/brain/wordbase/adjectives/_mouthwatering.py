@@ -4,11 +4,12 @@
 class _MOUTHWATERING():
 	def __init__(self,): 
 		self.name = "MOUTHWATERING"
+		self.definitions = [u'Mouthwatering food looks as if it will taste good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

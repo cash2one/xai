@@ -4,11 +4,12 @@
 class _SLEAZY():
 	def __init__(self,): 
 		self.name = "SLEAZY"
+		self.definitions = [u'dirty, cheap, or not socially acceptable, especially relating to moral or sexual matters: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

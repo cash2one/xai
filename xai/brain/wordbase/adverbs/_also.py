@@ -4,11 +4,12 @@
 class _ALSO():
 	def __init__(self,): 
 		self.name = "ALSO"
+		self.definitions = [u'in addition: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

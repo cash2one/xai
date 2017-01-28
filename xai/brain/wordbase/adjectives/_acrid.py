@@ -4,11 +4,12 @@
 class _ACRID():
 	def __init__(self,): 
 		self.name = "ACRID"
+		self.definitions = [u'An acrid smell or taste is strong and bitter and causes a burning feeling in the throat: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

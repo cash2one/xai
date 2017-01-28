@@ -4,11 +4,12 @@
 class _OWLISH():
 	def __init__(self,): 
 		self.name = "OWLISH"
+		self.definitions = [u'A person who is owlish looks serious and intelligent and usually wears glasses: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

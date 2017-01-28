@@ -4,11 +4,12 @@
 class _SUNDRY():
 	def __init__(self,): 
 		self.name = "SUNDRY"
+		self.definitions = [u'several different; various: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

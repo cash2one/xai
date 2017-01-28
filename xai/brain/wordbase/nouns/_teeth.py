@@ -4,11 +4,12 @@
 class _TEETH():
 	def __init__(self,): 
 		self.name = "TEETH"
+		self.definitions = [u'plural of tooth']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

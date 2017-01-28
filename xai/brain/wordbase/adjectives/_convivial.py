@@ -4,11 +4,12 @@
 class _CONVIVIAL():
 	def __init__(self,): 
 		self.name = "CONVIVIAL"
+		self.definitions = [u'friendly and making you feel happy and welcome: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

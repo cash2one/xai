@@ -4,11 +4,12 @@
 class _ALPHA():
 	def __init__(self,): 
 		self.name = "ALPHA"
+		self.definitions = [u'Alpha software is at the first stage of development: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FURTHEST():
 	def __init__(self,): 
 		self.name = "FURTHEST"
+		self.definitions = [u'superlative of  far adverb : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

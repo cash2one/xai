@@ -4,11 +4,12 @@
 class _ODOURLESS():
 	def __init__(self,): 
 		self.name = "ODOURLESS"
+		self.definitions = [u'without a smell: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

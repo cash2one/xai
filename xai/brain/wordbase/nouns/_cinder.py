@@ -4,11 +4,12 @@
 class _CINDER():
 	def __init__(self,): 
 		self.name = "CINDER"
+		self.definitions = [u'a small piece of partly burned coal or wood: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

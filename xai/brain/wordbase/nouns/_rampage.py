@@ -4,11 +4,12 @@
 class _RAMPAGE():
 	def __init__(self,): 
 		self.name = "RAMPAGE"
+		self.definitions = [u'violent and usually wild behaviour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

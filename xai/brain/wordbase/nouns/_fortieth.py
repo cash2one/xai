@@ -4,11 +4,12 @@
 class _FORTIETH():
 	def __init__(self,): 
 		self.name = "FORTIETH"
+		self.definitions = [u'one of 40 equal parts of something']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

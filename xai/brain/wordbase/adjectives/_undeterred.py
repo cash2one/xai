@@ -4,11 +4,12 @@
 class _UNDETERRED():
 	def __init__(self,): 
 		self.name = "UNDETERRED"
+		self.definitions = [u'still continuing to do something or enthusiastic about doing it despite a bad situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

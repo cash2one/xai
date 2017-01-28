@@ -4,11 +4,12 @@
 class _RUTHLESS():
 	def __init__(self,): 
 		self.name = "RUTHLESS"
+		self.definitions = [u'not thinking or worrying about any pain caused to others; cruel: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

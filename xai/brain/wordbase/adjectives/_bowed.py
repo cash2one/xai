@@ -4,11 +4,12 @@
 class _BOWED():
 	def __init__(self,): 
 		self.name = "BOWED"
+		self.definitions = [u'curved: ', u'bent over: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

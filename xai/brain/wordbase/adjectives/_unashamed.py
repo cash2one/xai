@@ -4,11 +4,12 @@
 class _UNASHAMED():
 	def __init__(self,): 
 		self.name = "UNASHAMED"
+		self.definitions = [u'not ashamed; without hiding behaviour or opinions that other people might consider unacceptable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

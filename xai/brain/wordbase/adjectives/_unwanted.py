@@ -4,11 +4,12 @@
 class _UNWANTED():
 	def __init__(self,): 
 		self.name = "UNWANTED"
+		self.definitions = [u'not wanted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

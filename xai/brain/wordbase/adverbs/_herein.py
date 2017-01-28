@@ -4,11 +4,12 @@
 class _HEREIN():
 	def __init__(self,): 
 		self.name = "HEREIN"
+		self.definitions = [u'in this: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

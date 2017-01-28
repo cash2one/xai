@@ -4,11 +4,12 @@
 class _FREEHOLD():
 	def __init__(self,): 
 		self.name = "FREEHOLD"
+		self.definitions = [u'the legal right to own and use a building or piece of land for an unlimited time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

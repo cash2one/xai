@@ -4,11 +4,12 @@
 class _SOCIALIST():
 	def __init__(self,): 
 		self.name = "SOCIALIST"
+		self.definitions = [u'supporting or relating to socialism: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

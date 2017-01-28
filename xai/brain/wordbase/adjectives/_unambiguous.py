@@ -4,11 +4,12 @@
 class _UNAMBIGUOUS():
 	def __init__(self,): 
 		self.name = "UNAMBIGUOUS"
+		self.definitions = [u'expressed in a way that makes it completely clear what is meant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

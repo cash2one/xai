@@ -4,11 +4,12 @@
 class _OBSCURE():
 	def __init__(self,): 
 		self.name = "OBSCURE"
+		self.definitions = [u'not known to many people: ', u'not clear and difficult to understand or see: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

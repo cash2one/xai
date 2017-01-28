@@ -4,11 +4,12 @@
 class _BILLIONTH():
 	def __init__(self,): 
 		self.name = "BILLIONTH"
+		self.definitions = [u'one of a billion equal parts of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

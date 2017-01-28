@@ -4,11 +4,12 @@
 class _PAJAMAS():
 	def __init__(self,): 
 		self.name = "PAJAMAS"
+		self.definitions = [u'US spelling of  pyjamas ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

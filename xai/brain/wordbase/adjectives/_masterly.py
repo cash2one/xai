@@ -4,11 +4,12 @@
 class _MASTERLY():
 	def __init__(self,): 
 		self.name = "MASTERLY"
+		self.definitions = [u'done extremely well: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

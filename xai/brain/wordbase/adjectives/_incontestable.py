@@ -4,11 +4,12 @@
 class _INCONTESTABLE():
 	def __init__(self,): 
 		self.name = "INCONTESTABLE"
+		self.definitions = [u'impossible to question because of being obviously true: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

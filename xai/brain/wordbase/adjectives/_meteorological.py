@@ -4,11 +4,12 @@
 class _METEOROLOGICAL():
 	def __init__(self,): 
 		self.name = "METEOROLOGICAL"
+		self.definitions = [u'relating to weather conditions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

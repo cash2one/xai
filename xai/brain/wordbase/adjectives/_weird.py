@@ -4,11 +4,12 @@
 class _WEIRD():
 	def __init__(self,): 
 		self.name = "WEIRD"
+		self.definitions = [u'very strange and unusual, unexpected, or not natural: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

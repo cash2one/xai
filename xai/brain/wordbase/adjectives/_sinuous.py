@@ -4,11 +4,12 @@
 class _SINUOUS():
 	def __init__(self,): 
 		self.name = "SINUOUS"
+		self.definitions = [u'moving in a twisting, curving, or indirect way, or having many curves: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

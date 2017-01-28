@@ -4,11 +4,12 @@
 class _COMELY():
 	def __init__(self,): 
 		self.name = "COMELY"
+		self.definitions = [u'A comely woman is attractive in appearance.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

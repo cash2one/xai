@@ -4,11 +4,12 @@
 class _CATALAN():
 	def __init__(self,): 
 		self.name = "CATALAN"
+		self.definitions = [u'belonging to or relating to Catalonia or its people, or to the Catalan language: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MULTIRACIAL():
 	def __init__(self,): 
 		self.name = "MULTIRACIAL"
+		self.definitions = [u'involving people of several different races: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

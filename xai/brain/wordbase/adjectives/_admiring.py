@@ -4,11 +4,12 @@
 class _ADMIRING():
 	def __init__(self,): 
 		self.name = "ADMIRING"
+		self.definitions = [u'showing admiration: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

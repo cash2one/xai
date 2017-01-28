@@ -4,11 +4,12 @@
 class _BEARDED():
 	def __init__(self,): 
 		self.name = "BEARDED"
+		self.definitions = [u'with a beard: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

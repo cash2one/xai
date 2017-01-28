@@ -4,11 +4,12 @@
 class _RESTRICTIVE():
 	def __init__(self,): 
 		self.name = "RESTRICTIVE"
+		self.definitions = [u'limiting the freedom of someone or preventing something from growing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

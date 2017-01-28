@@ -4,11 +4,12 @@
 class _SUPERCHARGED():
 	def __init__(self,): 
 		self.name = "SUPERCHARGED"
+		self.definitions = [u'very fast or energetic: ', u'containing or expressing very strong emotions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

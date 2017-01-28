@@ -4,11 +4,12 @@
 class _FELL():
 	def __init__(self,): 
 		self.name = "FELL"
+		self.definitions = [u'evil or cruel', u'relating to fells (= hills): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

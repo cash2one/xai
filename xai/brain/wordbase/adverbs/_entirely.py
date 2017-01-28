@@ -4,11 +4,12 @@
 class _ENTIRELY():
 	def __init__(self,): 
 		self.name = "ENTIRELY"
+		self.definitions = [u'completely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

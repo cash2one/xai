@@ -4,11 +4,12 @@
 class _BRIEFLY():
 	def __init__(self,): 
 		self.name = "BRIEFLY"
+		self.definitions = [u'for a short time: ', u'using few words or without giving a lot of details: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

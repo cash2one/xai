@@ -4,11 +4,12 @@
 class _MISTAKE():
 	def __init__(self,): 
 		self.name = "MISTAKE"
+		self.definitions = [u'an action, decision, or judgment that produces an unwanted or unintentional result: ', u'by accident: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

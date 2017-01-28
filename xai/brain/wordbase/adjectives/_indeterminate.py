@@ -4,11 +4,12 @@
 class _INDETERMINATE():
 	def __init__(self,): 
 		self.name = "INDETERMINATE"
+		self.definitions = [u'not measured, counted, or clearly known: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PEEVED():
 	def __init__(self,): 
 		self.name = "PEEVED"
+		self.definitions = [u'annoyed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

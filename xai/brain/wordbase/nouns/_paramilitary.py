@@ -4,11 +4,12 @@
 class _PARAMILITARY():
 	def __init__(self,): 
 		self.name = "PARAMILITARY"
+		self.definitions = [u'a person who belongs to a paramilitary organization']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

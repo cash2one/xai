@@ -4,11 +4,12 @@
 class _SCRAWNY():
 	def __init__(self,): 
 		self.name = "SCRAWNY"
+		self.definitions = [u'unpleasantly thin, often with bones showing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

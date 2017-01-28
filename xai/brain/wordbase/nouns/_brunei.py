@@ -4,11 +4,12 @@
 class _BRUNEI():
 	def __init__(self,): 
 		self.name = "BRUNEI"
+		self.definitions = [u'a small country in Southeast Asia']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

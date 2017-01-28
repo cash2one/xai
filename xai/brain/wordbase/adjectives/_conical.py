@@ -4,11 +4,12 @@
 class _CONICAL():
 	def __init__(self,): 
 		self.name = "CONICAL"
+		self.definitions = [u'shaped like a cone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

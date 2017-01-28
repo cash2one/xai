@@ -4,11 +4,12 @@
 class _ERITREA():
 	def __init__(self,): 
 		self.name = "ERITREA"
+		self.definitions = [u'a country in East Africa']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

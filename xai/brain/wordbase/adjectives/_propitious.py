@@ -4,11 +4,12 @@
 class _PROPITIOUS():
 	def __init__(self,): 
 		self.name = "PROPITIOUS"
+		self.definitions = [u'likely to result in success, or showing signs of success: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

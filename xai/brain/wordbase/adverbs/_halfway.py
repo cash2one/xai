@@ -4,11 +4,12 @@
 class _HALFWAY():
 	def __init__(self,): 
 		self.name = "HALFWAY"
+		self.definitions = [u'not very, but enough to be satisfactory: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _REFLECTIVE():
 	def __init__(self,): 
 		self.name = "REFLECTIVE"
+		self.definitions = [u'A reflective surface sends back most of the light that shines on it and can therefore be seen easily.', u'thinking carefully and quietly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

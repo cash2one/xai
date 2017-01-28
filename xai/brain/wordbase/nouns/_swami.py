@@ -4,11 +4,12 @@
 class _SWAMI():
 	def __init__(self,): 
 		self.name = "SWAMI"
+		self.definitions = [u'(the title of) a Hindu religious teacher']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

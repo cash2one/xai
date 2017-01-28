@@ -4,11 +4,12 @@
 class _RICOTTA():
 	def __init__(self,): 
 		self.name = "RICOTTA"
+		self.definitions = [u'a soft, white Italian cheese that does not have a strong taste']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

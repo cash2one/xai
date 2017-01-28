@@ -4,11 +4,12 @@
 class _BIMONTHLY():
 	def __init__(self,): 
 		self.name = "BIMONTHLY"
+		self.definitions = [u'happening or appearing every two months or twice a month: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

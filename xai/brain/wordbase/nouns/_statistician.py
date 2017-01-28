@@ -4,11 +4,12 @@
 class _STATISTICIAN():
 	def __init__(self,): 
 		self.name = "STATISTICIAN"
+		self.definitions = [u'someone who studies or is an expert in statistics']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _FLUORESCENT():
 	def __init__(self,): 
 		self.name = "FLUORESCENT"
+		self.definitions = [u'Fluorescent lights are very bright, tube-shaped electric lights, often used in offices: ', u'Fluorescent colours are very bright and can be seen in the dark: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

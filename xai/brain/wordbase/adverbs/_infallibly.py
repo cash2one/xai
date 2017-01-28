@@ -4,11 +4,12 @@
 class _INFALLIBLY():
 	def __init__(self,): 
 		self.name = "INFALLIBLY"
+		self.definitions = [u'always: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

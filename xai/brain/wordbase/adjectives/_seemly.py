@@ -4,11 +4,12 @@
 class _SEEMLY():
 	def __init__(self,): 
 		self.name = "SEEMLY"
+		self.definitions = [u'socially suitable and polite']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

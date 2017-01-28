@@ -4,11 +4,12 @@
 class _CRISPY():
 	def __init__(self,): 
 		self.name = "CRISPY"
+		self.definitions = [u'Crispy food is hard enough to be broken easily: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

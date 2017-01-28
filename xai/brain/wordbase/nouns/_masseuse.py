@@ -4,11 +4,12 @@
 class _MASSEUSE():
 	def __init__(self,): 
 		self.name = "MASSEUSE"
+		self.definitions = [u'a female masseur']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

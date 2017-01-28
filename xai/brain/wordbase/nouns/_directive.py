@@ -4,11 +4,12 @@
 class _DIRECTIVE():
 	def __init__(self,): 
 		self.name = "DIRECTIVE"
+		self.definitions = [u'an official instruction: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

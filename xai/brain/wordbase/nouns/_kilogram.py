@@ -4,11 +4,12 @@
 class _KILOGRAM():
 	def __init__(self,): 
 		self.name = "KILOGRAM"
+		self.definitions = [u'a unit of mass equal to 1,000 grams']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _IRREMEDIABLE():
 	def __init__(self,): 
 		self.name = "IRREMEDIABLE"
+		self.definitions = [u'impossible to correct or cure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

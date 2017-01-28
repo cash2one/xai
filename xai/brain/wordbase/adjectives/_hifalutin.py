@@ -4,11 +4,12 @@
 class _HIFALUTIN():
 	def __init__(self,): 
 		self.name = "HIFALUTIN"
+		self.definitions = [u'a US spelling of  highfalutin ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

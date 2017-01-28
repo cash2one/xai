@@ -4,11 +4,12 @@
 class _DITHER():
 	def __init__(self,): 
 		self.name = "DITHER"
+		self.definitions = [u'to be very nervous, excited, or confused about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

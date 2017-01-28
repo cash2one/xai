@@ -4,11 +4,12 @@
 class _DEADLOCKED():
 	def __init__(self,): 
 		self.name = "DEADLOCKED"
+		self.definitions = [u'If a situation is deadlocked, agreement in an argument cannot be reached because neither side will change its demands or accept any of the demands of the other side: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

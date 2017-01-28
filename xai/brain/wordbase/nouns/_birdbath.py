@@ -4,11 +4,12 @@
 class _BIRDBATH():
 	def __init__(self,): 
 		self.name = "BIRDBATH"
+		self.definitions = [u'a bowl filled with water for birds to drink and bathe (= cover themselves in water) in']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

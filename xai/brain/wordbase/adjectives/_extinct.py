@@ -4,11 +4,12 @@
 class _EXTINCT():
 	def __init__(self,): 
 		self.name = "EXTINCT"
+		self.definitions = [u'not now existing: ', u'An extinct volcano is one that is not now active (= will not explode again).']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INTRAVENOUS():
 	def __init__(self,): 
 		self.name = "INTRAVENOUS"
+		self.definitions = [u'into or connected to a vein: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

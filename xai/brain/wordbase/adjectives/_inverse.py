@@ -4,11 +4,12 @@
 class _INVERSE():
 	def __init__(self,): 
 		self.name = "INVERSE"
+		self.definitions = [u'opposite in relation to something else: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

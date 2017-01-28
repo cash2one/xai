@@ -4,11 +4,12 @@
 class _JUSTIFIED():
 	def __init__(self,): 
 		self.name = "JUSTIFIED"
+		self.definitions = [u'having a good reason for something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

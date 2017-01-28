@@ -4,11 +4,12 @@
 class _LEAKY():
 	def __init__(self,): 
 		self.name = "LEAKY"
+		self.definitions = [u'Something that is leaky has a hole or crack in it that allows liquid or gas to get through: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

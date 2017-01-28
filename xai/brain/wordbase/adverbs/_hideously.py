@@ -4,11 +4,12 @@
 class _HIDEOUSLY():
 	def __init__(self,): 
 		self.name = "HIDEOUSLY"
+		self.definitions = [u'in an extremely ugly way: ', u'used to emphasize the great degree of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _ANALYTICAL():
 	def __init__(self,): 
 		self.name = "ANALYTICAL"
+		self.definitions = [u'examining or liking to examine things very carefully: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

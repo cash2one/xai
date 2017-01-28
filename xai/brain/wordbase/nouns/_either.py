@@ -4,11 +4,12 @@
 class _EITHER():
 	def __init__(self,): 
 		self.name = "EITHER"
+		self.definitions = [u'both: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

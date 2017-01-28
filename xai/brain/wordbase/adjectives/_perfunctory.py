@@ -4,11 +4,12 @@
 class _PERFUNCTORY():
 	def __init__(self,): 
 		self.name = "PERFUNCTORY"
+		self.definitions = [u'done quickly, without taking care or interest: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

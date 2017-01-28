@@ -4,11 +4,12 @@
 class _UNFATHOMABLE():
 	def __init__(self,): 
 		self.name = "UNFATHOMABLE"
+		self.definitions = [u'impossible to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

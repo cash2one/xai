@@ -4,11 +4,12 @@
 class _ENGROSSING():
 	def __init__(self,): 
 		self.name = "ENGROSSING"
+		self.definitions = [u'very interesting and needing all your attention: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

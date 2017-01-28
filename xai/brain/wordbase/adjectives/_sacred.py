@@ -4,11 +4,12 @@
 class _SACRED():
 	def __init__(self,): 
 		self.name = "SACRED"
+		self.definitions = [u'considered to be holy and deserving respect, especially because of a connection with a god: ', u'connected with religion: ', u'considered too important to be changed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

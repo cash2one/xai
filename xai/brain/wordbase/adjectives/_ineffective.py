@@ -4,11 +4,12 @@
 class _INEFFECTIVE():
 	def __init__(self,): 
 		self.name = "INEFFECTIVE"
+		self.definitions = [u'not producing the effects or results that are wanted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

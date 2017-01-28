@@ -4,11 +4,12 @@
 class _UNPRECEDENTED():
 	def __init__(self,): 
 		self.name = "UNPRECEDENTED"
+		self.definitions = [u'never having happened or existed in the past: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

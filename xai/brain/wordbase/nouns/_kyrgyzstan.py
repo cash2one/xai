@@ -4,11 +4,12 @@
 class _KYRGYZSTAN():
 	def __init__(self,): 
 		self.name = "KYRGYZSTAN"
+		self.definitions = [u'a country in central Asia']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

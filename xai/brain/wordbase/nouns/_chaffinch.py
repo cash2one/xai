@@ -4,11 +4,12 @@
 class _CHAFFINCH():
 	def __init__(self,): 
 		self.name = "CHAFFINCH"
+		self.definitions = [u'a common small European bird']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

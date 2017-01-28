@@ -4,11 +4,12 @@
 class _UNKIND():
 	def __init__(self,): 
 		self.name = "UNKIND"
+		self.definitions = [u"not treating someone very well; not considering someone's feelings: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

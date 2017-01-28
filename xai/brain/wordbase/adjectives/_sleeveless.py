@@ -4,11 +4,12 @@
 class _SLEEVELESS():
 	def __init__(self,): 
 		self.name = "SLEEVELESS"
+		self.definitions = [u'A sleeveless piece of clothing has no sleeves: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

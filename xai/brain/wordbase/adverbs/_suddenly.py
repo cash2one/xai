@@ -4,11 +4,12 @@
 class _SUDDENLY():
 	def __init__(self,): 
 		self.name = "SUDDENLY"
+		self.definitions = [u'quickly and unexpectedly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

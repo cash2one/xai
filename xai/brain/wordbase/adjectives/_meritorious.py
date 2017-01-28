@@ -4,11 +4,12 @@
 class _MERITORIOUS():
 	def __init__(self,): 
 		self.name = "MERITORIOUS"
+		self.definitions = [u'deserving great praise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

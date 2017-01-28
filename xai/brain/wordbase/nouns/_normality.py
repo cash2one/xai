@@ -4,11 +4,12 @@
 class _NORMALITY():
 	def __init__(self,): 
 		self.name = "NORMALITY"
+		self.definitions = [u'the state of being normal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

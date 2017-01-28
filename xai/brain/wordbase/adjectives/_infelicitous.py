@@ -4,11 +4,12 @@
 class _INFELICITOUS():
 	def __init__(self,): 
 		self.name = "INFELICITOUS"
+		self.definitions = [u'not suitable for the occasion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _OK():
 	def __init__(self,): 
 		self.name = "OK"
+		self.definitions = [u'in a satisfactory way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

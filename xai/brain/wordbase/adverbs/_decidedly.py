@@ -4,11 +4,12 @@
 class _DECIDEDLY():
 	def __init__(self,): 
 		self.name = "DECIDEDLY"
+		self.definitions = [u'certainly and obviously: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

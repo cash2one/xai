@@ -4,11 +4,12 @@
 class _TEPID():
 	def __init__(self,): 
 		self.name = "TEPID"
+		self.definitions = [u'(of liquid) not very warm', u'A tepid reaction is not enthusiastic: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

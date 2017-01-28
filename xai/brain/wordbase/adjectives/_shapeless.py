@@ -4,11 +4,12 @@
 class _SHAPELESS():
 	def __init__(self,): 
 		self.name = "SHAPELESS"
+		self.definitions = [u'without a clear form or structure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

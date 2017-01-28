@@ -4,11 +4,12 @@
 class _SKYSCRAPER():
 	def __init__(self,): 
 		self.name = "SKYSCRAPER"
+		self.definitions = [u'a very tall modern building, usually in a city']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

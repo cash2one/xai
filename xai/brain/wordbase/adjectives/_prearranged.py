@@ -4,11 +4,12 @@
 class _PREARRANGED():
 	def __init__(self,): 
 		self.name = "PREARRANGED"
+		self.definitions = [u'arranged at an earlier time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

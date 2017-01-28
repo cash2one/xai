@@ -4,11 +4,12 @@
 class _CORNCOB():
 	def __init__(self,): 
 		self.name = "CORNCOB"
+		self.definitions = [u'the part of the maize plant on which the grain grows']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

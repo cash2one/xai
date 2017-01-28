@@ -4,11 +4,12 @@
 class _HANDICRAFT():
 	def __init__(self,): 
 		self.name = "HANDICRAFT"
+		self.definitions = [u'a skilled activity in which something is made in a traditional way with the hands rather than being produced by machines in a factory, or an object made by such an activity']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _EASTERNMOST():
 	def __init__(self,): 
 		self.name = "EASTERNMOST"
+		self.definitions = [u'furthest towards the east of an area: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

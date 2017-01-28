@@ -4,11 +4,12 @@
 class _SCULPTOR():
 	def __init__(self,): 
 		self.name = "SCULPTOR"
+		self.definitions = [u'someone who creates sculptures: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

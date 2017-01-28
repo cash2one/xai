@@ -4,11 +4,12 @@
 class _CONFEDERATE():
 	def __init__(self,): 
 		self.name = "CONFEDERATE"
+		self.definitions = [u'someone you work together with in a secret, sometimes illegal, activity']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

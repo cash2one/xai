@@ -4,11 +4,12 @@
 class _SULTANA():
 	def __init__(self,): 
 		self.name = "SULTANA"
+		self.definitions = [u'a dried white grape']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

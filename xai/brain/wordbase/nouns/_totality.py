@@ -4,11 +4,12 @@
 class _TOTALITY():
 	def __init__(self,): 
 		self.name = "TOTALITY"
+		self.definitions = [u'the whole of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

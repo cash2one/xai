@@ -4,11 +4,12 @@
 class _INFLATIONARY():
 	def __init__(self,): 
 		self.name = "INFLATIONARY"
+		self.definitions = [u'causing price increases and inflation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

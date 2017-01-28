@@ -4,11 +4,12 @@
 class _GOODY():
 	def __init__(self,): 
 		self.name = "GOODY"
+		self.definitions = [u'used to show pleasure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

@@ -4,11 +4,12 @@
 class _PATRIOTIC():
 	def __init__(self,): 
 		self.name = "PATRIOTIC"
+		self.definitions = [u'showing love for your country and being proud of it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

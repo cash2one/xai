@@ -4,11 +4,12 @@
 class _GROSSLY():
 	def __init__(self,): 
 		self.name = "GROSSLY"
+		self.definitions = [u'extremely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

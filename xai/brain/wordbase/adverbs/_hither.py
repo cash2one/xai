@@ -4,11 +4,12 @@
 class _HITHER():
 	def __init__(self,): 
 		self.name = "HITHER"
+		self.definitions = [u'to or towards this place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

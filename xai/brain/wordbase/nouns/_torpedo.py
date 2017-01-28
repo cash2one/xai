@@ -4,11 +4,12 @@
 class _TORPEDO():
 	def __init__(self,): 
 		self.name = "TORPEDO"
+		self.definitions = [u'a long, thin bomb that travels underwater in order to destroy the ship at which it is aimed']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

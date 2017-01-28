@@ -4,11 +4,12 @@
 class _IMPEDIMENT():
 	def __init__(self,): 
 		self.name = "IMPEDIMENT"
+		self.definitions = [u'something that makes progress, movement, or achieving something difficult or impossible: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

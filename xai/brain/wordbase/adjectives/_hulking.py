@@ -4,11 +4,12 @@
 class _HULKING():
 	def __init__(self,): 
 		self.name = "HULKING"
+		self.definitions = [u'large and heavy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

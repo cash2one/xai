@@ -4,11 +4,12 @@
 class _GASSY():
 	def __init__(self,): 
 		self.name = "GASSY"
+		self.definitions = [u'containing a lot of gas']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _RETRIBUTION():
 	def __init__(self,): 
 		self.name = "RETRIBUTION"
+		self.definitions = [u'deserved and severe punishment: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

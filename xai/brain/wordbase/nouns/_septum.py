@@ -4,11 +4,12 @@
 class _SEPTUM():
 	def __init__(self,): 
 		self.name = "SEPTUM"
+		self.definitions = [u'a thin part dividing tissues or spaces in an organ such as the nose or heart: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

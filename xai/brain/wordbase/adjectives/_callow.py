@@ -4,11 +4,12 @@
 class _CALLOW():
 	def __init__(self,): 
 		self.name = "CALLOW"
+		self.definitions = [u'Someone, especially a young person, who is callow behaves in a way that shows they have little experience, confidence, or judgment: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

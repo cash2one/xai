@@ -4,11 +4,12 @@
 class _MEALY():
 	def __init__(self,): 
 		self.name = "MEALY"
+		self.definitions = [u'dry and like a powder: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

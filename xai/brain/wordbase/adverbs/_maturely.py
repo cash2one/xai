@@ -4,11 +4,12 @@
 class _MATURELY():
 	def __init__(self,): 
 		self.name = "MATURELY"
+		self.definitions = [u'in a mature and responsible way']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _HEREWITH():
 	def __init__(self,): 
 		self.name = "HEREWITH"
+		self.definitions = [u'together with this letter or other official written material: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _HEAVENWARD():
 	def __init__(self,): 
 		self.name = "HEAVENWARD"
+		self.definitions = [u'upwards: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

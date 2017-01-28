@@ -4,11 +4,12 @@
 class _RUSTPROOF():
 	def __init__(self,): 
 		self.name = "RUSTPROOF"
+		self.definitions = [u'protected against rust (= metal decay)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

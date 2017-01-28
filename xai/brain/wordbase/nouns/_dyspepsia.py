@@ -4,11 +4,12 @@
 class _DYSPEPSIA():
 	def __init__(self,): 
 		self.name = "DYSPEPSIA"
+		self.definitions = [u'any symptom, such as discomfort or pain, coming from the upper digestive tract: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _MEXICO():
 	def __init__(self,): 
 		self.name = "MEXICO"
+		self.definitions = [u'a country in southern North America']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

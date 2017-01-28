@@ -4,11 +4,12 @@
 class _PECTORALS():
 	def __init__(self,): 
 		self.name = "PECTORALS"
+		self.definitions = [u'chest muscles']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

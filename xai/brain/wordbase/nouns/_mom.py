@@ -4,11 +4,12 @@
 class _MOM():
 	def __init__(self,): 
 		self.name = "MOM"
+		self.definitions = [u'a mother: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

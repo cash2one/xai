@@ -4,11 +4,12 @@
 class _RABBI():
 	def __init__(self,): 
 		self.name = "RABBI"
+		self.definitions = [u'a religious leader and teacher in the Jewish religion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

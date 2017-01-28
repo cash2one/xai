@@ -4,11 +4,12 @@
 class _PROSPERITY():
 	def __init__(self,): 
 		self.name = "PROSPERITY"
+		self.definitions = [u'the state of being successful and having a lot of money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

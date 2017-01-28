@@ -4,11 +4,12 @@
 class _DEPRESSED():
 	def __init__(self,): 
 		self.name = "DEPRESSED"
+		self.definitions = [u'unhappy and without hope: ', u'not having enough money, jobs, or business activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

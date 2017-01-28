@@ -4,11 +4,12 @@
 class _BACK():
 	def __init__(self,): 
 		self.name = "BACK"
+		self.definitions = [u'at or near the back of something: ', u'paid after the end of a period of time when it should have been paid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _LEADED():
 	def __init__(self,): 
 		self.name = "LEADED"
+		self.definitions = [u'Leadedpetrol (= fuel) has small amounts of lead in it.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

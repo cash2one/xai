@@ -4,11 +4,12 @@
 class _FLAXEN():
 	def __init__(self,): 
 		self.name = "FLAXEN"
+		self.definitions = [u'(of hair) pale yellow: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

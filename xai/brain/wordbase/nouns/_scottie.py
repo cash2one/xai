@@ -4,11 +4,12 @@
 class _SCOTTIE():
 	def __init__(self,): 
 		self.name = "SCOTTIE"
+		self.definitions = [u'informal for  Scottish terrier ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

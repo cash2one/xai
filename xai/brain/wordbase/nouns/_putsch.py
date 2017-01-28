@@ -4,11 +4,12 @@
 class _PUTSCH():
 	def __init__(self,): 
 		self.name = "PUTSCH"
+		self.definitions = [u'an attempt to remove a government by force']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

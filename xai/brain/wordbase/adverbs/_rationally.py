@@ -4,11 +4,12 @@
 class _RATIONALLY():
 	def __init__(self,): 
 		self.name = "RATIONALLY"
+		self.definitions = [u'in a way that is based on reason and clear thought, rather than emotions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

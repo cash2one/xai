@@ -4,11 +4,12 @@
 class _ARISTOCRAT():
 	def __init__(self,): 
 		self.name = "ARISTOCRAT"
+		self.definitions = [u'a person of high social rank who belongs to the aristocracy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

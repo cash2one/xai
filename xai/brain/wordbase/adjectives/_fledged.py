@@ -4,11 +4,12 @@
 class _FLEDGED():
 	def __init__(self,): 
 		self.name = "FLEDGED"
+		self.definitions = [u'(of young birds) able to fly']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

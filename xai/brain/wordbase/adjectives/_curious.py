@@ -4,11 +4,12 @@
 class _CURIOUS():
 	def __init__(self,): 
 		self.name = "CURIOUS"
+		self.definitions = [u'interested in learning about people or things around you: ', u'strange and unusual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DUPLICATE():
 	def __init__(self,): 
 		self.name = "DUPLICATE"
+		self.definitions = [u'being an exact copy of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BURROW():
 	def __init__(self,): 
 		self.name = "BURROW"
+		self.definitions = [u'a hole in the ground dug by an animal such as a rabbit, especially to live in']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

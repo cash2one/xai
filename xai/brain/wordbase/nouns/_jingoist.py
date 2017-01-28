@@ -4,11 +4,12 @@
 class _JINGOIST():
 	def __init__(self,): 
 		self.name = "JINGOIST"
+		self.definitions = [u'someone who believes that their own country is always best: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

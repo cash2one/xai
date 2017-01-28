@@ -4,11 +4,12 @@
 class _AVID():
 	def __init__(self,): 
 		self.name = "AVID"
+		self.definitions = [u'extremely eager or interested: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MONARCHIST():
 	def __init__(self,): 
 		self.name = "MONARCHIST"
+		self.definitions = [u'a person who supports the system of having a king or queen']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _BEDRIDDEN():
 	def __init__(self,): 
 		self.name = "BEDRIDDEN"
+		self.definitions = [u'having to stay in bed because of illness or injury: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

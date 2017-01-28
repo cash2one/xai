@@ -4,11 +4,12 @@
 class _FINENESS():
 	def __init__(self,): 
 		self.name = "FINENESS"
+		self.definitions = [u'the quality of being very thin: ', u'the quality of being very exact and delicate: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

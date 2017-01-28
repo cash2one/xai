@@ -4,11 +4,12 @@
 class _RUTTING():
 	def __init__(self,): 
 		self.name = "RUTTING"
+		self.definitions = [u'relating to the period of the year during which particular male animals are sexually active: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _VEAL():
 	def __init__(self,): 
 		self.name = "VEAL"
+		self.definitions = [u'meat from a very young cow']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

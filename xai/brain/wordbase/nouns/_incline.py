@@ -4,11 +4,12 @@
 class _INCLINE():
 	def __init__(self,): 
 		self.name = "INCLINE"
+		self.definitions = [u'a slope: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

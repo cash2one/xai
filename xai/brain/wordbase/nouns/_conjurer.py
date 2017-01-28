@@ -4,11 +4,12 @@
 class _CONJURER():
 	def __init__(self,): 
 		self.name = "CONJURER"
+		self.definitions = [u'a person who performs magic to entertain people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

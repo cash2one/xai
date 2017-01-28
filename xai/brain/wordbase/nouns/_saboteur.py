@@ -4,11 +4,12 @@
 class _SABOTEUR():
 	def __init__(self,): 
 		self.name = "SABOTEUR"
+		self.definitions = [u'a person who sabotages something']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _UNDERSTATED():
 	def __init__(self,): 
 		self.name = "UNDERSTATED"
+		self.definitions = [u'not trying to attract attention or impress people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

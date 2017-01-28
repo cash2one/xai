@@ -4,11 +4,12 @@
 class _GALLIC():
 	def __init__(self,): 
 		self.name = "GALLIC"
+		self.definitions = [u'French or typically French: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PHOBIC():
 	def __init__(self,): 
 		self.name = "PHOBIC"
+		self.definitions = [u'having a strong dislike of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

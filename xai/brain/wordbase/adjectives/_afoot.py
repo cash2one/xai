@@ -4,11 +4,12 @@
 class _AFOOT():
 	def __init__(self,): 
 		self.name = "AFOOT"
+		self.definitions = [u'happening or being planned or prepared: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

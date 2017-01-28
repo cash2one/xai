@@ -4,11 +4,12 @@
 class _SLEEPY():
 	def __init__(self,): 
 		self.name = "SLEEPY"
+		self.definitions = [u'tired and wanting to sleep', u'A sleepy place is quiet and without much activity or excitement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ANNEX():
 	def __init__(self,): 
 		self.name = "ANNEX"
+		self.definitions = [u'US spelling of  annexe ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

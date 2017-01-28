@@ -4,11 +4,12 @@
 class _FANCIER():
 	def __init__(self,): 
 		self.name = "FANCIER"
+		self.definitions = [u'someone who has an interest in and breeds a particular animal or plant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

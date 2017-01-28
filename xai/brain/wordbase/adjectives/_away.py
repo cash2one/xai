@@ -4,11 +4,12 @@
 class _AWAY():
 	def __init__(self,): 
 		self.name = "AWAY"
+		self.definitions = [u"An away match or game is played at an opposing team's sports ground: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNGOVERNABLE():
 	def __init__(self,): 
 		self.name = "UNGOVERNABLE"
+		self.definitions = [u'unable to be governed or controlled']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

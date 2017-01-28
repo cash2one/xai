@@ -4,11 +4,12 @@
 class _OVERTIME():
 	def __init__(self,): 
 		self.name = "OVERTIME"
+		self.definitions = [u'extra payment for working after the usual time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

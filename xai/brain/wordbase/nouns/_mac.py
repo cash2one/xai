@@ -4,11 +4,12 @@
 class _MAC():
 	def __init__(self,): 
 		self.name = "MAC"
+		self.definitions = [u'a waterproof coat (= one that does not allow rain to pass through): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

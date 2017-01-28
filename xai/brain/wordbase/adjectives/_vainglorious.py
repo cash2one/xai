@@ -4,11 +4,12 @@
 class _VAINGLORIOUS():
 	def __init__(self,): 
 		self.name = "VAINGLORIOUS"
+		self.definitions = [u'showing too much pride in your own abilities or achievements: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

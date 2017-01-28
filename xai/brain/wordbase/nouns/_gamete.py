@@ -4,11 +4,12 @@
 class _GAMETE():
 	def __init__(self,): 
 		self.name = "GAMETE"
+		self.definitions = [u'a cell connected with sexual reproduction, either a male sperm or a female egg']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

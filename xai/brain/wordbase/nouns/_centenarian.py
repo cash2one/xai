@@ -4,11 +4,12 @@
 class _CENTENARIAN():
 	def __init__(self,): 
 		self.name = "CENTENARIAN"
+		self.definitions = [u'someone who is a 100 years old or more']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

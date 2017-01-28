@@ -4,11 +4,12 @@
 class _BALMY():
 	def __init__(self,): 
 		self.name = "BALMY"
+		self.definitions = [u'(of weather) pleasantly warm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

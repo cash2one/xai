@@ -4,11 +4,12 @@
 class _VERBOSE():
 	def __init__(self,): 
 		self.name = "VERBOSE"
+		self.definitions = [u'using or containing more words than are necessary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WHIM():
 	def __init__(self,): 
 		self.name = "WHIM"
+		self.definitions = [u'a sudden wish or idea, especially one that cannot be reasonably explained: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

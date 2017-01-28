@@ -4,11 +4,12 @@
 class _CRIMINAL():
 	def __init__(self,): 
 		self.name = "CRIMINAL"
+		self.definitions = [u'someone who commits a crime: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

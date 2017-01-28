@@ -4,11 +4,12 @@
 class _WHEREVER():
 	def __init__(self,): 
 		self.name = "WHEREVER"
+		self.definitions = [u'to or in any or every place: ', u'in every case: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

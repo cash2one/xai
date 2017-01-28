@@ -4,11 +4,12 @@
 class _ELATION():
 	def __init__(self,): 
 		self.name = "ELATION"
+		self.definitions = [u'a state of extreme happiness or excitement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

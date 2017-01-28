@@ -4,11 +4,12 @@
 class _DUREX():
 	def __init__(self,): 
 		self.name = "DUREX"
+		self.definitions = [u'a type of condom']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

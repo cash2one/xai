@@ -4,11 +4,12 @@
 class _DENTAL():
 	def __init__(self,): 
 		self.name = "DENTAL"
+		self.definitions = [u'relating to the teeth: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

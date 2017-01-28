@@ -4,11 +4,12 @@
 class _ANAEROBIC():
 	def __init__(self,): 
 		self.name = "ANAEROBIC"
+		self.definitions = [u'not needing or without oxygen: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

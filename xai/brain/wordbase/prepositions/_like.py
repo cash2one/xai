@@ -4,11 +4,12 @@
 class _LIKE():
 	def __init__(self,): 
 		self.name = "LIKE"
+		self.definitions = [u'similar to; in the same way or manner as: ', u'in a way that suggests: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

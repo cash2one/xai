@@ -4,11 +4,12 @@
 class _FLEXIBLE():
 	def __init__(self,): 
 		self.name = "FLEXIBLE"
+		self.definitions = [u'able to change or be changed easily according to the situation: ', u'able to bend or to be bent easily without breaking: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

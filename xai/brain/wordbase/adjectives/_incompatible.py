@@ -4,11 +4,12 @@
 class _INCOMPATIBLE():
 	def __init__(self,): 
 		self.name = "INCOMPATIBLE"
+		self.definitions = [u'not able to exist or work with another person or thing because of basic differences: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

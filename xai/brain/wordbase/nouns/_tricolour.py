@@ -4,11 +4,12 @@
 class _TRICOLOUR():
 	def __init__(self,): 
 		self.name = "TRICOLOUR"
+		self.definitions = [u'a flag that is divided into three equal parts of different colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

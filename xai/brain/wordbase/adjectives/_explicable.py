@@ -4,11 +4,12 @@
 class _EXPLICABLE():
 	def __init__(self,): 
 		self.name = "EXPLICABLE"
+		self.definitions = [u'able to be explained: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

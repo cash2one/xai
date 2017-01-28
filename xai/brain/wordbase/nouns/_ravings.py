@@ -4,11 +4,12 @@
 class _RAVINGS():
 	def __init__(self,): 
 		self.name = "RAVINGS"
+		self.definitions = [u'crazy statements that have no meaning: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

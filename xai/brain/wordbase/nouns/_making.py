@@ -4,11 +4,12 @@
 class _MAKING():
 	def __init__(self,): 
 		self.name = "MAKING"
+		self.definitions = [u'the activity or process of producing something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

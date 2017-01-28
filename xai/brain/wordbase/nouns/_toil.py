@@ -4,11 +4,12 @@
 class _TOIL():
 	def __init__(self,): 
 		self.name = "TOIL"
+		self.definitions = [u'hard work, especially work that makes you feel physically tired: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

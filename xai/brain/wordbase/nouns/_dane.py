@@ -4,11 +4,12 @@
 class _DANE():
 	def __init__(self,): 
 		self.name = "DANE"
+		self.definitions = [u'a person from Denmark']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

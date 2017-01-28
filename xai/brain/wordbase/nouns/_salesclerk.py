@@ -4,11 +4,12 @@
 class _SALESCLERK():
 	def __init__(self,): 
 		self.name = "SALESCLERK"
+		self.definitions = [u'someone who serves customers in a shop']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

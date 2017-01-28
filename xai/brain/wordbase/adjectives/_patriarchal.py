@@ -4,11 +4,12 @@
 class _PATRIARCHAL():
 	def __init__(self,): 
 		self.name = "PATRIARCHAL"
+		self.definitions = [u'ruled or controlled by men: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _IRISHMAN():
 	def __init__(self,): 
 		self.name = "IRISHMAN"
+		self.definitions = [u'a man from Ireland']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

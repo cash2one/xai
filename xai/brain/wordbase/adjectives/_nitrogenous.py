@@ -4,11 +4,12 @@
 class _NITROGENOUS():
 	def __init__(self,): 
 		self.name = "NITROGENOUS"
+		self.definitions = [u'containing the gas nitrogen']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

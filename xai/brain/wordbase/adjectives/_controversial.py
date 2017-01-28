@@ -4,11 +4,12 @@
 class _CONTROVERSIAL():
 	def __init__(self,): 
 		self.name = "CONTROVERSIAL"
+		self.definitions = [u'causing disagreement or discussion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

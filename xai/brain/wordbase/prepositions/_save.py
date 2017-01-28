@@ -4,11 +4,12 @@
 class _SAVE():
 	def __init__(self,): 
 		self.name = "SAVE"
+		self.definitions = [u'but or except for: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'prepositions'

@@ -4,11 +4,12 @@
 class _JITTERY():
 	def __init__(self,): 
 		self.name = "JITTERY"
+		self.definitions = [u'nervous: ', u'shaking and slightly uncontrolled: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

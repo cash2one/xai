@@ -4,11 +4,12 @@
 class _PRESTIGIOUS():
 	def __init__(self,): 
 		self.name = "PRESTIGIOUS"
+		self.definitions = [u'very much respected and admired, usually because of being important: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

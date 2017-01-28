@@ -4,11 +4,12 @@
 class _STRAIGHTJACKET():
 	def __init__(self,): 
 		self.name = "STRAIGHTJACKET"
+		self.definitions = [u'a  straitjacket ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

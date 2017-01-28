@@ -4,11 +4,12 @@
 class _BLASPHEMOUS():
 	def __init__(self,): 
 		self.name = "BLASPHEMOUS"
+		self.definitions = [u'considered offensive to God or religion: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

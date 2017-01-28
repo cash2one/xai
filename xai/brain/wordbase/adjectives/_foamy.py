@@ -4,11 +4,12 @@
 class _FOAMY():
 	def __init__(self,): 
 		self.name = "FOAMY"
+		self.definitions = [u'made of or producing a mass of very small bubbles: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

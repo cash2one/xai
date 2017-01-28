@@ -4,11 +4,12 @@
 class _PENDANT():
 	def __init__(self,): 
 		self.name = "PENDANT"
+		self.definitions = [u'\u2192\xa0 pendent ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

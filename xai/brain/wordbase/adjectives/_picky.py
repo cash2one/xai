@@ -4,11 +4,12 @@
 class _PICKY():
 	def __init__(self,): 
 		self.name = "PICKY"
+		self.definitions = [u'Someone who is picky is very careful about choosing only what they like: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

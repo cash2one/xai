@@ -4,11 +4,12 @@
 class _MUTABLE():
 	def __init__(self,): 
 		self.name = "MUTABLE"
+		self.definitions = [u'able or likely to change: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

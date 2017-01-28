@@ -4,11 +4,12 @@
 class _ROWDY():
 	def __init__(self,): 
 		self.name = "ROWDY"
+		self.definitions = [u'noisy and possibly violent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

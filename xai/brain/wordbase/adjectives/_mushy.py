@@ -4,11 +4,12 @@
 class _MUSHY():
 	def __init__(self,): 
 		self.name = "MUSHY"
+		self.definitions = [u'soft and having no firm shape: ', u'too emotional: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

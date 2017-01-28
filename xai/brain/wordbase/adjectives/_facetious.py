@@ -4,11 +4,12 @@
 class _FACETIOUS():
 	def __init__(self,): 
 		self.name = "FACETIOUS"
+		self.definitions = [u'not serious about a serious subject, in an attempt to be funny or to appear clever : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ALLURING():
 	def __init__(self,): 
 		self.name = "ALLURING"
+		self.definitions = [u'attractive or exciting: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

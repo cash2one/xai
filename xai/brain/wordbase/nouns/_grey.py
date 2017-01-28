@@ -4,11 +4,12 @@
 class _GREY():
 	def __init__(self,): 
 		self.name = "GREY"
+		self.definitions = [u'the colour that is a mixture of black and white, the colour of rain clouds: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

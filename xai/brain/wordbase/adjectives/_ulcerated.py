@@ -4,11 +4,12 @@
 class _ULCERATED():
 	def __init__(self,): 
 		self.name = "ULCERATED"
+		self.definitions = [u'Ulcerated skin is covered in ulcers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

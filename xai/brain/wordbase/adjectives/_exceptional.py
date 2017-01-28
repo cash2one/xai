@@ -4,11 +4,12 @@
 class _EXCEPTIONAL():
 	def __init__(self,): 
 		self.name = "EXCEPTIONAL"
+		self.definitions = [u'much greater than usual, especially in skill, intelligence, quality, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

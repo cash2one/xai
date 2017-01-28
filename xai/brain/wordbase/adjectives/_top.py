@@ -4,11 +4,12 @@
 class _TOP():
 	def __init__(self,): 
 		self.name = "TOP"
+		self.definitions = [u'excellent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

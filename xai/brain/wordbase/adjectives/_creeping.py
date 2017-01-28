@@ -4,11 +4,12 @@
 class _CREEPING():
 	def __init__(self,): 
 		self.name = "CREEPING"
+		self.definitions = [u'happening, developing, or moving slowly or gradually: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

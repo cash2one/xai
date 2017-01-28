@@ -4,11 +4,12 @@
 class _STRAIGHT():
 	def __init__(self,): 
 		self.name = "STRAIGHT"
+		self.definitions = [u'immediately: ', u'immediately: ', u'clearly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

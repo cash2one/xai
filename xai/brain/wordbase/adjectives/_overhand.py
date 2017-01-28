@@ -4,11 +4,12 @@
 class _OVERHAND():
 	def __init__(self,): 
 		self.name = "OVERHAND"
+		self.definitions = [u'(especially of a throw) made with the arm moving above the shoulder: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _OVERCAST():
 	def __init__(self,): 
 		self.name = "OVERCAST"
+		self.definitions = [u'with clouds in the sky and therefore not bright and sunny: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

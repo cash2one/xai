@@ -4,11 +4,12 @@
 class _BUSINESSMAN():
 	def __init__(self,): 
 		self.name = "BUSINESSMAN"
+		self.definitions = [u'a man who works in business, especially one who has a high position in a company: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

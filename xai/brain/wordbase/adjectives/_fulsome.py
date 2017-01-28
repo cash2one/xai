@@ -4,11 +4,12 @@
 class _FULSOME():
 	def __init__(self,): 
 		self.name = "FULSOME"
+		self.definitions = [u'expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

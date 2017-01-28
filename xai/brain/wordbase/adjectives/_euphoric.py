@@ -4,11 +4,12 @@
 class _EUPHORIC():
 	def __init__(self,): 
 		self.name = "EUPHORIC"
+		self.definitions = [u'extremely happy and excited: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

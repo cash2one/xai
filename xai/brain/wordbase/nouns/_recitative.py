@@ -4,11 +4,12 @@
 class _RECITATIVE():
 	def __init__(self,): 
 		self.name = "RECITATIVE"
+		self.definitions = [u'in music, words that are sung as if they are being spoken']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

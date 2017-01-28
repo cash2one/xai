@@ -4,11 +4,12 @@
 class _UNHURRIED():
 	def __init__(self,): 
 		self.name = "UNHURRIED"
+		self.definitions = [u'not doing something too quickly; slow: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

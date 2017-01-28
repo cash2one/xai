@@ -4,11 +4,12 @@
 class _CHURLISH():
 	def __init__(self,): 
 		self.name = "CHURLISH"
+		self.definitions = [u'rude, unfriendly, and unpleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

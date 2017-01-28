@@ -4,11 +4,12 @@
 class _DAINTY():
 	def __init__(self,): 
 		self.name = "DAINTY"
+		self.definitions = [u'small, delicate, and often moving in a careful way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

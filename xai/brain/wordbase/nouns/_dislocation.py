@@ -4,11 +4,12 @@
 class _DISLOCATION():
 	def __init__(self,): 
 		self.name = "DISLOCATION"
+		self.definitions = [u'an injury in which the ends of two connected bones separate: ', u'a negative effect on how something works: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

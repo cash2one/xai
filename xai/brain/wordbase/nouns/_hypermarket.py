@@ -4,11 +4,12 @@
 class _HYPERMARKET():
 	def __init__(self,): 
 		self.name = "HYPERMARKET"
+		self.definitions = [u'a very large shop, usually outside the centre of town']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

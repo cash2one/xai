@@ -4,11 +4,12 @@
 class _ZAP():
 	def __init__(self,): 
 		self.name = "ZAP"
+		self.definitions = [u'an electric shock or something similar: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

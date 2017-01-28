@@ -4,11 +4,12 @@
 class _TUMULTUOUS():
 	def __init__(self,): 
 		self.name = "TUMULTUOUS"
+		self.definitions = [u'very loud, or full of confusion, change, or uncertainty: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

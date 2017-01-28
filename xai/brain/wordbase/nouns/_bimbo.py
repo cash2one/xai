@@ -4,11 +4,12 @@
 class _BIMBO():
 	def __init__(self,): 
 		self.name = "BIMBO"
+		self.definitions = [u'a young woman considered to be attractive but not intelligent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

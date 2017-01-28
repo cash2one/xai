@@ -4,11 +4,12 @@
 class _DIARIST():
 	def __init__(self,): 
 		self.name = "DIARIST"
+		self.definitions = [u'someone who is known for writing or having written a diary: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

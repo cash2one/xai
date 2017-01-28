@@ -4,11 +4,12 @@
 class _PROJECTILE():
 	def __init__(self,): 
 		self.name = "PROJECTILE"
+		self.definitions = [u'an object that is thrown or shot forwards, especially from a weapon: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

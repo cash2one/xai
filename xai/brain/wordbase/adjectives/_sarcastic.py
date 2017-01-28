@@ -4,11 +4,12 @@
 class _SARCASTIC():
 	def __init__(self,): 
 		self.name = "SARCASTIC"
+		self.definitions = [u'using sarcasm: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

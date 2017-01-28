@@ -4,11 +4,12 @@
 class _RACKETEERING():
 	def __init__(self,): 
 		self.name = "RACKETEERING"
+		self.definitions = [u'making money from a dishonest or illegal activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

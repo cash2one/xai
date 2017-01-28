@@ -4,11 +4,12 @@
 class _RECONDITE():
 	def __init__(self,): 
 		self.name = "RECONDITE"
+		self.definitions = [u'not known about by many people and difficult to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

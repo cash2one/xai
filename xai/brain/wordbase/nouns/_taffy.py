@@ -4,11 +4,12 @@
 class _TAFFY():
 	def __init__(self,): 
 		self.name = "TAFFY"
+		self.definitions = [u'a very sticky sweet made from molasses or sugar that is pulled tight until it is light in colour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

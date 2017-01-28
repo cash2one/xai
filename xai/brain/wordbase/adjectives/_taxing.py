@@ -4,11 +4,12 @@
 class _TAXING():
 	def __init__(self,): 
 		self.name = "TAXING"
+		self.definitions = [u'difficult or needing a lot of thought or effort: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

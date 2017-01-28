@@ -4,11 +4,12 @@
 class _INCONTROVERTIBLE():
 	def __init__(self,): 
 		self.name = "INCONTROVERTIBLE"
+		self.definitions = [u'impossible to doubt because of being obviously true: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

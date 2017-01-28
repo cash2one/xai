@@ -4,11 +4,12 @@
 class _NOVEL():
 	def __init__(self,): 
 		self.name = "NOVEL"
+		self.definitions = [u'new and original, not like anything seen before: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

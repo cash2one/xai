@@ -4,11 +4,12 @@
 class _PENDULOUS():
 	def __init__(self,): 
 		self.name = "PENDULOUS"
+		self.definitions = [u'hanging down loosely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

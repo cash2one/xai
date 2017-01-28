@@ -4,11 +4,12 @@
 class _EDIFYING():
 	def __init__(self,): 
 		self.name = "EDIFYING"
+		self.definitions = [u'improving your mind: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

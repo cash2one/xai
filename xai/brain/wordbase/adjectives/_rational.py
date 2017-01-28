@@ -4,11 +4,12 @@
 class _RATIONAL():
 	def __init__(self,): 
 		self.name = "RATIONAL"
+		self.definitions = [u'based on clear thought and reason: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

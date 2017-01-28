@@ -4,11 +4,12 @@
 class _CULTURAL():
 	def __init__(self,): 
 		self.name = "CULTURAL"
+		self.definitions = [u'relating to the habits, traditions, and beliefs of a society: ', u'relating to music, art, theatre, literature, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

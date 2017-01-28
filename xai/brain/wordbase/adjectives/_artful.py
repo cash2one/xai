@@ -4,11 +4,12 @@
 class _ARTFUL():
 	def __init__(self,): 
 		self.name = "ARTFUL"
+		self.definitions = [u'clever and skilful, especially in getting what you want: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

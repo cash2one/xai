@@ -4,11 +4,12 @@
 class _AUSPICIOUS():
 	def __init__(self,): 
 		self.name = "AUSPICIOUS"
+		self.definitions = [u'suggesting a positive and successful future: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

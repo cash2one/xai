@@ -4,11 +4,12 @@
 class _SAFELY():
 	def __init__(self,): 
 		self.name = "SAFELY"
+		self.definitions = [u'in a safe way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _UNDERPRIVILEGED():
 	def __init__(self,): 
 		self.name = "UNDERPRIVILEGED"
+		self.definitions = [u'polite phrase for poor people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _MALTESE():
 	def __init__(self,): 
 		self.name = "MALTESE"
+		self.definitions = [u'belonging to or relating to Malta, its people, or its language']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PLENTIFUL():
 	def __init__(self,): 
 		self.name = "PLENTIFUL"
+		self.definitions = [u'If something is plentiful, there is a lot of it available: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DOWNSTAGE():
 	def __init__(self,): 
 		self.name = "DOWNSTAGE"
+		self.definitions = [u'towards or at the front of the stage in a theatre']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

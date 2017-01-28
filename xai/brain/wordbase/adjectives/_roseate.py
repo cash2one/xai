@@ -4,11 +4,12 @@
 class _ROSEATE():
 	def __init__(self,): 
 		self.name = "ROSEATE"
+		self.definitions = [u'pink']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

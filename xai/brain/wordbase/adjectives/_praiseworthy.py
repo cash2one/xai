@@ -4,11 +4,12 @@
 class _PRAISEWORTHY():
 	def __init__(self,): 
 		self.name = "PRAISEWORTHY"
+		self.definitions = [u'deserving praise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

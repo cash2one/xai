@@ -4,11 +4,12 @@
 class _UNCOOKED():
 	def __init__(self,): 
 		self.name = "UNCOOKED"
+		self.definitions = [u'not having been cooked: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

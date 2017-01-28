@@ -4,11 +4,12 @@
 class _EXCUSABLE():
 	def __init__(self,): 
 		self.name = "EXCUSABLE"
+		self.definitions = [u'deserving to be forgiven: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

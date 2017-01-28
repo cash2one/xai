@@ -4,11 +4,12 @@
 class _WOODENLY():
 	def __init__(self,): 
 		self.name = "WOODENLY"
+		self.definitions = [u'in an awkward way or showing no expression: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

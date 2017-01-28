@@ -4,11 +4,12 @@
 class _APPROACHABLE():
 	def __init__(self,): 
 		self.name = "APPROACHABLE"
+		self.definitions = [u'friendly and easy to talk to: ', u'If a place is approachable, you can reach it or get near to it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

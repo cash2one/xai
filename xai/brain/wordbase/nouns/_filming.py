@@ -4,11 +4,12 @@
 class _FILMING():
 	def __init__(self,): 
 		self.name = "FILMING"
+		self.definitions = [u'the activity of making a film: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

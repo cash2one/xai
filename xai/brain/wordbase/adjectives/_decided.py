@@ -4,11 +4,12 @@
 class _DECIDED():
 	def __init__(self,): 
 		self.name = "DECIDED"
+		self.definitions = [u'certain, obvious, or easy to notice: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

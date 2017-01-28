@@ -4,11 +4,12 @@
 class _HELPER():
 	def __init__(self,): 
 		self.name = "HELPER"
+		self.definitions = [u'someone who helps with an activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

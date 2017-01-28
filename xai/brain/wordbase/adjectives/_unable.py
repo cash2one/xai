@@ -4,11 +4,12 @@
 class _UNABLE():
 	def __init__(self,): 
 		self.name = "UNABLE"
+		self.definitions = [u'to not be able to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

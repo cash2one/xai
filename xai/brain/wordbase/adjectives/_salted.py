@@ -4,11 +4,12 @@
 class _SALTED():
 	def __init__(self,): 
 		self.name = "SALTED"
+		self.definitions = [u'containing or covered in salt: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

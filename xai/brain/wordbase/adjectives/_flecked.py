@@ -4,11 +4,12 @@
 class _FLECKED():
 	def __init__(self,): 
 		self.name = "FLECKED"
+		self.definitions = [u'having small marks or spots: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

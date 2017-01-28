@@ -4,11 +4,12 @@
 class _LOBBYIST():
 	def __init__(self,): 
 		self.name = "LOBBYIST"
+		self.definitions = [u'someone who tries to persuade a politician or official group to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

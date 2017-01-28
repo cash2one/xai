@@ -4,11 +4,12 @@
 class _SHIMMER():
 	def __init__(self,): 
 		self.name = "SHIMMER"
+		self.definitions = [u'the fact that something shimmers']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

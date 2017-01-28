@@ -4,11 +4,12 @@
 class _ARCHITECTURAL():
 	def __init__(self,): 
 		self.name = "ARCHITECTURAL"
+		self.definitions = [u'relating to architecture: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

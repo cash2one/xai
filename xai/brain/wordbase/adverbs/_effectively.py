@@ -4,11 +4,12 @@
 class _EFFECTIVELY():
 	def __init__(self,): 
 		self.name = "EFFECTIVELY"
+		self.definitions = [u'in a way that is successful and achieves what you want: ', u'used when you describe what the real result of a situation is: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _PERIPHERAL():
 	def __init__(self,): 
 		self.name = "PERIPHERAL"
+		self.definitions = [u'Something that is peripheral is not as important as something else: ', u'happening at the edge of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

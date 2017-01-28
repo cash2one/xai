@@ -4,11 +4,12 @@
 class _ADVENTUROUS():
 	def __init__(self,): 
 		self.name = "ADVENTUROUS"
+		self.definitions = [u'willing to try new or difficult things: ', u'exciting and often dangerous: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

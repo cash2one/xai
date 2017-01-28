@@ -4,11 +4,12 @@
 class _MICROSCOPY():
 	def __init__(self,): 
 		self.name = "MICROSCOPY"
+		self.definitions = [u'the use, design, or production of microscopes: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

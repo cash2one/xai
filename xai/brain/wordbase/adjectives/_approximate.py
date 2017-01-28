@@ -4,11 +4,12 @@
 class _APPROXIMATE():
 	def __init__(self,): 
 		self.name = "APPROXIMATE"
+		self.definitions = [u'not completely accurate but close: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

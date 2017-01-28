@@ -4,11 +4,12 @@
 class _COMMUNICABLE():
 	def __init__(self,): 
 		self.name = "COMMUNICABLE"
+		self.definitions = [u'able to be given from one person to another: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

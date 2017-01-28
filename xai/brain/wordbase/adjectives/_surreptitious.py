@@ -4,11 +4,12 @@
 class _SURREPTITIOUS():
 	def __init__(self,): 
 		self.name = "SURREPTITIOUS"
+		self.definitions = [u'done secretly, without anyone seeing or knowing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

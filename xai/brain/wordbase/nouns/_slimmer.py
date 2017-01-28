@@ -4,11 +4,12 @@
 class _SLIMMER():
 	def __init__(self,): 
 		self.name = "SLIMMER"
+		self.definitions = [u'a person who is trying to get thinner by eating less and doing more exercise']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

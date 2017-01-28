@@ -4,11 +4,12 @@
 class _CURVACEOUS():
 	def __init__(self,): 
 		self.name = "CURVACEOUS"
+		self.definitions = [u'A curvaceous woman has a body with attractive curves.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

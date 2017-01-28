@@ -4,11 +4,12 @@
 class _APIECE():
 	def __init__(self,): 
 		self.name = "APIECE"
+		self.definitions = [u'each: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _INCORPOREAL():
 	def __init__(self,): 
 		self.name = "INCORPOREAL"
+		self.definitions = [u'not having a physical body but a spiritual form: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

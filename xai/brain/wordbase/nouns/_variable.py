@@ -4,11 +4,12 @@
 class _VARIABLE():
 	def __init__(self,): 
 		self.name = "VARIABLE"
+		self.definitions = [u'a number, amount, or situation that can change: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

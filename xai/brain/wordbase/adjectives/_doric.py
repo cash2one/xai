@@ -4,11 +4,12 @@
 class _DORIC():
 	def __init__(self,): 
 		self.name = "DORIC"
+		self.definitions = [u'of or copying the simplest of the classical styles of ancient Greek building: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

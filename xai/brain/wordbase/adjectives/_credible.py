@@ -4,11 +4,12 @@
 class _CREDIBLE():
 	def __init__(self,): 
 		self.name = "CREDIBLE"
+		self.definitions = [u'able to be believed or trusted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNTRUE():
 	def __init__(self,): 
 		self.name = "UNTRUE"
+		self.definitions = [u'not true; false']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

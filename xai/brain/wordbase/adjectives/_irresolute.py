@@ -4,11 +4,12 @@
 class _IRRESOLUTE():
 	def __init__(self,): 
 		self.name = "IRRESOLUTE"
+		self.definitions = [u'not able or willing to take decisions or actions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

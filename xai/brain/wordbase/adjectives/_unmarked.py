@@ -4,11 +4,12 @@
 class _UNMARKED():
 	def __init__(self,): 
 		self.name = "UNMARKED"
+		self.definitions = [u'having no signs or marks showing what something is: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

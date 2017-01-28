@@ -4,11 +4,12 @@
 class _PENTHOUSE():
 	def __init__(self,): 
 		self.name = "PENTHOUSE"
+		self.definitions = [u'an expensive apartment or set of rooms at the top of a hotel or tall building: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _TRANQUIL():
 	def __init__(self,): 
 		self.name = "TRANQUIL"
+		self.definitions = [u'calm and peaceful and without noise, violence, worry, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

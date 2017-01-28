@@ -4,11 +4,12 @@
 class _SQUEAL():
 	def __init__(self,): 
 		self.name = "SQUEAL"
+		self.definitions = [u'a long, very high sound or cry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _FARMHOUSE():
 	def __init__(self,): 
 		self.name = "FARMHOUSE"
+		self.definitions = [u'the main house on a farm where the farmer lives']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

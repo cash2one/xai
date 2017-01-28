@@ -4,11 +4,12 @@
 class _CONSULTATIVE():
 	def __init__(self,): 
 		self.name = "CONSULTATIVE"
+		self.definitions = [u'A consultative group or document gives advice about something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

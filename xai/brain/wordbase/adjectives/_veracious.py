@@ -4,11 +4,12 @@
 class _VERACIOUS():
 	def __init__(self,): 
 		self.name = "VERACIOUS"
+		self.definitions = [u'honest and not telling or containing any lies: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

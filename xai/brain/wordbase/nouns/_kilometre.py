@@ -4,11 +4,12 @@
 class _KILOMETRE():
 	def __init__(self,): 
 		self.name = "KILOMETRE"
+		self.definitions = [u'a unit of measurement equal to 1,000 metres']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

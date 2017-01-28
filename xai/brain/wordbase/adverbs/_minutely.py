@@ -4,11 +4,12 @@
 class _MINUTELY():
 	def __init__(self,): 
 		self.name = "MINUTELY"
+		self.definitions = [u'very carefully, or looking at every small detail: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

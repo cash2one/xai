@@ -4,11 +4,12 @@
 class _SCARY():
 	def __init__(self,): 
 		self.name = "SCARY"
+		self.definitions = [u'frightening: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

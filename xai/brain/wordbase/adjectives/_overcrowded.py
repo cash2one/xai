@@ -4,11 +4,12 @@
 class _OVERCROWDED():
 	def __init__(self,): 
 		self.name = "OVERCROWDED"
+		self.definitions = [u'containing too many people or things: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

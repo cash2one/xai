@@ -4,11 +4,12 @@
 class _RIGID():
 	def __init__(self,): 
 		self.name = "RIGID"
+		self.definitions = [u'stiff or fixed; not able to be bent or moved: ', u'not able to be changed or persuaded: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

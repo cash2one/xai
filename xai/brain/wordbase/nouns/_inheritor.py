@@ -4,11 +4,12 @@
 class _INHERITOR():
 	def __init__(self,): 
 		self.name = "INHERITOR"
+		self.definitions = [u'a person who has been given something by someone who is dead: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

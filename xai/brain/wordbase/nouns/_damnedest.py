@@ -4,11 +4,12 @@
 class _DAMNEDEST():
 	def __init__(self,): 
 		self.name = "DAMNEDEST"
+		self.definitions = [u'to try very hard: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

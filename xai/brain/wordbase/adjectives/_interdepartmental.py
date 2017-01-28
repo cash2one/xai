@@ -4,11 +4,12 @@
 class _INTERDEPARTMENTAL():
 	def __init__(self,): 
 		self.name = "INTERDEPARTMENTAL"
+		self.definitions = [u'between or involving different departments of a school, university, business, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

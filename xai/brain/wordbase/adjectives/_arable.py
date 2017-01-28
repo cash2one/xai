@@ -4,11 +4,12 @@
 class _ARABLE():
 	def __init__(self,): 
 		self.name = "ARABLE"
+		self.definitions = [u'Arable farming land is used for, or is suitable for, growing crops: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

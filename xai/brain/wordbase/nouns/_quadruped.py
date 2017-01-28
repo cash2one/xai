@@ -4,11 +4,12 @@
 class _QUADRUPED():
 	def __init__(self,): 
 		self.name = "QUADRUPED"
+		self.definitions = [u'any animal that has four legs: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

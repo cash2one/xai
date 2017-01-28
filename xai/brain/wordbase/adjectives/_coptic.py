@@ -4,11 +4,12 @@
 class _COPTIC():
 	def __init__(self,): 
 		self.name = "COPTIC"
+		self.definitions = [u'of or connected with the ancient Christian Church of Egypt, now based in Egypt and Ethiopia: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

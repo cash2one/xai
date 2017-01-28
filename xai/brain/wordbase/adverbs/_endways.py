@@ -4,11 +4,12 @@
 class _ENDWAYS():
 	def __init__(self,): 
 		self.name = "ENDWAYS"
+		self.definitions = [u'with the end, rather than the side, facing or touching: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

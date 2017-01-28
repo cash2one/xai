@@ -4,11 +4,12 @@
 class _OCEANIC():
 	def __init__(self,): 
 		self.name = "OCEANIC"
+		self.definitions = [u'relating to oceans: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _NEGLECTFUL():
 	def __init__(self,): 
 		self.name = "NEGLECTFUL"
+		self.definitions = [u'not giving enough care and attention to something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

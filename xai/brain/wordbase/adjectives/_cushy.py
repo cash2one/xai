@@ -4,11 +4,12 @@
 class _CUSHY():
 	def __init__(self,): 
 		self.name = "CUSHY"
+		self.definitions = [u'very easy: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

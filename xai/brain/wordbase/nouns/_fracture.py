@@ -4,11 +4,12 @@
 class _FRACTURE():
 	def __init__(self,): 
 		self.name = "FRACTURE"
+		self.definitions = [u'a break or crack in something hard, especially a bone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

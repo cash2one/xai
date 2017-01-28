@@ -4,11 +4,12 @@
 class _FILMY():
 	def __init__(self,): 
 		self.name = "FILMY"
+		self.definitions = [u'very thin and often transparent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

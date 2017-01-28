@@ -4,11 +4,12 @@
 class _COMPLIANT():
 	def __init__(self,): 
 		self.name = "COMPLIANT"
+		self.definitions = [u'willing to do what other people want you to do: ', u'used to describe something that obeys a particular rule or law: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

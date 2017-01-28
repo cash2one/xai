@@ -4,11 +4,12 @@
 class _ASCENDANCY():
 	def __init__(self,): 
 		self.name = "ASCENDANCY"
+		self.definitions = [u'a position of power, strength, or success: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

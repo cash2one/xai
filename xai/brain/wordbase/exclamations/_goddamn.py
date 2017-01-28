@@ -4,11 +4,12 @@
 class _GODDAMN():
 	def __init__(self,): 
 		self.name = "GODDAMN"
+		self.definitions = [u'used to add emphasis to what is being said: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

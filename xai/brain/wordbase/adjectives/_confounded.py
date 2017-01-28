@@ -4,11 +4,12 @@
 class _CONFOUNDED():
 	def __init__(self,): 
 		self.name = "CONFOUNDED"
+		self.definitions = [u'used to express anger: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

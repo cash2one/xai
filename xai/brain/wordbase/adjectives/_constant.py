@@ -4,11 +4,12 @@
 class _CONSTANT():
 	def __init__(self,): 
 		self.name = "CONSTANT"
+		self.definitions = [u'happening a lot or all the time: ', u'staying the same, or not getting less or more: ', u'A constant companion or friend who is loyal to you.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

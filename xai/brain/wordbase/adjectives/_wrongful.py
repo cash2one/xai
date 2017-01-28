@@ -4,11 +4,12 @@
 class _WRONGFUL():
 	def __init__(self,): 
 		self.name = "WRONGFUL"
+		self.definitions = [u'Wrongful actions are unfair or illegal: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

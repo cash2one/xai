@@ -4,11 +4,12 @@
 class _LIVING():
 	def __init__(self,): 
 		self.name = "LIVING"
+		self.definitions = [u'alive now: ', u'still existing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

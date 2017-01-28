@@ -4,11 +4,12 @@
 class _SOMNOLENT():
 	def __init__(self,): 
 		self.name = "SOMNOLENT"
+		self.definitions = [u'almost sleeping, or causing sleep: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

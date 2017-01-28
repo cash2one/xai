@@ -4,11 +4,12 @@
 class _BASICALLY():
 	def __init__(self,): 
 		self.name = "BASICALLY"
+		self.definitions = [u'used when referring to the main or most important characteristic or feature of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

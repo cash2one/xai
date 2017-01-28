@@ -4,11 +4,12 @@
 class _SURPRISINGLY():
 	def __init__(self,): 
 		self.name = "SURPRISINGLY"
+		self.definitions = [u'unexpectedly or in a way that is unusual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

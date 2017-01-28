@@ -4,11 +4,12 @@
 class _DISCRIMINATING():
 	def __init__(self,): 
 		self.name = "DISCRIMINATING"
+		self.definitions = [u'able to know and act on the difference between good and bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

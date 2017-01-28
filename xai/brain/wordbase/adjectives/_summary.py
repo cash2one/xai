@@ -4,11 +4,12 @@
 class _SUMMARY():
 	def __init__(self,): 
 		self.name = "SUMMARY"
+		self.definitions = [u'done suddenly, without discussion or legal arrangements: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

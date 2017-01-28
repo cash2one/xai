@@ -4,11 +4,12 @@
 class _INTREPID():
 	def __init__(self,): 
 		self.name = "INTREPID"
+		self.definitions = [u'extremely brave and showing no fear of dangerous situations: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

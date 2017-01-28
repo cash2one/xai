@@ -4,11 +4,12 @@
 class _CHEMICAL():
 	def __init__(self,): 
 		self.name = "CHEMICAL"
+		self.definitions = [u'relating to chemicals: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

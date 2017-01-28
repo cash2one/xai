@@ -4,11 +4,12 @@
 class _ENVOY():
 	def __init__(self,): 
 		self.name = "ENVOY"
+		self.definitions = [u'someone who is sent as a representative from one government or organization to another: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

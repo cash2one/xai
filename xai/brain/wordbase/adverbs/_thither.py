@@ -4,11 +4,12 @@
 class _THITHER():
 	def __init__(self,): 
 		self.name = "THITHER"
+		self.definitions = [u'to that place, in that direction']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

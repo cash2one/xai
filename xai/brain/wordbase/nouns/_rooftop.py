@@ -4,11 +4,12 @@
 class _ROOFTOP():
 	def __init__(self,): 
 		self.name = "ROOFTOP"
+		self.definitions = [u'the outside surface of the roof of a building: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

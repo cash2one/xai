@@ -4,11 +4,12 @@
 class _FROLIC():
 	def __init__(self,): 
 		self.name = "FROLIC"
+		self.definitions = [u'happy behaviour, like that of children playing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

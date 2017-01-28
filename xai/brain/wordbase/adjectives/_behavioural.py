@@ -4,11 +4,12 @@
 class _BEHAVIOURAL():
 	def __init__(self,): 
 		self.name = "BEHAVIOURAL"
+		self.definitions = [u'relating to behaviour: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

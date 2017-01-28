@@ -4,11 +4,12 @@
 class _MOVING():
 	def __init__(self,): 
 		self.name = "MOVING"
+		self.definitions = [u'A moving object is one that moves: ', u'causing strong feelings of sadness or sympathy: ', u'causing someone to take action: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

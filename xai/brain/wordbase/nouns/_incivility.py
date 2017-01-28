@@ -4,11 +4,12 @@
 class _INCIVILITY():
 	def __init__(self,): 
 		self.name = "INCIVILITY"
+		self.definitions = [u'rudeness']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _RACING():
 	def __init__(self,): 
 		self.name = "RACING"
+		self.definitions = [u'competition in races: ', u'horse races']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

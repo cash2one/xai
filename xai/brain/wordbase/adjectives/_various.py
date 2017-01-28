@@ -4,11 +4,12 @@
 class _VARIOUS():
 	def __init__(self,): 
 		self.name = "VARIOUS"
+		self.definitions = [u'many different: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

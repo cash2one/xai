@@ -4,11 +4,12 @@
 class _QUAKE():
 	def __init__(self,): 
 		self.name = "QUAKE"
+		self.definitions = [u'informal for  earthquake ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

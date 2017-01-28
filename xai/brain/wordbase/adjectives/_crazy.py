@@ -4,11 +4,12 @@
 class _CRAZY():
 	def __init__(self,): 
 		self.name = "CRAZY"
+		self.definitions = [u'stupid or not reasonable: ', u'mentally ill: ', u'annoyed or angry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

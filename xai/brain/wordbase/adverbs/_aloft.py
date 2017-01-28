@@ -4,11 +4,12 @@
 class _ALOFT():
 	def __init__(self,): 
 		self.name = "ALOFT"
+		self.definitions = [u'in the air or in a higher position: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

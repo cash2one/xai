@@ -4,11 +4,12 @@
 class _MISRULE():
 	def __init__(self,): 
 		self.name = "MISRULE"
+		self.definitions = [u'bad government that shows no justice or fairness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

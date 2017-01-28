@@ -4,11 +4,12 @@
 class _TONED():
 	def __init__(self,): 
 		self.name = "TONED"
+		self.definitions = [u'(of a body) firm and strong']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DESIGNER():
 	def __init__(self,): 
 		self.name = "DESIGNER"
+		self.definitions = [u'a person who imagines how something could be made and draws plans for it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

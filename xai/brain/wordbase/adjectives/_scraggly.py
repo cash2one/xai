@@ -4,11 +4,12 @@
 class _SCRAGGLY():
 	def __init__(self,): 
 		self.name = "SCRAGGLY"
+		self.definitions = [u'growing in a way that is untidy and uneven: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

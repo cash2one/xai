@@ -4,11 +4,12 @@
 class _FATHOMLESS():
 	def __init__(self,): 
 		self.name = "FATHOMLESS"
+		self.definitions = [u'too deep to be measured: ', u'impossible to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

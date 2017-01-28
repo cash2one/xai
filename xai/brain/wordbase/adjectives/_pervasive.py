@@ -4,11 +4,12 @@
 class _PERVASIVE():
 	def __init__(self,): 
 		self.name = "PERVASIVE"
+		self.definitions = [u'present or noticeable in every part of a thing or place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

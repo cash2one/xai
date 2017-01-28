@@ -4,11 +4,12 @@
 class _OVERLY():
 	def __init__(self,): 
 		self.name = "OVERLY"
+		self.definitions = [u'too; very: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _PREDICATIVE():
 	def __init__(self,): 
 		self.name = "PREDICATIVE"
+		self.definitions = [u'(in grammar, especially of adjectives or phrases) following a verb: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

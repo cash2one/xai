@@ -4,11 +4,12 @@
 class _HYMNAL():
 	def __init__(self,): 
 		self.name = "HYMNAL"
+		self.definitions = [u'a book containing hymns']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _LASSITUDE():
 	def __init__(self,): 
 		self.name = "LASSITUDE"
+		self.definitions = [u'physical or mental tiredness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

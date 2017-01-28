@@ -4,11 +4,12 @@
 class _CALLOUSED():
 	def __init__(self,): 
 		self.name = "CALLOUSED"
+		self.definitions = [u'If feet or hands are calloused, they are covered with hard areas of skin.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

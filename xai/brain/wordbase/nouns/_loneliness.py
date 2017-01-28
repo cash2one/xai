@@ -4,11 +4,12 @@
 class _LONELINESS():
 	def __init__(self,): 
 		self.name = "LONELINESS"
+		self.definitions = [u'the state of being lonely']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

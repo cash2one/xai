@@ -4,11 +4,12 @@
 class _VIRAGO():
 	def __init__(self,): 
 		self.name = "VIRAGO"
+		self.definitions = [u'a violent, unpleasant woman who is often angry']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

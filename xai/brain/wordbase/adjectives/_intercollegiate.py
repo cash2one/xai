@@ -4,11 +4,12 @@
 class _INTERCOLLEGIATE():
 	def __init__(self,): 
 		self.name = "INTERCOLLEGIATE"
+		self.definitions = [u'involving competition between different colleges: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

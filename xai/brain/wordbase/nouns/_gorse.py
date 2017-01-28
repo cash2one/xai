@@ -4,11 +4,12 @@
 class _GORSE():
 	def __init__(self,): 
 		self.name = "GORSE"
+		self.definitions = [u'a wild bush with sharp thorns and small, yellow flowers']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

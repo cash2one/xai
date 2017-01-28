@@ -4,11 +4,12 @@
 class _MEDICINAL():
 	def __init__(self,): 
 		self.name = "MEDICINAL"
+		self.definitions = [u'Medicinal substances are used to cure illnesses: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

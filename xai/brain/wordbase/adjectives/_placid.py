@@ -4,11 +4,12 @@
 class _PLACID():
 	def __init__(self,): 
 		self.name = "PLACID"
+		self.definitions = [u'having a calm appearance or characteristics: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

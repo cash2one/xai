@@ -4,11 +4,12 @@
 class _TONER():
 	def __init__(self,): 
 		self.name = "TONER"
+		self.definitions = [u'ink for a printer or photocopier: ', u'a substance that you put on your face after you have cleaned it to make the skin feel firm']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

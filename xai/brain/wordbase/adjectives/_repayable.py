@@ -4,11 +4,12 @@
 class _REPAYABLE():
 	def __init__(self,): 
 		self.name = "REPAYABLE"
+		self.definitions = [u'If something is repayable, you must pay it back: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _TECHNICOLOR():
 	def __init__(self,): 
 		self.name = "TECHNICOLOR"
+		self.definitions = [u'having a lot of bright colours']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

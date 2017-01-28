@@ -4,11 +4,12 @@
 class _MINUSCULE():
 	def __init__(self,): 
 		self.name = "MINUSCULE"
+		self.definitions = [u'extremely small: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

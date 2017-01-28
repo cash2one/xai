@@ -4,11 +4,12 @@
 class _LATER():
 	def __init__(self,): 
 		self.name = "LATER"
+		self.definitions = [u'a way of saying goodbye: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

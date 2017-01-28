@@ -4,11 +4,12 @@
 class _LUMPY():
 	def __init__(self,): 
 		self.name = "LUMPY"
+		self.definitions = [u'covered with or containing lumps: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

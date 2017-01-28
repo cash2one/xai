@@ -4,11 +4,12 @@
 class _FREEDMAN():
 	def __init__(self,): 
 		self.name = "FREEDMAN"
+		self.definitions = [u'an emancipatedslave']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

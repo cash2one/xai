@@ -4,11 +4,12 @@
 class _DISINFORMATION():
 	def __init__(self,): 
 		self.name = "DISINFORMATION"
+		self.definitions = [u'false information spread in order to deceive people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

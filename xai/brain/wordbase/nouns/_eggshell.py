@@ -4,11 +4,12 @@
 class _EGGSHELL():
 	def __init__(self,): 
 		self.name = "EGGSHELL"
+		self.definitions = [u'the hard outside covering of an egg']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

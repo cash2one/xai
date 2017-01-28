@@ -4,15 +4,15 @@
 class _SHUSH():
 	def __init__(self,): 
 		self.name = "SHUSH"
+		self.definitions = [u'to (cause to) stop talking or making a noise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
 
 
-
 		self.specie = 'verbs'
-
 
 	def run(self, obj1 = [], obj2 = []):
 		return self.jsondata

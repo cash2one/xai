@@ -4,11 +4,12 @@
 class _LIEU():
 	def __init__(self,): 
 		self.name = "LIEU"
+		self.definitions = [u'instead (of): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

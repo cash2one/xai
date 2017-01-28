@@ -4,11 +4,12 @@
 class _TERRIBLY():
 	def __init__(self,): 
 		self.name = "TERRIBLY"
+		self.definitions = [u'very badly: ', u'very: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

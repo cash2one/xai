@@ -4,11 +4,12 @@
 class _HEADED():
 	def __init__(self,): 
 		self.name = "HEADED"
+		self.definitions = [u'going in a particular direction: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

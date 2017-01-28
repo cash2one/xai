@@ -4,11 +4,12 @@
 class _DEMURE():
 	def __init__(self,): 
 		self.name = "DEMURE"
+		self.definitions = [u'(especially of women) quiet and well behaved: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

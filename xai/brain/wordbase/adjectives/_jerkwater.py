@@ -4,11 +4,12 @@
 class _JERKWATER():
 	def __init__(self,): 
 		self.name = "JERKWATER"
+		self.definitions = [u'used to describe a place that is small, not important, and a long way from other places: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

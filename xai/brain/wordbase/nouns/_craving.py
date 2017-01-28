@@ -4,11 +4,12 @@
 class _CRAVING():
 	def __init__(self,): 
 		self.name = "CRAVING"
+		self.definitions = [u'a strong feeling of wanting something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

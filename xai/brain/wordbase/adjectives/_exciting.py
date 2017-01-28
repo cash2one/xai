@@ -4,11 +4,12 @@
 class _EXCITING():
 	def __init__(self,): 
 		self.name = "EXCITING"
+		self.definitions = [u'making you feel excited: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

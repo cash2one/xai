@@ -4,11 +4,12 @@
 class _OVERPOWERING():
 	def __init__(self,): 
 		self.name = "OVERPOWERING"
+		self.definitions = [u'too strong: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

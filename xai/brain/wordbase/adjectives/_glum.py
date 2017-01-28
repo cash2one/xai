@@ -4,11 +4,12 @@
 class _GLUM():
 	def __init__(self,): 
 		self.name = "GLUM"
+		self.definitions = [u'disappointed or unhappy, and quiet: ', u'If a place is glum, it is not attractive and has nothing that causes pleasure: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

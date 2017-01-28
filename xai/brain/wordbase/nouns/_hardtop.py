@@ -4,11 +4,12 @@
 class _HARDTOP():
 	def __init__(self,): 
 		self.name = "HARDTOP"
+		self.definitions = [u'a car with a metal roof']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

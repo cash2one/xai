@@ -4,11 +4,12 @@
 class _JUDGMENTAL():
 	def __init__(self,): 
 		self.name = "JUDGMENTAL"
+		self.definitions = [u'too quick to criticize people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _OPTICAL():
 	def __init__(self,): 
 		self.name = "OPTICAL"
+		self.definitions = [u'relating to light or the ability to see: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

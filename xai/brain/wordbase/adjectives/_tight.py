@@ -4,11 +4,12 @@
 class _TIGHT():
 	def __init__(self,): 
 		self.name = "TIGHT"
+		self.definitions = [u'(held or kept together) firmly or closely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

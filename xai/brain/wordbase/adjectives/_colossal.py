@@ -4,11 +4,12 @@
 class _COLOSSAL():
 	def __init__(self,): 
 		self.name = "COLOSSAL"
+		self.definitions = [u'extremely large: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SIGNALLY():
 	def __init__(self,): 
 		self.name = "SIGNALLY"
+		self.definitions = [u'obviously: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

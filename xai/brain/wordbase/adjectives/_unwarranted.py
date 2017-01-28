@@ -4,11 +4,12 @@
 class _UNWARRANTED():
 	def __init__(self,): 
 		self.name = "UNWARRANTED"
+		self.definitions = [u'not having a good reason and therefore annoying or unfair: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

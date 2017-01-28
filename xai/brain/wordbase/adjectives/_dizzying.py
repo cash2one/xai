@@ -4,11 +4,12 @@
 class _DIZZYING():
 	def __init__(self,): 
 		self.name = "DIZZYING"
+		self.definitions = [u'causing you to feel dizzy: ', u'very fast or confusing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PATERNAL():
 	def __init__(self,): 
 		self.name = "PATERNAL"
+		self.definitions = [u'of or like a father: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

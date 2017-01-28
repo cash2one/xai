@@ -4,11 +4,12 @@
 class _FRAGMENTED():
 	def __init__(self,): 
 		self.name = "FRAGMENTED"
+		self.definitions = [u'consisting of several separate parts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

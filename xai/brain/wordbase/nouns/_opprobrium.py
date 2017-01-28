@@ -4,11 +4,12 @@
 class _OPPROBRIUM():
 	def __init__(self,): 
 		self.name = "OPPROBRIUM"
+		self.definitions = [u'severe criticism and blame: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

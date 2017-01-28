@@ -4,11 +4,12 @@
 class _SILHOUETTE():
 	def __init__(self,): 
 		self.name = "SILHOUETTE"
+		self.definitions = [u'a dark shape seen against a light surface: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

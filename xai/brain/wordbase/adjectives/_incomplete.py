@@ -4,11 +4,12 @@
 class _INCOMPLETE():
 	def __init__(self,): 
 		self.name = "INCOMPLETE"
+		self.definitions = [u'not having some parts, or not finished: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

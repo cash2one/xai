@@ -4,11 +4,12 @@
 class _INACCURATE():
 	def __init__(self,): 
 		self.name = "INACCURATE"
+		self.definitions = [u'not completely correct or exact, or not able to do something correctly or exactly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

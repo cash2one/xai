@@ -4,11 +4,12 @@
 class _GLANDULAR():
 	def __init__(self,): 
 		self.name = "GLANDULAR"
+		self.definitions = [u'belonging or relating to, or produced or caused by, a gland or glands: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

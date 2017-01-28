@@ -4,11 +4,12 @@
 class _SHAH():
 	def __init__(self,): 
 		self.name = "SHAH"
+		self.definitions = [u'the title of a ruler of Iran in the past']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

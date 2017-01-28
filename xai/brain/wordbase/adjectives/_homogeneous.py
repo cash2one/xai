@@ -4,11 +4,12 @@
 class _HOMOGENEOUS():
 	def __init__(self,): 
 		self.name = "HOMOGENEOUS"
+		self.definitions = [u'consisting of parts or people that are similar to each other or are of the same type: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

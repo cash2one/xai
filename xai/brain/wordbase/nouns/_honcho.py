@@ -4,11 +4,12 @@
 class _HONCHO():
 	def __init__(self,): 
 		self.name = "HONCHO"
+		self.definitions = [u'the person in charge: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

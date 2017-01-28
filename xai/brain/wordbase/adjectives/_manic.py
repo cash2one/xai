@@ -4,11 +4,12 @@
 class _MANIC():
 	def __init__(self,): 
 		self.name = "MANIC"
+		self.definitions = [u'very excited or anxious (= worried and nervous) in a way that causes you to be very physically active: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

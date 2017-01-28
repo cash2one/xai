@@ -4,11 +4,12 @@
 class _UNACCEPTABLE():
 	def __init__(self,): 
 		self.name = "UNACCEPTABLE"
+		self.definitions = [u'too bad to be accepted, approved of, or allowed to continue: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

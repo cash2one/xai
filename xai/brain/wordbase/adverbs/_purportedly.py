@@ -4,11 +4,12 @@
 class _PURPORTEDLY():
 	def __init__(self,): 
 		self.name = "PURPORTEDLY"
+		self.definitions = [u'in a way that is stated to be true, although this may not be the case: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

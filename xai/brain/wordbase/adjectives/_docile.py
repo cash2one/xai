@@ -4,11 +4,12 @@
 class _DOCILE():
 	def __init__(self,): 
 		self.name = "DOCILE"
+		self.definitions = [u'quiet and easy to influence, persuade, or control: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

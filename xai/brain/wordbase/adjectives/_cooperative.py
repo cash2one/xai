@@ -4,11 +4,12 @@
 class _COOPERATIVE():
 	def __init__(self,): 
 		self.name = "COOPERATIVE"
+		self.definitions = [u'willing to help or do what people ask: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

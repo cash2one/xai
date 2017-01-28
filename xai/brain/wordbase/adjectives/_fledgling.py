@@ -4,11 +4,12 @@
 class _FLEDGLING():
 	def __init__(self,): 
 		self.name = "FLEDGLING"
+		self.definitions = [u'new and without experience: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

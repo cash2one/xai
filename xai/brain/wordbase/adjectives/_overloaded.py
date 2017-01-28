@@ -4,11 +4,12 @@
 class _OVERLOADED():
 	def __init__(self,): 
 		self.name = "OVERLOADED"
+		self.definitions = [u'having or supplied with too much of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

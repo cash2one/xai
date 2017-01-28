@@ -4,11 +4,12 @@
 class _PERFECTIONISM():
 	def __init__(self,): 
 		self.name = "PERFECTIONISM"
+		self.definitions = [u'the wish for everything to be correct or perfect: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

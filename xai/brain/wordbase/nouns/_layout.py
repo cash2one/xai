@@ -4,11 +4,12 @@
 class _LAYOUT():
 	def __init__(self,): 
 		self.name = "LAYOUT"
+		self.definitions = [u'the way that something is arranged: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

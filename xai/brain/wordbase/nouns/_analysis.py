@@ -4,11 +4,12 @@
 class _ANALYSIS():
 	def __init__(self,): 
 		self.name = "ANALYSIS"
+		self.definitions = [u'the act of analysing something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

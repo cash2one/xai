@@ -4,11 +4,12 @@
 class _HILLY():
 	def __init__(self,): 
 		self.name = "HILLY"
+		self.definitions = [u'having a lot of hills: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SHOOT():
 	def __init__(self,): 
 		self.name = "SHOOT"
+		self.definitions = [u'used to tell someone that they should speak: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'exclamations'

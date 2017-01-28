@@ -4,11 +4,12 @@
 class _LUNATIC():
 	def __init__(self,): 
 		self.name = "LUNATIC"
+		self.definitions = [u'silly in a dangerous way']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

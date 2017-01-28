@@ -4,11 +4,12 @@
 class _FETCHING():
 	def __init__(self,): 
 		self.name = "FETCHING"
+		self.definitions = [u'A fetching person or piece of clothing is attractive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _EMIGRANT():
 	def __init__(self,): 
 		self.name = "EMIGRANT"
+		self.definitions = [u'a person who emigrates']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

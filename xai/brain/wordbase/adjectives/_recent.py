@@ -4,11 +4,12 @@
 class _RECENT():
 	def __init__(self,): 
 		self.name = "RECENT"
+		self.definitions = [u'happening or starting from a short time ago: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

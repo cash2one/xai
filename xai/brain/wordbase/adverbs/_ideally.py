@@ -4,11 +4,12 @@
 class _IDEALLY():
 	def __init__(self,): 
 		self.name = "IDEALLY"
+		self.definitions = [u'used when describing the perfect situation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

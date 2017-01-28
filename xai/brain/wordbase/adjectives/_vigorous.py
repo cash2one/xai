@@ -4,11 +4,12 @@
 class _VIGOROUS():
 	def __init__(self,): 
 		self.name = "VIGOROUS"
+		self.definitions = [u'very forceful or energetic: ', u'healthy and strong: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

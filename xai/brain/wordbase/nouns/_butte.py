@@ -4,11 +4,12 @@
 class _BUTTE():
 	def __init__(self,): 
 		self.name = "BUTTE"
+		self.definitions = [u'a hill that has steep sides and a flat top']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

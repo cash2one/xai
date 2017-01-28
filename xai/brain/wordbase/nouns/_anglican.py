@@ -4,11 +4,12 @@
 class _ANGLICAN():
 	def __init__(self,): 
 		self.name = "ANGLICAN"
+		self.definitions = [u'a member of the Anglican church: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

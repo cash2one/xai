@@ -4,11 +4,12 @@
 class _QUARRELSOME():
 	def __init__(self,): 
 		self.name = "QUARRELSOME"
+		self.definitions = [u'A quarrelsome person repeatedly argues with other people.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNCEREMONIOUS():
 	def __init__(self,): 
 		self.name = "UNCEREMONIOUS"
+		self.definitions = [u'done in a rude, sudden, or informal way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INDUCTIVE():
 	def __init__(self,): 
 		self.name = "INDUCTIVE"
+		self.definitions = [u'using a particular set of facts or ideas to form a general principle: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

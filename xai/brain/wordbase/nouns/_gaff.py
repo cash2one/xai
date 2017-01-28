@@ -4,11 +4,12 @@
 class _GAFF():
 	def __init__(self,): 
 		self.name = "GAFF"
+		self.definitions = [u"someone's house or home: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

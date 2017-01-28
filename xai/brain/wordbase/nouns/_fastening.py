@@ -4,11 +4,12 @@
 class _FASTENING():
 	def __init__(self,): 
 		self.name = "FASTENING"
+		self.definitions = [u'a device on a window, door, box, etc. for keeping it closed']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

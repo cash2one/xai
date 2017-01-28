@@ -4,11 +4,12 @@
 class _MONOTONIC():
 	def __init__(self,): 
 		self.name = "MONOTONIC"
+		self.definitions = [u'speaking or spoken in such a way that the sound stays on the same note without going higher or lower', u'(of a quantity) only ever increasing, or only ever getting less']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

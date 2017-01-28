@@ -4,11 +4,12 @@
 class _INCAPABLE():
 	def __init__(self,): 
 		self.name = "INCAPABLE"
+		self.definitions = [u'unable to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

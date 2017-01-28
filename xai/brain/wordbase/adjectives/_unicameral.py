@@ -4,11 +4,12 @@
 class _UNICAMERAL():
 	def __init__(self,): 
 		self.name = "UNICAMERAL"
+		self.definitions = [u'(of a parliament) having only one group of members: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

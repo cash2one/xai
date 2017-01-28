@@ -4,11 +4,12 @@
 class _MINOR():
 	def __init__(self,): 
 		self.name = "MINOR"
+		self.definitions = [u'someone who is too young to have the legal responsibilities of an adult: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

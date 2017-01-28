@@ -4,11 +4,12 @@
 class _MOTIVE():
 	def __init__(self,): 
 		self.name = "MOTIVE"
+		self.definitions = [u'(of power or force) causing movement or action']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

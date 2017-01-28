@@ -4,11 +4,12 @@
 class _SEROUS():
 	def __init__(self,): 
 		self.name = "SEROUS"
+		self.definitions = [u'relating to serum (= the clear, watery part of any liquid in the body): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

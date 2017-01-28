@@ -4,11 +4,12 @@
 class _PARAPET():
 	def __init__(self,): 
 		self.name = "PARAPET"
+		self.definitions = [u'a low wall along the edge of a roof, bridge, etc.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _TYPEFACE():
 	def __init__(self,): 
 		self.name = "TYPEFACE"
+		self.definitions = [u'letters and numbers in a particular design, used in printing or on a computer screen']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

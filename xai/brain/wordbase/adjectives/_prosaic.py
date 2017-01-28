@@ -4,11 +4,12 @@
 class _PROSAIC():
 	def __init__(self,): 
 		self.name = "PROSAIC"
+		self.definitions = [u'without interest, imagination, and excitement: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WARPED():
 	def __init__(self,): 
 		self.name = "WARPED"
+		self.definitions = [u'strange and unpleasant: ', u'bent because of damage by heat or water: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

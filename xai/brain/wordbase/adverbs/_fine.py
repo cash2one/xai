@@ -4,11 +4,12 @@
 class _FINE():
 	def __init__(self,): 
 		self.name = "FINE"
+		self.definitions = [u'in a satisfactory way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

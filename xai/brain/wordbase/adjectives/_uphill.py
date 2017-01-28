@@ -4,11 +4,12 @@
 class _UPHILL():
 	def __init__(self,): 
 		self.name = "UPHILL"
+		self.definitions = [u'leading to a higher place on a slope: ', u'needing a large amount of effort: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HOMOPHOBIA():
 	def __init__(self,): 
 		self.name = "HOMOPHOBIA"
+		self.definitions = [u'a fear or dislike of gay people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

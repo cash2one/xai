@@ -4,11 +4,12 @@
 class _TORRID():
 	def __init__(self,): 
 		self.name = "TORRID"
+		self.definitions = [u'involving strong emotions, especially those of sexual love: ', u'extremely hot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

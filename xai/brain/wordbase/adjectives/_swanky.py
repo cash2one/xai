@@ -4,11 +4,12 @@
 class _SWANKY():
 	def __init__(self,): 
 		self.name = "SWANKY"
+		self.definitions = [u"very expensive and fashionable, in a way that is intended to attract people's attention and admiration: ", u'behaving too confidently: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

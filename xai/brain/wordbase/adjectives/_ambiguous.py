@@ -4,11 +4,12 @@
 class _AMBIGUOUS():
 	def __init__(self,): 
 		self.name = "AMBIGUOUS"
+		self.definitions = [u'having or expressing more than one possible meaning, sometimes intentionally: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

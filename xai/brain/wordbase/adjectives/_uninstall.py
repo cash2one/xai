@@ -4,11 +4,12 @@
 class _UNINSTALL():
 	def __init__(self,): 
 		self.name = "UNINSTALL"
+		self.definitions = [u'An unistall computer program removes other programs from a computer: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

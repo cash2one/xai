@@ -4,11 +4,12 @@
 class _SHAM():
 	def __init__(self,): 
 		self.name = "SHAM"
+		self.definitions = [u'only pretending to be real; false: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

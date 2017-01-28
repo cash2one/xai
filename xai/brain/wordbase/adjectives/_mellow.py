@@ -4,11 +4,12 @@
 class _MELLOW():
 	def __init__(self,): 
 		self.name = "MELLOW"
+		self.definitions = [u'smooth and soft, or not too sharp, bright, new, or rough: ', u'relaxed and pleasant or not severe: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

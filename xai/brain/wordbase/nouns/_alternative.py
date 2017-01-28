@@ -4,11 +4,12 @@
 class _ALTERNATIVE():
 	def __init__(self,): 
 		self.name = "ALTERNATIVE"
+		self.definitions = [u'something that is different from something else, especially from what is usual, and offering the possibility of choice: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

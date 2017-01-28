@@ -4,11 +4,12 @@
 class _UNPARDONABLE():
 	def __init__(self,): 
 		self.name = "UNPARDONABLE"
+		self.definitions = [u'(of behaviour) too bad to forgive or be accepted: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ELIZABETHAN():
 	def __init__(self,): 
 		self.name = "ELIZABETHAN"
+		self.definitions = [u'from the period when Queen Elizabeth I was the ruler of England (1558-1603)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

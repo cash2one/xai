@@ -4,11 +4,12 @@
 class _IMMOBILE():
 	def __init__(self,): 
 		self.name = "IMMOBILE"
+		self.definitions = [u'not moving or not able to move: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

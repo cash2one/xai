@@ -4,11 +4,12 @@
 class _UNDERFUNDED():
 	def __init__(self,): 
 		self.name = "UNDERFUNDED"
+		self.definitions = [u'If an organization is underfunded, it does not receive a large enough income: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

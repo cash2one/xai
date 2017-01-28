@@ -4,11 +4,12 @@
 class _NATIONALLY():
 	def __init__(self,): 
 		self.name = "NATIONALLY"
+		self.definitions = [u'by or to everyone in a nation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

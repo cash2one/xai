@@ -4,11 +4,12 @@
 class _TEDIUM():
 	def __init__(self,): 
 		self.name = "TEDIUM"
+		self.definitions = [u'the quality of being boring for a long time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

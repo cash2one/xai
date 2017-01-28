@@ -4,11 +4,12 @@
 class _ACCEPTABLE():
 	def __init__(self,): 
 		self.name = "ACCEPTABLE"
+		self.definitions = [u'satisfactory and able to be agreed to or approved of: ', u'just good enough, but not very good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

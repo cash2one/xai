@@ -4,11 +4,12 @@
 class _INNOVATIVE():
 	def __init__(self,): 
 		self.name = "INNOVATIVE"
+		self.definitions = [u'using new methods or ideas: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ABRASIVE():
 	def __init__(self,): 
 		self.name = "ABRASIVE"
+		self.definitions = [u'a substance used for rubbing away the surface of something, usually to clean it or make it shiny: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

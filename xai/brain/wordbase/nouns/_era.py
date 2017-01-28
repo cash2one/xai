@@ -4,11 +4,12 @@
 class _ERA():
 	def __init__(self,): 
 		self.name = "ERA"
+		self.definitions = [u'a period of time of which particular events or stages of development are typical: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

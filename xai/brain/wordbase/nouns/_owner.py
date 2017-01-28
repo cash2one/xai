@@ -4,11 +4,12 @@
 class _OWNER():
 	def __init__(self,): 
 		self.name = "OWNER"
+		self.definitions = [u'someone who owns something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

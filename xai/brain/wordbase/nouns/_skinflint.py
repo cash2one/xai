@@ -4,11 +4,12 @@
 class _SKINFLINT():
 	def __init__(self,): 
 		self.name = "SKINFLINT"
+		self.definitions = [u'a person who is unwilling to spend money: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

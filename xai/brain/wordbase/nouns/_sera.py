@@ -4,11 +4,12 @@
 class _SERA():
 	def __init__(self,): 
 		self.name = "SERA"
+		self.definitions = [u'plural of  serum ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

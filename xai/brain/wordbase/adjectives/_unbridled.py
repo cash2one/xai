@@ -4,11 +4,12 @@
 class _UNBRIDLED():
 	def __init__(self,): 
 		self.name = "UNBRIDLED"
+		self.definitions = [u'not controlled or limited: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

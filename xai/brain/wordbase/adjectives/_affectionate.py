@@ -4,11 +4,12 @@
 class _AFFECTIONATE():
 	def __init__(self,): 
 		self.name = "AFFECTIONATE"
+		self.definitions = [u'showing feelings of liking or love: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

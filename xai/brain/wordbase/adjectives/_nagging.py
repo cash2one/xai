@@ -4,11 +4,12 @@
 class _NAGGING():
 	def __init__(self,): 
 		self.name = "NAGGING"
+		self.definitions = [u'complaining or criticizing: ', u'used to describe an unpleasant feeling that continues for a long period of time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

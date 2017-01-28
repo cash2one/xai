@@ -4,11 +4,12 @@
 class _CAVALIER():
 	def __init__(self,): 
 		self.name = "CAVALIER"
+		self.definitions = [u"not considering other people's feelings or safety: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

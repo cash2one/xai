@@ -4,11 +4,12 @@
 class _SHARP():
 	def __init__(self,): 
 		self.name = "SHARP"
+		self.definitions = [u'suddenly or immediately: ', u'exactly at the stated time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

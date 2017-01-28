@@ -4,11 +4,12 @@
 class _CANDELABRA():
 	def __init__(self,): 
 		self.name = "CANDELABRA"
+		self.definitions = [u'a decorative object that holds several candles or lights']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

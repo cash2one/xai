@@ -4,11 +4,12 @@
 class _IMPERMISSIBLE():
 	def __init__(self,): 
 		self.name = "IMPERMISSIBLE"
+		self.definitions = [u'not allowed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

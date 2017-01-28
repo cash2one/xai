@@ -4,11 +4,12 @@
 class _CAVING():
 	def __init__(self,): 
 		self.name = "CAVING"
+		self.definitions = [u'the sport of walking and climbing in caves']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

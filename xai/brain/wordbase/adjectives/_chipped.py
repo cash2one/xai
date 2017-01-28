@@ -4,11 +4,12 @@
 class _CHIPPED():
 	def __init__(self,): 
 		self.name = "CHIPPED"
+		self.definitions = [u'with a small piece or pieces broken off: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

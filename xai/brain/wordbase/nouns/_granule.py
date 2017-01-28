@@ -4,11 +4,12 @@
 class _GRANULE():
 	def __init__(self,): 
 		self.name = "GRANULE"
+		self.definitions = [u'a small piece like a grain of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

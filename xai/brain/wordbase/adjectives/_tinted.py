@@ -4,11 +4,12 @@
 class _TINTED():
 	def __init__(self,): 
 		self.name = "TINTED"
+		self.definitions = [u'(of glass) with colour added: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

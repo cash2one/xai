@@ -4,11 +4,12 @@
 class _INCIPIENT():
 	def __init__(self,): 
 		self.name = "INCIPIENT"
+		self.definitions = [u'just beginning: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

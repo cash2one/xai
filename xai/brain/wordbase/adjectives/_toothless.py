@@ -4,11 +4,12 @@
 class _TOOTHLESS():
 	def __init__(self,): 
 		self.name = "TOOTHLESS"
+		self.definitions = [u'having no teeth: ', u'used to describe an organization or a rule that has no power: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

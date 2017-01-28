@@ -4,11 +4,12 @@
 class _MU():
 	def __init__(self,): 
 		self.name = "MU"
+		self.definitions = [u'the 12th letter of the Greek alphabet']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

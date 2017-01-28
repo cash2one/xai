@@ -4,11 +4,12 @@
 class _GALORE():
 	def __init__(self,): 
 		self.name = "GALORE"
+		self.definitions = [u'in great amounts or numbers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

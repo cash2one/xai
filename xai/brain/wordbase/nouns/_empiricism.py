@@ -4,11 +4,12 @@
 class _EMPIRICISM():
 	def __init__(self,): 
 		self.name = "EMPIRICISM"
+		self.definitions = [u'the belief in using empirical methods']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

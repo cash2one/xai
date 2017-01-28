@@ -4,11 +4,12 @@
 class _FROSTILY():
 	def __init__(self,): 
 		self.name = "FROSTILY"
+		self.definitions = [u'in an unfriendly way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

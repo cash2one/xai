@@ -4,11 +4,12 @@
 class _CAMPING():
 	def __init__(self,): 
 		self.name = "CAMPING"
+		self.definitions = [u'the activity of staying in a tent on holiday: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

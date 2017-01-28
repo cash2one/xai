@@ -4,11 +4,12 @@
 class _ANTIQUITY():
 	def __init__(self,): 
 		self.name = "ANTIQUITY"
+		self.definitions = [u'the distant past (= a long time ago), especially before the sixth century: ', u'an object that was created a very long time ago: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

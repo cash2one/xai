@@ -4,11 +4,12 @@
 class _TESTY():
 	def __init__(self,): 
 		self.name = "TESTY"
+		self.definitions = [u'easily annoyed and not patient: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FLAGGED():
 	def __init__(self,): 
 		self.name = "FLAGGED"
+		self.definitions = [u'made of or covered in flagstones: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

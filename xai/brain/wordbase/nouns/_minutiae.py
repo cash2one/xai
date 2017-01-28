@@ -4,11 +4,12 @@
 class _MINUTIAE():
 	def __init__(self,): 
 		self.name = "MINUTIAE"
+		self.definitions = [u'small and often not important details: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

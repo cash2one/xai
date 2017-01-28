@@ -4,11 +4,12 @@
 class _EASTBOUND():
 	def __init__(self,): 
 		self.name = "EASTBOUND"
+		self.definitions = [u'going or leading towards the east: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

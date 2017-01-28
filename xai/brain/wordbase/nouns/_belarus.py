@@ -4,11 +4,12 @@
 class _BELARUS():
 	def __init__(self,): 
 		self.name = "BELARUS"
+		self.definitions = [u'a country in eastern Europe']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DESPATCH():
 	def __init__(self,): 
 		self.name = "DESPATCH"
+		self.definitions = [u'\u2192\xa0 dispatch verb ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

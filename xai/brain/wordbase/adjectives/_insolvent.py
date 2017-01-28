@@ -4,11 +4,12 @@
 class _INSOLVENT():
 	def __init__(self,): 
 		self.name = "INSOLVENT"
+		self.definitions = [u'(especially of a company) not having enough money to pay debts, buy goods, etc.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

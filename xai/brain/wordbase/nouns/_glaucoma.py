@@ -4,11 +4,12 @@
 class _GLAUCOMA():
 	def __init__(self,): 
 		self.name = "GLAUCOMA"
+		self.definitions = [u'a disease of the eye that can cause a person to gradually lose their sight']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

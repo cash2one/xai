@@ -4,11 +4,12 @@
 class _CEASELESS():
 	def __init__(self,): 
 		self.name = "CEASELESS"
+		self.definitions = [u'without stopping, or seeming to have no end']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FUGUE():
 	def __init__(self,): 
 		self.name = "FUGUE"
+		self.definitions = [u'a piece of music consisting of three or more tunes played together: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

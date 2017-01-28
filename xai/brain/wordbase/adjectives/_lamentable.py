@@ -4,11 +4,12 @@
 class _LAMENTABLE():
 	def __init__(self,): 
 		self.name = "LAMENTABLE"
+		self.definitions = [u'deserving severe criticism; very bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

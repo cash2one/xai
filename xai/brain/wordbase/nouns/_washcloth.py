@@ -4,11 +4,12 @@
 class _WASHCLOTH():
 	def __init__(self,): 
 		self.name = "WASHCLOTH"
+		self.definitions = [u'a small cloth used to wash the body, especially the face and hands']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _SOYA():
 	def __init__(self,): 
 		self.name = "SOYA"
+		self.definitions = [u'soya beans as a crop']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

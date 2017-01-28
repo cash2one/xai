@@ -4,11 +4,12 @@
 class _LOCKABLE():
 	def __init__(self,): 
 		self.name = "LOCKABLE"
+		self.definitions = [u'that can be locked: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

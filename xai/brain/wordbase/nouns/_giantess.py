@@ -4,11 +4,12 @@
 class _GIANTESS():
 	def __init__(self,): 
 		self.name = "GIANTESS"
+		self.definitions = [u'a female giant']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

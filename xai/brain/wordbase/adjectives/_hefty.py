@@ -4,11 +4,12 @@
 class _HEFTY():
 	def __init__(self,): 
 		self.name = "HEFTY"
+		self.definitions = [u'large in amount, size, force, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

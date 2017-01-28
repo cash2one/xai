@@ -4,11 +4,12 @@
 class _ASTUTE():
 	def __init__(self,): 
 		self.name = "ASTUTE"
+		self.definitions = [u'able to understand a situation quickly and see how to take advantage of it: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

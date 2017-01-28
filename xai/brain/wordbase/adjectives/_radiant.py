@@ -4,11 +4,12 @@
 class _RADIANT():
 	def __init__(self,): 
 		self.name = "RADIANT"
+		self.definitions = [u'obviously very happy, or very beautiful: ', u'producing heat or light: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _WHIPPING():
 	def __init__(self,): 
 		self.name = "WHIPPING"
+		self.definitions = [u'the punishment of being hit by a whip']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

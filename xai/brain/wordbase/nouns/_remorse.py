@@ -4,11 +4,12 @@
 class _REMORSE():
 	def __init__(self,): 
 		self.name = "REMORSE"
+		self.definitions = [u'a feeling of sadness and being sorry for something you have done: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

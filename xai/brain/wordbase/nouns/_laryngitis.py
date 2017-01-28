@@ -4,11 +4,12 @@
 class _LARYNGITIS():
 	def __init__(self,): 
 		self.name = "LARYNGITIS"
+		self.definitions = [u'a painful swelling of the larynx, usually caused by an infection']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

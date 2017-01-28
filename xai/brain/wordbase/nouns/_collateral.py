@@ -4,11 +4,12 @@
 class _COLLATERAL():
 	def __init__(self,): 
 		self.name = "COLLATERAL"
+		self.definitions = [u'a smaller blood vessel or nerve that grows out of the main part']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

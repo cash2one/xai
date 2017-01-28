@@ -4,11 +4,12 @@
 class _PAPAW():
 	def __init__(self,): 
 		self.name = "PAPAW"
+		self.definitions = [u'a  pawpaw ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

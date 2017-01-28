@@ -4,11 +4,12 @@
 class _AUDACIOUS():
 	def __init__(self,): 
 		self.name = "AUDACIOUS"
+		self.definitions = [u'showing a willingness to take risks or offend people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

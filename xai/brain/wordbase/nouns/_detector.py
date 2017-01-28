@@ -4,11 +4,12 @@
 class _DETECTOR():
 	def __init__(self,): 
 		self.name = "DETECTOR"
+		self.definitions = [u'a device used to find particular substances or things, or measure their level: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

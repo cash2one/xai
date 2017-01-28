@@ -4,11 +4,12 @@
 class _SURROUND():
 	def __init__(self,): 
 		self.name = "SURROUND"
+		self.definitions = [u'the area or border around something: ', u'the area that is near and around a place: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

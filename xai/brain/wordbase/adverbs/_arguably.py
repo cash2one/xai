@@ -4,11 +4,12 @@
 class _ARGUABLY():
 	def __init__(self,): 
 		self.name = "ARGUABLY"
+		self.definitions = [u'used when stating an opinion or belief that you think can be shown to be true: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

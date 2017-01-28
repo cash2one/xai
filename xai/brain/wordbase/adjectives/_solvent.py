@@ -4,11 +4,12 @@
 class _SOLVENT():
 	def __init__(self,): 
 		self.name = "SOLVENT"
+		self.definitions = [u'(especially of companies) having enough money to pay all the money that is owed to other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

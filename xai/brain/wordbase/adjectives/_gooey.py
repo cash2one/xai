@@ -4,11 +4,12 @@
 class _GOOEY():
 	def __init__(self,): 
 		self.name = "GOOEY"
+		self.definitions = [u'soft and sticky: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

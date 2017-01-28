@@ -4,11 +4,12 @@
 class _LIEGE():
 	def __init__(self,): 
 		self.name = "LIEGE"
+		self.definitions = [u'a lord or king: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

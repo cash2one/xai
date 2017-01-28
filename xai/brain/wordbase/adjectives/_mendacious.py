@@ -4,11 +4,12 @@
 class _MENDACIOUS():
 	def __init__(self,): 
 		self.name = "MENDACIOUS"
+		self.definitions = [u'not telling the truth: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

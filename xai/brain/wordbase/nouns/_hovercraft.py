@@ -4,11 +4,12 @@
 class _HOVERCRAFT():
 	def __init__(self,): 
 		self.name = "HOVERCRAFT"
+		self.definitions = [u'a vehicle that travels quickly just above the surface of water or land by producing a current of air under it to support it']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _CONCATENATION():
 	def __init__(self,): 
 		self.name = "CONCATENATION"
+		self.definitions = [u'a series of events, ideas, or things that are connected: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

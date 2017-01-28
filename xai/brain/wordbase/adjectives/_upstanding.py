@@ -4,11 +4,12 @@
 class _UPSTANDING():
 	def __init__(self,): 
 		self.name = "UPSTANDING"
+		self.definitions = [u'behaving in a good and moral way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

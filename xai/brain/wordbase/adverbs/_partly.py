@@ -4,11 +4,12 @@
 class _PARTLY():
 	def __init__(self,): 
 		self.name = "PARTLY"
+		self.definitions = [u'to some degree, but not completely: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

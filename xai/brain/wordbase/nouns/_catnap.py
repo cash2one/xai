@@ -4,11 +4,12 @@
 class _CATNAP():
 	def __init__(self,): 
 		self.name = "CATNAP"
+		self.definitions = [u'a short sleep']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

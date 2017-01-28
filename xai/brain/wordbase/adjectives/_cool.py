@@ -4,11 +4,12 @@
 class _COOL():
 	def __init__(self,): 
 		self.name = "COOL"
+		self.definitions = [u'excellent; very good: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

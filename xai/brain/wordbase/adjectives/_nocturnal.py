@@ -4,11 +4,12 @@
 class _NOCTURNAL():
 	def __init__(self,): 
 		self.name = "NOCTURNAL"
+		self.definitions = [u'happening in or active during the night, or relating to the night: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

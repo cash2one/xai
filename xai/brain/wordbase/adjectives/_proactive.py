@@ -4,11 +4,12 @@
 class _PROACTIVE():
 	def __init__(self,): 
 		self.name = "PROACTIVE"
+		self.definitions = [u'taking action by causing change and not only reacting to change when it happens: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

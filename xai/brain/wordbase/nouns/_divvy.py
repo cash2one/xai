@@ -4,11 +4,12 @@
 class _DIVVY():
 	def __init__(self,): 
 		self.name = "DIVVY"
+		self.definitions = [u'a stupid person: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

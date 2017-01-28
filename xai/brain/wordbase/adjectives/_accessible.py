@@ -4,11 +4,12 @@
 class _ACCESSIBLE():
 	def __init__(self,): 
 		self.name = "ACCESSIBLE"
+		self.definitions = [u'able to be reached or easily got: ', u'easy to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

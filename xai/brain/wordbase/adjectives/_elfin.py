@@ -4,11 +4,12 @@
 class _ELFIN():
 	def __init__(self,): 
 		self.name = "ELFIN"
+		self.definitions = [u'used to describe a person who is small and delicate: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

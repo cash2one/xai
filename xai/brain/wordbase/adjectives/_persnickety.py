@@ -4,11 +4,12 @@
 class _PERSNICKETY():
 	def __init__(self,): 
 		self.name = "PERSNICKETY"
+		self.definitions = [u'giving too much attention to small details that are not important in a way that annoys other people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

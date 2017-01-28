@@ -4,11 +4,12 @@
 class _TAGALOG():
 	def __init__(self,): 
 		self.name = "TAGALOG"
+		self.definitions = [u'a language spoken in the Philippines']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

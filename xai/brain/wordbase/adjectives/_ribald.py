@@ -4,11 +4,12 @@
 class _RIBALD():
 	def __init__(self,): 
 		self.name = "RIBALD"
+		self.definitions = [u'Ribald language refers to sex in a rude but humorous way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SECLUSIVE():
 	def __init__(self,): 
 		self.name = "SECLUSIVE"
+		self.definitions = [u'preferring to be alone, away from other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

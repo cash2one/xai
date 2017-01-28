@@ -4,11 +4,12 @@
 class _COURTIER():
 	def __init__(self,): 
 		self.name = "COURTIER"
+		self.definitions = [u'a companion of a queen, king, or other ruler in their official home, especially in the past: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

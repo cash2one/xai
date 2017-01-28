@@ -4,11 +4,12 @@
 class _CELLIST():
 	def __init__(self,): 
 		self.name = "CELLIST"
+		self.definitions = [u'a musician who plays the cello']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

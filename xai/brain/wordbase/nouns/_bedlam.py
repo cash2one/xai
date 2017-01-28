@@ -4,11 +4,12 @@
 class _BEDLAM():
 	def __init__(self,): 
 		self.name = "BEDLAM"
+		self.definitions = [u'a noisy situation with no order: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

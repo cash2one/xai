@@ -4,11 +4,12 @@
 class _ELONGATE():
 	def __init__(self,): 
 		self.name = "ELONGATE"
+		self.definitions = [u'having a shape that is much longer than it is wide: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

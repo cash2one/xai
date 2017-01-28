@@ -4,11 +4,12 @@
 class _EXPEDITIOUS():
 	def __init__(self,): 
 		self.name = "EXPEDITIOUS"
+		self.definitions = [u'quick: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _FEMINIST():
 	def __init__(self,): 
 		self.name = "FEMINIST"
+		self.definitions = [u'relating to feminism: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

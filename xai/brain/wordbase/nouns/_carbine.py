@@ -4,11 +4,12 @@
 class _CARBINE():
 	def __init__(self,): 
 		self.name = "CARBINE"
+		self.definitions = [u'a short light rifle (= gun) originally used by soldiers on horses']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

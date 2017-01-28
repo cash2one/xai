@@ -4,11 +4,12 @@
 class _IMPERIOUS():
 	def __init__(self,): 
 		self.name = "IMPERIOUS"
+		self.definitions = [u'unpleasantly proud and expecting to be obeyed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

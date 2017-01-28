@@ -4,11 +4,12 @@
 class _DESERVED():
 	def __init__(self,): 
 		self.name = "DESERVED"
+		self.definitions = [u'used to refer to something that you earn or are given because of your behaviour or qualities: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

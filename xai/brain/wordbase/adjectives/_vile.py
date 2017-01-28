@@ -4,11 +4,12 @@
 class _VILE():
 	def __init__(self,): 
 		self.name = "VILE"
+		self.definitions = [u'unpleasant, immoral, and unacceptable: ', u'extremely unpleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

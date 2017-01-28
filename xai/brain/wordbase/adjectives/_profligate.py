@@ -4,11 +4,12 @@
 class _PROFLIGATE():
 	def __init__(self,): 
 		self.name = "PROFLIGATE"
+		self.definitions = [u'spending money in a way that wastes it and is not wise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

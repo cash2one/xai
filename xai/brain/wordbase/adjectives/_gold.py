@@ -4,11 +4,12 @@
 class _GOLD():
 	def __init__(self,): 
 		self.name = "GOLD"
+		self.definitions = [u'made of gold, or the colour of gold: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

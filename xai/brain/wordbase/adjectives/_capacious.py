@@ -4,11 +4,12 @@
 class _CAPACIOUS():
 	def __init__(self,): 
 		self.name = "CAPACIOUS"
+		self.definitions = [u'having a lot of space and able to contain a lot: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

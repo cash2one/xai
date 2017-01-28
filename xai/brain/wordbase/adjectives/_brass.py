@@ -4,11 +4,12 @@
 class _BRASS():
 	def __init__(self,): 
 		self.name = "BRASS"
+		self.definitions = [u'(of a musical instrument) made of metal and played by blowing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

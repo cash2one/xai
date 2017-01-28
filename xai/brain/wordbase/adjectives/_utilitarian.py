@@ -4,11 +4,12 @@
 class _UTILITARIAN():
 	def __init__(self,): 
 		self.name = "UTILITARIAN"
+		self.definitions = [u'designed to be useful rather than decorative: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

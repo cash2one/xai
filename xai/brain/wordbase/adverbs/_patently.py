@@ -4,11 +4,12 @@
 class _PATENTLY():
 	def __init__(self,): 
 		self.name = "PATENTLY"
+		self.definitions = [u'in a way that is clear: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _MASKED():
 	def __init__(self,): 
 		self.name = "MASKED"
+		self.definitions = [u'wearing a mask: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

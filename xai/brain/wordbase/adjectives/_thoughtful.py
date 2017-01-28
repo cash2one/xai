@@ -4,11 +4,12 @@
 class _THOUGHTFUL():
 	def __init__(self,): 
 		self.name = "THOUGHTFUL"
+		self.definitions = [u'carefully considering things: ', u'quiet because you are thinking about something: ', u'kind and always thinking about how you can help other people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

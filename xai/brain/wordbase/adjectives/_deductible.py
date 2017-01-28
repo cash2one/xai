@@ -4,11 +4,12 @@
 class _DEDUCTIBLE():
 	def __init__(self,): 
 		self.name = "DEDUCTIBLE"
+		self.definitions = [u'A deductible amount can be taken away from a total: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SIGHTLESS():
 	def __init__(self,): 
 		self.name = "SIGHTLESS"
+		self.definitions = [u'unable to see']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

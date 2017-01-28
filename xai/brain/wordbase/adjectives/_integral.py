@@ -4,11 +4,12 @@
 class _INTEGRAL():
 	def __init__(self,): 
 		self.name = "INTEGRAL"
+		self.definitions = [u'necessary and important as a part of a whole: ', u'contained within something; not separate: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

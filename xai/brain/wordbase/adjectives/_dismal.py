@@ -4,11 +4,12 @@
 class _DISMAL():
 	def __init__(self,): 
 		self.name = "DISMAL"
+		self.definitions = [u'sad and without hope: ', u'very bad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

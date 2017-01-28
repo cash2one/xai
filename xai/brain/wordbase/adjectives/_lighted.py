@@ -4,11 +4,12 @@
 class _LIGHTED():
 	def __init__(self,): 
 		self.name = "LIGHTED"
+		self.definitions = [u'burning or starting to burn: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

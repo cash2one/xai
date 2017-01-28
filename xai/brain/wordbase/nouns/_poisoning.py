@@ -4,11 +4,12 @@
 class _POISONING():
 	def __init__(self,): 
 		self.name = "POISONING"
+		self.definitions = [u'an illness caused by eating, drinking, or breathing a dangerous substance: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

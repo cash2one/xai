@@ -4,11 +4,12 @@
 class _DRIED():
 	def __init__(self,): 
 		self.name = "DRIED"
+		self.definitions = [u'Dried food or plants have had all their liquid removed, especially in order to stop them from decaying: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MUTE():
 	def __init__(self,): 
 		self.name = "MUTE"
+		self.definitions = [u'silent or not speaking: ', u'unable to speak: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

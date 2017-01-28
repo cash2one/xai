@@ -4,11 +4,12 @@
 class _TROUSER():
 	def __init__(self,): 
 		self.name = "TROUSER"
+		self.definitions = [u'belonging or relating to trousers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

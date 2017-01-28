@@ -4,11 +4,12 @@
 class _DEVOID():
 	def __init__(self,): 
 		self.name = "DEVOID"
+		self.definitions = [u'to lack or be without something that is necessary or usual: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

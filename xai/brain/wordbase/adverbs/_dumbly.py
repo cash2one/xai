@@ -4,11 +4,12 @@
 class _DUMBLY():
 	def __init__(self,): 
 		self.name = "DUMBLY"
+		self.definitions = [u'without speaking: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

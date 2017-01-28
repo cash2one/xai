@@ -4,11 +4,12 @@
 class _AWFUL():
 	def __init__(self,): 
 		self.name = "AWFUL"
+		self.definitions = [u'extremely bad or unpleasant: ', u'very great: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

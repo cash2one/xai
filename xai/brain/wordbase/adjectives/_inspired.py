@@ -4,11 +4,12 @@
 class _INSPIRED():
 	def __init__(self,): 
 		self.name = "INSPIRED"
+		self.definitions = [u'excellent, or resulting from inspiration: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

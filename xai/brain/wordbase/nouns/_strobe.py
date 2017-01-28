@@ -4,11 +4,12 @@
 class _STROBE():
 	def __init__(self,): 
 		self.name = "STROBE"
+		self.definitions = [u'a light that quickly flashes on and off: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

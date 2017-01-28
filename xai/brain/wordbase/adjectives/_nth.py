@@ -4,11 +4,12 @@
 class _NTH():
 	def __init__(self,): 
 		self.name = "NTH"
+		self.definitions = [u'used to describe the most recent in a long series of things, when you do not know how many there are: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

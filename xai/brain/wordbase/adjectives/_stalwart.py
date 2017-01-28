@@ -4,11 +4,12 @@
 class _STALWART():
 	def __init__(self,): 
 		self.name = "STALWART"
+		self.definitions = [u'loyal, especially for a long time; able to be trusted: ', u'(especially of a person) physically strong']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

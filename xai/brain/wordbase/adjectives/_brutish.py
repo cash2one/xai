@@ -4,11 +4,12 @@
 class _BRUTISH():
 	def __init__(self,): 
 		self.name = "BRUTISH"
+		self.definitions = [u'rough, unpleasant, and often violent: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

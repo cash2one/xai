@@ -4,11 +4,12 @@
 class _UPLANDS():
 	def __init__(self,): 
 		self.name = "UPLANDS"
+		self.definitions = [u'high areas of land: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _SELFSAME():
 	def __init__(self,): 
 		self.name = "SELFSAME"
+		self.definitions = [u'exactly the same: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

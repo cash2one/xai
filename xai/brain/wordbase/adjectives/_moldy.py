@@ -4,11 +4,12 @@
 class _MOLDY():
 	def __init__(self,): 
 		self.name = "MOLDY"
+		self.definitions = [u'US spelling of  mouldy ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

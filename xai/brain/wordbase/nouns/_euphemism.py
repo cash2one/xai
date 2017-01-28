@@ -4,11 +4,12 @@
 class _EUPHEMISM():
 	def __init__(self,): 
 		self.name = "EUPHEMISM"
+		self.definitions = [u'a word or phrase used to avoid saying an unpleasant or offensive word: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

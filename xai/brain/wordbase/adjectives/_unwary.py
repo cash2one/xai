@@ -4,11 +4,12 @@
 class _UNWARY():
 	def __init__(self,): 
 		self.name = "UNWARY"
+		self.definitions = [u'not conscious of or careful about possible risks and dangers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

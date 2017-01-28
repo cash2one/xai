@@ -4,11 +4,12 @@
 class _PERSPICACIOUS():
 	def __init__(self,): 
 		self.name = "PERSPICACIOUS"
+		self.definitions = [u'quick in noticing, understanding, or judging things accurately: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DEBILITY():
 	def __init__(self,): 
 		self.name = "DEBILITY"
+		self.definitions = [u'physical weakness']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

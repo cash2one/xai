@@ -4,11 +4,12 @@
 class _LUSH():
 	def __init__(self,): 
 		self.name = "LUSH"
+		self.definitions = [u'a person who regularly drinks too much alcohol: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

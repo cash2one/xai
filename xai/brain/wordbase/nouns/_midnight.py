@@ -4,11 +4,12 @@
 class _MIDNIGHT():
 	def __init__(self,): 
 		self.name = "MIDNIGHT"
+		self.definitions = [u"twelve o'clock in the middle of the night: "]
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

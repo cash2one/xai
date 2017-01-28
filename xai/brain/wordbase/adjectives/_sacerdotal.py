@@ -4,11 +4,12 @@
 class _SACERDOTAL():
 	def __init__(self,): 
 		self.name = "SACERDOTAL"
+		self.definitions = [u'relating to priests: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

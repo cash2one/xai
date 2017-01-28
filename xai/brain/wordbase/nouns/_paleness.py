@@ -4,11 +4,12 @@
 class _PALENESS():
 	def __init__(self,): 
 		self.name = "PALENESS"
+		self.definitions = [u'the state of being pale']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

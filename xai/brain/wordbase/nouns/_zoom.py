@@ -4,11 +4,12 @@
 class _ZOOM():
 	def __init__(self,): 
 		self.name = "ZOOM"
+		self.definitions = [u'a  zoom lens ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

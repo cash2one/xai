@@ -4,11 +4,12 @@
 class _OZ():
 	def __init__(self,): 
 		self.name = "OZ"
+		self.definitions = [u'written abbreviation for  ounce : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

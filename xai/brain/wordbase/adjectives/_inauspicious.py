@@ -4,11 +4,12 @@
 class _INAUSPICIOUS():
 	def __init__(self,): 
 		self.name = "INAUSPICIOUS"
+		self.definitions = [u'showing signs that something will not be successful or positive: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PSYCHIATRIC():
 	def __init__(self,): 
 		self.name = "PSYCHIATRIC"
+		self.definitions = [u'of or relating to the study of mental illness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BUTTERCUP():
 	def __init__(self,): 
 		self.name = "BUTTERCUP"
+		self.definitions = [u'a small, bright yellow wild flower']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _REQUISITION():
 	def __init__(self,): 
 		self.name = "REQUISITION"
+		self.definitions = [u'the act of officially asking for or taking something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

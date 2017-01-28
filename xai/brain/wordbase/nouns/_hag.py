@@ -4,11 +4,12 @@
 class _HAG():
 	def __init__(self,): 
 		self.name = "HAG"
+		self.definitions = [u'an ugly old woman']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

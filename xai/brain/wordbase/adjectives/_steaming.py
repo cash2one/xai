@@ -4,11 +4,12 @@
 class _STEAMING():
 	def __init__(self,): 
 		self.name = "STEAMING"
+		self.definitions = [u'producing steam: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _DISPOSABLE():
 	def __init__(self,): 
 		self.name = "DISPOSABLE"
+		self.definitions = [u'A disposable product is intended to be thrown away after use: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

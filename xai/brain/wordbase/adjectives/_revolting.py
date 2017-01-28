@@ -4,11 +4,12 @@
 class _REVOLTING():
 	def __init__(self,): 
 		self.name = "REVOLTING"
+		self.definitions = [u'extremely unpleasant: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

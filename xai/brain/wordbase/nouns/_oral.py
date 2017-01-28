@@ -4,11 +4,12 @@
 class _ORAL():
 	def __init__(self,): 
 		self.name = "ORAL"
+		self.definitions = [u'an exam, often a type of language exam, in which you give spoken and not written answers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

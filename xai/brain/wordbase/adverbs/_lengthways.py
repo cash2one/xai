@@ -4,11 +4,12 @@
 class _LENGTHWAYS():
 	def __init__(self,): 
 		self.name = "LENGTHWAYS"
+		self.definitions = [u'in the direction of the longest side: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

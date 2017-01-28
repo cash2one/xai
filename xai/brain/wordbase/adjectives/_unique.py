@@ -4,11 +4,12 @@
 class _UNIQUE():
 	def __init__(self,): 
 		self.name = "UNIQUE"
+		self.definitions = [u'being the only existing one of its type or, more generally, unusual, or special in some way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

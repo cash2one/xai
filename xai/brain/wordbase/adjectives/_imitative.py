@@ -4,11 +4,12 @@
 class _IMITATIVE():
 	def __init__(self,): 
 		self.name = "IMITATIVE"
+		self.definitions = [u'copying someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

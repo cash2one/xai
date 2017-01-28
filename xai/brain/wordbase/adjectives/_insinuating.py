@@ -4,11 +4,12 @@
 class _INSINUATING():
 	def __init__(self,): 
 		self.name = "INSINUATING"
+		self.definitions = [u'suggesting ideas without saying them directly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

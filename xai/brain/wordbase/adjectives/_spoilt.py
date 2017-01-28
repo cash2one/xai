@@ -4,11 +4,12 @@
 class _SPOILT():
 	def __init__(self,): 
 		self.name = "SPOILT"
+		self.definitions = [u'another word for  spoiled ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

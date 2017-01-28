@@ -4,11 +4,12 @@
 class _BRISK():
 	def __init__(self,): 
 		self.name = "BRISK"
+		self.definitions = [u'quick, energetic, and active: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

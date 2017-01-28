@@ -4,11 +4,12 @@
 class _DEFICIENT():
 	def __init__(self,): 
 		self.name = "DEFICIENT"
+		self.definitions = [u'not having enough of: ', u'not good enough: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

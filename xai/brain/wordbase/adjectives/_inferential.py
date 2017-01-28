@@ -4,11 +4,12 @@
 class _INFERENTIAL():
 	def __init__(self,): 
 		self.name = "INFERENTIAL"
+		self.definitions = [u'based on inference (= a guess or opinion that comes from the information that you have): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

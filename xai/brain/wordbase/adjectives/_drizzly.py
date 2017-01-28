@@ -4,11 +4,12 @@
 class _DRIZZLY():
 	def __init__(self,): 
 		self.name = "DRIZZLY"
+		self.definitions = [u'If the weather is drizzly, it is raining in small light drops: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

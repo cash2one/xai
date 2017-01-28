@@ -4,11 +4,12 @@
 class _SUPERB():
 	def __init__(self,): 
 		self.name = "SUPERB"
+		self.definitions = [u'of excellent quality; very great: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

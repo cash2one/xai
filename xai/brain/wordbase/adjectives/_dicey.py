@@ -4,11 +4,12 @@
 class _DICEY():
 	def __init__(self,): 
 		self.name = "DICEY"
+		self.definitions = [u'slightly dangerous or uncertain: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

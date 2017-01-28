@@ -4,11 +4,12 @@
 class _PROPHETIC():
 	def __init__(self,): 
 		self.name = "PROPHETIC"
+		self.definitions = [u'saying correctly what will happen in the future: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

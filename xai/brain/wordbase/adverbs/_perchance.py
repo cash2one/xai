@@ -4,11 +4,12 @@
 class _PERCHANCE():
 	def __init__(self,): 
 		self.name = "PERCHANCE"
+		self.definitions = [u'by chance; possibly: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

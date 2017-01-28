@@ -4,11 +4,12 @@
 class _ASSEMBLAGE():
 	def __init__(self,): 
 		self.name = "ASSEMBLAGE"
+		self.definitions = [u'a collection of things or a group of people or animals: ', u'the process of joining or putting things together']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

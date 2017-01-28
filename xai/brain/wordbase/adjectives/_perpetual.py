@@ -4,11 +4,12 @@
 class _PERPETUAL():
 	def __init__(self,): 
 		self.name = "PERPETUAL"
+		self.definitions = [u'continuing for ever in the same way: ', u'often repeated: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _INDISPUTABLE():
 	def __init__(self,): 
 		self.name = "INDISPUTABLE"
+		self.definitions = [u'true, and impossible to doubt: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

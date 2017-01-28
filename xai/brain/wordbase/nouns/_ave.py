@@ -4,11 +4,12 @@
 class _AVE():
 	def __init__(self,): 
 		self.name = "AVE"
+		self.definitions = [u'written abbreviation for  avenue : ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

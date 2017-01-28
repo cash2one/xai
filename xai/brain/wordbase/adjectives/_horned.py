@@ -4,11 +4,12 @@
 class _HORNED():
 	def __init__(self,): 
 		self.name = "HORNED"
+		self.definitions = [u'A horned animal has horns: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _HIJACK():
 	def __init__(self,): 
 		self.name = "HIJACK"
+		self.definitions = [u'an occasion when someone uses force to take control of an aircraft or other vehicle: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

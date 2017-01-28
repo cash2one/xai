@@ -4,11 +4,12 @@
 class _NUMERICAL():
 	def __init__(self,): 
 		self.name = "NUMERICAL"
+		self.definitions = [u'involving or expressed in numbers: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _SPRY():
 	def __init__(self,): 
 		self.name = "SPRY"
+		self.definitions = [u'(especially of older people) active and able to move quickly and energetically: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

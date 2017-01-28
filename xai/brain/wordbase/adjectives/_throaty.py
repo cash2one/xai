@@ -4,11 +4,12 @@
 class _THROATY():
 	def __init__(self,): 
 		self.name = "THROATY"
+		self.definitions = [u'A throaty sound is low and rough: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

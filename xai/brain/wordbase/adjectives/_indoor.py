@@ -4,11 +4,12 @@
 class _INDOOR():
 	def __init__(self,): 
 		self.name = "INDOOR"
+		self.definitions = [u'happening, used, or existing inside a building: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

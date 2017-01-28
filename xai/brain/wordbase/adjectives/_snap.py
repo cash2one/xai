@@ -4,11 +4,12 @@
 class _SNAP():
 	def __init__(self,): 
 		self.name = "SNAP"
+		self.definitions = [u'done suddenly without allowing time for careful thought or preparation: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

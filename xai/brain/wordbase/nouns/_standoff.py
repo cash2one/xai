@@ -4,11 +4,12 @@
 class _STANDOFF():
 	def __init__(self,): 
 		self.name = "STANDOFF"
+		self.definitions = [u'a situation in which agreement in an argument does not seem possible']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

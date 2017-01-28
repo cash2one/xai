@@ -4,11 +4,12 @@
 class _GARRULOUS():
 	def __init__(self,): 
 		self.name = "GARRULOUS"
+		self.definitions = [u'having the habit of talking a lot, especially about things that are not important']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

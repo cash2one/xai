@@ -4,11 +4,12 @@
 class _PUPPETEER():
 	def __init__(self,): 
 		self.name = "PUPPETEER"
+		self.definitions = [u'a person who entertains with puppets']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _MANEUVERING():
 	def __init__(self,): 
 		self.name = "MANEUVERING"
+		self.definitions = [u'US spelling of  manoeuvring ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

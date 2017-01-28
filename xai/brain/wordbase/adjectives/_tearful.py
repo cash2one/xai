@@ -4,11 +4,12 @@
 class _TEARFUL():
 	def __init__(self,): 
 		self.name = "TEARFUL"
+		self.definitions = [u'crying or likely to cry: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

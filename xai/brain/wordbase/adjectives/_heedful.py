@@ -4,11 +4,12 @@
 class _HEEDFUL():
 	def __init__(self,): 
 		self.name = "HEEDFUL"
+		self.definitions = [u'paying careful attention to something or someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

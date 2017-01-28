@@ -4,11 +4,12 @@
 class _CONNECTING():
 	def __init__(self,): 
 		self.name = "CONNECTING"
+		self.definitions = [u'joining or being joined: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

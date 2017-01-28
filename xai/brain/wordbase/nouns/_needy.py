@@ -4,11 +4,12 @@
 class _NEEDY():
 	def __init__(self,): 
 		self.name = "NEEDY"
+		self.definitions = [u'poor people: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

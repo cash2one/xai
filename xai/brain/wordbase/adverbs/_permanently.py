@@ -4,11 +4,12 @@
 class _PERMANENTLY():
 	def __init__(self,): 
 		self.name = "PERMANENTLY"
+		self.definitions = [u'always and for ever: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

@@ -4,11 +4,12 @@
 class _HERETO():
 	def __init__(self,): 
 		self.name = "HERETO"
+		self.definitions = [u'to this matter or document: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

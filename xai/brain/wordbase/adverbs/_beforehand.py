@@ -4,11 +4,12 @@
 class _BEFOREHAND():
 	def __init__(self,): 
 		self.name = "BEFOREHAND"
+		self.definitions = [u'earlier (than a particular time): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

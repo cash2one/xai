@@ -4,11 +4,12 @@
 class _COLLECT():
 	def __init__(self,): 
 		self.name = "COLLECT"
+		self.definitions = [u'a short prayer that is said during some Christian religious ceremonies']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

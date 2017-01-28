@@ -4,11 +4,12 @@
 class _LUMMOX():
 	def __init__(self,): 
 		self.name = "LUMMOX"
+		self.definitions = [u'a stupid or awkward person: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

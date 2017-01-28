@@ -4,11 +4,12 @@
 class _RUEFUL():
 	def __init__(self,): 
 		self.name = "RUEFUL"
+		self.definitions = [u'feeling sorry and wishing that something had not happened: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

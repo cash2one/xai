@@ -4,11 +4,12 @@
 class _ARCHEOLOGY():
 	def __init__(self,): 
 		self.name = "ARCHEOLOGY"
+		self.definitions = [u'US spelling of  archaeology ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

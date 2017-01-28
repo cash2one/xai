@@ -4,11 +4,12 @@
 class _REEVE():
 	def __init__(self,): 
 		self.name = "REEVE"
+		self.definitions = [u'a legal officer in England in the past']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

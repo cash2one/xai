@@ -4,11 +4,12 @@
 class _UNUSABLE():
 	def __init__(self,): 
 		self.name = "UNUSABLE"
+		self.definitions = [u'Something that is unusable cannot be used, especially because it is broken or not safe: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

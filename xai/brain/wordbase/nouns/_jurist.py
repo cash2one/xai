@@ -4,11 +4,12 @@
 class _JURIST():
 	def __init__(self,): 
 		self.name = "JURIST"
+		self.definitions = [u'an expert in law, especially a judge']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

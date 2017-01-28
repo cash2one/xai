@@ -4,11 +4,12 @@
 class _SNOWMAN():
 	def __init__(self,): 
 		self.name = "SNOWMAN"
+		self.definitions = [u'a model of a person made of snow, especially by children']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

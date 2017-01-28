@@ -4,11 +4,12 @@
 class _VISCOUS():
 	def __init__(self,): 
 		self.name = "VISCOUS"
+		self.definitions = [u'A viscous liquid is thick and sticky and does not flow easily.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

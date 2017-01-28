@@ -4,11 +4,12 @@
 class _GUILTY():
 	def __init__(self,): 
 		self.name = "GUILTY"
+		self.definitions = [u'feeling guilt: ', u'responsible for breaking a law: ', u'the person who has done something wrong or who has committed a crime']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

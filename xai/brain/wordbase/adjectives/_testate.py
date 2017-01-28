@@ -4,11 +4,12 @@
 class _TESTATE():
 	def __init__(self,): 
 		self.name = "TESTATE"
+		self.definitions = [u'(of a person) having left a will (= document saying who should get their possessions)']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

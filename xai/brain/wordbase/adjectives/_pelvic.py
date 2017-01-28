@@ -4,11 +4,12 @@
 class _PELVIC():
 	def __init__(self,): 
 		self.name = "PELVIC"
+		self.definitions = [u'relating to the pelvis: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

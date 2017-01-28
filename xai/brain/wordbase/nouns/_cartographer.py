@@ -4,11 +4,12 @@
 class _CARTOGRAPHER():
 	def __init__(self,): 
 		self.name = "CARTOGRAPHER"
+		self.definitions = [u'someone who makes or draws maps']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

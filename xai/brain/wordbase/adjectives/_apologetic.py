@@ -4,11 +4,12 @@
 class _APOLOGETIC():
 	def __init__(self,): 
 		self.name = "APOLOGETIC"
+		self.definitions = [u'showing that you feel sorry about having caused someone problems or unhappiness: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

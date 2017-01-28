@@ -4,11 +4,12 @@
 class _UNSKILLED():
 	def __init__(self,): 
 		self.name = "UNSKILLED"
+		self.definitions = [u'Unskilled people have no particular work skills, and unskilled work does not need any particular skills: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

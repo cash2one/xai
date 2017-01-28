@@ -4,11 +4,12 @@
 class _WORLDWIDE():
 	def __init__(self,): 
 		self.name = "WORLDWIDE"
+		self.definitions = [u'existing or happening in all parts of the world: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

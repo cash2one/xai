@@ -4,11 +4,12 @@
 class _REPELLENT():
 	def __init__(self,): 
 		self.name = "REPELLENT"
+		self.definitions = [u'making you feel strong disapproval and that you do not want to be involved with someone or something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

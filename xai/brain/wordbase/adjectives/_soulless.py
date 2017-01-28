@@ -4,11 +4,12 @@
 class _SOULLESS():
 	def __init__(self,): 
 		self.name = "SOULLESS"
+		self.definitions = [u'showing no human influence or qualities: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

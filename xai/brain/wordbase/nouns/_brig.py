@@ -4,11 +4,12 @@
 class _BRIG():
 	def __init__(self,): 
 		self.name = "BRIG"
+		self.definitions = [u'a military prison, especially one on a US navy ship']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

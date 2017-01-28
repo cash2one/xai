@@ -4,11 +4,12 @@
 class _RATTY():
 	def __init__(self,): 
 		self.name = "RATTY"
+		self.definitions = [u'feeling annoyed: ', u'looking old and in bad condition: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

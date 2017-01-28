@@ -4,11 +4,12 @@
 class _UNORIGINAL():
 	def __init__(self,): 
 		self.name = "UNORIGINAL"
+		self.definitions = [u'the same as a lot of other things and therefore not interesting or special']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

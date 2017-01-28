@@ -4,11 +4,12 @@
 class _SERVITUDE():
 	def __init__(self,): 
 		self.name = "SERVITUDE"
+		self.definitions = [u'the state of being under the control of someone else and of having no freedom: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

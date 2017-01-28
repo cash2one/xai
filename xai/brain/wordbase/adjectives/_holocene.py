@@ -4,11 +4,12 @@
 class _HOLOCENE():
 	def __init__(self,): 
 		self.name = "HOLOCENE"
+		self.definitions = [u'from or referring to the period of time beginning at the end of the Pleistocene (= around 11,000 years ago) and continuing to the present: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

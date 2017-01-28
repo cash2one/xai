@@ -4,11 +4,12 @@
 class _DISPASSIONATE():
 	def __init__(self,): 
 		self.name = "DISPASSIONATE"
+		self.definitions = [u'able to think clearly or make good decisions because of not being influenced by emotions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

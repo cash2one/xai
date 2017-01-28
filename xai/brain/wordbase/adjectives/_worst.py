@@ -4,11 +4,12 @@
 class _WORST():
 	def __init__(self,): 
 		self.name = "WORST"
+		self.definitions = [u'superlative of  bad adjective : of the lowest quality, or the most unpleasant, difficult, or severe: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _PROFUSE():
 	def __init__(self,): 
 		self.name = "PROFUSE"
+		self.definitions = [u'produced or given in large amounts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _UNSAFE():
 	def __init__(self,): 
 		self.name = "UNSAFE"
+		self.definitions = [u'not safe', u'An unsafe conviction (= legal decision that someone is guilty) may be wrong because it is based on bad evidence: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

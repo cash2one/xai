@@ -4,11 +4,12 @@
 class _OPAQUE():
 	def __init__(self,): 
 		self.name = "OPAQUE"
+		self.definitions = [u'preventing light from travelling through, and therefore not transparent or translucent: ', u'Opaque writing or speech is difficult to understand: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

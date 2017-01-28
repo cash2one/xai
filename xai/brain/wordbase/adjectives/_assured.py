@@ -4,11 +4,12 @@
 class _ASSURED():
 	def __init__(self,): 
 		self.name = "ASSURED"
+		self.definitions = [u'showing skill and confidence: ', u'certain to be achieved or obtained: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

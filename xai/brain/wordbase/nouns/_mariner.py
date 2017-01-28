@@ -4,11 +4,12 @@
 class _MARINER():
 	def __init__(self,): 
 		self.name = "MARINER"
+		self.definitions = [u'a sailor: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

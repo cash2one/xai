@@ -4,11 +4,12 @@
 class _CONGRATULATION():
 	def __init__(self,): 
 		self.name = "CONGRATULATION"
+		self.definitions = [u'something that you say when you want to congratulate someone: ', u'the act of congratulating someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

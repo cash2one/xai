@@ -4,11 +4,12 @@
 class _CRUSTY():
 	def __init__(self,): 
 		self.name = "CRUSTY"
+		self.definitions = [u'having a hard outer layer: ', u'(especially of older people) complaining and easily annoyed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

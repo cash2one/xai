@@ -4,11 +4,12 @@
 class _CUBAN():
 	def __init__(self,): 
 		self.name = "CUBAN"
+		self.definitions = [u'a person from Cuba']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

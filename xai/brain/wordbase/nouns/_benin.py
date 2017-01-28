@@ -4,11 +4,12 @@
 class _BENIN():
 	def __init__(self,): 
 		self.name = "BENIN"
+		self.definitions = [u'a country in West Africa']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

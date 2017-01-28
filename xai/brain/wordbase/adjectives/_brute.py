@@ -4,11 +4,12 @@
 class _BRUTE():
 	def __init__(self,): 
 		self.name = "BRUTE"
+		self.definitions = [u'great physical force or strength: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ASININE():
 	def __init__(self,): 
 		self.name = "ASININE"
+		self.definitions = [u'extremely stupid: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

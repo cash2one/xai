@@ -4,11 +4,12 @@
 class _PASSIONATE():
 	def __init__(self,): 
 		self.name = "PASSIONATE"
+		self.definitions = [u'having very strong feelings or emotions: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

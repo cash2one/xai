@@ -4,11 +4,12 @@
 class _BREAKABLE():
 	def __init__(self,): 
 		self.name = "BREAKABLE"
+		self.definitions = [u'Something that is breakable might easily break: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

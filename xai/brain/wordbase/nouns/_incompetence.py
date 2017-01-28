@@ -4,11 +4,12 @@
 class _INCOMPETENCE():
 	def __init__(self,): 
 		self.name = "INCOMPETENCE"
+		self.definitions = [u'lack of ability to do something successfully or as it should be done: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _DEPRAVED():
 	def __init__(self,): 
 		self.name = "DEPRAVED"
+		self.definitions = [u'morally bad or evil: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

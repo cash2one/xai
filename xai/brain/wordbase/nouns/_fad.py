@@ -4,11 +4,12 @@
 class _FAD():
 	def __init__(self,): 
 		self.name = "FAD"
+		self.definitions = [u'a style, activity, or interest that is very popular for a short period of time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

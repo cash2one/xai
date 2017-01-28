@@ -4,11 +4,12 @@
 class _BEDROOM():
 	def __init__(self,): 
 		self.name = "BEDROOM"
+		self.definitions = [u'relating to sexual activity: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

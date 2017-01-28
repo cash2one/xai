@@ -4,11 +4,12 @@
 class _EXTINCTION():
 	def __init__(self,): 
 		self.name = "EXTINCTION"
+		self.definitions = [u'a situation in which something no longer exists: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

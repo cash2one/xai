@@ -4,11 +4,12 @@
 class _THEREON():
 	def __init__(self,): 
 		self.name = "THEREON"
+		self.definitions = [u'on the thing that has been mentioned: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

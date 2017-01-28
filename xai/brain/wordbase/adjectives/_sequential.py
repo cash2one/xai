@@ -4,11 +4,12 @@
 class _SEQUENTIAL():
 	def __init__(self,): 
 		self.name = "SEQUENTIAL"
+		self.definitions = [u'following a particular order: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

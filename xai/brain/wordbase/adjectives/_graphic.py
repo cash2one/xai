@@ -4,11 +4,12 @@
 class _GRAPHIC():
 	def __init__(self,): 
 		self.name = "GRAPHIC"
+		self.definitions = [u'very clear and powerful: ', u'related to drawing or printing: ', u'relating to, using, or consisting of a graph or graphs']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

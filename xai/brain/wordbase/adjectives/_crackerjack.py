@@ -4,11 +4,12 @@
 class _CRACKERJACK():
 	def __init__(self,): 
 		self.name = "CRACKERJACK"
+		self.definitions = [u'excellent, of the highest standard: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

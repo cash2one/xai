@@ -4,11 +4,12 @@
 class _RIVERSIDE():
 	def __init__(self,): 
 		self.name = "RIVERSIDE"
+		self.definitions = [u'the land along the edges of a river: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

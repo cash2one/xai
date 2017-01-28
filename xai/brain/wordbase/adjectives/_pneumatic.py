@@ -4,11 +4,12 @@
 class _PNEUMATIC():
 	def __init__(self,): 
 		self.name = "PNEUMATIC"
+		self.definitions = [u'operated by air pressure: ', u'containing air: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

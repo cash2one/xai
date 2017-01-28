@@ -4,11 +4,12 @@
 class _MOURNFUL():
 	def __init__(self,): 
 		self.name = "MOURNFUL"
+		self.definitions = [u'very sad: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

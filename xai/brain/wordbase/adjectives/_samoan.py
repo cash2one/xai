@@ -4,11 +4,12 @@
 class _SAMOAN():
 	def __init__(self,): 
 		self.name = "SAMOAN"
+		self.definitions = [u'belonging to or relating to Samoa or its people']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

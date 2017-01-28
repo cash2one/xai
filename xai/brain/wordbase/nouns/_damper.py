@@ -4,11 +4,12 @@
 class _DAMPER():
 	def __init__(self,): 
 		self.name = "DAMPER"
+		self.definitions = [u'to stop an occasion from being enjoyable: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

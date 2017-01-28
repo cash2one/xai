@@ -4,11 +4,12 @@
 class _SCABROUS():
 	def __init__(self,): 
 		self.name = "SCABROUS"
+		self.definitions = [u'offensive or shocking, because describing or showing sex: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

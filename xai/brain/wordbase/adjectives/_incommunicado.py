@@ -4,11 +4,12 @@
 class _INCOMMUNICADO():
 	def __init__(self,): 
 		self.name = "INCOMMUNICADO"
+		self.definitions = [u'not communicating with anyone else because you do not want to or are not allowed to: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

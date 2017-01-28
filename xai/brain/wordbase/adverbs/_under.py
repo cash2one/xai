@@ -4,11 +4,12 @@
 class _UNDER():
 	def __init__(self,): 
 		self.name = "UNDER"
+		self.definitions = [u'below the surface of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

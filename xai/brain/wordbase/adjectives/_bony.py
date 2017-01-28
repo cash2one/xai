@@ -4,11 +4,12 @@
 class _BONY():
 	def __init__(self,): 
 		self.name = "BONY"
+		self.definitions = [u'very thin: ', u'relating to bones or made of bone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

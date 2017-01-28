@@ -4,11 +4,12 @@
 class _PLAUDIT():
 	def __init__(self,): 
 		self.name = "PLAUDIT"
+		self.definitions = [u'praise: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

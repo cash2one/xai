@@ -4,11 +4,12 @@
 class _PROMOTIONAL():
 	def __init__(self,): 
 		self.name = "PROMOTIONAL"
+		self.definitions = [u'intended to advertise something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

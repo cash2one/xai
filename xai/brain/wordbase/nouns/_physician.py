@@ -4,11 +4,12 @@
 class _PHYSICIAN():
 	def __init__(self,): 
 		self.name = "PHYSICIAN"
+		self.definitions = [u'a medical doctor, especially one who has general skill and is not a surgeon']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

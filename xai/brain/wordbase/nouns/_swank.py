@@ -4,11 +4,12 @@
 class _SWANK():
 	def __init__(self,): 
 		self.name = "SWANK"
+		self.definitions = [u'behaviour that is too confident: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _BEMUSED():
 	def __init__(self,): 
 		self.name = "BEMUSED"
+		self.definitions = [u'slightly confused: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

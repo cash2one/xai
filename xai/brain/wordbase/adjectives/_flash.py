@@ -4,11 +4,12 @@
 class _FLASH():
 	def __init__(self,): 
 		self.name = "FLASH"
+		self.definitions = [u'looking expensive in a way that attracts attention: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

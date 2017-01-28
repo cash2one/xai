@@ -4,11 +4,12 @@
 class _UNSURPRISING():
 	def __init__(self,): 
 		self.name = "UNSURPRISING"
+		self.definitions = [u'not making you feel surprised: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

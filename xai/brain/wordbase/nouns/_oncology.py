@@ -4,11 +4,12 @@
 class _ONCOLOGY():
 	def __init__(self,): 
 		self.name = "ONCOLOGY"
+		self.definitions = [u'the study and treatment of tumours (= masses of cells) in the body']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

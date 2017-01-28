@@ -4,11 +4,12 @@
 class _GREASY():
 	def __init__(self,): 
 		self.name = "GREASY"
+		self.definitions = [u'covered with or full of fat or oil: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

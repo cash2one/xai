@@ -4,11 +4,12 @@
 class _BANTAM():
 	def __init__(self,): 
 		self.name = "BANTAM"
+		self.definitions = [u'a small breed of chicken']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _FRANCHISEE():
 	def __init__(self,): 
 		self.name = "FRANCHISEE"
+		self.definitions = [u'someone who is given or sold a franchise']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

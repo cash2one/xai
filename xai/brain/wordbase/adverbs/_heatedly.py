@@ -4,11 +4,12 @@
 class _HEATEDLY():
 	def __init__(self,): 
 		self.name = "HEATEDLY"
+		self.definitions = [u'in an excited or angry way']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

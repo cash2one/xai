@@ -4,11 +4,12 @@
 class _EQUIVALENT():
 	def __init__(self,): 
 		self.name = "EQUIVALENT"
+		self.definitions = [u'having the same amount, value, purpose, qualities, etc.: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

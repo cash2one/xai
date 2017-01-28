@@ -4,11 +4,12 @@
 class _OPTIMUM():
 	def __init__(self,): 
 		self.name = "OPTIMUM"
+		self.definitions = [u'best; most likely to bring success or advantage: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

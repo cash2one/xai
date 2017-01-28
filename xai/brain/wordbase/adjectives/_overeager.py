@@ -4,11 +4,12 @@
 class _OVEREAGER():
 	def __init__(self,): 
 		self.name = "OVEREAGER"
+		self.definitions = [u'too eager: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

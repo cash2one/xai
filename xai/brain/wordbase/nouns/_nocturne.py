@@ -4,11 +4,12 @@
 class _NOCTURNE():
 	def __init__(self,): 
 		self.name = "NOCTURNE"
+		self.definitions = [u'a gentle piece of classical music']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _HIRSUTE():
 	def __init__(self,): 
 		self.name = "HIRSUTE"
+		self.definitions = [u'having a lot of hair, especially on the face or body']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

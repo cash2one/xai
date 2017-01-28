@@ -4,11 +4,12 @@
 class _THOROUGHGOING():
 	def __init__(self,): 
 		self.name = "THOROUGHGOING"
+		self.definitions = [u'complete, detailed, careful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

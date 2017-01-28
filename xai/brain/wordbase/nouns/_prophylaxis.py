@@ -4,11 +4,12 @@
 class _PROPHYLAXIS():
 	def __init__(self,): 
 		self.name = "PROPHYLAXIS"
+		self.definitions = [u'treatment or actions taken to prevent a disease: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

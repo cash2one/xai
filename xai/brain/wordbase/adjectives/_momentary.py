@@ -4,11 +4,12 @@
 class _MOMENTARY():
 	def __init__(self,): 
 		self.name = "MOMENTARY"
+		self.definitions = [u'lasting for a very short time: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _MIGRAINE():
 	def __init__(self,): 
 		self.name = "MIGRAINE"
+		self.definitions = [u'severe continuous pain in the head, often with vomiting and difficulty in seeing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

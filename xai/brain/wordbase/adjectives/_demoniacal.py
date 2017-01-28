@@ -4,11 +4,12 @@
 class _DEMONIACAL():
 	def __init__(self,): 
 		self.name = "DEMONIACAL"
+		self.definitions = [u'wild and evil: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

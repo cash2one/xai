@@ -4,11 +4,12 @@
 class _INSTRUCTIVE():
 	def __init__(self,): 
 		self.name = "INSTRUCTIVE"
+		self.definitions = [u'giving useful or interesting information']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

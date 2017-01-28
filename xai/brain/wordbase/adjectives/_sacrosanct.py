@@ -4,11 +4,12 @@
 class _SACROSANCT():
 	def __init__(self,): 
 		self.name = "SACROSANCT"
+		self.definitions = [u'thought to be too important or too special to be changed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

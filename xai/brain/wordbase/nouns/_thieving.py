@@ -4,11 +4,12 @@
 class _THIEVING():
 	def __init__(self,): 
 		self.name = "THIEVING"
+		self.definitions = [u'the activity of stealing: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

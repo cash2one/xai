@@ -4,11 +4,12 @@
 class _ESSENTIAL():
 	def __init__(self,): 
 		self.name = "ESSENTIAL"
+		self.definitions = [u'necessary or needed: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

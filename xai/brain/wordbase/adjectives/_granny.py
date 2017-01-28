@@ -4,11 +4,12 @@
 class _GRANNY():
 	def __init__(self,): 
 		self.name = "GRANNY"
+		self.definitions = [u'used of something that you wear, to mean having a style like those worn by old women: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

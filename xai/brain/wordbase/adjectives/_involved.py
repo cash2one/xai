@@ -4,11 +4,12 @@
 class _INVOLVED():
 	def __init__(self,): 
 		self.name = "INVOLVED"
+		self.definitions = [u'not simple and therefore difficult to understand: ', u'being in a close relationship with someone: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

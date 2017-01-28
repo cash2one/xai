@@ -4,11 +4,12 @@
 class _TAWDRY():
 	def __init__(self,): 
 		self.name = "TAWDRY"
+		self.definitions = [u'looking bright and attractive but in fact cheap and of low quality']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

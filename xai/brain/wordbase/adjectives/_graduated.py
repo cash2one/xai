@@ -4,11 +4,12 @@
 class _GRADUATED():
 	def __init__(self,): 
 		self.name = "GRADUATED"
+		self.definitions = [u'divided into levels or stages: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

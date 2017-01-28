@@ -4,11 +4,12 @@
 class _AUTHORITARIAN():
 	def __init__(self,): 
 		self.name = "AUTHORITARIAN"
+		self.definitions = [u'demanding that people obey completely and refusing to allow them freedom to act as they wish: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

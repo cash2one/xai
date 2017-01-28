@@ -4,11 +4,12 @@
 class _INCENDIARY():
 	def __init__(self,): 
 		self.name = "INCENDIARY"
+		self.definitions = [u'designed to cause fires: ', u'likely to cause violence or strong feelings of anger: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

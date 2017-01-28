@@ -4,11 +4,12 @@
 class _TALENTED():
 	def __init__(self,): 
 		self.name = "TALENTED"
+		self.definitions = [u'with talent; able or skilful: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

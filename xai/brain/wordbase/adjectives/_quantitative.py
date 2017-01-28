@@ -4,11 +4,12 @@
 class _QUANTITATIVE():
 	def __init__(self,): 
 		self.name = "QUANTITATIVE"
+		self.definitions = [u'relating to numbers or amounts: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _BRAZEN():
 	def __init__(self,): 
 		self.name = "BRAZEN"
+		self.definitions = [u'obvious, without any attempt to be hidden: ', u'made of or covered in brass (= a bright yellow metal): ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

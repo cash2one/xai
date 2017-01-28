@@ -4,11 +4,12 @@
 class _TONAL():
 	def __init__(self,): 
 		self.name = "TONAL"
+		self.definitions = [u'relating to the quality of sound of a musical instrument or singing voice', u'Tonal music is music that is based on major and minor keys.']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

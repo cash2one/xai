@@ -4,11 +4,12 @@
 class _ACCIDENTALLY():
 	def __init__(self,): 
 		self.name = "ACCIDENTALLY"
+		self.definitions = [u'by chance or by mistake: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

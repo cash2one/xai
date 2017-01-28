@@ -4,11 +4,12 @@
 class _WHIMSICAL():
 	def __init__(self,): 
 		self.name = "WHIMSICAL"
+		self.definitions = [u'unusual and strange in a way that might be funny or annoying: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

@@ -4,11 +4,12 @@
 class _ADONIS():
 	def __init__(self,): 
 		self.name = "ADONIS"
+		self.definitions = [u'a very beautiful or sexually attractive young man: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

@@ -4,11 +4,12 @@
 class _BOISTEROUS():
 	def __init__(self,): 
 		self.name = "BOISTEROUS"
+		self.definitions = [u'noisy, energetic, and rough: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

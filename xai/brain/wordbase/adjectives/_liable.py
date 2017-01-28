@@ -4,11 +4,12 @@
 class _LIABLE():
 	def __init__(self,): 
 		self.name = "LIABLE"
+		self.definitions = [u'having (legal) responsibility for something or someone: ', u'very likely to do something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'

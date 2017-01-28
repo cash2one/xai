@@ -4,11 +4,12 @@
 class _CHILE():
 	def __init__(self,): 
 		self.name = "CHILE"
+		self.definitions = [u'a US spelling of  chilli ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

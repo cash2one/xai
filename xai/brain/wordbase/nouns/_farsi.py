@@ -4,11 +4,12 @@
 class _FARSI():
 	def __init__(self,): 
 		self.name = "FARSI"
+		self.definitions = [u'the  Persian  language']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

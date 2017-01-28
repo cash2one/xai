@@ -4,11 +4,12 @@
 class _HAIKU():
 	def __init__(self,): 
 		self.name = "HAIKU"
+		self.definitions = [u'a short Japanese poem with 17 syllables']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'nouns'

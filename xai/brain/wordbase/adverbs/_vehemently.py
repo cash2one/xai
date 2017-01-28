@@ -4,11 +4,12 @@
 class _VEHEMENTLY():
 	def __init__(self,): 
 		self.name = "VEHEMENTLY"
+		self.definitions = [u'in a strong and emotional way: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adverbs'

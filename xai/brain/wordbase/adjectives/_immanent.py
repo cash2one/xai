@@ -4,11 +4,12 @@
 class _IMMANENT():
 	def __init__(self,): 
 		self.name = "IMMANENT"
+		self.definitions = [u'present as a natural and permanent part of something: ']
+
 		self.parents = []
 		self.childen = []
 		self.properties = []
 		self.jsondata = {}
-
 
 
 		self.specie = 'adjectives'
